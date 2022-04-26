@@ -1,0 +1,68 @@
+{
+   "title": "Racing teams of NASCAR ranked by revenue 2017",
+   "xAxis": "Teams",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Racing teams in the ranked by was Teams Joe_Gibbs_Racing , who made 180 million . ",
+      "The most teams was Roush_Fenway_Racing , with just 19 million . ",
+      "In second place was Teams Richard_Childress_Racing with 145 million ; third place went to Teams Hendrick_Motorsports with 180 million ; fourth place went to Teams Front_Row_Motorsports with 19 million and fifth place went to Teams Stewart-Haas_Racing , who was 109 million ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "7",
+         "27": "7",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Teams": "Hendrick Motorsports",
+         "Revenue in million U.S. dollars": "180"
+      },
+      {
+         "Teams": "Richard Childress Racing",
+         "Revenue in million U.S. dollars": "145"
+      },
+      {
+         "Teams": "Joe Gibbs Racing",
+         "Revenue in million U.S. dollars": "131"
+      },
+      {
+         "Teams": "Stewart-Haas Racing",
+         "Revenue in million U.S. dollars": "109"
+      },
+      {
+         "Teams": "Roush Fenway Racing",
+         "Revenue in million U.S. dollars": "97"
+      },
+      {
+         "Teams": "Team Penske",
+         "Revenue in million U.S. dollars": "63"
+      },
+      {
+         "Teams": "Chip Ganassi Racing",
+         "Revenue in million U.S. dollars": "49"
+      },
+      {
+         "Teams": "Front Row Motorsports",
+         "Revenue in million U.S. dollars": "19"
+      }
+   ],
+   "gold": "The statistic ranks the racing teams of NASCAR according to revenue in 2017 . Hendrick Motorsports generated 180 million U.S. dollars in revenue in 2017 .\n"
+}

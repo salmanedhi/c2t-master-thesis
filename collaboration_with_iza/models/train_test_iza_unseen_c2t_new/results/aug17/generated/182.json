@@ -1,0 +1,36 @@
+{
+   "title": "Gross NPA of private banks India 2016 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Value in trillion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the Value of trillion Indian in NPA 2016 . ",
+      "In 2016 , there was a FY_2019 Value of approximately 1.86 trillion Indian in NPA . ",
+      "Indian registrations in NPA case you have ever asked yourself one of these questions : \u2018 How many cars are there in NPA ? ' or \u2018 How many trillion vehicles are there in NPA ? ' , we can tell you as much : In , there were 14.5 trillion Indian in NPA ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "10": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Value in trillion Indian rupees": "1.84"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Value in trillion Indian rupees": "1.86"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Value in trillion Indian rupees": "0.94"
+      }
+   ],
+   "gold": "In fiscal year 2019 , the value of non-performing assets of private banks across India amounted to over 1.8 trillion Indian rupees . This was much lesser in fiscal year 2017 , amounting to about 9.3 billion rupees . Non-performing assets have posed a big problem for banks in India and experts point that this crisis had been long in the making .\n"
+}

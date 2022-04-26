@@ -1,0 +1,68 @@
+{
+   "title": "Number of Carnival Corporation ships worldwide in 2019 , by brand",
+   "xAxis": "Country",
+   "yAxis": "Number of ships",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number Carnival Corporation ships the Number of ships they 've had . ",
+      "\\n It shows Carnival_Cruise_Lines has had 27 ships , Princess_Cruises_(\u201cPrincess\u201d) has had the Number at 3 ships , Holland_America_Line has had 14 , Costa has had 14 , AIDA_Cruises_(\u201cAIDA\u201d) has had the most ships at 27 and Cunard has had 3 ships ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "7",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "8",
+         "40": "8"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Carnival Cruise Lines",
+         "Number of ships": "27"
+      },
+      {
+         "Country": "Princess Cruises (\u201cPrincess\u201d)",
+         "Number of ships": "18"
+      },
+      {
+         "Country": "Holland America Line",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "Costa",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "AIDA Cruises (\u201cAIDA\u201d)",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "P&O Cruises (United Kingdom)",
+         "Number of ships": "6"
+      },
+      {
+         "Country": "Seabourn",
+         "Number of ships": "5"
+      },
+      {
+         "Country": "P&O Cruises Australia",
+         "Number of ships": "3"
+      },
+      {
+         "Country": "Cunard",
+         "Number of ships": "3"
+      }
+   ],
+   "gold": "This statistic shows the number of Carnival Corporation ships worldwide as of November 2019 , by brand . There were 14 Costa ships within the Carnival Corporation cruise line group in 2019 .\n"
+}

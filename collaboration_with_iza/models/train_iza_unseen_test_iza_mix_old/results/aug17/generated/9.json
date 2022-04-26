@@ -1,0 +1,46 @@
+{
+   "title": "How Young People in Zarqa Spend their Evenings",
+   "xAxis": "Activity",
+   "yAxis": "Percentage of People",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph depicts a number of ways Young People Zarqa Spend Evenings People in Young People Zarqa Spend Evenings Spend_Time_With_Family their Young People Zarqa Spend Evenings , as a percentage of those asked . ",
+      "The most popular chose is Reading_a_Book a , done by 38 percentage of Young People Zarqa Spend Evenings People . ",
+      "Spend_Time_With_Family came second , at 32 percentage ."
+   ],
+   "trends": [
+      {
+         "11": "1"
+      },
+      {
+         "5": "2",
+         "7": "2",
+         "11": "2"
+      },
+      {
+         "0": "1",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Watching TV",
+         "Percentage of People": "12"
+      },
+      {
+         "Activity": "Spend Time With Family",
+         "Percentage of People": "32"
+      },
+      {
+         "Activity": "Reading a Book",
+         "Percentage of People": "38"
+      },
+      {
+         "Activity": "Going Out",
+         "Percentage of People": "18"
+      }
+   ],
+   "gold": "The young people of Zarqua spend the majority of their evenings reading a book and spending time with their families . On the chart this has been represented as a percentage of young people at a given time . 32 % choose to spend time with family whereas 38 % choose to read .\n"
+}

@@ -1,0 +1,34 @@
+{
+   "title": "Share of U.S. adults who use social media 2019 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share U.S. adults in some european Gender \\\\n Men is the worst with 78 % followed closely by the Women with just over 20 % . ",
+      "\\\\n The best Gender is Women with just 65 % U.S. adults . "
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "1",
+         "23": "1"
+      },
+      {
+         "5": "1",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Men",
+         "Share of U.S. adults": "65"
+      },
+      {
+         "Gender": "Women",
+         "Share of U.S. adults": "78"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using social networks as of February 2019 , sorted by gender . During that period of time , 78 percent of adult women and 65 percent of adult men used social networking sites .\n"
+}

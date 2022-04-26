@@ -1,0 +1,46 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of most The ( PACs ) active in the country in , distinguished expeditions Glacier . ",
+      "In , there were by 2 active Tasman most active The in country ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "This graph shows how well - explored several glers are , based on how many expeditions have been made to them . The least explored glacier is Tasman , with only 2 expeditions ever being made there , whilst Mefonna is by far the most explored , having undergone 13 expeditions .\n"
+}

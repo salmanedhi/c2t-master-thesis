@@ -1,0 +1,41 @@
+{
+   "title": "Number of registered automobiles in Washington 2016",
+   "xAxis": "Autmobile type",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Autmobile of automobiles in Washington , as a percentage of incidence . ",
+      "The most common Autmobile is Private_and_commercial_(including_taxicabs) , identified as causing 2935656 % , with Total of second at 35 % . ",
+      "Publicly_owned is third , causing 72003 % of Autmobile ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "2",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Autmobile type": "Publicly owned",
+         "Number of registered automobiles": "72003"
+      },
+      {
+         "Autmobile type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "2863653"
+      },
+      {
+         "Autmobile type": "Total",
+         "Number of registered automobiles": "2935656"
+      }
+   ],
+   "gold": "This statistic represents the number of registered automobiles in Washington in 2016 . In that year , there were around 2.86 million private and commercial automobiles ( including taxicabs ) registered in Washington .\n"
+}

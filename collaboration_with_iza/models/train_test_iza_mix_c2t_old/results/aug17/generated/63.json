@@ -1,0 +1,78 @@
+{
+   "title": "Reach of social media used by UK teens and young adults 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the results of a survey regarding the leading used by UK teens in the UK in 2019 . ",
+      "During the survey period , it was found that 80.9 % of the respondents reported that they used Facebook ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "YouTube",
+         "Share of respondents": "80.9"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents": "77.3"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": "71.9"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": "30"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": "57.5"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents": "76"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": "48.6"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": "25.8"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": "16"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": "22.5"
+      },
+      {
+         "Platform": "Periscope",
+         "Share of respondents": "0"
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents": "1.6"
+      },
+      {
+         "Platform": "Don\u2019t know",
+         "Share of respondents": "0.6"
+      },
+      {
+         "Platform": "None",
+         "Share of respondents": "2.1"
+      }
+   ],
+   "gold": "The statistic illustrates findings of a survey among the residents aged 15 - 25 regarding the use of social media in the United Kingdom ( UK ) in 2019 . During the survey period , it was found that 80.9 percent of respondents that go online were YouTube users .\n"
+}

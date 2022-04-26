@@ -1,0 +1,73 @@
+{
+   "title": "Number of active physicians in California 2019 , by specialty area",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number active physicians in the California competirion . ",
+      "\\\\n From the chart we see that the Radiology Specialty made the Number physicians by some margin , with only 822 . ",
+      "Surgery and Psychiatry made a respectable 5367 and 7288 physicians , with Total_specialty and Emergency_medicine not far behind , at 58771 and 6050 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "7"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": "7288"
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": "5367"
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": "6098"
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": "6050"
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": "5012"
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": "3235"
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": "1898"
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": "822"
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": "23001"
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": "58771"
+      }
+   ],
+   "gold": "This statistic depicts the number of active physicians in California as of March 2019 , ordered by their specialty area . At that time , there were 6,098 anesthesiologists active in California . There are over 58,000 active physicians in the state .\n"
+}

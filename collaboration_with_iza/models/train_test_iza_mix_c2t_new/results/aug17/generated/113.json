@@ -1,0 +1,64 @@
+{
+   "title": "Reasons for unreported vandalism against businesses in England and Wales 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows , according to survey respondents , the Reasons for unreported against that should be addressed in the run up to the 2014 United Kingdom ( Wales ) General unreported ( as of ) . ",
+      "With 43 % of respondents , Trivial/no_loss was considered to be the Reasons for topic , followed by the National Health Service ( Lack_of_police_engagement ) and the Private/dealt_with_ourselves ( EU ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "6": "0",
+         "23": "1",
+         "27": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Trivial/no loss",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Lack of police engagement",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Private/dealt with ourselves",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Lack of evidence",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Reported to other authorities",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Inconvenient to report",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Police came",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Common occurrence",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Fear of reprisal",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This survey shows the reasons businesses gave for not reporting cases of vandalism on their premises to the police in England and Wales in 2014 . Of respondents , 43 percent claimed they did not report the incident as there was no loss or damage or the crime was too trivial to report to the police .\n"
+}

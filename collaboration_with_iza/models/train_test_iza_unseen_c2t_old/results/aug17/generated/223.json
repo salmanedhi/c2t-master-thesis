@@ -1,0 +1,108 @@
+{
+   "title": "Leading U.S. online dating apps 2016 , by market share",
+   "xAxis": "Platform Name",
+   "yAxis": "Market share of monthly users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Tinder had the greatest revenue within the telecom online in U.S. 2016 . ",
+      "Tinder was also the first one in the Leading of telecom online with largest net profit that year . ",
+      "As of 2016 , Tinder reached a revenue of over 7.9 billion Swedish kronor , whereas PlentyOfFish followed with roughly 2.5 % share ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "0": "0"
+      },
+      {
+         "4": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform Name": "Tinder",
+         "Market share of monthly users": "25.6"
+      },
+      {
+         "Platform Name": "PlentyOfFish",
+         "Market share of monthly users": "19.4"
+      },
+      {
+         "Platform Name": "OkCupid",
+         "Market share of monthly users": "10"
+      },
+      {
+         "Platform Name": "eHarmony",
+         "Market share of monthly users": "9.1"
+      },
+      {
+         "Platform Name": "Match",
+         "Market share of monthly users": "7"
+      },
+      {
+         "Platform Name": "Grindr",
+         "Market share of monthly users": "6.3"
+      },
+      {
+         "Platform Name": "Zoosk",
+         "Market share of monthly users": "5.8"
+      },
+      {
+         "Platform Name": "Bumble",
+         "Market share of monthly users": "3.6"
+      },
+      {
+         "Platform Name": "happn",
+         "Market share of monthly users": "2.8"
+      },
+      {
+         "Platform Name": "Coffee Meets Bagel",
+         "Market share of monthly users": "2.4"
+      },
+      {
+         "Platform Name": "Clover",
+         "Market share of monthly users": "1.9"
+      },
+      {
+         "Platform Name": "FirstMet",
+         "Market share of monthly users": "1.6"
+      },
+      {
+         "Platform Name": "Black People Meet",
+         "Market share of monthly users": "1.5"
+      },
+      {
+         "Platform Name": "Hinge",
+         "Market share of monthly users": "1.1"
+      },
+      {
+         "Platform Name": "Christian Mingle",
+         "Market share of monthly users": "0.6"
+      },
+      {
+         "Platform Name": "Pure",
+         "Market share of monthly users": "0.5"
+      },
+      {
+         "Platform Name": "JSwipe",
+         "Market share of monthly users": "0.3"
+      },
+      {
+         "Platform Name": "Lulu",
+         "Market share of monthly users": "0.3"
+      },
+      {
+         "Platform Name": "Grouper",
+         "Market share of monthly users": "0.1"
+      },
+      {
+         "Platform Name": "HowAboutWe",
+         "Market share of monthly users": "0.1"
+      }
+   ],
+   "gold": "This statistic presents the most popular dating apps in the United States as of April 2016 , by market share . According to the findings , Tinder had reported the biggest market share of monthly users , with a value of 25.6 percent . Following behind Tinder , was PlentyOfFish with a market share of monthly users at 19.4 percent .\n"
+}

@@ -1,0 +1,64 @@
+{
+   "title": "Production of titanium dioxide worldwide by country share 2014",
+   "xAxis": "Country",
+   "yAxis": "Percentage of global production",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Production titanium Country worldwide the Percentage of global that occured . ",
+      "The Country with the Production Percentage of global is Australia with only 6 followed by China with 18 , Others with 19 , Canada with 11 , South_Africa with 15 and the most popular being Ukraine with 19 global ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "6",
+         "15": "0",
+         "17": "0",
+         "19": "7",
+         "21": "7",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of global production": "18"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of global production": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Percentage of global production": "15"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of global production": "11"
+      },
+      {
+         "Country": "Ukraine",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "India",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "Mozambique",
+         "Percentage of global production": "6"
+      },
+      {
+         "Country": "Others",
+         "Percentage of global production": "19"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of global titanium dioxide ( mineral sands ) production in 2014 , by country . Australia , China , and South Africa were the leading producers with 17 , 18 , and 15 percent , respectively . Titanium dioxide is one of the two core product streams of the mineral sands industry .\n"
+}

@@ -1,0 +1,116 @@
+{
+   "title": "Number of M & A deals in the U.S. 2020 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Number of deals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number M & deals the Number of deals that occured . ",
+      "The Industry with the Number of deals is Technology_services with only 5 followed by Commercial_services with 594 , Miscellaneous with 10 , Consumer_services with 234 , Finance with 473 and the most popular being Producer_manufacturing with 594 deals ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "19",
+         "15": "0",
+         "17": "0",
+         "19": "20",
+         "21": "20",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Commercial services",
+         "Number of deals": "594"
+      },
+      {
+         "Industry": "Technology services",
+         "Number of deals": "543"
+      },
+      {
+         "Industry": "Finance",
+         "Number of deals": "473"
+      },
+      {
+         "Industry": "Consumer services",
+         "Number of deals": "234"
+      },
+      {
+         "Industry": "Producer manufacturing",
+         "Number of deals": "225"
+      },
+      {
+         "Industry": "Distribution services",
+         "Number of deals": "197"
+      },
+      {
+         "Industry": "Industrial services",
+         "Number of deals": "190"
+      },
+      {
+         "Industry": "Health services",
+         "Number of deals": "157"
+      },
+      {
+         "Industry": "Process industries",
+         "Number of deals": "140"
+      },
+      {
+         "Industry": "Electronic technology",
+         "Number of deals": "130"
+      },
+      {
+         "Industry": "Health technology",
+         "Number of deals": "117"
+      },
+      {
+         "Industry": "Consumer non-durables",
+         "Number of deals": "95"
+      },
+      {
+         "Industry": "Retail trade",
+         "Number of deals": "87"
+      },
+      {
+         "Industry": "Transportation",
+         "Number of deals": "80"
+      },
+      {
+         "Industry": "Utilities",
+         "Number of deals": "60"
+      },
+      {
+         "Industry": "Consumer durables",
+         "Number of deals": "58"
+      },
+      {
+         "Industry": "Non-energy minerals",
+         "Number of deals": "39"
+      },
+      {
+         "Industry": "Communications",
+         "Number of deals": "36"
+      },
+      {
+         "Industry": "Energy minerals",
+         "Number of deals": "24"
+      },
+      {
+         "Industry": "Government",
+         "Number of deals": "5"
+      },
+      {
+         "Industry": "Miscellaneous",
+         "Number of deals": "10"
+      }
+   ],
+   "gold": "Between November 2019 and January 2020 , there were 594 M & A deals in the commercial services sector in the United States . The total number of M & A deals amounted to 3,494 in that period .\n"
+}

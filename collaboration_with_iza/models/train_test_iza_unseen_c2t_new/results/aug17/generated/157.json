@@ -1,0 +1,325 @@
+{
+   "title": "Monthly Dow Jones Industrial Average index performance 2013 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Index value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Between 2013 and 2020 , the lowest Index of Monthly raindays occurred in 2013 , when just 25415.19 value recorded 1mm or more of Jones . ",
+      "The highest Index of raindays was recorded in of the same year , at 28538.44 . ",
+      "Fourth quarter the wettest periods of the year tend to be the start and the end ."
+   ],
+   "trends": [
+      {
+         "17": "18"
+      },
+      {
+         "14": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jan 20",
+         "Index value": "28256.03"
+      },
+      {
+         "Month": "Dec 19",
+         "Index value": "28538.44"
+      },
+      {
+         "Month": "Nov 19",
+         "Index value": "28051.41"
+      },
+      {
+         "Month": "Oct 19",
+         "Index value": "27046.23"
+      },
+      {
+         "Month": "Sep 19",
+         "Index value": "26916.83"
+      },
+      {
+         "Month": "Aug 19",
+         "Index value": "26864.27"
+      },
+      {
+         "Month": "Jul 19",
+         "Index value": "26403.28"
+      },
+      {
+         "Month": "Jun 19",
+         "Index value": "26599.96"
+      },
+      {
+         "Month": "May 19",
+         "Index value": "24815.04"
+      },
+      {
+         "Month": "Apr 19",
+         "Index value": "26592.91"
+      },
+      {
+         "Month": "Mar 19",
+         "Index value": "25928.68"
+      },
+      {
+         "Month": "Feb 19",
+         "Index value": "25916.0"
+      },
+      {
+         "Month": "Jan 19",
+         "Index value": "24999.67"
+      },
+      {
+         "Month": "Dec 18",
+         "Index value": "23327.46"
+      },
+      {
+         "Month": "Nov 18",
+         "Index value": "25538.46"
+      },
+      {
+         "Month": "Oct 18",
+         "Index value": "25115.76"
+      },
+      {
+         "Month": "Sep 18",
+         "Index value": "26458.31"
+      },
+      {
+         "Month": "Aug 18",
+         "Index value": "25964.82"
+      },
+      {
+         "Month": "Jul 18",
+         "Index value": "25415.19"
+      },
+      {
+         "Month": "Jun 18",
+         "Index value": "24271.41"
+      },
+      {
+         "Month": "May 18",
+         "Index value": "24415.84"
+      },
+      {
+         "Month": "Apr 18",
+         "Index value": "24163.15"
+      },
+      {
+         "Month": "Mar 18",
+         "Index value": "24103.11"
+      },
+      {
+         "Month": "Feb 18",
+         "Index value": "25029.2"
+      },
+      {
+         "Month": "Jan 18",
+         "Index value": "26149.39"
+      },
+      {
+         "Month": "Dec 17",
+         "Index value": "24719.22"
+      },
+      {
+         "Month": "Nov 17",
+         "Index value": "24272.35"
+      },
+      {
+         "Month": "Oct 17",
+         "Index value": "23377.24"
+      },
+      {
+         "Month": "Sep 17",
+         "Index value": "22405.09"
+      },
+      {
+         "Month": "Aug 17",
+         "Index value": "21948.1"
+      },
+      {
+         "Month": "Jul 17",
+         "Index value": "21891.12"
+      },
+      {
+         "Month": "Jun 17",
+         "Index value": "21349.63"
+      },
+      {
+         "Month": "May 17",
+         "Index value": "21008.65"
+      },
+      {
+         "Month": "Apr 17",
+         "Index value": "20940.51"
+      },
+      {
+         "Month": "Mar 17",
+         "Index value": "20663.22"
+      },
+      {
+         "Month": "Feb 17",
+         "Index value": "20812.24"
+      },
+      {
+         "Month": "Jan 17",
+         "Index value": "19864.09"
+      },
+      {
+         "Month": "Dec 16",
+         "Index value": "19762.6"
+      },
+      {
+         "Month": "Nov 16",
+         "Index value": "19123.58"
+      },
+      {
+         "Month": "Oct 16",
+         "Index value": "18142.42"
+      },
+      {
+         "Month": "Sep 16",
+         "Index value": "18308.15"
+      },
+      {
+         "Month": "Aug 16",
+         "Index value": "18400.88"
+      },
+      {
+         "Month": "Jul 16",
+         "Index value": "18432.24"
+      },
+      {
+         "Month": "Jun 16",
+         "Index value": "17929.99"
+      },
+      {
+         "Month": "May 16",
+         "Index value": "17787.2"
+      },
+      {
+         "Month": "Apr 16",
+         "Index value": "17773.64"
+      },
+      {
+         "Month": "Mar 16",
+         "Index value": "17685.09"
+      },
+      {
+         "Month": "Feb 16",
+         "Index value": "16516.5"
+      },
+      {
+         "Month": "Jan 16",
+         "Index value": "16466.3"
+      },
+      {
+         "Month": "Dec 15",
+         "Index value": "17425.03"
+      },
+      {
+         "Month": "Nov 15",
+         "Index value": "17719.92"
+      },
+      {
+         "Month": "Oct 15",
+         "Index value": "17663.54"
+      },
+      {
+         "Month": "Sep 15",
+         "Index value": "16284.7"
+      },
+      {
+         "Month": "Aug 15",
+         "Index value": "16528.03"
+      },
+      {
+         "Month": "Jul 15",
+         "Index value": "17689.86"
+      },
+      {
+         "Month": "Jun 15",
+         "Index value": "17619.51"
+      },
+      {
+         "Month": "May 15",
+         "Index value": "18010.68"
+      },
+      {
+         "Month": "Apr 15",
+         "Index value": "17840.52"
+      },
+      {
+         "Month": "Mar 15",
+         "Index value": "17776.12"
+      },
+      {
+         "Month": "Feb 15",
+         "Index value": "17662.94"
+      },
+      {
+         "Month": "Jan 15",
+         "Index value": "18132.7"
+      },
+      {
+         "Month": "Dec 14",
+         "Index value": "17164.95"
+      },
+      {
+         "Month": "Nov 14",
+         "Index value": "17823.07"
+      },
+      {
+         "Month": "Oct 14",
+         "Index value": "17828.24"
+      },
+      {
+         "Month": "Sep 14",
+         "Index value": "17390.52"
+      },
+      {
+         "Month": "Aug 14",
+         "Index value": "17042.9"
+      },
+      {
+         "Month": "Jul 14",
+         "Index value": "17098.45"
+      },
+      {
+         "Month": "Jun 14",
+         "Index value": "16563.3"
+      },
+      {
+         "Month": "May 14",
+         "Index value": "16826.6"
+      },
+      {
+         "Month": "Apr 14",
+         "Index value": "16717.17"
+      },
+      {
+         "Month": "Mar 14",
+         "Index value": "16580.84"
+      },
+      {
+         "Month": "Feb 14",
+         "Index value": "16457.66"
+      },
+      {
+         "Month": "Jan 14",
+         "Index value": "16321.71"
+      },
+      {
+         "Month": "Dec 13",
+         "Index value": "15698.85"
+      },
+      {
+         "Month": "Nov 13",
+         "Index value": "16576.66"
+      }
+   ],
+   "gold": "The value of the DJIA index amounted to 28,256.03 on January 31 , 2020 . Dow Jones Industrial Average index \u2013 additional information The Dow Jones Industrial Average index is a price-weighted average of 30 of the largest American publicly traded companies on New York Stock Exchange and NASDAQ , including Goldman Sachs , IBM and Walt Disney . This index is considered to be a barometer of the state of the American economy .\n"
+}

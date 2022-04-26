@@ -1,0 +1,48 @@
+{
+   "title": "Survey on amount of money spent on boating in the U.S. 2012",
+   "xAxis": "Yearly expenses",
+   "yAxis": "Percentage of boat owners",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Percentage of boat owners at the U.S. street . ",
+      "\\\\n The highest Percentage was 30.5 in the $2000_to_$4999 Yearly followed by 15.5 percentage in the $500_to_$999 Yearly , 30.5 percentage in $2000_to_$4999 and finally 15.5 percentage in over_$5000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "8": "3",
+         "12": "1",
+         "16": "1",
+         "19": "0",
+         "22": "3",
+         "25": "1",
+         "28": "4"
+      }
+   ],
+   "data": [
+      {
+         "Yearly expenses": "under 500$",
+         "Percentage of boat owners": "30.5"
+      },
+      {
+         "Yearly expenses": "$500 to $999",
+         "Percentage of boat owners": "15.5"
+      },
+      {
+         "Yearly expenses": "$1000 to $1999",
+         "Percentage of boat owners": "18.3"
+      },
+      {
+         "Yearly expenses": "$2000 to $4999",
+         "Percentage of boat owners": "17.4"
+      },
+      {
+         "Yearly expenses": "over $5000",
+         "Percentage of boat owners": "18.3"
+      }
+   ],
+   "gold": "The statistic depicts the amount of money boat owners in the U.S. spent on boating in 2012 . 18.3 percent of the respondents stated that they spent between $ 1,000 and $ 1,999 on boating in 2012 .\n"
+}

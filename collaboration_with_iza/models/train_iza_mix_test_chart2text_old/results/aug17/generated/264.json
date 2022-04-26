@@ -1,0 +1,107 @@
+{
+   "title": "International overnight visitors in the most popular city destinations worldwide 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of international overnight visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the International overnight visitors in the Number of international . ",
+      "\\n The International overnight Country was Paris , with only 8.23 international . ",
+      "Followed most Bangkok , with 22.78 international , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "19"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Bangkok",
+         "Number of international overnight visitors in millions": "22.78"
+      },
+      {
+         "Country": "Paris",
+         "Number of international overnight visitors in millions": "19.1"
+      },
+      {
+         "Country": "London",
+         "Number of international overnight visitors in millions": "19.09"
+      },
+      {
+         "Country": "Dubai",
+         "Number of international overnight visitors in millions": "15.93"
+      },
+      {
+         "Country": "Singapore",
+         "Number of international overnight visitors in millions": "14.67"
+      },
+      {
+         "Country": "Kuala Lumpur",
+         "Number of international overnight visitors in millions": "13.79"
+      },
+      {
+         "Country": "New York",
+         "Number of international overnight visitors in millions": "13.6"
+      },
+      {
+         "Country": "Istanbul",
+         "Number of international overnight visitors in millions": "13.4"
+      },
+      {
+         "Country": "Tokyo",
+         "Number of international overnight visitors in millions": "12.93"
+      },
+      {
+         "Country": "Antalya",
+         "Number of international overnight visitors in millions": "12.41"
+      },
+      {
+         "Country": "Seoul",
+         "Number of international overnight visitors in millions": "11.25"
+      },
+      {
+         "Country": "Osaka",
+         "Number of international overnight visitors in millions": "10.14"
+      },
+      {
+         "Country": "Makkah",
+         "Number of international overnight visitors in millions": "10.0"
+      },
+      {
+         "Country": "Phuket",
+         "Number of international overnight visitors in millions": "9.89"
+      },
+      {
+         "Country": "Pattaya",
+         "Number of international overnight visitors in millions": "9.44"
+      },
+      {
+         "Country": "Milan",
+         "Number of international overnight visitors in millions": "9.1"
+      },
+      {
+         "Country": "Barcelona",
+         "Number of international overnight visitors in millions": "9.09"
+      },
+      {
+         "Country": "Palma de Mallorca",
+         "Number of international overnight visitors in millions": "8.96"
+      },
+      {
+         "Country": "Bali",
+         "Number of international overnight visitors in millions": "8.26"
+      },
+      {
+         "Country": "Hong Kong",
+         "Number of international overnight visitors in millions": "8.23"
+      }
+   ],
+   "gold": "Bangkok had the most international overnight visitors in 2018 with 22.78 million , followed by Paris and London with 19.1 and 19.09 million , respectively . Is Bangkok the world 's number one tourist destination ? Bangkok has become increasingly popular as a tourist attraction over the past years , and its popularity looks unlikely to wane any time soon . The number of overnight visitors to Thailand 's capital has more than doubled since 2010 .\n"
+}

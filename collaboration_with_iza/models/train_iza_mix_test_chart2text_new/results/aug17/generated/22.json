@@ -1,0 +1,67 @@
+{
+   "title": "Production of titanium dioxide worldwide by country share 2014",
+   "xAxis": "Country",
+   "yAxis": "Percentage of global production",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Production titanium Country in Production by Percentage . ",
+      "The Production Country with an average Percentage of 6 \u00b0 global is South_Africa , followed by China at 18 \u00b0 global , Others at 19 \u00b0 global , then Australia at 17 \u00b0 global . ",
+      "Ukraine is the warmest Country shown with an average Percentage of 19 \u00b0 global , closely followed by Canada at 11 \u00b0 global ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "6",
+         "12": "2",
+         "16": "0",
+         "18": "0",
+         "22": "7",
+         "24": "7",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "7",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of global production": "18"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of global production": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Percentage of global production": "15"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of global production": "11"
+      },
+      {
+         "Country": "Ukraine",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "India",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "Mozambique",
+         "Percentage of global production": "6"
+      },
+      {
+         "Country": "Others",
+         "Percentage of global production": "19"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of global titanium dioxide ( mineral sands ) production in 2014 , by country . Australia , China , and South Africa were the leading producers with 17 , 18 , and 15 percent , respectively . Titanium dioxide is one of the two core product streams of the mineral sands industry .\n"
+}

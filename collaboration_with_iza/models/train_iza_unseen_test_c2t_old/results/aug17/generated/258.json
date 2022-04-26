@@ -1,0 +1,73 @@
+{
+   "title": "Leading insurance brokers worldwide 2018 , by revenue",
+   "xAxis": "Month",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Leading insurance brokers in the worldwide competirion . ",
+      "\\\\n From the chart we see that the Hub_International_Ltd._(U.S.) Month made the Leading billion by some margin , with only 1.38 . ",
+      "Aon_PLC_(UK) and Marsh_&_McLennan_Cos._Inc._(U.S.) made a respectable 10.72 and 16.84 billion , with Acrisure_LLC_(U.S.) and Arthur_J._Gallagher_&_Co._(U.S.) not far behind , at 1.38 and 5.11 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Marsh & McLennan Cos. Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "16.84"
+      },
+      {
+         "Month": "Aon PLC (UK)",
+         "Revenue in billion U.S. dollars": "10.72"
+      },
+      {
+         "Month": "Willis Towers Watson PLC (UK)",
+         "Revenue in billion U.S. dollars": "8.41"
+      },
+      {
+         "Month": "Arthur J. Gallagher & Co. (U.S.)",
+         "Revenue in billion U.S. dollars": "5.11"
+      },
+      {
+         "Month": "Hub International Ltd. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.15"
+      },
+      {
+         "Month": "BB&T Insurance Holdings Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.02"
+      },
+      {
+         "Month": "Brown & Brown Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.01"
+      },
+      {
+         "Month": "Lockton Cos. LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.71"
+      },
+      {
+         "Month": "USI Insurance Services LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.67"
+      },
+      {
+         "Month": "Acrisure LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.38"
+      }
+   ],
+   "gold": "The statistic presents the leading insurance brokers worldwide in 2018 , by revenue . With revenue amounting to over 16 billion U.S. dollars in 2018 , Marsh & McLennan Cos. Inc. topped the list of leading global insurance brokers globally . Insurance brokers \u2013 additional information An insurance broker ( or insurance agent ) is an insurance specialist offering consulting services both to individuals and commercial businesses .\n"
+}

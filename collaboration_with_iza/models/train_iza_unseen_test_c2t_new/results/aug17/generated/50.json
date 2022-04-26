@@ -1,0 +1,76 @@
+{
+   "title": "Marathons ranked by number of finishers worldwide 2016",
+   "xAxis": "Cities",
+   "yAxis": "Number of finishers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Marathons ranked Cities in the number finishers was Cities Chicago_U.S. , who made 51388 finishers . ",
+      "The most ranked Cities was Tokyo_JPN , with just 20617 finishers . ",
+      "In second place was Cities Paris_FRA with 41708 finishers ; third place went to Cities New_York_City_U.S. with 51388 finishers ; fourth place went to Cities Los_Angeles_U.S. with 20617 finishers and fifth place went to Cities London_GBR , who was 39072 finishers ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Cities": "New York City U.S.",
+         "Number of finishers": "51388"
+      },
+      {
+         "Cities": "Paris FRA",
+         "Number of finishers": "41708"
+      },
+      {
+         "Cities": "Chicago U.S.",
+         "Number of finishers": "40608"
+      },
+      {
+         "Cities": "London GBR",
+         "Number of finishers": "39072"
+      },
+      {
+         "Cities": "Tokyo JPN",
+         "Number of finishers": "36150"
+      },
+      {
+         "Cities": "Berlin GER",
+         "Number of finishers": "36054"
+      },
+      {
+         "Cities": "Osaka JPN",
+         "Number of finishers": "29431"
+      },
+      {
+         "Cities": "Boston MA",
+         "Number of finishers": "26606"
+      },
+      {
+         "Cities": "Yokohama JPN",
+         "Number of finishers": "22594"
+      },
+      {
+         "Cities": "Los Angeles U.S.",
+         "Number of finishers": "20617"
+      }
+   ],
+   "gold": "The statistic shows a ranking of marathons worldwide by the total number of finishers in 2016 . In 2016 , the New York Marathon had a total of 51,388 finishers .\n"
+}

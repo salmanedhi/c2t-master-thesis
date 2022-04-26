@@ -1,0 +1,73 @@
+{
+   "title": "Multiple winners of FIFA football Ballon d'Or 1956 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of awards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Multiple winners Month in terms of the Number of awards with Marco_van_Basten_(The_Netherlands) having the Multiple \u2013 6 awards down to Cristiano_Ronaldo_(Portugal) the least winners of the group at 2 awards . ",
+      "In between , we have Lionel_Messi_(Argentina) 6 , Ronaldo_(Brazil) 2 , Michel_Platini_(France) 3 and Johann_Cruyff_(The_Netherlands) 3 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "5"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "9",
+         "9": "9",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Lionel Messi (Argentina)",
+         "Number of awards": "6"
+      },
+      {
+         "Month": "Cristiano Ronaldo (Portugal)",
+         "Number of awards": "5"
+      },
+      {
+         "Month": "Johann Cruyff (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Michel Platini (France)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Marco van Basten (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Alfredo Di St\u00e9fano (Spain)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Franz Beckenbauer (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Kevin Keegan (England)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Ronaldo (Brazil)",
+         "Number of awards": "2"
+      }
+   ],
+   "gold": "The Ballon d'Or is an annual football prize presented by France Football . The award , voted for by football journalists , is given to the male player who was deemed to have played the best football over the previous 12 months . Unsurprisingly , two of the greatest footballers of all time , Lionel Messi and Cristiano Ronaldo , top the list of all-time winners .\n"
+}

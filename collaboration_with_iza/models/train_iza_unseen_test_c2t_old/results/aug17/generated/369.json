@@ -1,0 +1,91 @@
+{
+   "title": "Number of Blockchain wallet users globally 2016 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number Blockchain in . ",
+      "It shows Q2_'19 was the Number at just 8.95 degrees and Q4_'18 was the warmest at 44.69 users . ",
+      "After Q2_'19 , the next Number Blockchain are Q4_'19 at 44.69 degrees , followed by Q3_'16 at 18 degrees , Q3_'19 at 42.31 degrees and then Q1_'19 at 34.66 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "13",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "13",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Number of users in millions": "44.69"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of users in millions": "42.31"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of users in millions": "40.09"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of users in millions": "34.66"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of users in millions": "31.91"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of users in millions": "28.89"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of users in millions": "25.76"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of users in millions": "23.95"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of users in millions": "21.51"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of users in millions": "17.26"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of users in millions": "14.97"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of users in millions": "12.89"
+      },
+      {
+         "Quarter": "Q4' 16",
+         "Number of users in millions": "10.98"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of users in millions": "8.95"
+      }
+   ],
+   "gold": "The number of Blockchain wallets has been growing since the creation of the Bitcoin virtual currency in 2009 , reaching over 44 million Blockchain wallet users at the end of December 2019 . Blockchain is the technology that made Bitcoin popular and is a critical part of most cryptocurrencies . A `` block `` in this case refers to a record of the owners of all bitcoins , as well as the previous owners .\n"
+}

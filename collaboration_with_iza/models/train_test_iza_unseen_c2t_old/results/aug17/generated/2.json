@@ -1,0 +1,45 @@
+{
+   "title": "Estimated migration balance by region 2015 to 2020",
+   "xAxis": "Country",
+   "yAxis": "Migration balance in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Migration of balance millions region terrorists in 2010 region 2015 . ",
+      "2.651 people were millions hostage region terrorists in Europe ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Europe",
+         "Migration balance in millions": "6.81"
+      },
+      {
+         "Country": "Northern America",
+         "Migration balance in millions": "5.98"
+      },
+      {
+         "Country": "Oceania",
+         "Migration balance in millions": "0.78"
+      },
+      {
+         "Country": "Africa",
+         "Migration balance in millions": "-2.32"
+      },
+      {
+         "Country": "Latin America and Caribbean",
+         "Migration balance in millions": "-2.61"
+      },
+      {
+         "Country": "Asia",
+         "Migration balance in millions": "-8.65"
+      }
+   ],
+   "gold": "This statistic shows the net migration balance of different regions between 2015 and 2020 . During that time , Europe is estimated to have a net migration surplus of 6.81 million people .\n"
+}

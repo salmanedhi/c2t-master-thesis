@@ -1,0 +1,73 @@
+{
+   "title": "Fastest growing internet companies 2017",
+   "xAxis": "Platform",
+   "yAxis": "Three-year average sales growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Fastest growing internet in the companies competirion . ",
+      "\\\\n From the chart we see that the Ellie_Mae Platform made the Fastest average by some margin , with only 28 . ",
+      "Facebook and GrubHub made a respectable 51 and 52 average , with Shutterstock and Paycom_Software not far behind , at 28 and 46 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "GrubHub",
+         "Three-year average sales growth": "52"
+      },
+      {
+         "Platform": "Facebook",
+         "Three-year average sales growth": "51"
+      },
+      {
+         "Platform": "Arista Networks",
+         "Three-year average sales growth": "46"
+      },
+      {
+         "Platform": "Paycom Software",
+         "Three-year average sales growth": "46"
+      },
+      {
+         "Platform": "Ellie Mae",
+         "Three-year average sales growth": "43"
+      },
+      {
+         "Platform": "Stamps.com",
+         "Three-year average sales growth": "42"
+      },
+      {
+         "Platform": "NetScout Systems",
+         "Three-year average sales growth": "37"
+      },
+      {
+         "Platform": "Veeva Systems",
+         "Three-year average sales growth": "37"
+      },
+      {
+         "Platform": "Gigamon",
+         "Three-year average sales growth": "31"
+      },
+      {
+         "Platform": "Shutterstock",
+         "Three-year average sales growth": "28"
+      }
+   ],
+   "gold": "This statistic gives information on the fastest growing online and tech companies in 2017 , based on three-year average sales growth . Food delivery platform GrubHub went public in 2014 and was ranked first with a three-year average sales growth of 52 percent .\n"
+}

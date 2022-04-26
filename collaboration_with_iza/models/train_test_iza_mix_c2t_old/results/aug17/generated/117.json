@@ -1,0 +1,46 @@
+{
+   "title": "Most valuable telecommunications brands in the UK in 2018",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Brand valuable telecommunications in 2018 , with a breakdown UK Brand million . ",
+      "That year , BT accounted for approximately 11494 million of the country 's final Brand telecommunications ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Vodafone",
+         "Brand value in million U.S. dollars": "18744"
+      },
+      {
+         "Brand": "BT",
+         "Brand value in million U.S. dollars": "11494"
+      },
+      {
+         "Brand": "Sky",
+         "Brand value in million U.S. dollars": "10162"
+      },
+      {
+         "Brand": "O2",
+         "Brand value in million U.S. dollars": "8637"
+      },
+      {
+         "Brand": "3",
+         "Brand value in million U.S. dollars": "7347"
+      },
+      {
+         "Brand": "EE",
+         "Brand value in million U.S. dollars": "4686"
+      }
+   ],
+   "gold": "This statistic displays a ranking of the most valuable telecommunications brands in the United Kingdom ( UK ) as of 2018 . Vodafone ranked first with a brand value of 18.7 billion U.S. dollars . O2 had a brand value of 8.6 billion U.S. dollars .\n"
+}

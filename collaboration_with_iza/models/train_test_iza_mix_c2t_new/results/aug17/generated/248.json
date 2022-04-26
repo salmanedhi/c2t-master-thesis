@@ -1,0 +1,51 @@
+{
+   "title": "U.S. most often forgotten items on vaction 2012",
+   "xAxis": "Cell Phone Accessory",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the reasons for Sunglasses at Razor among forgotten in U.S. 2012 . ",
+      "Of those surveyed , 20 percentage of respondents reported that Sunscreen at Razor was a most of Sunglasses . ",
+      "High levels of Sunglasses sustained for a long period can lead to impacts on both physical and mental health , which can also lead to impacts on the immune system ."
+   ],
+   "trends": [
+      {
+         "6": "4",
+         "8": "2"
+      },
+      {
+         "4": "1",
+         "10": "1",
+         "12": "2",
+         "17": "4"
+      },
+      {
+         "3": "4"
+      }
+   ],
+   "data": [
+      {
+         "Cell Phone Accessory": "Cell phone charger",
+         "Percentage of respondents": "24"
+      },
+      {
+         "Cell Phone Accessory": "Sunscreen",
+         "Percentage of respondents": "20"
+      },
+      {
+         "Cell Phone Accessory": "Razor",
+         "Percentage of respondents": "18"
+      },
+      {
+         "Cell Phone Accessory": "Toothbrush",
+         "Percentage of respondents": "15"
+      },
+      {
+         "Cell Phone Accessory": "Sunglasses",
+         "Percentage of respondents": "14"
+      }
+   ],
+   "gold": "This survey depicts the most common items forgotten on vacation by U.S. consumers . Some 24 percent of respondents stated they are most likely to have forgotten to bring a charger for their cell phone .\n"
+}

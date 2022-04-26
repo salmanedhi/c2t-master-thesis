@@ -1,0 +1,60 @@
+{
+   "title": "Surface area of the Nordic countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Surface area in square kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Surface area Nordic countries the Surface of area they 've had . ",
+      "\\n It shows Sweden has had 447420 area , Greenland has had the Surface at 1396 area , Norway has had 385178 , Finland has had 338420 , Iceland has had the most area at 447420 and Faroe_Islands has had 1396 area ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "6",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "6",
+         "40": "6"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Surface area in square kilometers": "447420"
+      },
+      {
+         "Country": "Greenland",
+         "Surface area in square kilometers": "410450"
+      },
+      {
+         "Country": "Norway",
+         "Surface area in square kilometers": "385178"
+      },
+      {
+         "Country": "Finland",
+         "Surface area in square kilometers": "338420"
+      },
+      {
+         "Country": "Iceland",
+         "Surface area in square kilometers": "103000"
+      },
+      {
+         "Country": "Denmark",
+         "Surface area in square kilometers": "42922"
+      },
+      {
+         "Country": "Faroe Islands",
+         "Surface area in square kilometers": "1396"
+      }
+   ],
+   "gold": "This statistic shows the surface area of the Nordic countries in 2017 . The largest of all Nordic countries is Sweden , with a surface of roughly 447 thousand square kilometers . Its neighboring country Norway has a size of approximately 385 thousand square kilometers , which includes the arctic islands of Svalbard and Jan Mayen .\n"
+}

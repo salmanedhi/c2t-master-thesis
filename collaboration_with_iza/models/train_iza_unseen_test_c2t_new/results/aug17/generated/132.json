@@ -1,0 +1,42 @@
+{
+   "title": "Ship fleet - number of Zim ships 2020",
+   "xAxis": "Purchase Type",
+   "yAxis": "Number of ships",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Ship Zim is less pronounced in Owned when compared to the Orderbook and Chartered . ",
+      "Chartered shows a Zim of 56 % , the Orderbook 0 % , and Owned is at 0 % ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "12": "2",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "5": "0",
+         "9": "2",
+         "10": "2",
+         "14": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Purchase Type": "Chartered",
+         "Number of ships": "56"
+      },
+      {
+         "Purchase Type": "Owned",
+         "Number of ships": "1"
+      },
+      {
+         "Purchase Type": "Orderbook",
+         "Number of ships": "0"
+      }
+   ],
+   "gold": "This statistic represents the number of Zim ships as of March 2 , 2020 . The company had no ships in its order book as of March 2020 . Zim Integrated Shipping Services Ltd. is Israel 's largest cargo shipping company .\n"
+}

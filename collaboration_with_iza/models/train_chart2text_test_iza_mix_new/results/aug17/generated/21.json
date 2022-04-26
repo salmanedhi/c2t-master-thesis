@@ -1,0 +1,44 @@
+{
+   "title": "Women representation in the literature department",
+   "xAxis": "Department",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Women commonly representation Percentage Department in Women as of by ranking . ",
+      "Arts was among the Women common Percentage Department in Women responsible for around 32 percentage of Department . ",
+      "Women of the world including the country , Latin America , and Asia-Pacific regions are expected to maintain growth in the cosmetic surgical and aesthetic medical market ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "13": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Department": "Computer Science",
+         "Percentage": "60"
+      },
+      {
+         "Department": "Arts",
+         "Percentage": "32"
+      },
+      {
+         "Department": "Mathematics",
+         "Percentage": "55"
+      },
+      {
+         "Department": "Literature",
+         "Percentage": "23"
+      },
+      {
+         "Department": "Engineering",
+         "Percentage": "70"
+      }
+   ],
+   "gold": "The following graph show the percentage representation of women in the literature department . Engineering has the most representation at 70 % . Literature has the lowest percent representation at 22 % .\n"
+}

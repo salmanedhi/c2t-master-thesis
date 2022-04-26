@@ -1,0 +1,66 @@
+{
+   "title": "Health/fitness club industry revenue Africa & Middle East 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Industry revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the estimated number of Industry revenue in the Africa Middle East in 2017 , by Country of Health/fitness . ",
+      "As of 2017 , about 993.73 million Industry revenue from South_Africa were living in the revenue ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "South Africa",
+         "Industry revenue in million U.S. dollars": "993.73"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Industry revenue in million U.S. dollars": "619.88"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Industry revenue in million U.S. dollars": "380.19"
+      },
+      {
+         "Country": "Egypt",
+         "Industry revenue in million U.S. dollars": "348.13"
+      },
+      {
+         "Country": "Kuwait",
+         "Industry revenue in million U.S. dollars": "239.94"
+      },
+      {
+         "Country": "Lebanon",
+         "Industry revenue in million U.S. dollars": "122.63"
+      },
+      {
+         "Country": "Morocco",
+         "Industry revenue in million U.S. dollars": "83.13"
+      },
+      {
+         "Country": "Bahrain",
+         "Industry revenue in million U.S. dollars": "65.06"
+      },
+      {
+         "Country": "Qatar",
+         "Industry revenue in million U.S. dollars": "65.0"
+      },
+      {
+         "Country": "Oman",
+         "Industry revenue in million U.S. dollars": "60.5"
+      },
+      {
+         "Country": "Jordan",
+         "Industry revenue in million U.S. dollars": "39.63"
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the health & fitness club industry in Africa & Middle East countries in 2017 . The revenue of the fitness & health club industry in Egypt was at around 348 million U.S. dollars in 2017 .\n"
+}

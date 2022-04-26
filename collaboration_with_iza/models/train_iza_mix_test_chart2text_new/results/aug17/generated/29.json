@@ -1,0 +1,64 @@
+{
+   "title": "Tour de France : Spanish winners until 2018",
+   "xAxis": "Cyclists",
+   "yAxis": "Number of victories",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Tour de Cyclists in the Spanish winners was Cyclists Carlos_Sastre_(2008) , who made 5 victories . ",
+      "The most de Cyclists was Perico_Delgado_(1988) , with just 1 victories . ",
+      "In second place was Cyclists Alberto_Contador_(2007_and_2009) with 2 victories ; third place went to Cyclists Miguel_Indur\u00e1in_(1991_1992_1993_1994_and_1995) with 5 victories ; fourth place went to Cyclists Federico_Mart\u00edn_Bahamontes_(1959) with 1 victories and fifth place went to Cyclists \u00d3scar_Pereiro_(2006) , who made 1 victories ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "2"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Cyclists": "Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995)",
+         "Number of victories": "5"
+      },
+      {
+         "Cyclists": "Alberto Contador (2007 and 2009)",
+         "Number of victories": "2"
+      },
+      {
+         "Cyclists": "Carlos Sastre (2008)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "\u00d3scar Pereiro (2006)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Perico Delgado (1988)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Luis Oca\u00f1a (1973)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Federico Mart\u00edn Bahamontes (1959)",
+         "Number of victories": "1"
+      }
+   ],
+   "gold": "This statistic presents the list of Spanish cyclists who ever won the Tour de France until the 2018 edition . Miguel Indur\u00e1in , with five consecutive victories between 1991 and 1995 , was the Spaniard who had won the French competition the most . The last Spaniard to win the Tour was Alberto Contador in 2009 .\n"
+}

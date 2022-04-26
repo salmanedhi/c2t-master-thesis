@@ -1,0 +1,41 @@
+{
+   "title": "Number of registered automobiles in Hawaii 2016",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Ownership of automobiles in Hawaii , as a percentage of incidence . ",
+      "The most common Ownership is Private_and_commercial_(including_taxicabs) , identified as causing 516544 % , with Total of second at 35 % . ",
+      "Publicly_owned is third , causing 7995 % of Ownership ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "2",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Ownership Type": "Publicly owned",
+         "Number of registered automobiles": "7995"
+      },
+      {
+         "Ownership Type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "508549"
+      },
+      {
+         "Ownership Type": "Total",
+         "Number of registered automobiles": "516544"
+      }
+   ],
+   "gold": "The statistic represents the total number of registered automobiles in Hawaii in 2016 . In that year , Hawaii had approximately 508,549 private and commercial automobiles ( including taxicabs ) registered .\n"
+}

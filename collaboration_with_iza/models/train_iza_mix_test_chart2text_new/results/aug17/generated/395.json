@@ -1,0 +1,128 @@
+{
+   "title": "British soccer teams with multiple FA Cup titles 2019",
+   "xAxis": "Club Name",
+   "yAxis": "Number of titles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph depicts the British soccer Club , with looking at the Number of titles that have visited each Club . ",
+      "The Manchester_United Club is the British soccer , with only 2 titles , whilst the Aston_Villa Club is the most soccer with 13 titles . ",
+      "After the Manchester_United , the next lowest is the Arsenal_FC with 13 titles , then Sunderland_AFC with 2 , Tottenham_Hotspur with 8 and Chelsea_FC with 8 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "10": "17",
+         "15": "4",
+         "22": "0"
+      },
+      {
+         "2": "1",
+         "9": "0",
+         "11": "0",
+         "15": "22",
+         "17": "22",
+         "19": "3",
+         "21": "3",
+         "23": "2",
+         "25": "3"
+      }
+   ],
+   "data": [
+      {
+         "Club Name": "Arsenal FC",
+         "Number of titles": "13"
+      },
+      {
+         "Club Name": "Manchester United",
+         "Number of titles": "12"
+      },
+      {
+         "Club Name": "Chelsea FC",
+         "Number of titles": "8"
+      },
+      {
+         "Club Name": "Tottenham Hotspur",
+         "Number of titles": "8"
+      },
+      {
+         "Club Name": "Aston Villa",
+         "Number of titles": "7"
+      },
+      {
+         "Club Name": "Liverpool FC",
+         "Number of titles": "7"
+      },
+      {
+         "Club Name": "Blackburn Rovers",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Newcastle United",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Manchester City",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Everton FC",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "The Wanderers",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "West Bromwich Albion",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "Bolton Wanderers",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Sheffield United",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Wolverhampton Wanderers",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Sheffield Wednesday",
+         "Number of titles": "3"
+      },
+      {
+         "Club Name": "West Ham United",
+         "Number of titles": "3"
+      },
+      {
+         "Club Name": "Bury FC",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Nottingham Forest",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Old Etonians",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Portsmouth FC",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Preston North End",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Sunderland AFC",
+         "Number of titles": "2"
+      }
+   ],
+   "gold": "Arsenal FC currently leads the way with 13 FA Cup titles to the club 's name , the most recent win having come in 2017 . Hot on Arsenal 's heels is Manchester United , whose 2016 victory marked their 12th victory in the oldest club competition in the world . A cup for the underdogs ? There is often talk about the `` Magic of the FA Cup `` and how the competition brings up surprising results , with lower league teams beating higher placed ones .\n"
+}

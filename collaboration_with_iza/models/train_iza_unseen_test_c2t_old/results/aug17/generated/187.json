@@ -1,0 +1,111 @@
+{
+   "title": "Google Play : number of available gaming apps as of Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of available apps",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Google Play in Play Q3 . ",
+      "It shows Q3_'15 was the Google at just 288848 degrees and Q1_'16 was the warmest at 677560 degrees . ",
+      "After Q3_'15 , the next Google Play are Q1_'15 at 290287 degrees , followed by Q3_'19 at 18 degrees , Q2_'15 at 315032 degrees and then Q4_'15 at 380233 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "15",
+         "11": "4",
+         "16": "12"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "18",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '15",
+         "Number of available apps": "290287"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of available apps": "315032"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of available apps": "343326"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of available apps": "380233"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of available apps": "432326"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of available apps": "472919"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of available apps": "512223"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Number of available apps": "515268"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of available apps": "536977"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of available apps": "573808"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of available apps": "605150"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of available apps": "647488"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of available apps": "677560"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of available apps": "501442"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of available apps": "315418"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of available apps": "288848"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of available apps": "327491"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of available apps": "336508"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of available apps": "349563"
+      }
+   ],
+   "gold": "This statistic gives information on the number of available gaming apps in the Google Play app store . As of the third quarter of 2019 , approximately 349,563 mobile gaming apps were available , representing a 3.88 percent increase compared to the previous quarter .\n"
+}

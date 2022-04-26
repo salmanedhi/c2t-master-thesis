@@ -1,0 +1,81 @@
+{
+   "title": "Real GDP of Georgia , by industry 2018",
+   "xAxis": "Industry",
+   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Finance_insurance_real_estate_rental_and_leasing value added to the Gross Domestic Product ( GDP ) of Georgia in 2018 , by Industry . ",
+      "In 2018 , the Mining_quarrying_and_oil_and_gas_extraction Industry added 1.48 billion chained U.S. dollars of value to the Finance_insurance_real_estate_rental_and_leasing GDP ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "4": "13",
+         "7": "13",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Real value added in billion chained (2012) U.S. dollars": "98.03"
+      },
+      {
+         "Industry": "Professional and business services",
+         "Real value added in billion chained (2012) U.S. dollars": "68.01"
+      },
+      {
+         "Industry": "Government and government enterprises",
+         "Real value added in billion chained (2012) U.S. dollars": "59.52"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Real value added in billion chained (2012) U.S. dollars": "56.8"
+      },
+      {
+         "Industry": "Information",
+         "Real value added in billion chained (2012) U.S. dollars": "51.54"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Real value added in billion chained (2012) U.S. dollars": "41.91"
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Real value added in billion chained (2012) U.S. dollars": "41.09"
+      },
+      {
+         "Industry": "Retail trade",
+         "Real value added in billion chained (2012) U.S. dollars": "31.01"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Real value added in billion chained (2012) U.S. dollars": "21.81"
+      },
+      {
+         "Industry": "Construction",
+         "Real value added in billion chained (2012) U.S. dollars": "19.31"
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Real value added in billion chained (2012) U.S. dollars": "16.19"
+      },
+      {
+         "Industry": "Utilities",
+         "Real value added in billion chained (2012) U.S. dollars": "9.56"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Real value added in billion chained (2012) U.S. dollars": "5.32"
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Real value added in billion chained (2012) U.S. dollars": "1.48"
+      }
+   ],
+   "gold": "This graph shows the real value added to the Gross Domestic Product ( GDP ) of Georgia in 2018 , by industry . In 2018 , the utilities industry added 9.56 billion chained 2012 U.S. dollars of value to the state GDP .\n"
+}

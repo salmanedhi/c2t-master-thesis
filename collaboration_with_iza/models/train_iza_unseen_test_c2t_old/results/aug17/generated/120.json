@@ -1,0 +1,69 @@
+{
+   "title": "Largest cities in the Netherlands 2011",
+   "xAxis": "Urban Settlement",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Largest cities Netherlands in the 2011 competirion . ",
+      "\\\\n From the chart we see that the Eindhoven Urban made the Largest residents by some margin , with only 0.2",
+      "Rotterdam and Amsterdam made a respectable 0.8 and 1.03 residents , with Groningen and Utrecht not far behind , at 0.2 and 0.34 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "7"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "8",
+         "14": "3",
+         "20": "8",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Urban Settlement": "Amsterdam",
+         "Number of residents": "1.03"
+      },
+      {
+         "Urban Settlement": "Rotterdam",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "'s-Gravenhage",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "Utrecht",
+         "Number of residents": "0.34"
+      },
+      {
+         "Urban Settlement": "Eindhoven",
+         "Number of residents": "0.29"
+      },
+      {
+         "Urban Settlement": "Leiden",
+         "Number of residents": "0.26"
+      },
+      {
+         "Urban Settlement": "Dordrecht",
+         "Number of residents": "0.22"
+      },
+      {
+         "Urban Settlement": "Tilburg",
+         "Number of residents": "0.2"
+      },
+      {
+         "Urban Settlement": "Groningen",
+         "Number of residents": "0.2"
+      }
+   ],
+   "gold": "This statistic shows the largest urban settlements in the Netherlands in 2011 . In 2011 , around 1 million people lived in Amsterdam , making it the largest city in the Netherlands . Population of the Netherlands With the global financial crisis in 2008 as well as the Euro zone crisis , many countries in Europe suffered a great economic impact .\n"
+}

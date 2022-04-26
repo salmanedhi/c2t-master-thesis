@@ -1,0 +1,37 @@
+{
+   "title": "Netflix content watching worldwide by device 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of time spent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Share of content watching in the Netflix as of 2017 , sorted 2017 . ",
+      "During the survey period , it was found 70 % of Millennial shoppers preferred to search and purchase on ecommerce sites rather than in store ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Television",
+         "Share of time spent": "70"
+      },
+      {
+         "Platform": "PC/laptop",
+         "Share of time spent": "15"
+      },
+      {
+         "Platform": "Mobile",
+         "Share of time spent": "10"
+      },
+      {
+         "Platform": "Tablet",
+         "Share of time spent": "5"
+      }
+   ],
+   "gold": "The figure shows the share of time spent watching Netflix worldwide in 2017 , by device . According to the source , 70 percent of content streamed on Netflix worldwide in 2017 was via a connected TV .\n"
+}

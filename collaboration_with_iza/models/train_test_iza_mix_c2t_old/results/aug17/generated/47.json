@@ -1,0 +1,115 @@
+{
+   "title": "Discharge of the largest rivers in the U.S. as of 2005",
+   "xAxis": "Us River",
+   "yAxis": "Discharge in thousand cubic feet per second",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the most popular Kuskokwim_(Alaska) in the U.S. ( ) rivers U.S. Discharge in the companies ' latest financial year , as of 2005 . ",
+      "For the majority of Kuskokwim_(Alaska) , the latest financial year ended between the end of and 2013 , with the exception of Mississippi_(Louisiana) , where the financial year ended 30 , 2005 . ",
+      "Mississippi_(Louisiana) had the highest recorded Discharge at 593.0 thousand British pounds , followed U.S. St_Lawrence_(Canada) who generated 348.0 thousand cubic in Discharge ."
+   ],
+   "trends": [
+      {
+         "6": "8"
+      },
+      {
+         "4": "8",
+         "22": "0"
+      },
+      {
+         "0": "0",
+         "7": "0",
+         "14": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Us River": "Mississippi (Louisiana)",
+         "Discharge in thousand cubic feet per second": "593.0"
+      },
+      {
+         "Us River": "St Lawrence (Canada)",
+         "Discharge in thousand cubic feet per second": "348.0"
+      },
+      {
+         "Us River": "Ohio (Illinois-Kentucky)",
+         "Discharge in thousand cubic feet per second": "281.0"
+      },
+      {
+         "Us River": "Columbia (Oregon-Washington)",
+         "Discharge in thousand cubic feet per second": "265.0"
+      },
+      {
+         "Us River": "Yukon (Alaska)",
+         "Discharge in thousand cubic feet per second": "225.0"
+      },
+      {
+         "Us River": "Missouri (Missouri)",
+         "Discharge in thousand cubic feet per second": "76.2"
+      },
+      {
+         "Us River": "Tennessee (Kentucky)",
+         "Discharge in thousand cubic feet per second": "68.0"
+      },
+      {
+         "Us River": "Mobile (Alabama)",
+         "Discharge in thousand cubic feet per second": "67.2"
+      },
+      {
+         "Us River": "Kuskokwim (Alaska)",
+         "Discharge in thousand cubic feet per second": "67.0"
+      },
+      {
+         "Us River": "Copper (Alaska)",
+         "Discharge in thousand cubic feet per second": "59.0"
+      },
+      {
+         "Us River": "Atchafalaya (Louisiana)",
+         "Discharge in thousand cubic feet per second": "58.0"
+      },
+      {
+         "Us River": "Snake (Washington)",
+         "Discharge in thousand cubic feet per second": "56.9"
+      },
+      {
+         "Us River": "Stikine (Alaska)",
+         "Discharge in thousand cubic feet per second": "56.0"
+      },
+      {
+         "Us River": "Red River (Louisiana)",
+         "Discharge in thousand cubic feet per second": "56.0"
+      },
+      {
+         "Us River": "Susitna (Alaska)",
+         "Discharge in thousand cubic feet per second": "51.0"
+      },
+      {
+         "Us River": "Arkansas (Arkansas)",
+         "Discharge in thousand cubic feet per second": "41.0"
+      },
+      {
+         "Us River": "Tanana (Alaska)",
+         "Discharge in thousand cubic feet per second": "41.0"
+      },
+      {
+         "Us River": "Susquehanna (Maryland)",
+         "Discharge in thousand cubic feet per second": "38.2"
+      },
+      {
+         "Us River": "Willamette (Oregon)",
+         "Discharge in thousand cubic feet per second": "37.4"
+      },
+      {
+         "Us River": "Nushagak (Alaska)",
+         "Discharge in thousand cubic feet per second": "36.0"
+      },
+      {
+         "Us River": "Procupine (Alaska)",
+         "Discharge in thousand cubic feet per second": "23.0"
+      }
+   ],
+   "gold": "This statistic shows the average discharge at mouth of the largest rivers in the U.S. in 2005 . The Missouri river has an average discharge of 76,2 thousand cubic feet per second at its mouth .\n"
+}

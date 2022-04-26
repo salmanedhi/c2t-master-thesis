@@ -1,0 +1,58 @@
+{
+   "title": "Tourism industry growth expectations according to travel experts 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents at the Tourism from Significantly_decline to Significantly_grow . ",
+      "\\\\n In Significantly_decline the Tourism saw 1 respondents , in Slightly_decline there were 56 respondents , No_change saw at least 14 respondents , 1 respondents in Significantly_decline and 18 in Significantly_grow . ",
+      "Slightly_grow had the highest Share of respondents whilst Slightly_grow had the lowest ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "4"
+      },
+      {
+         "2": "0",
+         "6": "0",
+         "10": "1",
+         "13": "3",
+         "16": "2",
+         "20": "2",
+         "23": "0",
+         "26": "0",
+         "28": "4",
+         "30": "4"
+      },
+      {
+         "0": "3",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Significantly decline",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Slightly decline",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "No change",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Slightly grow",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Significantly grow",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking travel industry representatives and stakeholders at the London WTM exhibition ( UK ) to what extent do they expect the tourism industry to grow or decline in 2018 . Of respondents , 56 percent believed that the tourism industry will grow slightly in 2018 .\n"
+}

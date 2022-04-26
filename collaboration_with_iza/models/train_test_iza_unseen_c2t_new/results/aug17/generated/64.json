@@ -1,0 +1,85 @@
+{
+   "title": "Leisure activities penetration rate in France 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey on the Leisure activities France rate in France as of 2019 . ",
+      "The survey found that Listen_to_music was France 's Leisure loved France rate with 1 % of 88 British adults choosing her as their favorite . ",
+      "Go_out_with_friends and Keep_in_touch_with_the_people_around_you_(phone_SMS_e-mail) were second and third Leisure activities at 82 and hundred ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "13",
+         "16": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "10": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Listen to music",
+         "Share of respondents": "88"
+      },
+      {
+         "Response": "Go out with friends",
+         "Share of respondents": "82"
+      },
+      {
+         "Response": "Keep in touch with the people around you (phone SMS e-mail)",
+         "Share of respondents": "82"
+      },
+      {
+         "Response": "Watch television",
+         "Share of respondents": "79"
+      },
+      {
+         "Response": "Read a magazine or a journal",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "Listen to radio",
+         "Share of respondents": "74"
+      },
+      {
+         "Response": "Go online",
+         "Share of respondents": "69"
+      },
+      {
+         "Response": "Watch a video",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Go to the cinema",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Go on a cultural outing",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "Go shopping",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Go on social networks",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "Play video games",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "None of these activities",
+         "Share of respondents": "1"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey about the penetration rate of several individual leisure activities in France in 2015 , phrased with the question : `` except reading books , which of the following leisure activities do you do in your free time ? `` . It was found that listening to music was the most practiced leisure activity with a penetration rate of 88 percent of respondents , followed very closely by 82 percent of respondents who stated that they go out with friends in their free time with . Even though music is a very popular activity , it seems that French people would probably not choose to listen to music if they had more free time .\n"
+}

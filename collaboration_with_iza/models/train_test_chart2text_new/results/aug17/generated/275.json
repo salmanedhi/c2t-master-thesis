@@ -1,0 +1,52 @@
+{
+   "title": "Biggest data leaks worldwide 2010 to 2017",
+   "xAxis": "Data Leak",
+   "yAxis": "Data leak volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the distribution of Data leak within the whole leaks worldwide on the Biggest ( The_Panama_Papers_(2016) ) market as of 2010 . ",
+      "Data leak is one of the main measures of a The_Panama_Papers_(2016) 's prosperity , and is defined as all leak owned 2017 a The_Panama_Papers_(2016) . ",
+      "This includes , but is not limited to ; cash and balances , loans and advances to The_Panama_Papers_(2016) and customers , as well debt securities ."
+   ],
+   "trends": [
+      {
+         "17": "0"
+      },
+      {
+         "10": "0",
+         "23": "0"
+      },
+      {
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Data Leak": "The Panama Papers (2016)",
+         "Data leak volume": "2600.0"
+      },
+      {
+         "Data Leak": "The Paradise Papers (2017)",
+         "Data leak volume": "1400.0"
+      },
+      {
+         "Data Leak": "Offshore Leaks (2013)",
+         "Data leak volume": "260.0"
+      },
+      {
+         "Data Leak": "Luxemburg Leaks (2014)",
+         "Data leak volume": "4.0"
+      },
+      {
+         "Data Leak": "Swiss Leaks / HSBC files (2015)",
+         "Data leak volume": "3.3"
+      },
+      {
+         "Data Leak": "Cablegate / Wikileaks (2010)",
+         "Data leak volume": "1.7"
+      }
+   ],
+   "gold": "This statistic compares the scale of November 2017 Paradise Papers data leak compared to other data leaks worldwide as of November 2017 . The Paradise Papers leak comprised 1.4 terabytes of data , compared to only 260 gigabytes of data revealed by the ICIJ in the Offshore Leaks in 2013 . The biggest data leak so far is the Panama Papers data leak , which amounted to 2.6 terabytes .\n"
+}

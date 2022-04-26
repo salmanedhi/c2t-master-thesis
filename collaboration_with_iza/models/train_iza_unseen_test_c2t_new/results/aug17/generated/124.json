@@ -1,0 +1,36 @@
+{
+   "title": "U.S. consumers who use marijuana 2017 , by household income",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the U.S. consumers who , expressed in percentage three different Response . ",
+      "The $75000+ and <$30000 have similar U.S. consumers who at around 20 % whilst $30000-$74999 is doing a little better at 9 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "3": "0",
+         "14": "1",
+         "21": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "<$30000",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "$30000-$74999",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "$75000+",
+         "Share of respondents": "9"
+      }
+   ],
+   "gold": "This statistic shows the share of consumers in the United States that currently smoke marijuana as of July 2017 , by household income . During the survey , 13 percent of respondents earning 30 thousand U.S. dollars per year or less said that they smoke marijuana .\n"
+}

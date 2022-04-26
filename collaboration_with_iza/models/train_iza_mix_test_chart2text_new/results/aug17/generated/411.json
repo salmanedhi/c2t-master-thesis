@@ -1,0 +1,45 @@
+{
+   "title": "South Africa : frequency of online access 2018",
+   "xAxis": "Frequency",
+   "yAxis": "Share of internet users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the South Africa on South Africa in hundreds users in 65 . ",
+      "\\\\n From the chart we see that At_least_once_per_month Africa a total of \u00a3 65 million internet for the year , \u00a3 120 million more than the closest competitor ( Every_day , which Africa \u00a3 65 million ) and over twice as much At_least_once_per_week and Less_than_once_per_month put together ( which Africa \u00a3 22 and \u00a3 4 million respectively , totalling \u00a3 150 million ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "0",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1"
+      }
+   ],
+   "data": [
+      {
+         "Frequency": "Every day",
+         "Share of internet users": "65"
+      },
+      {
+         "Frequency": "At least once per week",
+         "Share of internet users": "22"
+      },
+      {
+         "Frequency": "At least once per month",
+         "Share of internet users": "8"
+      },
+      {
+         "Frequency": "Less than once per month",
+         "Share of internet users": "4"
+      }
+   ],
+   "gold": "This statistic presents the frequency of internet usage in South Africa as of January 2018 . During the survey period it was found that 65 percent of South African internet users accessed the internet daily , and four percent accessed it less than once per month .\n"
+}

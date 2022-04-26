@@ -1,0 +1,241 @@
+{
+   "title": "Percentage of foreign-born population , by state U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Percentage foreign-born State in terms of the Percentage of population with Nevada having the Percentage \u2013 26.9 population down to New_Jersey the least foreign-born of the group at 1.5 population . ",
+      "In between , we have California 26.9 , West_Virginia 1.5 , Florida 21 and New_York 22.8 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "51"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "51",
+         "9": "51",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Percentage of population": "26.9"
+      },
+      {
+         "State": "New Jersey",
+         "Percentage of population": "22.8"
+      },
+      {
+         "State": "New York",
+         "Percentage of population": "22.8"
+      },
+      {
+         "State": "Florida",
+         "Percentage of population": "21"
+      },
+      {
+         "State": "Nevada",
+         "Percentage of population": "19.4"
+      },
+      {
+         "State": "Hawaii",
+         "Percentage of population": "18.7"
+      },
+      {
+         "State": "Massachusetts",
+         "Percentage of population": "17.4"
+      },
+      {
+         "State": "Texas",
+         "Percentage of population": "17.2"
+      },
+      {
+         "State": "Maryland",
+         "Percentage of population": "15.1"
+      },
+      {
+         "State": "Washington",
+         "Percentage of population": "14.7"
+      },
+      {
+         "State": "Connecticut",
+         "Percentage of population": "14.6"
+      },
+      {
+         "State": "Illinois",
+         "Percentage of population": "14.1"
+      },
+      {
+         "State": "District of Columbia",
+         "Percentage of population": "13.9"
+      },
+      {
+         "State": "United States",
+         "Percentage of population": "13.7"
+      },
+      {
+         "State": "Arizona",
+         "Percentage of population": "13.4"
+      },
+      {
+         "State": "Rhode Island",
+         "Percentage of population": "13.2"
+      },
+      {
+         "State": "Virginia",
+         "Percentage of population": "12.5"
+      },
+      {
+         "State": "Oregon",
+         "Percentage of population": "10.3"
+      },
+      {
+         "State": "Georgia",
+         "Percentage of population": "10.1"
+      },
+      {
+         "State": "Colorado",
+         "Percentage of population": "9.6"
+      },
+      {
+         "State": "New Mexico",
+         "Percentage of population": "9.5"
+      },
+      {
+         "State": "Delaware",
+         "Percentage of population": "9.4"
+      },
+      {
+         "State": "Utah",
+         "Percentage of population": "8.6"
+      },
+      {
+         "State": "Minnesota",
+         "Percentage of population": "8.6"
+      },
+      {
+         "State": "Alaska",
+         "Percentage of population": "8.2"
+      },
+      {
+         "State": "North Carolina",
+         "Percentage of population": "7.9"
+      },
+      {
+         "State": "Kansas",
+         "Percentage of population": "7.2"
+      },
+      {
+         "State": "Pennsylvania",
+         "Percentage of population": "7.2"
+      },
+      {
+         "State": "Nebraska",
+         "Percentage of population": "7.2"
+      },
+      {
+         "State": "Michigan",
+         "Percentage of population": "7"
+      },
+      {
+         "State": "New Hampshire",
+         "Percentage of population": "6.1"
+      },
+      {
+         "State": "Oklahoma",
+         "Percentage of population": "6"
+      },
+      {
+         "State": "Idaho",
+         "Percentage of population": "6"
+      },
+      {
+         "State": "Iowa",
+         "Percentage of population": "5.5"
+      },
+      {
+         "State": "Indiana",
+         "Percentage of population": "5.3"
+      },
+      {
+         "State": "South Carolina",
+         "Percentage of population": "5.1"
+      },
+      {
+         "State": "Wisconsin",
+         "Percentage of population": "5.1"
+      },
+      {
+         "State": "Tennessee",
+         "Percentage of population": "5.1"
+      },
+      {
+         "State": "Vermont",
+         "Percentage of population": "4.9"
+      },
+      {
+         "State": "Arkansas",
+         "Percentage of population": "4.8"
+      },
+      {
+         "State": "Ohio",
+         "Percentage of population": "4.8"
+      },
+      {
+         "State": "North Dakota",
+         "Percentage of population": "4.7"
+      },
+      {
+         "State": "Missouri",
+         "Percentage of population": "4.2"
+      },
+      {
+         "State": "Louisiana",
+         "Percentage of population": "4.2"
+      },
+      {
+         "State": "South Dakota",
+         "Percentage of population": "4"
+      },
+      {
+         "State": "Kentucky",
+         "Percentage of population": "3.8"
+      },
+      {
+         "State": "Maine",
+         "Percentage of population": "3.5"
+      },
+      {
+         "State": "Alabama",
+         "Percentage of population": "3.3"
+      },
+      {
+         "State": "Wyoming",
+         "Percentage of population": "3"
+      },
+      {
+         "State": "Mississippi",
+         "Percentage of population": "2.4"
+      },
+      {
+         "State": "Montana",
+         "Percentage of population": "2.2"
+      },
+      {
+         "State": "West Virginia",
+         "Percentage of population": "1.5"
+      }
+   ],
+   "gold": "This statistic represents the percentage of foreign-born population in the United States in 2018 , by state . As of 2018 , about 26.9 percent of California 's population were born in a foreign country .\n"
+}

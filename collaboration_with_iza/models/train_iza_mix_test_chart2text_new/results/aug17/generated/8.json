@@ -1,0 +1,37 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Response of tattoos in U.S. , as a percentage of incidence . ",
+      "The most common Response is No , identified as causing 77 % , with No of second at 35 % . ",
+      "Yes is third , causing 23 % of Response ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "1",
+         "14": "1",
+         "16": "1"
+      },
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "77"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey among adult Americans who have one or more tattoos . The survey was conducted in 2015 , asking the respondents whether they ever regret getting any of their tattoos , or not . 77 percent of respondents stated they do not regret getting any of their tattoos .\n"
+}

@@ -1,0 +1,52 @@
+{
+   "title": "Market share of streaming devices in the United States 2014",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Market share of streaming devices United Device . ",
+      "You can see that Other has the lowest Market share , averaging at \u00a3 6 , Tivo is a little bit higher coming in at \u00a3 58 . ",
+      "Roku is a little higher again , coming in at \u00a3 24 ; Then a bit more of a jump to \u00a3 43 for Apple_TV and the Market expensive , \u00a3 43 Market for Chromecast devices ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "14": "3",
+         "16": "3"
+      },
+      {
+         "0": "1",
+         "11": "1",
+         "22": "0",
+         "24": "0",
+         "31": "0",
+         "34": "2"
+      }
+   ],
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": "43"
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": "24"
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": "14"
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": "6"
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": "13"
+      }
+   ],
+   "gold": "The statistic shows a breakdown of the U.S. American streaming devices market according to market share in 2014 . Google 's Chromecast held a market share of 14 percent in 2014 .\n"
+}

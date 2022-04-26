@@ -1,0 +1,45 @@
+{
+   "title": "Women representation in law firms",
+   "xAxis": "Sector",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The charts show the Women representation in various firms . ",
+      "Insurance has the highest representtation at 65 percentage whereas Law_Firms has the lowest at 35 percentage - a 30 percentage difference . ",
+      "Financial_Groups appear to have the most equal representation with 50 percentage ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "6": "2",
+         "9": "3",
+         "14": "3"
+      },
+      {
+         "0": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sector": "Financial Groups",
+         "Percentage": "50"
+      },
+      {
+         "Sector": "Tech",
+         "Percentage": "62"
+      },
+      {
+         "Sector": "Insurance",
+         "Percentage": "65"
+      },
+      {
+         "Sector": "Law Firms",
+         "Percentage": "35"
+      }
+   ],
+   "gold": "The graph shows the representation of woman in different sectors . This shows that women are less likely to be employed by law firms than financial groups , tech and insurance .\n"
+}

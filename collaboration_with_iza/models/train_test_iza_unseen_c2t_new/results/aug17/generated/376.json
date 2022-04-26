@@ -1,0 +1,63 @@
+{
+   "title": "Sales of the book publishing market worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2017 , market in the country accounted for over 30 % of world market . ",
+      "The next publishing Country by market share was China , followed by the United Kingdom . ",
+      "The New York market Exchange ( NYSE ) and the NASDAQ are the publishing market exchange operators worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Market share": "30"
+      },
+      {
+         "Country": "China",
+         "Market share": "10"
+      },
+      {
+         "Country": "Germany",
+         "Market share": "9"
+      },
+      {
+         "Country": "Japan",
+         "Market share": "7"
+      },
+      {
+         "Country": "France",
+         "Market share": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Market share": "4"
+      },
+      {
+         "Country": "Italy",
+         "Market share": "3"
+      },
+      {
+         "Country": "Spain",
+         "Market share": "3"
+      },
+      {
+         "Country": "India",
+         "Market share": "2"
+      },
+      {
+         "Country": "Brazil",
+         "Market share": "2"
+      }
+   ],
+   "gold": "The graph shows the share of the total sales of the global book publishing market in 2017 , by country . According to the source , the United States made of 30 percent of the global book publishing market in terms on total sales as of 2017 .\n"
+}

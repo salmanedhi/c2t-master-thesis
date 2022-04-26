@@ -1,0 +1,64 @@
+{
+   "title": "MoviePass subscribers in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The MoviePass subscribers Month in the 2019 was Month March_2018 , who made 3000 subscribers . ",
+      "The most subscribers Month was September_2017 , with just 20 subscribers . ",
+      "In second place was Month June_2018 with 3000 subscribers ; third place went to Month April_2019 with 225 subscribers ; fourth place went to Month December_2016 with 20 subscribers and fifth place went to Month January_2018 , who made 1500 subscribers ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "1"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": "225"
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": "3000"
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": "2000"
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": "1500"
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": "500"
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": "150"
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": "20"
+      }
+   ],
+   "gold": "As of April 2019 , it was estimated that MoviePass had just 225 thousand subscribers in the United States , a significant drop from the three million recorded in June 2018 . MoviePass is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about MoviePass 's floundering subscriber base , the company is once again in the spotlight . What is MoviePass ? MoviePass is a subscription-based movie ticketing service , designed to allow subscribers to buy a select amount of movie tickets each month for a single fee .\n"
+}

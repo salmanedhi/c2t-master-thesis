@@ -1,0 +1,109 @@
+{
+   "title": "Production of turmeric in India 2018 by state",
+   "xAxis": "States in India ",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Production of thousand metric in the India in 2018 , by States . ",
+      "In 2018 , 294.56 thousand metric tons in the world ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "States in India ": "Telangana",
+         "Production in thousand metric tons": "294.56"
+      },
+      {
+         "States in India ": "Maharashtra",
+         "Production in thousand metric tons": "190.09"
+      },
+      {
+         "States in India ": "Tamil Nadu",
+         "Production in thousand metric tons": "116.0"
+      },
+      {
+         "States in India ": "Gujarat",
+         "Production in thousand metric tons": "78.91"
+      },
+      {
+         "States in India ": "Orissa",
+         "Production in thousand metric tons": "54.5"
+      },
+      {
+         "States in India ": "West Bengal",
+         "Production in thousand metric tons": "45.5"
+      },
+      {
+         "States in India ": "Madhya Pradesh",
+         "Production in thousand metric tons": "39.05"
+      },
+      {
+         "States in India ": "Mizoram",
+         "Production in thousand metric tons": "29.82"
+      },
+      {
+         "States in India ": "Haryana",
+         "Production in thousand metric tons": "22.0"
+      },
+      {
+         "States in India ": "Assam",
+         "Production in thousand metric tons": "19.17"
+      },
+      {
+         "States in India ": "Meghalaya",
+         "Production in thousand metric tons": "16.5"
+      },
+      {
+         "States in India ": "Nagaland",
+         "Production in thousand metric tons": "10.19"
+      },
+      {
+         "States in India ": "Tripura",
+         "Production in thousand metric tons": "10.08"
+      },
+      {
+         "States in India ": "Kerala",
+         "Production in thousand metric tons": "8.82"
+      },
+      {
+         "States in India ": "Punjab",
+         "Production in thousand metric tons": "3.19"
+      },
+      {
+         "States in India ": "Bihar",
+         "Production in thousand metric tons": "2.83"
+      },
+      {
+         "States in India ": "Uttarakhand",
+         "Production in thousand metric tons": "1.74"
+      },
+      {
+         "States in India ": "Chattisgarh",
+         "Production in thousand metric tons": "0.96"
+      },
+      {
+         "States in India ": "Rajasthan",
+         "Production in thousand metric tons": "0.47"
+      },
+      {
+         "States in India ": "Himachal Pradesh",
+         "Production in thousand metric tons": "0.12"
+      },
+      {
+         "States in India ": "Jammu & Kashmir",
+         "Production in thousand metric tons": "0.01"
+      },
+      {
+         "States in India ": "Others",
+         "Production in thousand metric tons": "2.14"
+      }
+   ],
+   "gold": "Telangana produced the largest volume of turmeric in fiscal year 2018 across India . This amounted to nearly 295 thousand metric tons , or about 31 percent of total production in the country that year . Maharashtra followed , with Tamil Nadu ranking third that same year .\n"
+}

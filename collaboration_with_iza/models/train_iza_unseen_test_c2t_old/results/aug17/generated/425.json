@@ -1,0 +1,48 @@
+{
+   "title": "Facebook reactions on top shared content 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of reactions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Share of reactions at the Facebook street . ",
+      "\\\\n The highest Share was 41 in the Sad Response followed by 28 % in the Haha Response , 41 % in Sad and finally 5 % in Angry ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "8": "3",
+         "12": "1",
+         "16": "1",
+         "19": "0",
+         "22": "3",
+         "25": "4",
+         "28": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Love",
+         "Share of reactions": "41"
+      },
+      {
+         "Response": "Haha",
+         "Share of reactions": "28"
+      },
+      {
+         "Response": "Wow",
+         "Share of reactions": "15"
+      },
+      {
+         "Response": "Sad",
+         "Share of reactions": "12"
+      },
+      {
+         "Response": "Angry",
+         "Share of reactions": "5"
+      }
+   ],
+   "gold": "This statistic presents the reaction usage in top shared posts on Facebook in September 2017 . During the measured period , Love was the most popular Facebook reaction on top shared posts on the social network .\n"
+}

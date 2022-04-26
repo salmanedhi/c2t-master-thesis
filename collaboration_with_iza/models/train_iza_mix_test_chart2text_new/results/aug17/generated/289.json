@@ -1,0 +1,73 @@
+{
+   "title": "IT functions outsourced worldwide 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by Response in a 2017 . ",
+      "\\\\n From the chart we see that the Data_centers Response was the functions outsourced Response in the 2017 with 64 respondents . ",
+      "The next Response to make the most respondents was the IT_infrastructure Response with 32 respondents closely followed by the KPO Response with 6 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "10",
+         "22": "10"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Software application development",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Software application maintenance",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Data centers",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "IT infrastructure",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Service desk / help desk",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Networks",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Systems integration",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "HR BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT department",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "KPO",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "The statistic reveals the IT functions most commonly outsourced by IT leaders worldwide , as of 2017 . In 2017 , software application development was outsourced by 64 percent of respondents .\n"
+}

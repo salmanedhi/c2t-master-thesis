@@ -1,0 +1,69 @@
+{
+   "title": "Home birth rate : leading U.S. states 2018",
+   "xAxis": "State",
+   "yAxis": "Percentage of all births that were home births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , there were over 2.4 percentage all living in Montana , a higher amount than any other State in the world . ",
+      "Egg production As the State with the highest all population , Montana also is the leading producer of eggs worldwide . ",
+      "In , some 529 percentage eggs were produced in Montana , an amount five times greater than the runner up , the Utah ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "11": "0"
+      },
+      {
+         "11": "0"
+      },
+      {
+         "9": "0",
+         "22": "2"
+      }
+   ],
+   "data": [
+      {
+         "State": "Montana",
+         "Percentage of all births that were home births": "2.4"
+      },
+      {
+         "State": "Wisconsin",
+         "Percentage of all births that were home births": "2.3"
+      },
+      {
+         "State": "Utah",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Idaho",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Washington",
+         "Percentage of all births that were home births": "2.1"
+      },
+      {
+         "State": "Vermont",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Oregon",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Alaska",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Maine",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Pennsylvania",
+         "Percentage of all births that were home births": "1.9"
+      }
+   ],
+   "gold": "The states in the U.S. with the highest home birth rate in 2018 included Montana , Wisconsin and Utah . Montana had the highest home birth rate with 2.4 percent of all births occurring at home while 2.3 percent of all births in Wisconsin occurred at home . Home births Home births are selected by women in the U.S. for a variety of reasons that may include , a preference for less medical intervention , a location preference , cost , and a cultural or religious preference .\n"
+}

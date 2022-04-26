@@ -1,0 +1,67 @@
+{
+   "title": "Top cotton exporting countries 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Exports in thousand bales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Top cotton exporting in the Exports of thousand . ",
+      "\\n The Top cotton Country was Brazil , with only 131 thousand . ",
+      "Followed countries United_States , with 3214 thousand , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "9"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Exports in thousand bales": "3214"
+      },
+      {
+         "Country": "Brazil",
+         "Exports in thousand bales": "1309"
+      },
+      {
+         "Country": "Australia",
+         "Exports in thousand bales": "791"
+      },
+      {
+         "Country": "India",
+         "Exports in thousand bales": "762"
+      },
+      {
+         "Country": "Benin",
+         "Exports in thousand bales": "305"
+      },
+      {
+         "Country": "Greece",
+         "Exports in thousand bales": "294"
+      },
+      {
+         "Country": "Mali",
+         "Exports in thousand bales": "288"
+      },
+      {
+         "Country": "Burkina",
+         "Exports in thousand bales": "205"
+      },
+      {
+         "Country": "Cote dchr Ivoire",
+         "Exports in thousand bales": "195"
+      },
+      {
+         "Country": "Uzbekistan",
+         "Exports in thousand bales": "131"
+      }
+   ],
+   "gold": "The United States was the leading exporter of cotton worldwide in 2018/2019 . In that time period , the U.S. cotton industry had an export volume of 3.21 million metric tons . Cotton products Cotton is one of the most versatile and widely used materials .\n"
+}

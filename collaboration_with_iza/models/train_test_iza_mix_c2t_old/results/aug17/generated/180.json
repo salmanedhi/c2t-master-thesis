@@ -1,0 +1,64 @@
+{
+   "title": "U.S. company data loss prevention methods 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows , according to survey respondents , the U.S. company data prevention that should be addressed in the run up to the 2017 United Kingdom ( U.S. ) General data ( as of 2014 ) . ",
+      "With 60 % of respondents , Training_and_awareness_programs was considered to be the U.S. company topic , followed by the National Health Service ( Expanded_use_of_encryption ) and the Endpoint_security_solutions ( EU ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "6": "0",
+         "23": "1",
+         "27": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Training and awareness programs",
+         "Share of respondents": "60"
+      },
+      {
+         "Response": "Expanded use of encryption",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "Endpoint security solutions",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Identity and access management solutions",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Additional manual procedures and controls",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "Data loss prevention (DLP) solutions",
+         "Share of respondents": "36"
+      },
+      {
+         "Response": "Security intelligence solutions",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Other system control practices",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Security certification or audit",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Strenghtening of perimeter controls",
+         "Share of respondents": "16"
+      }
+   ],
+   "gold": "This statistic presents a ranking of common data loss prevention controls and activities of organizations in the United States in 2017 . During the survey period , it was found that 35 percent of U.S. companies had implemented security intelligence solutions .\n"
+}

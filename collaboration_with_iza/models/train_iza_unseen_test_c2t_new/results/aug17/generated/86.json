@@ -1,0 +1,60 @@
+{
+   "title": "Soft drinks : market share of carbonates in the United Kingdom 2017 , by flavor",
+   "xAxis": "Flavor",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Soft drinks Flavor in the share carbonates was Flavor Orange , who made 58 share . ",
+      "The most drinks Flavor was Lemon/lime , with just 4 share . ",
+      "In second place was Flavor Lemonade with 8 share ; third place went to Flavor Cola with 58 share ; fourth place went to Flavor Others with 19 share and fifth place went to Flavor Tonic_mixers_and_bitters , who made 5 share ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "4"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "5",
+         "27": "5",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Flavor": "Cola",
+         "Market share": "58"
+      },
+      {
+         "Flavor": "Lemonade",
+         "Market share": "8"
+      },
+      {
+         "Flavor": "Orange",
+         "Market share": "6"
+      },
+      {
+         "Flavor": "Tonic mixers and bitters",
+         "Market share": "5"
+      },
+      {
+         "Flavor": "Lemon/lime",
+         "Market share": "4"
+      },
+      {
+         "Flavor": "Others",
+         "Market share": "19"
+      }
+   ],
+   "gold": "Which carbonated soft drinks flavor is the most popular in the United Kingdom ? Cola flavored drinks held by far the biggest share of the UK carbonated soft drinks market in 2017 . Cola flavored drinks were so popular among consumers that there was a 50 percent market share gap between cola flavored drinks and the second most popular choice , lemonade . Brands on the market Among fizzy drinks that were not cola , Fanta had the largest number of consumers with 9.2 million in 2018 .\n"
+}

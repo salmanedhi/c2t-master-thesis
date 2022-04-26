@@ -1,0 +1,149 @@
+{
+   "title": "Youth unemployment rate in EU countries August 2019",
+   "xAxis": "Country",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the countries that are August 2019 EU and malnutrition according to the Youth EU 2019 . ",
+      "In 2019 , the Greece_ had the highest score ( 33 ) . ",
+      "Malnutrition According to the Youth EU , which was adopted 2019 the International Food Policy Research Institute , Spain and Italy are among the countries August 2019 EU and malnutrition , with an Youth of 32.2 and 27.1 , respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      },
+      {
+         "19": "1",
+         "21": "2",
+         "37": "1",
+         "39": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Greece ",
+         "Youth unemployment rate": "33"
+      },
+      {
+         "Country": "Spain",
+         "Youth unemployment rate": "32.2"
+      },
+      {
+         "Country": "Italy",
+         "Youth unemployment rate": "27.1"
+      },
+      {
+         "Country": "Sweden",
+         "Youth unemployment rate": "19.7"
+      },
+      {
+         "Country": "Croatia",
+         "Youth unemployment rate": "19.3"
+      },
+      {
+         "Country": "France",
+         "Youth unemployment rate": "19.2"
+      },
+      {
+         "Country": "Portugal",
+         "Youth unemployment rate": "17.6"
+      },
+      {
+         "Country": "Finland",
+         "Youth unemployment rate": "17.1"
+      },
+      {
+         "Country": "Cyprus",
+         "Youth unemployment rate": "16.6"
+      },
+      {
+         "Country": "Romania",
+         "Youth unemployment rate": "16.2"
+      },
+      {
+         "Country": "Euro area",
+         "Youth unemployment rate": "15.4"
+      },
+      {
+         "Country": "Slowakia",
+         "Youth unemployment rate": "15.1"
+      },
+      {
+         "Country": "Ireland",
+         "Youth unemployment rate": "14.7"
+      },
+      {
+         "Country": "EU",
+         "Youth unemployment rate": "14.2"
+      },
+      {
+         "Country": "Belgium",
+         "Youth unemployment rate": "14.1"
+      },
+      {
+         "Country": "Luxembourg",
+         "Youth unemployment rate": "14.1"
+      },
+      {
+         "Country": "Estonia",
+         "Youth unemployment rate": "13.6"
+      },
+      {
+         "Country": "Lithuania",
+         "Youth unemployment rate": "12.3"
+      },
+      {
+         "Country": "Latvia",
+         "Youth unemployment rate": "12.1"
+      },
+      {
+         "Country": "United Kingdom",
+         "Youth unemployment rate": "11.2"
+      },
+      {
+         "Country": "Poland",
+         "Youth unemployment rate": "10.4"
+      },
+      {
+         "Country": "Hungary",
+         "Youth unemployment rate": "9.9"
+      },
+      {
+         "Country": "Austria",
+         "Youth unemployment rate": "9.9"
+      },
+      {
+         "Country": "Denmark",
+         "Youth unemployment rate": "9.7"
+      },
+      {
+         "Country": "Malta",
+         "Youth unemployment rate": "8.4"
+      },
+      {
+         "Country": "Bulgaria",
+         "Youth unemployment rate": "8.2"
+      },
+      {
+         "Country": "Slovenia",
+         "Youth unemployment rate": "7.3"
+      },
+      {
+         "Country": "Netherlands",
+         "Youth unemployment rate": "6.9"
+      },
+      {
+         "Country": "Germany",
+         "Youth unemployment rate": "5.7"
+      },
+      {
+         "Country": "Czech Republic",
+         "Youth unemployment rate": "5.1"
+      }
+   ],
+   "gold": "The statistic shows the seasonally adjusted youth unemployment rate in EU member states as of August 2019 . The source defines youth unemployment as unemployment of those younger than 25 years . In August 2019 , the seasonally adjusted youth unemployment rate in Spain was at 32.2 percent .\n"
+}

@@ -1,0 +1,77 @@
+{
+   "title": "Domestic teams with the most players at the 2018 World Cup",
+   "xAxis": "Team",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of players made by Team in a most players . ",
+      "\\\\n From the chart we see that the FC_Barcelona Team was the Domestic teams Team in the players with 16 players . ",
+      "The next Team to make the most players was the Tottenham_Hotspur Team with 12 players closely followed by the Al-Ahli_Dschidda Team with 9 players ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "11",
+         "22": "11"
+      }
+   ],
+   "data": [
+      {
+         "Team": "Manchester City",
+         "Number of players": "16"
+      },
+      {
+         "Team": "Real Madrid",
+         "Number of players": "15"
+      },
+      {
+         "Team": "FC Barcelona",
+         "Number of players": "14"
+      },
+      {
+         "Team": "Tottenham Hotspur",
+         "Number of players": "12"
+      },
+      {
+         "Team": "FC Paris Saint-Germain",
+         "Number of players": "12"
+      },
+      {
+         "Team": "Chelsea FC",
+         "Number of players": "12"
+      },
+      {
+         "Team": "FC Bayern M\u00fcnchen",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Manchester United",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Juventus",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Atl\u00e9tico Madrid",
+         "Number of players": "9"
+      },
+      {
+         "Team": "Al-Hilal Riad",
+         "Number of players": "9"
+      },
+      {
+         "Team": "Al-Ahli Dschidda",
+         "Number of players": "9"
+      }
+   ],
+   "gold": "Manchester City was the most represented team at the World Cup in 2018 , with 16 of its players participating . One of those players , Benjamin Mendy , came back with a World Cup winners ' medal as France took home the trophy after beating Croatia 4 - 2 in the final . Premier League players at the World CupThe Premier League sent the largest contingent of players to the 2018 World Cup , with 108 of the footballers at the tournament plying their trade in the English top division .\n"
+}

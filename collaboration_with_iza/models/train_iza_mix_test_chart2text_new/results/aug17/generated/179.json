@@ -1,0 +1,77 @@
+{
+   "title": "Scottish Premiership : average first-team player pay per year in Scotland in 2019/20",
+   "xAxis": "League",
+   "yAxis": "Average salary in thousand GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average of salary made by League in a first-team player . ",
+      "\\\\n From the chart we see that the Aberdeen League was the Scottish Premiership League in the player with 895.56 salary . ",
+      "The next League to make the most salary was the Hearts League with 137.94 salary closely followed by the Hamilton League with 41.15 salary ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "11",
+         "22": "11"
+      }
+   ],
+   "data": [
+      {
+         "League": "Celtic",
+         "Average salary in thousand GBP": "895.56"
+      },
+      {
+         "League": "Rangers",
+         "Average salary in thousand GBP": "649.77"
+      },
+      {
+         "League": "Aberdeen",
+         "Average salary in thousand GBP": "140.46"
+      },
+      {
+         "League": "Hearts",
+         "Average salary in thousand GBP": "137.94"
+      },
+      {
+         "League": "Hibernian",
+         "Average salary in thousand GBP": "119.7"
+      },
+      {
+         "League": "Kilmarnock",
+         "Average salary in thousand GBP": "68.41"
+      },
+      {
+         "League": "St Johnstone",
+         "Average salary in thousand GBP": "62.69"
+      },
+      {
+         "League": "Motherwell",
+         "Average salary in thousand GBP": "59.3"
+      },
+      {
+         "League": "Ross County",
+         "Average salary in thousand GBP": "55.57"
+      },
+      {
+         "League": "St Mirren",
+         "Average salary in thousand GBP": "48.62"
+      },
+      {
+         "League": "Livingston",
+         "Average salary in thousand GBP": "43.11"
+      },
+      {
+         "League": "Hamilton",
+         "Average salary in thousand GBP": "41.15"
+      }
+   ],
+   "gold": "The Scottish Premiership is the highest football league in Scotland . In the past 20 years , the Celtic FC and the Rangers FC have been the only two teams to win the league , which was only established in 2013 . Beforehand the highest league was the Scottish Premier League .\n"
+}

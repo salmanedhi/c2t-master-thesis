@@ -1,0 +1,68 @@
+{
+   "title": "U.S. employment rate in 2019 , by ethnicity",
+   "xAxis": "Race",
+   "yAxis": "Employment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The U.S. employment Race in the 2019 by was Race Asian , who made 64.1 rate . ",
+      "The most employment Race was White/Caucasian , with just 58.7 rate . ",
+      "In second place was Race Hispanic/Latino with 63.9 rate ; third place went to Race Mexican_American with 64.1 rate ; fourth place went to Race Black/African-American with 58.7 rate and fifth place went to Race Cuban , who was 62 rate ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "7",
+         "27": "7",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Race": "Mexican American",
+         "Employment rate": "64.1"
+      },
+      {
+         "Race": "Hispanic/Latino",
+         "Employment rate": "63.9"
+      },
+      {
+         "Race": "Asian",
+         "Employment rate": "62.3"
+      },
+      {
+         "Race": "Cuban",
+         "Employment rate": "62"
+      },
+      {
+         "Race": "White/Caucasian",
+         "Employment rate": "61"
+      },
+      {
+         "Race": "U.S. Average",
+         "Employment rate": "60.8"
+      },
+      {
+         "Race": "Puerto Rican",
+         "Employment rate": "59"
+      },
+      {
+         "Race": "Black/African-American",
+         "Employment rate": "58.7"
+      }
+   ],
+   "gold": "This statistic shows the employment to population rate in the United States amongst different ethnic groups in 2019 . In 2019 , about 62.3 percent of the Asian community was employed . In total , around 60.8 percent of all Americans were employed at this time .\n"
+}

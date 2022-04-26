@@ -1,0 +1,232 @@
+{
+   "title": "Total number of registered buses in the United states by state 2017",
+   "xAxis": "State",
+   "yAxis": "Number of buses",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total number State in a buses United by displaying the Number of buses made . ",
+      "The higher the bar more buses made . ",
+      "\\\\n Pennsylvania made the fewest buses , followed by New_York then California ( 1070 , 80446 99917 retrospectively ) ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "4",
+         "9": "1",
+         "11": "0",
+         "13": "50",
+         "15": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of buses": "99917"
+      },
+      {
+         "State": "New York",
+         "Number of buses": "80446"
+      },
+      {
+         "State": "Texas",
+         "Number of buses": "67143"
+      },
+      {
+         "State": "Florida",
+         "Number of buses": "59596"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of buses": "55935"
+      },
+      {
+         "State": "Ohio",
+         "Number of buses": "41255"
+      },
+      {
+         "State": "Georgia",
+         "Number of buses": "36418"
+      },
+      {
+         "State": "Illinois",
+         "Number of buses": "34359"
+      },
+      {
+         "State": "Virginia",
+         "Number of buses": "34268"
+      },
+      {
+         "State": "North Carolina",
+         "Number of buses": "32493"
+      },
+      {
+         "State": "Louisiana",
+         "Number of buses": "29160"
+      },
+      {
+         "State": "Tennessee",
+         "Number of buses": "29158"
+      },
+      {
+         "State": "Missouri",
+         "Number of buses": "27180"
+      },
+      {
+         "State": "New Jersey",
+         "Number of buses": "25097"
+      },
+      {
+         "State": "Washington",
+         "Number of buses": "23566"
+      },
+      {
+         "State": "Maryland",
+         "Number of buses": "22972"
+      },
+      {
+         "State": "Indiana",
+         "Number of buses": "20726"
+      },
+      {
+         "State": "Minnesota",
+         "Number of buses": "19980"
+      },
+      {
+         "State": "South Carolina",
+         "Number of buses": "17728"
+      },
+      {
+         "State": "Oregon",
+         "Number of buses": "17691"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of buses": "15567"
+      },
+      {
+         "State": "Nebraska",
+         "Number of buses": "13564"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of buses": "13498"
+      },
+      {
+         "State": "Colorado",
+         "Number of buses": "13305"
+      },
+      {
+         "State": "Arkansas",
+         "Number of buses": "11941"
+      },
+      {
+         "State": "Connecticut",
+         "Number of buses": "11378"
+      },
+      {
+         "State": "Kentucky",
+         "Number of buses": "10759"
+      },
+      {
+         "State": "Iowa",
+         "Number of buses": "9284"
+      },
+      {
+         "State": "Arizona",
+         "Number of buses": "9051"
+      },
+      {
+         "State": "Michigan",
+         "Number of buses": "8737"
+      },
+      {
+         "State": "Alaska",
+         "Number of buses": "8080"
+      },
+      {
+         "State": "Mississippi",
+         "Number of buses": "8018"
+      },
+      {
+         "State": "New Mexico",
+         "Number of buses": "6278"
+      },
+      {
+         "State": "Kansas",
+         "Number of buses": "6228"
+      },
+      {
+         "State": "Utah",
+         "Number of buses": "6108"
+      },
+      {
+         "State": "Alabama",
+         "Number of buses": "5682"
+      },
+      {
+         "State": "District of Columbia",
+         "Number of buses": "4885"
+      },
+      {
+         "State": "Montana",
+         "Number of buses": "4702"
+      },
+      {
+         "State": "Maine",
+         "Number of buses": "4339"
+      },
+      {
+         "State": "Wyoming",
+         "Number of buses": "4219"
+      },
+      {
+         "State": "Idaho",
+         "Number of buses": "3870"
+      },
+      {
+         "State": "Delaware",
+         "Number of buses": "3763"
+      },
+      {
+         "State": "West Virginia",
+         "Number of buses": "3342"
+      },
+      {
+         "State": "North Dakota",
+         "Number of buses": "3331"
+      },
+      {
+         "State": "Nevada",
+         "Number of buses": "3198"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of buses": "3155"
+      },
+      {
+         "State": "Hawaii",
+         "Number of buses": "3033"
+      },
+      {
+         "State": "New Hampshire",
+         "Number of buses": "2871"
+      },
+      {
+         "State": "South Dakota",
+         "Number of buses": "2614"
+      },
+      {
+         "State": "Rhode Island",
+         "Number of buses": "2273"
+      },
+      {
+         "State": "Vermont",
+         "Number of buses": "1070"
+      }
+   ],
+   "gold": "This statistic represents the number of bus registrations in the United States in 2017 , by federal state , including the District of Columbia . With around 99,900 registered buses , California was ranked first .\n"
+}

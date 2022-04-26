@@ -1,0 +1,50 @@
+{
+   "title": "Global EPC market value forecast by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Market value in trillion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic represents the forecast Market value of EPC worldwide in 2019 , forecast leading Country . ",
+      "The estimated EPC Market of the Asia/Australia were amounted to approximately 1.95 trillion U.S. dollars in 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Market value in trillion U.S. dollars": "2.02"
+      },
+      {
+         "Country": "Asia/Australia",
+         "Market value in trillion U.S. dollars": "1.95"
+      },
+      {
+         "Country": "Western Europe",
+         "Market value in trillion U.S. dollars": "1.62"
+      },
+      {
+         "Country": "Middle East",
+         "Market value in trillion U.S. dollars": "0.63"
+      },
+      {
+         "Country": "South America",
+         "Market value in trillion U.S. dollars": "0.63"
+      },
+      {
+         "Country": "Eastern Europe",
+         "Market value in trillion U.S. dollars": "0.53"
+      },
+      {
+         "Country": "Africa",
+         "Market value in trillion U.S. dollars": "0.22"
+      }
+   ],
+   "gold": "This statistic provides a projection of the engineering , procurement , and construction ( EPC ) market value at the end of 2019 , broken down by world region . By the end of that year , Western Europe 's EPC market is expected to reach a value of 1.62 trillion U.S. dollars .\n"
+}

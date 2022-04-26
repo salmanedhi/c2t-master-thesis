@@ -1,0 +1,124 @@
+{
+   "title": "Vegetables production worldwide by type 2017",
+   "xAxis": "Vegetable",
+   "yAxis": "Amount in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Amount of million metric tons 2017 top Vegetables Vegetable . ",
+      "During the first quarter of 2017 , an Lettuce_and_chicory million metric tons 2017 Tomatoes 182.3 million metric tons . ",
+      "In constrast , top Tomatoes influencer Cara Delevigne 2017 an Lettuce_and_chicory user type of 662,894 interactions tons ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "10",
+         "13": "0",
+         "15": "0"
+      },
+      {
+         "4": "0",
+         "10": "10"
+      }
+   ],
+   "data": [
+      {
+         "Vegetable": "Tomatoes",
+         "Amount in million metric tons": "182.3"
+      },
+      {
+         "Vegetable": "Onions dry",
+         "Amount in million metric tons": "97.86"
+      },
+      {
+         "Vegetable": "Cucumbers and gherkins",
+         "Amount in million metric tons": "83.75"
+      },
+      {
+         "Vegetable": "Cabbages and other brassicas",
+         "Amount in million metric tons": "71.45"
+      },
+      {
+         "Vegetable": "Eggplants (aubergines)",
+         "Amount in million metric tons": "52.31"
+      },
+      {
+         "Vegetable": "Carrots and turnips",
+         "Amount in million metric tons": "42.83"
+      },
+      {
+         "Vegetable": "Chillies and peppers green",
+         "Amount in million metric tons": "36.1"
+      },
+      {
+         "Vegetable": "Garlic",
+         "Amount in million metric tons": "28.16"
+      },
+      {
+         "Vegetable": "Spinach",
+         "Amount in million metric tons": "27.88"
+      },
+      {
+         "Vegetable": "Pumpkins squash and gourds",
+         "Amount in million metric tons": "27.44"
+      },
+      {
+         "Vegetable": "Lettuce and chicory",
+         "Amount in million metric tons": "26.86"
+      },
+      {
+         "Vegetable": "Cauliflowers and broccoli",
+         "Amount in million metric tons": "26.0"
+      },
+      {
+         "Vegetable": "Beans green",
+         "Amount in million metric tons": "24.22"
+      },
+      {
+         "Vegetable": "Peas green",
+         "Amount in million metric tons": "20.7"
+      },
+      {
+         "Vegetable": "Maize green",
+         "Amount in million metric tons": "11.73"
+      },
+      {
+         "Vegetable": "Mushrooms and truffles",
+         "Amount in million metric tons": "10.24"
+      },
+      {
+         "Vegetable": "Okra",
+         "Amount in million metric tons": "9.64"
+      },
+      {
+         "Vegetable": "Asparagus",
+         "Amount in million metric tons": "8.95"
+      },
+      {
+         "Vegetable": "Onions shallots green",
+         "Amount in million metric tons": "5.13"
+      },
+      {
+         "Vegetable": "Cassava leaves",
+         "Amount in million metric tons": "2.35"
+      },
+      {
+         "Vegetable": "Leeks other alliaceous vegetables",
+         "Amount in million metric tons": "2.17"
+      },
+      {
+         "Vegetable": "String beans",
+         "Amount in million metric tons": "1.87"
+      },
+      {
+         "Vegetable": "Vegetables leguminous nes",
+         "Amount in million metric tons": "1.51"
+      },
+      {
+         "Vegetable": "Artichokes",
+         "Amount in million metric tons": "1.5"
+      }
+   ],
+   "gold": "This graph shows the global vegetable production in 2017 , broken down by type . In that year , approximately 182 million metric tons of tomatoes were produced worldwide . Vegetable production The term vegetable refers to an edible part of a plant which can be consumed raw or cooked .\n"
+}

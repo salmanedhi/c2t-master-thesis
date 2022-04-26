@@ -1,0 +1,41 @@
+{
+   "title": "Latin America : Soccer World Cup titles won by country 1930 to 2018",
+   "xAxis": "Latin American Soccer Teams",
+   "yAxis": "Number of World Cup titles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Latin of Soccer in Latin America , as a percentage of incidence . ",
+      "The most common Latin is Argentina(1978_1986) , identified as causing 5 % , with Uruguay(1930_1950) of second at 35 % . ",
+      "Brazil(19581962_1970_1994_2002) is third , causing 2 % of Latin ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "0",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Latin American Soccer Teams": "Brazil(19581962 1970 1994 2002)",
+         "Number of World Cup titles": "5"
+      },
+      {
+         "Latin American Soccer Teams": "Argentina(1978 1986)",
+         "Number of World Cup titles": "2"
+      },
+      {
+         "Latin American Soccer Teams": "Uruguay(1930 1950)",
+         "Number of World Cup titles": "2"
+      }
+   ],
+   "gold": "The graph depicts the number of soccer World Cup titles won by Latin American teams since the inaugural World Cup in 1930 . Brazil has won five soccer World Cup titles : 1958,1962 , 1970 , 1994 and 2002 . The only other Latin American squads who have won the tournament are Argentina and Uruguay , with two World Cup titles each .\n"
+}

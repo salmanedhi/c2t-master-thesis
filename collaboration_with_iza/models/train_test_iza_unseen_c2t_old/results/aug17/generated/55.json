@@ -1,0 +1,44 @@
+{
+   "title": "U.S. gasoline motor fuel taxes July 2019",
+   "xAxis": "Tax",
+   "yAxis": "Cents per gallon",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , it was found that people in the U.S. with a Master 's degree in State_excise_tax had the highest Cents starting per , at 54.57 gallon . ",
+      "People who held a Master 's degree in Other_state_taxes/fees and had the second highest starting per , at 11.32 gallon . ",
+      "An abundance of Masters As higher education in the U.S. has become more common , and even expected , the number of Master 's degrees awarded has increased ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "26": "3"
+      },
+      {
+         "8": "1",
+         "10": "1",
+         "19": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Tax": "State excise tax",
+         "Cents per gallon": "24.85"
+      },
+      {
+         "Tax": "Other state taxes/fees",
+         "Cents per gallon": "11.32"
+      },
+      {
+         "Tax": "Total state taxes/fees",
+         "Cents per gallon": "36.17"
+      },
+      {
+         "Tax": "Total state plus federal excise taxes",
+         "Cents per gallon": "54.57"
+      }
+   ],
+   "gold": "This statistic represents the U.S. gasoline motor fuel taxes as of July 2019 . Consumers in the United States had to pay state and federal gasoline motor fuel taxes of around 54.6 U.S. dollar cents per gallon . In 2018 , the average annual retail price of gasoline in the United States came to around 2.72 U.S. dollars .\n"
+}

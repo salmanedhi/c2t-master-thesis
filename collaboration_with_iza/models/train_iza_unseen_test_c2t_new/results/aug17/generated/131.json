@@ -1,0 +1,109 @@
+{
+   "title": "Leading car brands : compound annual production growth rates 2012 to 2017",
+   "xAxis": "Car Brand",
+   "yAxis": "Compound annual growth rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Compound of annual made by Car in a compound annual . ",
+      "\\\\n From the chart we see that the Mazda Car was the Leading car in the annual with 12.1 annual . ",
+      "The next Car to make the most annual was the Mitsubishi Car with 6.4 annual closely followed by the Toyota Car with 1.3 annual ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "19",
+         "22": "19"
+      }
+   ],
+   "data": [
+      {
+         "Car Brand": "Buick",
+         "Compound annual growth rate": "12.1"
+      },
+      {
+         "Car Brand": "Citroen",
+         "Compound annual growth rate": "6.8"
+      },
+      {
+         "Car Brand": "Mazda",
+         "Compound annual growth rate": "6.6"
+      },
+      {
+         "Car Brand": "Mitsubishi",
+         "Compound annual growth rate": "6.4"
+      },
+      {
+         "Car Brand": "Audi",
+         "Compound annual growth rate": "6.4"
+      },
+      {
+         "Car Brand": "Honda",
+         "Compound annual growth rate": "5.8"
+      },
+      {
+         "Car Brand": "Ford",
+         "Compound annual growth rate": "5.7"
+      },
+      {
+         "Car Brand": "Mercedes-Benz",
+         "Compound annual growth rate": "5.7"
+      },
+      {
+         "Car Brand": "Chevrolet",
+         "Compound annual growth rate": "5.5"
+      },
+      {
+         "Car Brand": "Renault",
+         "Compound annual growth rate": "5.2"
+      },
+      {
+         "Car Brand": "Fiat",
+         "Compound annual growth rate": "5"
+      },
+      {
+         "Car Brand": "Hyundai",
+         "Compound annual growth rate": "4.3"
+      },
+      {
+         "Car Brand": "BMW",
+         "Compound annual growth rate": "4.2"
+      },
+      {
+         "Car Brand": "Volkswagen",
+         "Compound annual growth rate": "4.1"
+      },
+      {
+         "Car Brand": "Peugeot",
+         "Compound annual growth rate": "4.1"
+      },
+      {
+         "Car Brand": "Nissan",
+         "Compound annual growth rate": "3.5"
+      },
+      {
+         "Car Brand": "Kia",
+         "Compound annual growth rate": "3.3"
+      },
+      {
+         "Car Brand": "Wuling",
+         "Compound annual growth rate": "1.9"
+      },
+      {
+         "Car Brand": "Suzuki",
+         "Compound annual growth rate": "1.9"
+      },
+      {
+         "Car Brand": "Toyota",
+         "Compound annual growth rate": "1.3"
+      }
+   ],
+   "gold": "The statistic shows assembly compound annual growth rates of the world 's leading car brands between 2012 and 2017 . The production volume of Audi vehicles is expected to grow at a compound annual growth rate of 6.4 percent between 2012 and 2017 . The Audi brand is the premium marque within the Volkswagen Group .\n"
+}

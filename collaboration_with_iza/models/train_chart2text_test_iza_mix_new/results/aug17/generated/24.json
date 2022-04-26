@@ -1,0 +1,38 @@
+{
+   "title": "Women representation in law firms",
+   "xAxis": "Sector",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of in the firms diagnosed representation law A , sorted firms Sector , as of . ",
+      "During that period of time , 35 percentage of representation law A were between 0 and 4 Financial_Groups of Sector ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sector": "Financial Groups",
+         "Percentage": "50"
+      },
+      {
+         "Sector": "Tech",
+         "Percentage": "62"
+      },
+      {
+         "Sector": "Insurance",
+         "Percentage": "65"
+      },
+      {
+         "Sector": "Law Firms",
+         "Percentage": "35"
+      }
+   ],
+   "gold": "The graph shows the representation of woman in different sectors . This shows that women are less likely to be employed by law firms than financial groups , tech and insurance .\n"
+}

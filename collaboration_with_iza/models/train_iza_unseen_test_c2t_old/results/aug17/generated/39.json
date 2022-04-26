@@ -1,0 +1,73 @@
+{
+   "title": "United Kingdom : largest import commodities 2018",
+   "xAxis": "Month",
+   "yAxis": "Value of imports in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the United Kingdom largest in the import competirion . ",
+      "\\\\n From the chart we see that the Chemicals Month made the United imports by some margin , with only 95.8",
+      "Animal_and_vegetable_oils_and_fats and Fuels made a respectable 112.9 and 152.9 imports , with Unspecified_goods and Marieral_manufactures not far behind , at 95.8 and 107.2 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Fuels",
+         "Value of imports in million GBP": "152.9"
+      },
+      {
+         "Month": "Animal and vegetable oils and fats",
+         "Value of imports in million GBP": "112.9"
+      },
+      {
+         "Month": "Crude materials",
+         "Value of imports in million GBP": "112.6"
+      },
+      {
+         "Month": "Marieral manufactures",
+         "Value of imports in million GBP": "107.2"
+      },
+      {
+         "Month": "Chemicals",
+         "Value of imports in million GBP": "106.9"
+      },
+      {
+         "Month": "Beverages and tobacoo",
+         "Value of imports in million GBP": "105.9"
+      },
+      {
+         "Month": "Machinery and transport equipment",
+         "Value of imports in million GBP": "104.8"
+      },
+      {
+         "Month": "Food and live animals",
+         "Value of imports in million GBP": "104.3"
+      },
+      {
+         "Month": "Miscellaneous manufactures",
+         "Value of imports in million GBP": "103.8"
+      },
+      {
+         "Month": "Unspecified goods",
+         "Value of imports in million GBP": "95.8"
+      }
+   ],
+   "gold": "This statistic shows the 30 largest import commodities of the United Kingdom ( UK ) in 2018 in million GBP . This ranges from machinery and oil to food and chemicals . In this year , the largest imported commodity was fuel , with approximately 152 million British pounds , followed by animal and vegetable oils and crude materials with almost 113 million British pounds each .\n"
+}

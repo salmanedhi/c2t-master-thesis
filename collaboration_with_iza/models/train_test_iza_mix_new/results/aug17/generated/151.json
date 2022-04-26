@@ -1,0 +1,56 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the most explored Glacier by the Number of expeditions they 've had . ",
+      "\\n It shows Volta has had 4 expeditions , Tasman has had the most at 2 expeditions , Akkem has had 9 , Zvezda has had 6 , Mefonna has had the most expeditions at 13 and Olav has had 5 expeditions ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "1",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "4",
+         "37": "5",
+         "40": "5"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "This chart shows the most explored glaciers by number of expeditions . \\n From the chart we see that the Akkem and Mefonna glaciers ( with 9 and 13 visits respectively , for a total of 22 ) were visited more often than the remaining 4 glaciers put together ( with a combined total of 17 ) .\n"
+}

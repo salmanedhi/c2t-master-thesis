@@ -1,0 +1,69 @@
+{
+   "title": "Instagram : most-followed beauty brands 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of Instagram followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Instagram of 's most-followed brands based on the NYX_Professional_Makeup private beauty NYX_Professional_Makeup for MAT 2019 . ",
+      "Pharma company MAC_Cosmetics showed the highest Instagram with a 22.61 millions increase during this period ."
+   ],
+   "trends": [
+      {
+         "13": "5",
+         "16": "5"
+      },
+      {
+         "2": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "MAC Cosmetics",
+         "Number of Instagram followers in millions": "22.61"
+      },
+      {
+         "Month": "Kylie Cosmetics",
+         "Number of Instagram followers in millions": "21.81"
+      },
+      {
+         "Month": "Anastasia Beverly Hills",
+         "Number of Instagram followers in millions": "19.71"
+      },
+      {
+         "Month": "Calvin Klein",
+         "Number of Instagram followers in millions": "18.73"
+      },
+      {
+         "Month": "Sephora",
+         "Number of Instagram followers in millions": "18.38"
+      },
+      {
+         "Month": "NYX Professional Makeup",
+         "Number of Instagram followers in millions": "14.14"
+      },
+      {
+         "Month": "Too Faced Cosmetics",
+         "Number of Instagram followers in millions": "12.97"
+      },
+      {
+         "Month": "Urban Decay Cosmetics",
+         "Number of Instagram followers in millions": "11.12"
+      },
+      {
+         "Month": "Morphe",
+         "Number of Instagram followers in millions": "9.84"
+      },
+      {
+         "Month": "Tarte Cosmetics",
+         "Number of Instagram followers in millions": "9.78"
+      },
+      {
+         "Month": "Benefit Cosmetics",
+         "Number of Instagram followers in millions": "9.64"
+      }
+   ],
+   "gold": "As of September 2019 , MAC Cosmetics was ranked first as the most popular beauty brand on Instagram with 22.6 million followers , and Kylie Cosmetics ranked second with 21.8 million . Instagram is a popular social network for brands to connect with digital audiences , and beauty brands have been making inroads on the platform due to its visual focus and strong presence of social media influencers . Beauty content on social media A picture says more than a thousand words , and millions of pictures are shared on Instagram every day .\n"
+}

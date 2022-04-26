@@ -1,0 +1,74 @@
+{
+   "title": "Cyber attacks on industries worldwide 2017",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the results of a survey among Cyber adult attacks . ",
+      "The survey was fielded Manufacturing by Harris Interactive in 2017 , asking the respondents where they usually worldwide their shampoo and/or 2017 . ",
+      "Some 22 % of Cyber adults indicated that they buy their shampoo/conditioner Manufacturing ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3"
+      },
+      {
+         "1": "3",
+         "12": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Energy",
+         "Share of respondents": "26"
+      },
+      {
+         "Month": "Healthcare",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Retail and wholesale",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Manufacturing",
+         "Share of respondents": "22"
+      },
+      {
+         "Month": "Infrastructure",
+         "Share of respondents": "19"
+      },
+      {
+         "Month": "Financial institutions",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "Automotive",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Professional services",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Power and utilities",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Marine",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Communications media and technology",
+         "Share of respondents": "13"
+      },
+      {
+         "Month": "Aviation and aerospace",
+         "Share of respondents": "9"
+      }
+   ],
+   "gold": "This statistic presents a ranking of the industries most commonly impacted by cyber attacks worldwide as of September 2017 . During the survey , 26 percent of respondents from the energy sector stated that their company had been victim of cyber attacks in the past 12 months .\n"
+}

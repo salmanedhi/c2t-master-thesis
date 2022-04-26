@@ -1,0 +1,48 @@
+{
+   "title": "InfoWars credibility in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the InfoWars credibility U.S. in the 2017 , ranking by Share of respondents . ",
+      "Not_at_all_credible are the InfoWars credibility and have the most respondents ( around 43 respondents ) , whilst Somewhat_credible are the most credibility with around 6 mistake ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "12": "0",
+         "17": "4",
+         "24": "5"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Never heard of",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Heard of no opinion",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Not at all credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Not too credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Somewhat credible",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Very credible",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This timeline presents data on the credibility of InfoWars in the United States as of November 2017 . During a survey , six percent of respondents stated that they found the website very credible .\n"
+}

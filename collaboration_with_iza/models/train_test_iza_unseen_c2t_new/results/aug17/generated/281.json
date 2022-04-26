@@ -1,0 +1,155 @@
+{
+   "title": "Major League Baseball hot dog prices by team 2019",
+   "xAxis": "Baseball Teams",
+   "yAxis": "Hot dog price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Washington_Nationals , one of the most iconic and popular Baseball in the National Football League , has had the most dog price to its name with 7.0",
+      "The Baseball has made it to the Super Bowl 2.0 team , winning five of those championship games . ",
+      "However , since the start of the Los_Angeles_Dodgers millennium Arizona_Diamondbacks Baseball , the Los_Angeles_Dodgers Kansas_City_Royals , have been much more successful ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "27": "0"
+      },
+      {
+         "9": "29"
+      },
+      {
+         "7": "2",
+         "9": "29",
+         "13": "2",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Baseball Teams": "Washington Nationals",
+         "Hot dog price in U.S. dollars": "7.0"
+      },
+      {
+         "Baseball Teams": "New York Mets",
+         "Hot dog price in U.S. dollars": "6.75"
+      },
+      {
+         "Baseball Teams": "Los Angeles Dodgers",
+         "Hot dog price in U.S. dollars": "6.75"
+      },
+      {
+         "Baseball Teams": "Chicago Cubs",
+         "Hot dog price in U.S. dollars": "6.5"
+      },
+      {
+         "Baseball Teams": "San Francisco Giants",
+         "Hot dog price in U.S. dollars": "6.5"
+      },
+      {
+         "Baseball Teams": "Seattle Mariners",
+         "Hot dog price in U.S. dollars": "6.5"
+      },
+      {
+         "Baseball Teams": "Texas Rangers",
+         "Hot dog price in U.S. dollars": "6.0"
+      },
+      {
+         "Baseball Teams": "Milwaukee Brewers",
+         "Hot dog price in U.S. dollars": "6.0"
+      },
+      {
+         "Baseball Teams": "Kansas City Royals",
+         "Hot dog price in U.S. dollars": "5.75"
+      },
+      {
+         "Baseball Teams": "Oakland Athletics",
+         "Hot dog price in U.S. dollars": "5.75"
+      },
+      {
+         "Baseball Teams": "Houston Astros",
+         "Hot dog price in U.S. dollars": "5.5"
+      },
+      {
+         "Baseball Teams": "Colorado Rockies",
+         "Hot dog price in U.S. dollars": "5.5"
+      },
+      {
+         "Baseball Teams": "Cincinnati Reds",
+         "Hot dog price in U.S. dollars": "5.5"
+      },
+      {
+         "Baseball Teams": "Boston Red Sox",
+         "Hot dog price in U.S. dollars": "5.25"
+      },
+      {
+         "Baseball Teams": "San Diego Padres",
+         "Hot dog price in U.S. dollars": "5.25"
+      },
+      {
+         "Baseball Teams": "Los Angeles Angels",
+         "Hot dog price in U.S. dollars": "5.0"
+      },
+      {
+         "Baseball Teams": "Tampa Bay Rays",
+         "Hot dog price in U.S. dollars": "5.0"
+      },
+      {
+         "Baseball Teams": "Detroit Tigers",
+         "Hot dog price in U.S. dollars": "5.0"
+      },
+      {
+         "Baseball Teams": "St. Louis Cardinals",
+         "Hot dog price in U.S. dollars": "5.0"
+      },
+      {
+         "Baseball Teams": "MLB league average",
+         "Hot dog price in U.S. dollars": "4.95"
+      },
+      {
+         "Baseball Teams": "Chicago White Sox",
+         "Hot dog price in U.S. dollars": "4.5"
+      },
+      {
+         "Baseball Teams": "Atlanta Braves",
+         "Hot dog price in U.S. dollars": "4.25"
+      },
+      {
+         "Baseball Teams": "Cleveland Indians",
+         "Hot dog price in U.S. dollars": "4.25"
+      },
+      {
+         "Baseball Teams": "Toronto Blue Jays",
+         "Hot dog price in U.S. dollars": "4.13"
+      },
+      {
+         "Baseball Teams": "Minnesota Twins",
+         "Hot dog price in U.S. dollars": "4.0"
+      },
+      {
+         "Baseball Teams": "Philadelphia Phillies",
+         "Hot dog price in U.S. dollars": "4.0"
+      },
+      {
+         "Baseball Teams": "Pittsburgh Pirates",
+         "Hot dog price in U.S. dollars": "3.5"
+      },
+      {
+         "Baseball Teams": "New York Yankees",
+         "Hot dog price in U.S. dollars": "3.0"
+      },
+      {
+         "Baseball Teams": "Miami Marlins",
+         "Hot dog price in U.S. dollars": "3.0"
+      },
+      {
+         "Baseball Teams": "Arizona Diamondbacks",
+         "Hot dog price in U.S. dollars": "2.0"
+      },
+      {
+         "Baseball Teams": "Baltimore Orioles",
+         "Hot dog price in U.S. dollars": "1.5"
+      }
+   ],
+   "gold": "No game of baseball is complete without a trip to the concessions stand , but how much money a fan needs to part with in order to get their hands on a hot dog varies widely from team to team . While a hot dog at the home games of the Baltimore Orioles would set you back just 1.5 U.S. dollars , the same snack at Citi Field during a New York Mets game would cost you 6.75 U.S. dollars . Digging deep for snacks It seems that baseball in the Big Apple does not come cheap .\n"
+}

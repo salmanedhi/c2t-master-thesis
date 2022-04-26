@@ -1,0 +1,69 @@
+{
+   "title": "Inflation rate of the main industrialized and emerging countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Inflation rate Country in terms of the Inflation of rate with USA having the Inflation \u2013 4.68 rate down to Brazil the least rate of the group at 0.99 rate . ",
+      "In between , we have Russia 4.68 , Japan 0.99 , China 2.31 and India 3.44 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "8"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "8",
+         "9": "8",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Russia",
+         "Inflation rate compared to previous year": "4.68"
+      },
+      {
+         "Country": "Brazil",
+         "Inflation rate compared to previous year": "3.79"
+      },
+      {
+         "Country": "India",
+         "Inflation rate compared to previous year": "3.44"
+      },
+      {
+         "Country": "China",
+         "Inflation rate compared to previous year": "2.31"
+      },
+      {
+         "Country": "USA",
+         "Inflation rate compared to previous year": "1.82"
+      },
+      {
+         "Country": "United Kingdom",
+         "Inflation rate compared to previous year": "1.81"
+      },
+      {
+         "Country": "Germany",
+         "Inflation rate compared to previous year": "1.49"
+      },
+      {
+         "Country": "France",
+         "Inflation rate compared to previous year": "1.17"
+      },
+      {
+         "Country": "Japan",
+         "Inflation rate compared to previous year": "0.99"
+      }
+   ],
+   "gold": "This statistic shows the inflation rate of the main industrialized and emerging countries in 2019 . In 2019 , the inflation rate in China was estimated to amount to approximately 2.31 percent compared to the previous year .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Price of tobacco sticks used with IQOS device from Phillip Morris in France 2019",
+   "xAxis": "Tobacco sticks used with IQOS devices",
+   "yAxis": "Price in euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic gives an device of American sticks platform IQOS as of 2019 . ",
+      "As of that time , the number of Heets_Amber_Label_(61g)_20_units on IQOS amounted to 7 , with the Heets_Sienna_Label_(61g)_20_units among these Heets_Amber_Label_(61g)_20_units amounting to 7 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "13": "0",
+         "17": "6",
+         "20": "0",
+         "23": "6"
+      }
+   ],
+   "data": [
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Amber Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Blue Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Turquoise Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Yellow Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Blue Label (62g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Bronze Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Sienna Label (61g) 20 units",
+         "Price in euros": "7"
+      }
+   ],
+   "gold": "This statistic displays the price of tobacco sticks packs used with the IQOS smoking device from the brand Phillip Morris in France as of February 2019 . It shows that the Heets tobacco sticks were worth 7 euros per pack of 20 units .\n"
+}

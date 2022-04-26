@@ -1,0 +1,51 @@
+{
+   "title": "Leading men 's razorblade brands ranked by sales in the United Kingdom ( UK ) 2014",
+   "xAxis": "Brands Of Men 's Blades",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading Sales million of Brands Men in the United Kingdom ( UK ) during the period from to 2014 . ",
+      "Gillette and Wilkinson_Sword cost an Sales 66.9 million British pounds in the UK , followed sales Wilkinson_Sword and Gillette at 78.7 million British pounds . ",
+      "A majority of British consumers drink Gillette on a daily basis , with earlier times in the day peak period for Gillette drinking ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "1",
+         "6": "1",
+         "16": "1",
+         "18": "1",
+         "19": "0"
+      },
+      {
+         "6": "0",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brands Of Men 's Blades": "Gillette",
+         "Sales in million GBP": "249.9"
+      },
+      {
+         "Brands Of Men 's Blades": "Wilkinson Sword",
+         "Sales in million GBP": "66.9"
+      },
+      {
+         "Brands Of Men 's Blades": "Bic",
+         "Sales in million GBP": "16.2"
+      },
+      {
+         "Brands Of Men 's Blades": "King of Slaves",
+         "Sales in million GBP": "1.0"
+      },
+      {
+         "Brands Of Men 's Blades": "Super-Max",
+         "Sales in million GBP": "0.5"
+      }
+   ],
+   "gold": "This statistic shows the leading five brands of men 's blades sold in the United Kingdom ( UK ) ranked by their total sales in the year to December 2014 . Gillette ranked highest of the men 's blades brands sold in the UK , generating 249.9 million British pounds in sales .\n"
+}

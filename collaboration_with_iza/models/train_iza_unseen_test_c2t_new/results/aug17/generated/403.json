@@ -1,0 +1,81 @@
+{
+   "title": "Number of casinos worldwide 2011 by region",
+   "xAxis": "Country",
+   "yAxis": "Number of casinos",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Number casinos Country in terms of the Number of casinos with Africa having the Number \u2013 1623 casinos down to Western_Europe the least casinos of the group at 5 casinos . ",
+      "In between , we have North_America 1623 , Middle_East 5 , South_America 199 and Eastern_Europe 479 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "11"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "11",
+         "9": "11",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Number of casinos": "1623"
+      },
+      {
+         "Country": "Western Europe",
+         "Number of casinos": "682"
+      },
+      {
+         "Country": "Eastern Europe",
+         "Number of casinos": "479"
+      },
+      {
+         "Country": "South America",
+         "Number of casinos": "199"
+      },
+      {
+         "Country": "Africa",
+         "Number of casinos": "157"
+      },
+      {
+         "Country": "Caribbean",
+         "Number of casinos": "124"
+      },
+      {
+         "Country": "Far East",
+         "Number of casinos": "103"
+      },
+      {
+         "Country": "Central America",
+         "Number of casinos": "93"
+      },
+      {
+         "Country": "Central Asia",
+         "Number of casinos": "42"
+      },
+      {
+         "Country": "Oceania",
+         "Number of casinos": "25"
+      },
+      {
+         "Country": "South Asia",
+         "Number of casinos": "15"
+      },
+      {
+         "Country": "Middle East",
+         "Number of casinos": "5"
+      }
+   ],
+   "gold": "This statistic shows the number of casinos worldwide by region in 2011 . In that year , North America was the region with the most casinos with 1,623 . In 2016 , the U.S. casino gaming market had revenues of 71.1 billion U.S. dollars .\n"
+}

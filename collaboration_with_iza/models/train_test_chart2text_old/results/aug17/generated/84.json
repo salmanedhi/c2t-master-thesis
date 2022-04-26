@@ -1,0 +1,52 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unnamed: 1 of the US American Airlines in 2015 , figures Key area . ",
+      "In that year , 427533.0 % of American Airlines 1 were between 18 and 24 Number_of_countries_served . ",
+      "American Airlines Companies is headquartered in Midtown Manhattan , New York City and was founded in 1946 2015 Joseph American Airlines and his wife American Airlines ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "5",
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": "55.0"
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": "6985.0"
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": "1549.0"
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": "197.3"
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": "350627.0"
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": "427533.0"
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": "82.0"
+      }
+   ],
+   "gold": "This statistic represents combined key figures for American Airlines and US Airways ( as of June 2015 ) . American Airlines and US Airways had passenger traffic amounting to around 351 billion revenue passenger kilometers .\n"
+}

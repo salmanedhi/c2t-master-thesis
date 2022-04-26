@@ -1,0 +1,64 @@
+{
+   "title": "Countries with biggest Facebook user share 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of global monthly active Facebook users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Countries biggest Facebook in the user share , ranking by Share of global . ",
+      "Brazil are the Countries biggest and have the most global ( around 12 global ) , whilst Mexico are the most biggest with around 2 mistake ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "12": "0",
+         "17": "4",
+         "24": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Share of global monthly active Facebook users": "12"
+      },
+      {
+         "Country": "United States",
+         "Share of global monthly active Facebook users": "11"
+      },
+      {
+         "Country": "Brazil",
+         "Share of global monthly active Facebook users": "6"
+      },
+      {
+         "Country": "Indonesia",
+         "Share of global monthly active Facebook users": "6"
+      },
+      {
+         "Country": "Mexico",
+         "Share of global monthly active Facebook users": "4"
+      },
+      {
+         "Country": "Philippines",
+         "Share of global monthly active Facebook users": "3"
+      },
+      {
+         "Country": "Vietnam",
+         "Share of global monthly active Facebook users": "3"
+      },
+      {
+         "Country": "Thailand",
+         "Share of global monthly active Facebook users": "2"
+      },
+      {
+         "Country": "Turkey",
+         "Share of global monthly active Facebook users": "2"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of global monthly active Facebook users": "2"
+      }
+   ],
+   "gold": "The statistic shows a ranking on the leading countries based on their share of Facebook users worldwide as of January 2018 . During the measured period , the United States accounted for 11 percent of the global Facebook population . India accounted for 12 percent of total Facebook users worldwide , having finally overtaken the United States in terms of Facebook user figures .\n"
+}

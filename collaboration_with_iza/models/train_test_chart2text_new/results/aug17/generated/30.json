@@ -1,0 +1,106 @@
+{
+   "title": "Largest companies in Finland 2018 , by number of employees",
+   "xAxis": "Company",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of employees Finland the 2018 KONE_Oyj number employees in 2018 . ",
+      "The KONE_Oyj Company Nokia_Oyj employees the most people among the 2018 KONE_Oyj number , with 101731 employees in 2018 ."
+   ],
+   "trends": [
+      {
+         "10": "1"
+      },
+      {
+         "1": "1",
+         "3": "0",
+         "11": "1",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Nokia Oyj",
+         "Number of employees": "101731"
+      },
+      {
+         "Company": "KONE Oyj",
+         "Number of employees": "53417"
+      },
+      {
+         "Company": "Stora Enso Oyj",
+         "Number of employees": "26206"
+      },
+      {
+         "Company": "Helsing ja Uudenmaan Sairaanhoitopiirin kuntayhtym\u00e4",
+         "Number of employees": "22970"
+      },
+      {
+         "Company": "Kesko Oyj",
+         "Number of employees": "22077"
+      },
+      {
+         "Company": "PKC Group Oyj",
+         "Number of employees": "21277"
+      },
+      {
+         "Company": "Posti Group Oyj",
+         "Number of employees": "20632"
+      },
+      {
+         "Company": "UPM-Kymmene Oyj",
+         "Number of employees": "19489"
+      },
+      {
+         "Company": "W\u00e4rtsil\u00e4 Oyj Abp",
+         "Number of employees": "17866"
+      },
+      {
+         "Company": "Huhtam\u00e4ki Oyj",
+         "Number of employees": "17361"
+      },
+      {
+         "Company": "Caverion Oyj",
+         "Number of employees": "16607"
+      },
+      {
+         "Company": "Konecranes Oyj",
+         "Number of employees": "15519"
+      },
+      {
+         "Company": "SLP Group Oy",
+         "Number of employees": "15015"
+      },
+      {
+         "Company": "Tieto Oyj",
+         "Number of employees": "13889"
+      },
+      {
+         "Company": "Solemo Oy",
+         "Number of employees": "13685"
+      },
+      {
+         "Company": "Staffpoint Oy",
+         "Number of employees": "12641"
+      },
+      {
+         "Company": "Valmet Oyj",
+         "Number of employees": "12208"
+      },
+      {
+         "Company": "Metso Oyj",
+         "Number of employees": "11703"
+      },
+      {
+         "Company": "Cargotec Oyj",
+         "Number of employees": "11128"
+      },
+      {
+         "Company": "Outokumpu Oyj",
+         "Number of employees": "10485"
+      }
+   ],
+   "gold": "This statistic shows the largest companies in Finland as of November 2018 , by number of employees . At the time , Nokia Oyj was the largest company in Finland , employing a little over 101,700 people . Nokia is a global communications and IT company , largely known of its mobile phones and losing share of the mobile phone market in the beginning of the 21st century .\n"
+}

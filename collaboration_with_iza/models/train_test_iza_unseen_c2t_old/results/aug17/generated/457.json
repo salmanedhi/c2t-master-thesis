@@ -1,0 +1,69 @@
+{
+   "title": "Global cumulative installed capacity of wind power by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Cumulative installed capacity in megawatts",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , 216870 of the Rest_of_the_world 's installed most powerful installed were located in China , a figure which nearly doubled that of its nearest competitor , the United_States , which accounted for an additional 96363 installed . ",
+      "Together , the two nations account for around two-thirds of the Rest_of_the_world 's most powerful installed . ",
+      "installed As the name suggests , a supercomputer is a machine with massive computing power , capable of working with huge amounts of data and performing incredibly complex computations ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "7": "9",
+         "16": "0",
+         "30": "1",
+         "37": "1"
+      },
+      {
+         "11": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Cumulative installed capacity in megawatts": "216870"
+      },
+      {
+         "Country": "United States",
+         "Cumulative installed capacity in megawatts": "96363"
+      },
+      {
+         "Country": "Germany",
+         "Cumulative installed capacity in megawatts": "59313"
+      },
+      {
+         "Country": "India",
+         "Cumulative installed capacity in megawatts": "35017"
+      },
+      {
+         "Country": "Spain",
+         "Cumulative installed capacity in megawatts": "23494"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cumulative installed capacity in megawatts": "20743"
+      },
+      {
+         "Country": "France",
+         "Cumulative installed capacity in megawatts": "15313"
+      },
+      {
+         "Country": "Brazil",
+         "Cumulative installed capacity in megawatts": "14490"
+      },
+      {
+         "Country": "Canada",
+         "Cumulative installed capacity in megawatts": "12816"
+      },
+      {
+         "Country": "Rest of the world",
+         "Cumulative installed capacity in megawatts": "102138"
+      }
+   ],
+   "gold": "China is by far the largest installer of wind power capacity in the world , more than doubling the second-ranked United States . As of 2018 , China had cumulatively installed over 216.87 gigawatts of wind energy , in comparison to 96.4 gigawatts of wind energy installed in the United States . Worldwide , cumulative capacity of installed wind energy reached 596.6 gigawatts in 2018 , a generous increase over the last decades .\n"
+}

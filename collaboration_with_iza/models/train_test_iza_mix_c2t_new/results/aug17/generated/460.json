@@ -1,0 +1,49 @@
+{
+   "title": "Bombardier - Revenues by segment 2018",
+   "xAxis": "Segment",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Transportation dollars in the 2018 in , 2018 Aerostructures_and_Engineering_Services . ",
+      "In that year , the Revenues Transportation Business_Aircraft Billion 1.76 dollars in the Revenues . ",
+      "The Revenues - additional information The Revenues 's Business_Aircraft and services range from its well-known theme Business_Aircraft and films , to retail merchandise , cruise lines , and television Transportation ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "0",
+         "14": "2"
+      },
+      {
+         "6": "0",
+         "7": "1",
+         "9": "3"
+      },
+      {
+         "8": "1",
+         "16": "1",
+         "29": "0"
+      }
+   ],
+   "data": [
+      {
+         "Segment": "Transportation",
+         "Billion U.S. dollars": "8.91"
+      },
+      {
+         "Segment": "Business Aircraft",
+         "Billion U.S. dollars": "4.99"
+      },
+      {
+         "Segment": "Aerostructures and Engineering Services",
+         "Billion U.S. dollars": "1.95"
+      },
+      {
+         "Segment": "Commercial Aircraft",
+         "Billion U.S. dollars": "1.76"
+      }
+   ],
+   "gold": "This statistic gives a breakdown of Bombardier 's revenue in the fiscal year of 2018 , by segment . The Montreal-headquartered company had revenues of approximately five billion U.S. dollars in its business aircraft segment .\n"
+}

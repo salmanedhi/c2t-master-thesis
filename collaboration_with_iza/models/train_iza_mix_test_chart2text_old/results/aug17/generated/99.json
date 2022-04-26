@@ -1,0 +1,69 @@
+{
+   "title": "Leading insurance brokers U.S. 2018 , by revenue",
+   "xAxis": "Month",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Revenue of billion conducted by brokers in a U.S. 2018 . ",
+      "\\\\n From the chart we see that the Willis_Towers_Watson_P.L.C. Month was the Leading insurance Month in the 2018 with 7.52 billion . ",
+      "The next Month to make the most billion was the Arthur_J._Gallagher_&_Co. Month with 3.57 billion closely followed by Acrisure_LLC with 1.32 billion ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Marsh & McLennan Cos. Inc.",
+         "Revenue in billion U.S. dollars": "7.52"
+      },
+      {
+         "Month": "Aon P.L.C.",
+         "Revenue in billion U.S. dollars": "4.65"
+      },
+      {
+         "Month": "Willis Towers Watson P.L.C.",
+         "Revenue in billion U.S. dollars": "3.95"
+      },
+      {
+         "Month": "Arthur J. Gallagher & Co.",
+         "Revenue in billion U.S. dollars": "3.57"
+      },
+      {
+         "Month": "BB&T Insurance Holdings Inc.",
+         "Revenue in billion U.S. dollars": "2.02"
+      },
+      {
+         "Month": "Brown & Brown Inc.",
+         "Revenue in billion U.S. dollars": "2.01"
+      },
+      {
+         "Month": "USI Insurance Services L.L.C.",
+         "Revenue in billion U.S. dollars": "1.67"
+      },
+      {
+         "Month": "Hub International Ltd.",
+         "Revenue in billion U.S. dollars": "1.67"
+      },
+      {
+         "Month": "Alliant Insurance Services Inc.",
+         "Revenue in billion U.S. dollars": "1.35"
+      },
+      {
+         "Month": "Acrisure LLC",
+         "Revenue in billion U.S. dollars": "1.32"
+      }
+   ],
+   "gold": "With revenue amounting to over seven billion U.S. dollars in 2018 , Marsh & McLennan Cos. Inc. topped the list of leading insurance brokers in the country . In that year , they were followed by Aon P.L.C . , Willis Towers Watson P.L.C .\n"
+}

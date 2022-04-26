@@ -1,0 +1,36 @@
+{
+   "title": "U.S. TV consumption : average viewing time in 2018 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Time in hours",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the findings of U.S. Gender consumption in TV . ",
+      "\\\\n The highest percentage was Women Gender at 3.09 % . ",
+      "Next highest was Women of at around 35 % and Men the lowest , at just under 25 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "8": "0"
+      },
+      {
+         "3": "1",
+         "5": "1",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Men",
+         "Time in hours": "3.09"
+      },
+      {
+         "Gender": "Women",
+         "Time in hours": "2.61"
+      }
+   ],
+   "gold": "This statistic shows the average daily time per capita spent watching TV in the United States in 2018 , by gender . Overall , women spent an average of 2.61 hours per day watching T.V .\n"
+}

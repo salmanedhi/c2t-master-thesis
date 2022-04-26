@@ -1,0 +1,67 @@
+{
+   "title": "Foreign population of Belgium in 2019 , by origin",
+   "xAxis": "Country",
+   "yAxis": "Foreign population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the countries with the Belgium population in 2019 . ",
+      "In 2019 , France suffered 454038 population , the same Foreign as Netherlands ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "5": "10",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Foreign population": "167508"
+      },
+      {
+         "Country": "Netherlands",
+         "Foreign population": "157474"
+      },
+      {
+         "Country": "Italy",
+         "Foreign population": "155866"
+      },
+      {
+         "Country": "Romania",
+         "Foreign population": "96034"
+      },
+      {
+         "Country": "Morocco",
+         "Foreign population": "80295"
+      },
+      {
+         "Country": "Poland",
+         "Foreign population": "71331"
+      },
+      {
+         "Country": "Spain",
+         "Foreign population": "65476"
+      },
+      {
+         "Country": "Portugal",
+         "Foreign population": "47677"
+      },
+      {
+         "Country": "Germany",
+         "Foreign population": "39608"
+      },
+      {
+         "Country": "Bulgaria",
+         "Foreign population": "37277"
+      },
+      {
+         "Country": "Others",
+         "Foreign population": "454038"
+      }
+   ],
+   "gold": "Belgium has a multicultural landscape ; a variety of nationalities coexist in the country . Brussels houses most of the European Union institutions . This is the reason behind the nickname `` capital of Europe `` .\n"
+}

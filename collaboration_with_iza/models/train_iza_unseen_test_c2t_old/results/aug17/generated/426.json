@@ -1,0 +1,32 @@
+{
+   "title": "YouTube : distribution of U.S. users 2015 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the YouTube distribution U.S. , expressed in percentage three different countries . ",
+      "The Female and Male have similar YouTube distribution gaps at around 20 percentage whilst Female is doing a little better at 49 percentage ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "3": "0",
+         "14": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Percentage of users": "51"
+      },
+      {
+         "Sex": "Female",
+         "Percentage of users": "49"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of YouTube users in the United States as of Fall 2015 , sorted by gender . During the survey period , 51 percent of YouTube users were male and 49 percent of users were female .\n"
+}

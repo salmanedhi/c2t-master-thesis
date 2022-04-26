@@ -1,0 +1,76 @@
+{
+   "title": "Most valuable fast food brands worldwide in 2019",
+   "xAxis": "Brands",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most valuable Brands in the food brands was KFC , who made 130368 value . ",
+      "The most valuable Brands was Domino's_Pizza , with just 6182 value . ",
+      "In second place was Brands Starbucks with 45884 value ; third place went to Brands McDonald's with 130368 value ; fourth place went to Brands Taco_Bell with 6182 value and fifth place went to Brands Subway , who was 17124 value ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Brands": "McDonald's",
+         "Brand value in million U.S. dollars": "130368"
+      },
+      {
+         "Brands": "Starbucks",
+         "Brand value in million U.S. dollars": "45884"
+      },
+      {
+         "Brands": "KFC",
+         "Brand value in million U.S. dollars": "17205"
+      },
+      {
+         "Brands": "Subway",
+         "Brand value in million U.S. dollars": "17124"
+      },
+      {
+         "Brands": "Domino's Pizza",
+         "Brand value in million U.S. dollars": "9570"
+      },
+      {
+         "Brands": "Pizza Hut",
+         "Brand value in million U.S. dollars": "7580"
+      },
+      {
+         "Brands": "Burger King",
+         "Brand value in million U.S. dollars": "7063"
+      },
+      {
+         "Brands": "Tim Hortons",
+         "Brand value in million U.S. dollars": "6680"
+      },
+      {
+         "Brands": "Chipotle",
+         "Brand value in million U.S. dollars": "6201"
+      },
+      {
+         "Brands": "Taco Bell",
+         "Brand value in million U.S. dollars": "6182"
+      }
+   ],
+   "gold": "The statistic shows the brand value of the 10 most valuable fast food brands worldwide in 2019 . In that year , the brand value of Starbucks amounted to approximately 45.9 billion U.S. dollars . McDonald 's was the most valuable fast food brand in the world with an estimated brand value of about 130.4 billion U.S. dollars .\n"
+}

@@ -1,0 +1,75 @@
+{
+   "title": "Growth in travel to the most popular luxury travel destinations worldwide in 2014",
+   "xAxis": "Country",
+   "yAxis": "Year-over-year travel growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Growth travel in Growth . ",
+      "It shows United_Kingdom was the Growth at just -5 degrees and Spain was the warmest at 57 degrees . ",
+      "After United_Kingdom , the next Growth travel are Greece at 57 degrees , followed by South_Africa at 18 degrees , Germany at 31 degrees and then France at 23 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "9",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "9",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Greece",
+         "Year-over-year travel growth": "57"
+      },
+      {
+         "Country": "Germany",
+         "Year-over-year travel growth": "31"
+      },
+      {
+         "Country": "United Kingdom",
+         "Year-over-year travel growth": "30"
+      },
+      {
+         "Country": "France",
+         "Year-over-year travel growth": "23"
+      },
+      {
+         "Country": "Spain",
+         "Year-over-year travel growth": "20"
+      },
+      {
+         "Country": "Netherlands",
+         "Year-over-year travel growth": "18"
+      },
+      {
+         "Country": "Mexico",
+         "Year-over-year travel growth": "17"
+      },
+      {
+         "Country": "Canada",
+         "Year-over-year travel growth": "9"
+      },
+      {
+         "Country": "Italy",
+         "Year-over-year travel growth": "6"
+      },
+      {
+         "Country": "South Africa",
+         "Year-over-year travel growth": "-5"
+      }
+   ],
+   "gold": "This statistic shows the growth in travel to the most popular luxury travel destinations worldwide as of August 2014 . Luxury travel to the United Kingdom grew by 30 percent in 2014 compared to the previous year .\n"
+}

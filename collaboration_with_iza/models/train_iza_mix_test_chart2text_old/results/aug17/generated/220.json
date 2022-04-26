@@ -1,0 +1,69 @@
+{
+   "title": "Leading French YouTube gaming channels as of June 2018 , by number of subscribers",
+   "xAxis": "Name",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of subscribers conducted by YouTube in a gaming channels . ",
+      "\\\\n From the chart we see that the Joueur_du_Grenier Name was the Leading French Name in the channels with 5387 subscribers . ",
+      "The next Name to make the most subscribers was the LaSalle Name with 2575 subscribers closely followed by Bob_Lennon with 1884 subscribers ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Name": "Bigorneaux & Coquillages",
+         "Number of subscribers in thousands": "5387"
+      },
+      {
+         "Name": "Le Bled'Art",
+         "Number of subscribers in thousands": "3285"
+      },
+      {
+         "Name": "Joueur du Grenier",
+         "Number of subscribers in thousands": "3073"
+      },
+      {
+         "Name": "LaSalle",
+         "Number of subscribers in thousands": "2575"
+      },
+      {
+         "Name": "GOTAGA",
+         "Number of subscribers in thousands": "2461"
+      },
+      {
+         "Name": "GameMixTreize",
+         "Number of subscribers in thousands": "2205"
+      },
+      {
+         "Name": "Siphano",
+         "Number of subscribers in thousands": "2152"
+      },
+      {
+         "Name": "theKAIRI78",
+         "Number of subscribers in thousands": "1989"
+      },
+      {
+         "Name": "Furious Jumper",
+         "Number of subscribers in thousands": "1973"
+      },
+      {
+         "Name": "Bob Lennon",
+         "Number of subscribers in thousands": "1884"
+      }
+   ],
+   "gold": "This statistic presents the ranking of French YouTube gaming channels as of June 2018 , by number of subscribers . The gaming channel `` Bigorneaux & Coquillages `` , with approximately 5.3 million followers , was the most subscribed French YouTube gaming channel in June 2018 . It was followed by `` Le Bled'Art `` with around 3.3 million subscribers and `` Le Joueur de Grenier `` with three million subscribers .\n"
+}

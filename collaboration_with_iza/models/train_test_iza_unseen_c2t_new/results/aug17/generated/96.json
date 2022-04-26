@@ -1,0 +1,104 @@
+{
+   "title": "Fastest growing internet populations 2020",
+   "xAxis": "Country",
+   "yAxis": "Year-on-year growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the twenty Country growing the internet Year-on-year growth in to growth in 2020 . ",
+      "In 2020 , Rep._of_the_Congo ranked first among the Country growing the internet Year-on-year growth levels ; it had an estimated growth of around 126 % of GDP.Japanese Year-on-year growth , also known as national and government growth , is the growth owed by a nation 's central government . ",
+      "However , as a government draws in much of its income from its population , government growth is an indirect growth on taxpayers ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "23": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Rep. of the Congo",
+         "Year-on-year growth": "126"
+      },
+      {
+         "Country": "Dem. Rep. of the Congo",
+         "Year-on-year growth": "122"
+      },
+      {
+         "Country": "Samoa",
+         "Year-on-year growth": "86"
+      },
+      {
+         "Country": "Iraq",
+         "Year-on-year growth": "55"
+      },
+      {
+         "Country": "Kiribati",
+         "Year-on-year growth": "39"
+      },
+      {
+         "Country": "Guinea-Bissau",
+         "Year-on-year growth": "26"
+      },
+      {
+         "Country": "India",
+         "Year-on-year growth": "23"
+      },
+      {
+         "Country": "Egypt",
+         "Year-on-year growth": "22"
+      },
+      {
+         "Country": "Burundi",
+         "Year-on-year growth": "21"
+      },
+      {
+         "Country": "Central Africal Rep.",
+         "Year-on-year growth": "20"
+      },
+      {
+         "Country": "Oman",
+         "Year-on-year growth": "18"
+      },
+      {
+         "Country": "Pakistan",
+         "Year-on-year growth": "17"
+      },
+      {
+         "Country": "Indonesia",
+         "Year-on-year growth": "17"
+      },
+      {
+         "Country": "Kenya",
+         "Year-on-year growth": "16"
+      },
+      {
+         "Country": "Zambia",
+         "Year-on-year growth": "16"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Cambodia",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Tajikistan",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Haiti",
+         "Year-on-year growth": "13"
+      },
+      {
+         "Country": "Libya",
+         "Year-on-year growth": "13"
+      }
+   ],
+   "gold": "This statistic presents the fastest growing online populations based on relative year-on-year user growth as of January 2020 . During the measured period , it was found that online audiences in the Republic of the Congo grew 126 percent in total .\n"
+}

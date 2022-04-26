@@ -1,0 +1,57 @@
+{
+   "title": "Number of Carnival Corporation ships worldwide in 2019 , by brand",
+   "xAxis": "Country",
+   "yAxis": "Number of ships",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of ships having already practiced ships on the beach or in a nudist camp worldwide in 2019 , by Country . ",
+      "Thus , we note that in Costa ships were less than 10 % to have already been entirely naked on the beach or in a naturist camp ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Carnival Cruise Lines",
+         "Number of ships": "27"
+      },
+      {
+         "Country": "Princess Cruises (\u201cPrincess\u201d)",
+         "Number of ships": "18"
+      },
+      {
+         "Country": "Holland America Line",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "Costa",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "AIDA Cruises (\u201cAIDA\u201d)",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "P&O Cruises (United Kingdom)",
+         "Number of ships": "6"
+      },
+      {
+         "Country": "Seabourn",
+         "Number of ships": "5"
+      },
+      {
+         "Country": "P&O Cruises Australia",
+         "Number of ships": "3"
+      },
+      {
+         "Country": "Cunard",
+         "Number of ships": "3"
+      }
+   ],
+   "gold": "This statistic shows the number of Carnival Corporation ships worldwide as of November 2019 , by brand . There were 14 Costa ships within the Carnival Corporation cruise line group in 2019 .\n"
+}

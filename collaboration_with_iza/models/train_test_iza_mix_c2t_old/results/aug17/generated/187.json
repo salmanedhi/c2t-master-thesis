@@ -1,0 +1,97 @@
+{
+   "title": "Google Play : number of available gaming apps as of Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of available apps",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Number of available apps in the Google Play Q3 app store . ",
+      "As of the fourth Quarter of 2019 , over 290287 million mobile apps were available , representing a 4.07 % increase compared to the previous Quarter ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '15",
+         "Number of available apps": "290287"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of available apps": "315032"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of available apps": "343326"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of available apps": "380233"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of available apps": "432326"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of available apps": "472919"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of available apps": "512223"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Number of available apps": "515268"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of available apps": "536977"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of available apps": "573808"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of available apps": "605150"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of available apps": "647488"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of available apps": "677560"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of available apps": "501442"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of available apps": "315418"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of available apps": "288848"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of available apps": "327491"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of available apps": "336508"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of available apps": "349563"
+      }
+   ],
+   "gold": "This statistic gives information on the number of available gaming apps in the Google Play app store . As of the third quarter of 2019 , approximately 349,563 mobile gaming apps were available , representing a 3.88 percent increase compared to the previous quarter .\n"
+}

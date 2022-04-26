@@ -1,0 +1,61 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S. usage of mobile teenagers in the payments for online consumer as of spring 2017 . ",
+      "According to the survey , 64 % of upper-income U.S. teenagers reported that Amazon.com was their U.S. usage from which to purchase things ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic gives information on the U.S. consumer usage of mobile payment offerings as of January 2017 . During a survey of smartphone owners , 49 percent of respondents stated they had paid a bill via mobile .\n"
+}

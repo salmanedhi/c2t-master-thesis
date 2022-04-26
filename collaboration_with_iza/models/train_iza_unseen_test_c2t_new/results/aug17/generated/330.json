@@ -1,0 +1,77 @@
+{
+   "title": "Foreign population of Belgium in 2019 , by origin",
+   "xAxis": "Country",
+   "yAxis": "Foreign population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Foreign population Country in terms of the Foreign of population with Morocco having the Foreign \u2013 454038 population down to Netherlands the least population of the group at 37277 population . ",
+      "In between , we have France 167508 , Others 454038 , Romania 96034 and Italy 155866 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "10",
+         "24": "1",
+         "32": "9"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "10",
+         "9": "10",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Foreign population": "167508"
+      },
+      {
+         "Country": "Netherlands",
+         "Foreign population": "157474"
+      },
+      {
+         "Country": "Italy",
+         "Foreign population": "155866"
+      },
+      {
+         "Country": "Romania",
+         "Foreign population": "96034"
+      },
+      {
+         "Country": "Morocco",
+         "Foreign population": "80295"
+      },
+      {
+         "Country": "Poland",
+         "Foreign population": "71331"
+      },
+      {
+         "Country": "Spain",
+         "Foreign population": "65476"
+      },
+      {
+         "Country": "Portugal",
+         "Foreign population": "47677"
+      },
+      {
+         "Country": "Germany",
+         "Foreign population": "39608"
+      },
+      {
+         "Country": "Bulgaria",
+         "Foreign population": "37277"
+      },
+      {
+         "Country": "Others",
+         "Foreign population": "454038"
+      }
+   ],
+   "gold": "Belgium has a multicultural landscape ; a variety of nationalities coexist in the country . Brussels houses most of the European Union institutions . This is the reason behind the nickname `` capital of Europe `` .\n"
+}

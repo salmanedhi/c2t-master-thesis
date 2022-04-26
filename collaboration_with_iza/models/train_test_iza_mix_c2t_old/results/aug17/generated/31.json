@@ -1,0 +1,69 @@
+{
+   "title": "Facebook : most popular game MAU 2019",
+   "xAxis": "Facebook games",
+   "yAxis": "Monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic present the distribution of main merger and acquisition ( Facebook most A ) transactions , 2019 the deal Monthly , in the United Kingdom ( MAU ) during the first half of 2019 , broken down 2019 business Facebook . ",
+      "It can be seen that the Texas_Holdem_Poker Facebook was the leading business Facebook in the MAU , with a total number of deals amounting to almost 10 thousand in the first half of 2019 . ",
+      "The 8_Ball_Pool and Candy_Crush_Saga sectors completed the top three , with total merger and acquisition popular volumes of 10 and deals respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "26": "0"
+      },
+      {
+         "1": "1",
+         "3": "2",
+         "18": "1",
+         "20": "2"
+      }
+   ],
+   "data": [
+      {
+         "Facebook games": "Texas Holdem Poker",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "8 Ball Pool",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Candy Crush Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Farm Heroes Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Subway Surfers",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Clash of Clans",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Dragon City",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Hay Day",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Trivia Crack",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Coin Master",
+         "Monthly active users in millions": "5"
+      }
+   ],
+   "gold": "This statistic lists the most popular Facebook games , based on monthly active users . As of August 2019 , Candy Crush Saga had approximately ten million monthly active users on Facebook . Fifth-ranked Subway Surfers had five million MAU in the same period .\n"
+}

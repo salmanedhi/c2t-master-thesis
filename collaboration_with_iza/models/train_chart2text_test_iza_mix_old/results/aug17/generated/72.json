@@ -1,0 +1,45 @@
+{
+   "title": "Minority Representation in the Parliament of Lybia 1",
+   "xAxis": "Years",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 1 of Parliament Lybia Percentage in the financial year 1 global Years . ",
+      "In this period the United Kingdom made up 2.1 percentage of all Percentage for the Parliament Lybia brand ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Years": "1990-1994",
+         "Percentage": "0.5"
+      },
+      {
+         "Years": "1995-1999",
+         "Percentage": "2.1"
+      },
+      {
+         "Years": "2000-2004",
+         "Percentage": "7.5"
+      },
+      {
+         "Years": "2005-2009",
+         "Percentage": "10.0"
+      },
+      {
+         "Years": "2010-2014",
+         "Percentage": "12.7"
+      },
+      {
+         "Years": "2015-2019",
+         "Percentage": "14.0"
+      }
+   ],
+   "gold": "The chart shows the level of minority representation in the Parliament of Lybia during four-year terms from 1990 to 2019 . \\\\n We can see that in the period starting 1990 representation stands at less than 0.5 % in the Parliament . Representation more than doubles to 2 % in 1995 , rising significantly to over 7 % in 2000 , 10 % in 2005 , approximately 12.5 % in 2010 and finally 14 % in the period 2015 to 2019 .\n"
+}

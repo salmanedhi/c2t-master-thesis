@@ -1,0 +1,34 @@
+{
+   "title": "Gross NPA of private banks India 2016 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Value in trillion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Value of NPA private banks in Indian rupees in 2016 , 2019 Fiscal Year . ",
+      "In 2016 , a private banks of FY_2019 , the lowest Year during the compulsory Fiscal service , is paid approximately 0.94 thousand Indian rupees per month ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "21": "2"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Value in trillion Indian rupees": "1.84"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Value in trillion Indian rupees": "1.86"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Value in trillion Indian rupees": "0.94"
+      }
+   ],
+   "gold": "In fiscal year 2019 , the value of non-performing assets of private banks across India amounted to over 1.8 trillion Indian rupees . This was much lesser in fiscal year 2017 , amounting to about 9.3 billion rupees . Non-performing assets have posed a big problem for banks in India and experts point that this crisis had been long in the making .\n"
+}

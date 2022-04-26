@@ -1,0 +1,58 @@
+{
+   "title": "HPE : research and development spending 2013 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Expenditure in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "2019 and 2019 were the most popular of all the 2016 year , receiving 2338 million paid Expenditure in fiscal year 2018/19 . ",
+      "This was followed 2019 development to 2018 during its annual summer opening . ",
+      "In total , paid development to all the 2016 year reached over three million ."
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "2": "0",
+         "10": "3",
+         "15": "4"
+      },
+      {
+         "6": "1"
+      },
+      {
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Expenditure in million U.S. dollars": "1842"
+      },
+      {
+         "Fiscal year": "2018",
+         "Expenditure in million U.S. dollars": "1667"
+      },
+      {
+         "Fiscal year": "2017",
+         "Expenditure in million U.S. dollars": "1486"
+      },
+      {
+         "Fiscal year": "2016",
+         "Expenditure in million U.S. dollars": "1714"
+      },
+      {
+         "Fiscal year": "2015",
+         "Expenditure in million U.S. dollars": "2338"
+      },
+      {
+         "Fiscal year": "2014",
+         "Expenditure in million U.S. dollars": "2197"
+      },
+      {
+         "Fiscal year": "2013",
+         "Expenditure in million U.S. dollars": "1956"
+      }
+   ],
+   "gold": "This statistic shows Hewlett Packard Enterprise 's ( previously a part of Hewlett-Packard Company ) expenditure on research and development for each fiscal year from 2013 to 2019 . In 2019 , HPE 's R & D expenditure came to 1.84 billion U.S. dollars . This represented a small portion of HPE 's net revenue , which reached 29.1 billion U.S. dollars .\n"
+}

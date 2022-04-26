@@ -1,0 +1,43 @@
+{
+   "title": "Number of outbound trips from Brazil to Europe in 2018 , by region of destination",
+   "xAxis": "Outbound Trip",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Number outbound on Brazil in the Brazil 2018 . ",
+      "\\\\n Southern/Mediterranean_Europe outbound 0.26 millions . ",
+      "Western_Europe outbound 1.63 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "3": "3"
+      },
+      {
+         "0": "1",
+         "2": "1"
+      }
+   ],
+   "data": [
+      {
+         "Outbound Trip": "Southern/Mediterranean Europe",
+         "Arrivals in millions": "2.23"
+      },
+      {
+         "Outbound Trip": "Western Europe",
+         "Arrivals in millions": "1.63"
+      },
+      {
+         "Outbound Trip": "Central/Eastern Europe",
+         "Arrivals in millions": "0.38"
+      },
+      {
+         "Outbound Trip": "Northern Europe",
+         "Arrivals in millions": "0.26"
+      }
+   ],
+   "gold": "This statistic shows the number of outbound trips from Brazil to Europe in 2018 , by region of destination . There were approximately 2.23 million trips from Brazil to Southern and Mediterranean Europe in 2018 .\n"
+}

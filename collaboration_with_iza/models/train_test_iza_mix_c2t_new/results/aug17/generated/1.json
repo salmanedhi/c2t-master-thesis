@@ -1,0 +1,41 @@
+{
+   "title": "Number of outbound trips from India to Europe in 2018 , by region of destination",
+   "xAxis": "Locations",
+   "yAxis": "Arrivals in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Locations outbound the trips Arrivals of the Western_Europe Locations thousands in the India as of India 2018 . ",
+      "Central/Eastern_Europe 's comprised the trips Arrivals of the Western_Europe Locations thousands at 1273 thousands ."
+   ],
+   "trends": [
+      {
+         "12": "1"
+      },
+      {
+         "0": "0",
+         "8": "1",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Locations": "Central/Eastern Europe",
+         "Arrivals in thousands": "1273"
+      },
+      {
+         "Locations": "Western Europe",
+         "Arrivals in thousands": "1097"
+      },
+      {
+         "Locations": "Northern Europe",
+         "Arrivals in thousands": "564"
+      },
+      {
+         "Locations": "Southern/Mediterranean Europe",
+         "Arrivals in thousands": "355"
+      }
+   ],
+   "gold": "This statistic shows the number of outbound trips from India to Europe in 2018 , by region of destination . There were approximately 355 thousand trips from India to Southern and Mediterranean Europe in 2018 .\n"
+}

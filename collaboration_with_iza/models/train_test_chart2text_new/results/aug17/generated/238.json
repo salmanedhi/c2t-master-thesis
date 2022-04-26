@@ -1,0 +1,40 @@
+{
+   "title": "Survey on optimism or pessimism 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Share of internet users in the Survey pessimism 2013 Optimist had any of their online accounts hacked . ",
+      "During the 2013 survey , 4 % of respondents stated that their online accounts had been hacked Pessimist ."
+   ],
+   "trends": [
+      {
+         "13": "2"
+      },
+      {
+         "5": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Pessimist",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Somewhere in between",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Optimist",
+         "Share of respondents": "50"
+      },
+      {
+         "Response": "Don't know / refused",
+         "Share of respondents": "3"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted in 2013 among adult Americans , on whether they believe the glass is half full or half empty . 50 percent of respondents said they consider themselves optimists . The optimism and pessimism of the American people Optimism is defined as a mental attitude or worldview that favors a positive outcome , while pessimism favors a negative outcome or prediction .\n"
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Canadian average domestic heating oil prices 2018 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in Canadian dollars per thousand liters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Canadian average in Canadian . ",
+      "It shows Sep_'19 was the Canadian at just 1111 degrees and Jul_'19 was the warmest at 1190 Canadian . ",
+      "After Sep_'19 , the next Canadian average are Nov_'19 at 1160 degrees , followed by Dec_'18 at 18 degrees , Oct_'19 at 1146 degrees and then Aug_'19 at 1118 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "10",
+         "11": "4",
+         "16": "6"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "11",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in Canadian dollars per thousand liters": "1160"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in Canadian dollars per thousand liters": "1146"
+      },
+      {
+         "Month": "Sep '19",
+         "Price in Canadian dollars per thousand liters": "1125"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in Canadian dollars per thousand liters": "1118"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in Canadian dollars per thousand liters": "1129"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in Canadian dollars per thousand liters": "1146"
+      },
+      {
+         "Month": "May '19",
+         "Price in Canadian dollars per thousand liters": "1190"
+      },
+      {
+         "Month": "Apr '19",
+         "Price in Canadian dollars per thousand liters": "1168"
+      },
+      {
+         "Month": "Mar '19",
+         "Price in Canadian dollars per thousand liters": "1138"
+      },
+      {
+         "Month": "Feb '19",
+         "Price in Canadian dollars per thousand liters": "1120"
+      },
+      {
+         "Month": "Jan '19",
+         "Price in Canadian dollars per thousand liters": "1111"
+      },
+      {
+         "Month": "Dec '18",
+         "Price in Canadian dollars per thousand liters": "1116"
+      }
+   ],
+   "gold": "The average domestic heating oil price in Canada reached about 1,160 Canadian dollars per 1,000 liters in November 2019 . There are three types of middle distillate fuel oils that can be used for liquid-fuel-burning equipment without any preheating , and three other types that require preheating as they contain residual fuel components . There are both federal and provincial regulations that are applicable to heating oils in Canada , including the Canadian Environmental Protection Act .\n"
+}

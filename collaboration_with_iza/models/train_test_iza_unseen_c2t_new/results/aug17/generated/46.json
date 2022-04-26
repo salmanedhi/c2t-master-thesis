@@ -1,0 +1,102 @@
+{
+   "title": "The most successful music tours in North America in 2019",
+   "xAxis": "Artist / Band",
+   "yAxis": "Gross revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the leading Elton_John Band worldwide in 2019 , Gross revenue . ",
+      "The_Rolling_Stones , based in The_Rolling_Stones , was the North America Elton_John and health insurer North , with Gross revenue amounting to 177.8 million U.S. dollars . ",
+      "Elton_John \u2013 additional information As well The_Rolling_Stones , other leading Elton_John Band in terms of Gross revenue worldwide in 2019 , were Elton_John from ( 157.4 million U.S. dollars ) , Bob_Seger_&_The_Silver_Bullet_Band from the Bob_Seger_&_The_Silver_Bullet_Band ( 68.02 million U.S. dollars ) , and Elton_John Pink from Elton_John ( 87.8 million U.S. dollars ) ."
+   ],
+   "trends": [
+      {
+         "5": "1"
+      },
+      {
+         "0": "0",
+         "4": "0",
+         "9": "1",
+         "20": "0"
+      },
+      {
+         "0": "1",
+         "7": "0",
+         "11": "1",
+         "23": "1",
+         "25": "1",
+         "27": "1",
+         "33": "2",
+         "36": "2",
+         "45": "1",
+         "46": "3",
+         "47": "1",
+         "49": "1",
+         "51": "3"
+      }
+   ],
+   "data": [
+      {
+         "Artist / Band": "The Rolling Stones",
+         "Gross revenue in million U.S. dollars": "177.8"
+      },
+      {
+         "Artist / Band": "Elton John",
+         "Gross revenue in million U.S. dollars": "157.4"
+      },
+      {
+         "Artist / Band": "Bob Seger & The Silver Bullet Band",
+         "Gross revenue in million U.S. dollars": "97.0"
+      },
+      {
+         "Artist / Band": "Pink",
+         "Gross revenue in million U.S. dollars": "87.8"
+      },
+      {
+         "Artist / Band": "Ariana Grande",
+         "Gross revenue in million U.S. dollars": "82.6"
+      },
+      {
+         "Artist / Band": "Jonas Brothers",
+         "Gross revenue in million U.S. dollars": "81.7"
+      },
+      {
+         "Artist / Band": "Kiss",
+         "Gross revenue in million U.S. dollars": "81.6"
+      },
+      {
+         "Artist / Band": "Fleetwood Mac",
+         "Gross revenue in million U.S. dollars": "77.5"
+      },
+      {
+         "Artist / Band": "Garth Brooks",
+         "Gross revenue in million U.S. dollars": "76.1"
+      },
+      {
+         "Artist / Band": "Justin Timberlake",
+         "Gross revenue in million U.S. dollars": "75.6"
+      },
+      {
+         "Artist / Band": "Billy Joel",
+         "Gross revenue in million U.S. dollars": "70.4"
+      },
+      {
+         "Artist / Band": "Dead & Company",
+         "Gross revenue in million U.S. dollars": "68.6"
+      },
+      {
+         "Artist / Band": "Eric Church",
+         "Gross revenue in million U.S. dollars": "68.6"
+      },
+      {
+         "Artist / Band": "Michael Buble",
+         "Gross revenue in million U.S. dollars": "66.7"
+      },
+      {
+         "Artist / Band": "Trans-Siberian Orchesta",
+         "Gross revenue in million U.S. dollars": "65.7"
+      }
+   ],
+   "gold": "In 2019 , the most successful music tour in North America based on gross revenue was that of The Rolling Stones , which generated 177.8 million U.S. dollars . Following closely behind was Elton John 's tour , which made 157.4 million dollars in revenue and sold over 1.15 million tickets .\n"
+}

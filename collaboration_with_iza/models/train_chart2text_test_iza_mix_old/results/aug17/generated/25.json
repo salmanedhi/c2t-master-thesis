@@ -1,0 +1,46 @@
+{
+   "title": "Closing stock prices for Akef Inc. on Wednesday",
+   "xAxis": "Day of the Week",
+   "yAxis": "Closing Stock Price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Closing Stock of Price Akef worldwide in , Inc. Day Week . ",
+      "In that year , 74.38 % of Akef 's stock Price came from Mon . ",
+      "Founded in 1961 Agordo , Italy the Akef Group S.p.A. is the Fri 's largest eyewear company ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "14": "0"
+      },
+      {
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Day of the Week": "Mon",
+         "Closing Stock Price": "51.4"
+      },
+      {
+         "Day of the Week": "Tue",
+         "Closing Stock Price": "62.0"
+      },
+      {
+         "Day of the Week": "Wed",
+         "Closing Stock Price": "74.38"
+      },
+      {
+         "Day of the Week": "Thu",
+         "Closing Stock Price": "21.9"
+      },
+      {
+         "Day of the Week": "Fri",
+         "Closing Stock Price": "9.42"
+      }
+   ],
+   "gold": "The chart shows the closing stock prices for AKEF inc on different days of the week . Monday saw a stock price of \u00a3 51 . Tuesday and Wednesday saw a rise to \u00a3 74 .\n"
+}

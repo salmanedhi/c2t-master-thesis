@@ -1,0 +1,70 @@
+{
+   "title": "Multiple winners of FIFA football Ballon d'Or 1956 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of awards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Number of awards made per Month in a football so that the highest bar shows the Multiple winners - Month Johann_Cruyff_(The_Netherlands) with 6 awards , Michel_Platini_(France) with 3 , Ronaldo_(Brazil) with 2 , Lionel_Messi_(Argentina) with 6 , Cristiano_Ronaldo_(Portugal) with 5 and the only 2 mistake made by Marco_van_Basten_(The_Netherlands) ."
+   ],
+   "trends": [
+      {
+         "24": "2",
+         "26": "0",
+         "29": "3",
+         "31": "3",
+         "33": "9",
+         "35": "9",
+         "37": "0",
+         "39": "0",
+         "41": "1",
+         "43": "1",
+         "47": "5",
+         "51": "4"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Lionel Messi (Argentina)",
+         "Number of awards": "6"
+      },
+      {
+         "Month": "Cristiano Ronaldo (Portugal)",
+         "Number of awards": "5"
+      },
+      {
+         "Month": "Johann Cruyff (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Michel Platini (France)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Marco van Basten (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Alfredo Di St\u00e9fano (Spain)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Franz Beckenbauer (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Kevin Keegan (England)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Ronaldo (Brazil)",
+         "Number of awards": "2"
+      }
+   ],
+   "gold": "The Ballon d'Or is an annual football prize presented by France Football . The award , voted for by football journalists , is given to the male player who was deemed to have played the best football over the previous 12 months . Unsurprisingly , two of the greatest footballers of all time , Lionel Messi and Cristiano Ronaldo , top the list of all-time winners .\n"
+}

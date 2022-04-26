@@ -1,0 +1,48 @@
+{
+   "title": "Total S.A. 's proved reserves by region 2018",
+   "xAxis": "Country",
+   "yAxis": "Proved reserves in million barrels oil equivalent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the Proved reserves million ( S.A. ) of reserves by in 2018 , region 2018 . ",
+      "In that month , the reserves Proved million in Middle_East_&_North_Africa stood at 3171 million . ",
+      "Proved reserves million When it comes to reserves Proved boardings , John F. Kennedy reserves Airport in New York ( JFK ) is the busiest airport in the country , its most in-demand transatlantic route being the passage to London Heathrow ( LHR ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "1",
+         "13": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Europe & Central Asia",
+         "Proved reserves in million barrels oil equivalent": "4431"
+      },
+      {
+         "Country": "Middle East & North Africa",
+         "Proved reserves in million barrels oil equivalent": "3171"
+      },
+      {
+         "Country": "Americas",
+         "Proved reserves in million barrels oil equivalent": "1937"
+      },
+      {
+         "Country": "Africa",
+         "Proved reserves in million barrels oil equivalent": "1668"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Proved reserves in million barrels oil equivalent": "843"
+      },
+      {
+         "Country": "Total",
+         "Proved reserves in million barrels oil equivalent": "12050"
+      }
+   ],
+   "gold": "This statistic shows Total S.A. 's proved reserves by geographical region in 2018 , measured in million barrels of oil equivalent . In the Americas , there was a total of approximately 1.94 billion barrels of oil equivalent in 2018 . Total S.A. is one of the world 's largest oil and gas companies .\n"
+}

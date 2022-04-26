@@ -1,0 +1,171 @@
+{
+   "title": "Mass shootings in the U.S. , by state 1982 to 2020",
+   "xAxis": "State",
+   "yAxis": "Total number of mass shootings",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Mass shootings State in U.S. by Total . ",
+      "The Mass shootings State is Florida with 1 number . ",
+      "Next lowest was California with 20 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "22"
+      },
+      {
+         "3": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Total number of mass shootings": "20"
+      },
+      {
+         "State": "Florida",
+         "Total number of mass shootings": "12"
+      },
+      {
+         "State": "Texas",
+         "Total number of mass shootings": "11"
+      },
+      {
+         "State": "Washington",
+         "Total number of mass shootings": "7"
+      },
+      {
+         "State": "Colorado",
+         "Total number of mass shootings": "6"
+      },
+      {
+         "State": "Pennsylvania",
+         "Total number of mass shootings": "5"
+      },
+      {
+         "State": "Wisconsin",
+         "Total number of mass shootings": "5"
+      },
+      {
+         "State": "New York",
+         "Total number of mass shootings": "4"
+      },
+      {
+         "State": "Ohio",
+         "Total number of mass shootings": "4"
+      },
+      {
+         "State": "Illinois",
+         "Total number of mass shootings": "4"
+      },
+      {
+         "State": "Connecticut",
+         "Total number of mass shootings": "3"
+      },
+      {
+         "State": "Maryland",
+         "Total number of mass shootings": "3"
+      },
+      {
+         "State": "Tennessee",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Michigan",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Virginia",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Nevada",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Oregon",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Kentucky",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "South Carolina",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Georgia",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "North Carolina",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Minnesota",
+         "Total number of mass shootings": "2"
+      },
+      {
+         "State": "Kansas",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Lousiana",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Utah",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Massachusetts",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Hawaii",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "D.C.",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Arkansas",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Arizona",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Mississippi",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Iowa",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Missouri",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Nebraska",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "Oklahoma",
+         "Total number of mass shootings": "1"
+      },
+      {
+         "State": "New Jersey",
+         "Total number of mass shootings": "1"
+      }
+   ],
+   "gold": "As of February 2020 , California had the most mass shootings in the United States , with 20 total shootings since 1982 . The source defines a mass shooting as a shooting where four or more people were killed . Firearms in the U.S. Mass shootings in the United States are disturbingly common .\n"
+}

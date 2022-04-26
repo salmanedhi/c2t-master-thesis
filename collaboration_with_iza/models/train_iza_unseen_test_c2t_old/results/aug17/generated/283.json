@@ -1,0 +1,72 @@
+{
+   "title": "Leading export markets of champagne from France 2017",
+   "xAxis": "Country",
+   "yAxis": "Number of bottles in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Leading export markets champagne the Number of bottles they 've had . ",
+      "\\n It shows United_Kingdom has had 27.76 bottles , USA has had the Leading at 3.31 bottles , Germany has had 12.29 , Japan has had 12.87 , Belgium has had the most bottles at 27.76 and Sweden has had 3.31 bottles ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "9",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "9",
+         "40": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Number of bottles in millions": "27.76"
+      },
+      {
+         "Country": "USA",
+         "Number of bottles in millions": "23.1"
+      },
+      {
+         "Country": "Germany",
+         "Number of bottles in millions": "12.29"
+      },
+      {
+         "Country": "Japan",
+         "Number of bottles in millions": "12.87"
+      },
+      {
+         "Country": "Belgium",
+         "Number of bottles in millions": "9.07"
+      },
+      {
+         "Country": "Australia",
+         "Number of bottles in millions": "8.53"
+      },
+      {
+         "Country": "Italy",
+         "Number of bottles in millions": "7.37"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of bottles in millions": "5.6"
+      },
+      {
+         "Country": "Spain",
+         "Number of bottles in millions": "4.12"
+      },
+      {
+         "Country": "Sweden",
+         "Number of bottles in millions": "3.31"
+      }
+   ],
+   "gold": "During the year 2017 , the total champagne exports from France to the United Kingdom amounted to about 27 millions of 75 cl . bottles . The UK is the first export market for French champagne .\n"
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Leading car brands : market share in Spain 2019",
+   "xAxis": "Car Brand",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates a breakdown of Spain car Market shares in the share Spain 2019 Market in 2019 . ",
+      "In 2019 , Peugeot was the top Market share of the car brands in the country , with a Market share of 8.51 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Car Brand": "Peugeot",
+         "Market share": "8.73"
+      },
+      {
+         "Car Brand": "Seat",
+         "Market share": "8.51"
+      },
+      {
+         "Car Brand": "Volkswagen",
+         "Market share": "7.24"
+      },
+      {
+         "Car Brand": "Renault",
+         "Market share": "6.63"
+      },
+      {
+         "Car Brand": "Citro\u00ebn",
+         "Market share": "6.56"
+      },
+      {
+         "Car Brand": "Opel",
+         "Market share": "5.63"
+      },
+      {
+         "Car Brand": "Toyota",
+         "Market share": "5.51"
+      },
+      {
+         "Car Brand": "Ford",
+         "Market share": "4.86"
+      },
+      {
+         "Car Brand": "Hyundai",
+         "Market share": "4.82"
+      },
+      {
+         "Car Brand": "Kia",
+         "Market share": "4.57"
+      },
+      {
+         "Car Brand": "Dacia",
+         "Market share": "4.27"
+      },
+      {
+         "Car Brand": "Mercedes",
+         "Market share": "4.13"
+      },
+      {
+         "Car Brand": "Nissan",
+         "Market share": "3.96"
+      },
+      {
+         "Car Brand": "Audi",
+         "Market share": "3.92"
+      },
+      {
+         "Car Brand": "BMW",
+         "Market share": "3.6"
+      }
+   ],
+   "gold": "In 2019 , Peugeot ranked as the leading make in Spain with a market share of 8.73 percent . SEAT ranked second with a market share of 8.51 percent , followed by Volkswagen with 7.24 percent . The Spanish car brand saw its sales increase , with the most registered SEAT models being the SEAT Leon and SEAT Ibiza , both exceeding 30 thousand registrations during 2018 .\n"
+}

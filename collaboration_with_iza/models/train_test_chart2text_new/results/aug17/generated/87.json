@@ -1,0 +1,38 @@
+{
+   "title": "Market share of leading companies in the coffee market in Germany 2016",
+   "xAxis": "Coffee Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Market share of Coffee share in the leading in 2016 . ",
+      "In 2016 , Nestl\u00e9 machines hold a Market share of 10.3 % of the Coffee share retail sales in the leading . ",
+      "In 2016 , the retail sales of Nestl\u00e9 machines amounted to 1.4 million units in the leading ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "2",
+         "10": "2"
+      },
+      {
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Coffee Company": "Jacobs Douwe Egberts",
+         "Market share": "23.2"
+      },
+      {
+         "Coffee Company": "Tchibo",
+         "Market share": "12"
+      },
+      {
+         "Coffee Company": "Nestl\u00e9",
+         "Market share": "10.3"
+      }
+   ],
+   "gold": "This statistic illustrates the market share of leading companies in the German coffee market in 2016 . In the period of consideration , Tchibo had a market share of 12 percent .\n"
+}

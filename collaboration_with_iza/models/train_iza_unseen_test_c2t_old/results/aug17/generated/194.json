@@ -1,0 +1,69 @@
+{
+   "title": "Important features of music streaming services in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Important features music in the streaming competirion . ",
+      "\\\\n From the chart we see that the Good_algorithms_to_find_new_music Response made the Important respondents by some margin , with only 46 . ",
+      "Low_price_point and The_variety_of_music_available made a respectable 80 and 81 respondents , with Artist_exclusives and Clean_user_interface not far behind , at 46 and 66 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "8"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "8",
+         "14": "3",
+         "20": "8",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "The variety of music available",
+         "Share of respondents": "81"
+      },
+      {
+         "Response": "Low price point",
+         "Share of respondents": "80"
+      },
+      {
+         "Response": "The ability to listen on multiple divices",
+         "Share of respondents": "68"
+      },
+      {
+         "Response": "Clean user interface",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Good algorithms to find new music",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "The ability to combine your music library with your streaming service library",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "The ability to stream on smart home devices",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "Curated playlists",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Artist exclusives",
+         "Share of respondents": "46"
+      }
+   ],
+   "gold": "This statistic presents data on the most important features of music streaming services among adults in the United States as of March 2018 . During a survey , 81 percent of respondents stated that the variety of music available was the most important feature of music streaming services .\n"
+}

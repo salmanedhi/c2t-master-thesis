@@ -1,0 +1,42 @@
+{
+   "title": "Consumers with a Netflix subscription in the U.S. 2017 , by age group",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic provides information on the Share of Consumers Netflix an active Netflix or by in the age as of 2017 , sorted group . ",
+      "According to the source , 73 % of Millennials who subscribe to online video or music subscriptions had a Netflix or by as of 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": "70"
+      },
+      {
+         "Response": "Millennials",
+         "Share of respondents": "72"
+      },
+      {
+         "Response": "Gen X",
+         "Share of respondents": "73"
+      },
+      {
+         "Response": "Boomers",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "Retirees",
+         "Share of respondents": "56"
+      }
+   ],
+   "gold": "At the beginning of 2017 , 70 percent of consumers with an online video or music subscription confirmed that they had an active Netflix subscription at the time of survey . Millennials and Gen-Xers were more likely to have a Netflix subscription than their older peers , which comes as no surprise given that Netflix is considered the most indispensable TV and video source among consumers aged between 16 to 34 years old . One of the most appealing aspects of Netflix for viewers is the availability of original content , which has fast become one of the keys to the company 's success .\n"
+}

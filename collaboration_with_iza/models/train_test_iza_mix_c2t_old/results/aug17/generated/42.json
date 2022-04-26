@@ -1,0 +1,51 @@
+{
+   "title": "Survey on amount of money spent on boating in the U.S. 2012",
+   "xAxis": "Yearly expenses",
+   "yAxis": "Percentage of boat owners",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the distribution of amount over_$5000 breach incidents in the first half of 2012 , sorted 2012 Yearly . ",
+      "That year , $2000_to_$4999 attacks accounted for 18.3 percentage of over_$5000 spent that year . ",
+      "Identity under_500$ accounted for 30.5 percentage of over_$5000 spent worldwide ."
+   ],
+   "trends": [
+      {
+         "9": "4"
+      },
+      {
+         "3": "3",
+         "7": "2",
+         "10": "4"
+      },
+      {
+         "1": "0",
+         "4": "0",
+         "7": "4"
+      }
+   ],
+   "data": [
+      {
+         "Yearly expenses": "under 500$",
+         "Percentage of boat owners": "30.5"
+      },
+      {
+         "Yearly expenses": "$500 to $999",
+         "Percentage of boat owners": "15.5"
+      },
+      {
+         "Yearly expenses": "$1000 to $1999",
+         "Percentage of boat owners": "18.3"
+      },
+      {
+         "Yearly expenses": "$2000 to $4999",
+         "Percentage of boat owners": "17.4"
+      },
+      {
+         "Yearly expenses": "over $5000",
+         "Percentage of boat owners": "18.3"
+      }
+   ],
+   "gold": "The statistic depicts the amount of money boat owners in the U.S. spent on boating in 2012 . 18.3 percent of the respondents stated that they spent between $ 1,000 and $ 1,999 on boating in 2012 .\n"
+}

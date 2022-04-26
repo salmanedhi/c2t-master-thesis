@@ -1,0 +1,102 @@
+{
+   "title": "Leading online radio companies in the U.S. 2019 , by active sessions",
+   "xAxis": "Online Radio Company",
+   "yAxis": "Number of average active sessions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Leading online radio companies of 2019 , U.S. Number average . ",
+      "The online radio companies in the Pandora_Corporate with a Number average of 2210651 million sessions ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Online Radio Company": "Pandora Corporate",
+         "Number of average active sessions": "2210651"
+      },
+      {
+         "Online Radio Company": "iHeartRadio",
+         "Number of average active sessions": "423158"
+      },
+      {
+         "Online Radio Company": "NPR Member Stations",
+         "Number of average active sessions": "85197"
+      },
+      {
+         "Online Radio Company": "RADIO.COM",
+         "Number of average active sessions": "83705"
+      },
+      {
+         "Online Radio Company": "Cumulus Streaming Network",
+         "Number of average active sessions": "61024"
+      },
+      {
+         "Online Radio Company": "Beasley Broadcasting Corporate",
+         "Number of average active sessions": "22437"
+      },
+      {
+         "Online Radio Company": "Univision",
+         "Number of average active sessions": "20664"
+      },
+      {
+         "Online Radio Company": "AccuRadio",
+         "Number of average active sessions": "18037"
+      },
+      {
+         "Online Radio Company": "Hubbard Broadcasting",
+         "Number of average active sessions": "17356"
+      },
+      {
+         "Online Radio Company": "Salem Communications",
+         "Number of average active sessions": "14207"
+      },
+      {
+         "Online Radio Company": "EMF Corporate",
+         "Number of average active sessions": "13489"
+      },
+      {
+         "Online Radio Company": "New York Public Radio",
+         "Number of average active sessions": "13438"
+      },
+      {
+         "Online Radio Company": "Urban One",
+         "Number of average active sessions": "11679"
+      },
+      {
+         "Online Radio Company": "ESPN Radio Corporate",
+         "Number of average active sessions": "11268"
+      },
+      {
+         "Online Radio Company": "Bonneville Corporate",
+         "Number of average active sessions": "11193"
+      },
+      {
+         "Online Radio Company": "Emmis Communications",
+         "Number of average active sessions": "8657"
+      },
+      {
+         "Online Radio Company": "Classical KUSC/KDFC",
+         "Number of average active sessions": "6454"
+      },
+      {
+         "Online Radio Company": "Saga Communications",
+         "Number of average active sessions": "6009"
+      },
+      {
+         "Online Radio Company": "Prisa Radio",
+         "Number of average active sessions": "5568"
+      },
+      {
+         "Online Radio Company": "Midwest Communications",
+         "Number of average active sessions": "5432"
+      }
+   ],
+   "gold": "In December 2019 , the leading online radio company in the United States based on the average number of active sessions was Pandora , with around 2.2 million average active sessions throughout that month . In second place was iHeartRadio , which had over 423 thousand average active sessions . Radio market - additional information Online radio companies have increased in popularity over the past several years , corresponding with the increase in radio streaming devices , such as smartphones .\n"
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Middle East oil production by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Oil production in thousand barrels per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Country East the highest Oil production thousand during the first quarter of 2018 . ",
+      "In that year , Iran was the second largest production 2018 at 4715 thousand barrels per ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "Oil production in thousand barrels per day": "12287"
+      },
+      {
+         "Country": "Iran",
+         "Oil production in thousand barrels per day": "4715"
+      },
+      {
+         "Country": "Iraq",
+         "Oil production in thousand barrels per day": "4614"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Oil production in thousand barrels per day": "3942"
+      },
+      {
+         "Country": "Kuwait",
+         "Oil production in thousand barrels per day": "3049"
+      },
+      {
+         "Country": "Qatar",
+         "Oil production in thousand barrels per day": "1879"
+      },
+      {
+         "Country": "Oman",
+         "Oil production in thousand barrels per day": "978"
+      },
+      {
+         "Country": "Other",
+         "Oil production in thousand barrels per day": "207"
+      },
+      {
+         "Country": "Yemen",
+         "Oil production in thousand barrels per day": "68"
+      },
+      {
+         "Country": "Syria",
+         "Oil production in thousand barrels per day": "24"
+      }
+   ],
+   "gold": "The countries in the Middle East are renowned for their vast oil reserves in the global market . While the largest importer of oil and petroleum is the United States , the leading producer of oil in the Middle East is Saudi Arabia with over 12 million barrels of oil produced per day as of 2018 . `` Global oil reserves and trade `` Besides Saudi Arabia , the United States imports petroleum from various countries around the world among which Canada is the largest exporter of petroleum having exported around 4.3 billion barrels of petroleum to the United States in 2018 .\n"
+}

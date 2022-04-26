@@ -1,0 +1,65 @@
+{
+   "title": "Largest cities in the Netherlands 2011",
+   "xAxis": "Urban Settlement",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of residents made by Urban in a 2011 . ",
+      "\\\\n From the chart we see that the 's-Gravenhage Urban was the Largest cities Urban in the 2011 with 1.03 residents . ",
+      "The next Urban to make the most residents was the Utrecht Urban with 0.34 residents closely followed by the Groningen Urban with 0.2 residents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "8",
+         "22": "8"
+      }
+   ],
+   "data": [
+      {
+         "Urban Settlement": "Amsterdam",
+         "Number of residents": "1.03"
+      },
+      {
+         "Urban Settlement": "Rotterdam",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "'s-Gravenhage",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "Utrecht",
+         "Number of residents": "0.34"
+      },
+      {
+         "Urban Settlement": "Eindhoven",
+         "Number of residents": "0.29"
+      },
+      {
+         "Urban Settlement": "Leiden",
+         "Number of residents": "0.26"
+      },
+      {
+         "Urban Settlement": "Dordrecht",
+         "Number of residents": "0.22"
+      },
+      {
+         "Urban Settlement": "Tilburg",
+         "Number of residents": "0.2"
+      },
+      {
+         "Urban Settlement": "Groningen",
+         "Number of residents": "0.2"
+      }
+   ],
+   "gold": "This statistic shows the largest urban settlements in the Netherlands in 2011 . In 2011 , around 1 million people lived in Amsterdam , making it the largest city in the Netherlands . Population of the Netherlands With the global financial crisis in 2008 as well as the Euro zone crisis , many countries in Europe suffered a great economic impact .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "HPE : net revenue 2011 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The HPE net Fiscal in the 2011 2019 was Fiscal 2017 , who made 62.51 revenue . ",
+      "The most net Fiscal was 2015 , with just 28.87 revenue . ",
+      "In second place was Fiscal 2018 with 30.85 revenue ; third place went to Fiscal 2019 with 29.14 revenue ; fourth place went to Fiscal 2011 with 62.51 revenue and fifth place went to Fiscal 2016 , who made 30.28 revenue ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "8"
+      },
+      {
+         "6": "4",
+         "10": "2"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "8",
+         "27": "8",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Net revenue in billion U.S. dollars": "29.14"
+      },
+      {
+         "Fiscal year": "2018",
+         "Net revenue in billion U.S. dollars": "30.85"
+      },
+      {
+         "Fiscal year": "2017",
+         "Net revenue in billion U.S. dollars": "28.87"
+      },
+      {
+         "Fiscal year": "2016",
+         "Net revenue in billion U.S. dollars": "30.28"
+      },
+      {
+         "Fiscal year": "2015",
+         "Net revenue in billion U.S. dollars": "52.11"
+      },
+      {
+         "Fiscal year": "2014",
+         "Net revenue in billion U.S. dollars": "55.12"
+      },
+      {
+         "Fiscal year": "2013",
+         "Net revenue in billion U.S. dollars": "57.37"
+      },
+      {
+         "Fiscal year": "2012",
+         "Net revenue in billion U.S. dollars": "51.04"
+      },
+      {
+         "Fiscal year": "2011",
+         "Net revenue in billion U.S. dollars": "62.51"
+      }
+   ],
+   "gold": "This statistic shows Hewlett Packard Enterprise 's ( previously a part of Hewlett-Packard Company ) net revenue for each fiscal year from 2011 to 2019 . In 2019 , the company brought in revenues of 29.14 billion U.S. dollars.Hewlett Packard Enterprise - additional information Hewlett Packard Enterprise ( HPE ) is an American technology company , formed on November 1 , 2015 . It 's predecessor , Hewlett-Packard Company , started in 1935 in the garage of William Hewlett and David Packard .\n"
+}

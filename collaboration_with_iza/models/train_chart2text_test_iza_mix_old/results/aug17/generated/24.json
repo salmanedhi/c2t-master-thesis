@@ -1,0 +1,39 @@
+{
+   "title": "Women representation in law firms",
+   "xAxis": "Sector",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage of representation law in the Women in , sorted firms . ",
+      "According to the source , 65 percentage of female students in the Women were firms as of 2013 . ",
+      "There were a total of 1,780 commercial Women law in the firms in 2015 , a slight increase from the 1,753 in 2005 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sector": "Financial Groups",
+         "Percentage": "50"
+      },
+      {
+         "Sector": "Tech",
+         "Percentage": "62"
+      },
+      {
+         "Sector": "Insurance",
+         "Percentage": "65"
+      },
+      {
+         "Sector": "Law Firms",
+         "Percentage": "35"
+      }
+   ],
+   "gold": "The graph shows the representation of woman in different sectors . This shows that women are less likely to be employed by law firms than financial groups , tech and insurance .\n"
+}

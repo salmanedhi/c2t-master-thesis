@@ -1,0 +1,1 @@
+this folder contains the barcharts data extracted from the complete dataset of the project Chart2Text

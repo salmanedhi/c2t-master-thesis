@@ -1,0 +1,76 @@
+{
+   "title": "Leading U.S. video streaming services 2018 , by monthly average users",
+   "xAxis": "Platform",
+   "yAxis": "Numer of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Leading U.S. Platform in the streaming services was Platform Hulu , who made 197.5 users . ",
+      "The most U.S. Platform was dailymotion , with just 17.1 users . ",
+      "In second place was Platform Netflix with 72.9 users ; third place went to Platform YouTube with 197.5 users ; fourth place went to Platform Spectrum_TV with 17.1 users and fifth place went to Platform Vimeo , who was 35.5 users ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "YouTube",
+         "Numer of users in millions": "197.5"
+      },
+      {
+         "Platform": "Netflix",
+         "Numer of users in millions": "72.9"
+      },
+      {
+         "Platform": "Hulu",
+         "Numer of users in millions": "55.6"
+      },
+      {
+         "Platform": "Vimeo",
+         "Numer of users in millions": "35.5"
+      },
+      {
+         "Platform": "dailymotion",
+         "Numer of users in millions": "21.1"
+      },
+      {
+         "Platform": "Amazon Prime Video",
+         "Numer of users in millions": "20.7"
+      },
+      {
+         "Platform": "Ora.TV",
+         "Numer of users in millions": "18.9"
+      },
+      {
+         "Platform": "Redbox",
+         "Numer of users in millions": "18.6"
+      },
+      {
+         "Platform": "Twitch",
+         "Numer of users in millions": "17.8"
+      },
+      {
+         "Platform": "Spectrum TV",
+         "Numer of users in millions": "17.1"
+      }
+   ],
+   "gold": "This statistic shows the most popular video streaming services in the United States as of July 2018 , ranked by monthly average users . The most popular video streaming service as of July 2018 was YouTube , with 197.5 million monthly active users . Hulu ranked third with 55.6 MAU .\n"
+}

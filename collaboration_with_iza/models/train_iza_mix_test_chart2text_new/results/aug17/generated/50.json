@@ -1,0 +1,69 @@
+{
+   "title": "Marathons ranked by number of finishers worldwide 2016",
+   "xAxis": "Cities",
+   "yAxis": "Number of finishers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of finishers made by Cities in a number finishers . ",
+      "\\\\n From the chart we see that the Chicago_U.S. Cities was the Marathons ranked Cities in the finishers with 51388 finishers . ",
+      "The next Cities to make the most finishers was the London_GBR Cities with 39072 finishers closely followed by the Los_Angeles_U.S. Cities with 20617 finishers ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Cities": "New York City U.S.",
+         "Number of finishers": "51388"
+      },
+      {
+         "Cities": "Paris FRA",
+         "Number of finishers": "41708"
+      },
+      {
+         "Cities": "Chicago U.S.",
+         "Number of finishers": "40608"
+      },
+      {
+         "Cities": "London GBR",
+         "Number of finishers": "39072"
+      },
+      {
+         "Cities": "Tokyo JPN",
+         "Number of finishers": "36150"
+      },
+      {
+         "Cities": "Berlin GER",
+         "Number of finishers": "36054"
+      },
+      {
+         "Cities": "Osaka JPN",
+         "Number of finishers": "29431"
+      },
+      {
+         "Cities": "Boston MA",
+         "Number of finishers": "26606"
+      },
+      {
+         "Cities": "Yokohama JPN",
+         "Number of finishers": "22594"
+      },
+      {
+         "Cities": "Los Angeles U.S.",
+         "Number of finishers": "20617"
+      }
+   ],
+   "gold": "The statistic shows a ranking of marathons worldwide by the total number of finishers in 2016 . In 2016 , the New York Marathon had a total of 51,388 finishers .\n"
+}

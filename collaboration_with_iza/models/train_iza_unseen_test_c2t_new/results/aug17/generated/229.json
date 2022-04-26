@@ -1,0 +1,68 @@
+{
+   "title": "PUBG console and PC player base worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The PUBG console Month in the player base was Month October_2017 , who made 50 players . ",
+      "The most console Month was August_2017 , with just 2 players . ",
+      "In second place was Month December_2017 with 30 players ; third place went to Month June_2018 with 50 players ; fourth place went to Month May_2017 with 2 players and fifth place went to Month September_2017 , who made 8 players ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "7",
+         "27": "7",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "June 2018",
+         "Number of players in millions": "50"
+      },
+      {
+         "Month": "December 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "10"
+      },
+      {
+         "Month": "September 2017",
+         "Number of players in millions": "8"
+      },
+      {
+         "Month": "August 2017",
+         "Number of players in millions": "7"
+      },
+      {
+         "Month": "July 2017",
+         "Number of players in millions": "5"
+      },
+      {
+         "Month": "June 2017",
+         "Number of players in millions": "3"
+      },
+      {
+         "Month": "May 2017",
+         "Number of players in millions": "2"
+      }
+   ],
+   "gold": "How many people play PUBG ? PlayerUnknown 's Battlegrounds ( PUBG ) , which is available on console and PC , crossed the 50 million player base mark in June 2018 - an impressive figure considering it was released little over a year earlier . The Battle Royale game developed by Bluehole was made available to the public in March 2017 . One of the biggest games on Steam While it is available on both PlayStation and Xbox One , PUBG 's origins lie in PC and , more specifically , on Steam .\n"
+}

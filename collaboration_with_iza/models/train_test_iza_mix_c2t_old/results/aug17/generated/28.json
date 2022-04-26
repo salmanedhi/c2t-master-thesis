@@ -1,0 +1,72 @@
+{
+   "title": "Domestic teams with the most players at the 2018 World Cup",
+   "xAxis": "Team",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the biggest Team teams worldwide from 2018 to , rated by Number players . ",
+      "The Team accident that occurred in Manchester_City 2018 received a score of 16 , and was thus rated as a major accident . ",
+      "Team events and the Number players \u2013 additional information In 1990 , the International Atomic Energy Agency ( IAEA ) introduced the International Team Event players ( Number ) to act as a tool for prompt communication with the public in case of a Team event ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "13": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Team": "Manchester City",
+         "Number of players": "16"
+      },
+      {
+         "Team": "Real Madrid",
+         "Number of players": "15"
+      },
+      {
+         "Team": "FC Barcelona",
+         "Number of players": "14"
+      },
+      {
+         "Team": "Tottenham Hotspur",
+         "Number of players": "12"
+      },
+      {
+         "Team": "FC Paris Saint-Germain",
+         "Number of players": "12"
+      },
+      {
+         "Team": "Chelsea FC",
+         "Number of players": "12"
+      },
+      {
+         "Team": "FC Bayern M\u00fcnchen",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Manchester United",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Juventus",
+         "Number of players": "11"
+      },
+      {
+         "Team": "Atl\u00e9tico Madrid",
+         "Number of players": "9"
+      },
+      {
+         "Team": "Al-Hilal Riad",
+         "Number of players": "9"
+      },
+      {
+         "Team": "Al-Ahli Dschidda",
+         "Number of players": "9"
+      }
+   ],
+   "gold": "Manchester City was the most represented team at the World Cup in 2018 , with 16 of its players participating . One of those players , Benjamin Mendy , came back with a World Cup winners ' medal as France took home the trophy after beating Croatia 4 - 2 in the final . Premier League players at the World CupThe Premier League sent the largest contingent of players to the 2018 World Cup , with 108 of the footballers at the tournament plying their trade in the English top division .\n"
+}

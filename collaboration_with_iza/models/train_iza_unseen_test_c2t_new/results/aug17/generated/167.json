@@ -1,0 +1,161 @@
+{
+   "title": "NFL teams - number of Twitter followers 2018",
+   "xAxis": "American Football Teams",
+   "yAxis": "Twitter followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the NFL teams American in terms of the Twitter of followers with Carolina_Panthers having the NFL \u2013 4.28 followers down to Dallas_Cowboys the least teams of the group at 0.63 followers . ",
+      "In between , we have New_England_Patriots 4.28 , Jacksonville_Jaguars 0.63 , Philadelphia_Eagles 3.25 and Pittsburgh_Steelers 3.33 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "31"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "31",
+         "9": "31",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "American Football Teams": "New England Patriots",
+         "Twitter followers in millions": "4.28"
+      },
+      {
+         "American Football Teams": "Dallas Cowboys",
+         "Twitter followers in millions": "3.73"
+      },
+      {
+         "American Football Teams": "Pittsburgh Steelers",
+         "Twitter followers in millions": "3.33"
+      },
+      {
+         "American Football Teams": "Philadelphia Eagles",
+         "Twitter followers in millions": "3.25"
+      },
+      {
+         "American Football Teams": "Carolina Panthers",
+         "Twitter followers in millions": "2.95"
+      },
+      {
+         "American Football Teams": "Denver Broncos",
+         "Twitter followers in millions": "2.64"
+      },
+      {
+         "American Football Teams": "Seattle Seahawks",
+         "Twitter followers in millions": "2.32"
+      },
+      {
+         "American Football Teams": "Atlanta Falcons",
+         "Twitter followers in millions": "2.31"
+      },
+      {
+         "American Football Teams": "Green Bay Packers",
+         "Twitter followers in millions": "2.21"
+      },
+      {
+         "American Football Teams": "San Francisco 49ers",
+         "Twitter followers in millions": "2.04"
+      },
+      {
+         "American Football Teams": "Houston Texans",
+         "Twitter followers in millions": "1.82"
+      },
+      {
+         "American Football Teams": "New York Giants",
+         "Twitter followers in millions": "1.8"
+      },
+      {
+         "American Football Teams": "Chicago Bears",
+         "Twitter followers in millions": "1.66"
+      },
+      {
+         "American Football Teams": "Oakland Raiders",
+         "Twitter followers in millions": "1.55"
+      },
+      {
+         "American Football Teams": "Baltimore Ravens",
+         "Twitter followers in millions": "1.44"
+      },
+      {
+         "American Football Teams": "Detroit Lions",
+         "Twitter followers in millions": "1.32"
+      },
+      {
+         "American Football Teams": "New Orleans Saints",
+         "Twitter followers in millions": "1.31"
+      },
+      {
+         "American Football Teams": "Washington Redskins",
+         "Twitter followers in millions": "1.26"
+      },
+      {
+         "American Football Teams": "Minnesota Vikings",
+         "Twitter followers in millions": "1.24"
+      },
+      {
+         "American Football Teams": "New York Jets",
+         "Twitter followers in millions": "1.23"
+      },
+      {
+         "American Football Teams": "Kansas City Chiefs",
+         "Twitter followers in millions": "1.14"
+      },
+      {
+         "American Football Teams": "Cleveland Browns",
+         "Twitter followers in millions": "1.03"
+      },
+      {
+         "American Football Teams": "Indianapolis Colts",
+         "Twitter followers in millions": "0.98"
+      },
+      {
+         "American Football Teams": "Miami Dolphins",
+         "Twitter followers in millions": "0.97"
+      },
+      {
+         "American Football Teams": "Buffalo Bills",
+         "Twitter followers in millions": "0.95"
+      },
+      {
+         "American Football Teams": "Arizona Cardinals",
+         "Twitter followers in millions": "0.91"
+      },
+      {
+         "American Football Teams": "Cincinnati Bengals",
+         "Twitter followers in millions": "0.81"
+      },
+      {
+         "American Football Teams": "San Diego Chargers",
+         "Twitter followers in millions": "0.81"
+      },
+      {
+         "American Football Teams": "Tampa Bay Buccaneers",
+         "Twitter followers in millions": "0.75"
+      },
+      {
+         "American Football Teams": "St. Louis Rams",
+         "Twitter followers in millions": "0.74"
+      },
+      {
+         "American Football Teams": "Tennessee Titans",
+         "Twitter followers in millions": "0.71"
+      },
+      {
+         "American Football Teams": "Jacksonville Jaguars",
+         "Twitter followers in millions": "0.63"
+      }
+   ],
+   "gold": "This statistic ranks the teams of the National Football League by the number of followers on Twitter , as of September 21 , 2018 . With about 4.28 million followers , the New England Patriots have the most followed NFL team account on Twitter . Twitter followers of NFL teams - additional information Twitter is used by the franchises of the National Football League to give fans regular news about their team , as well as in-play updates on their games .\n"
+}

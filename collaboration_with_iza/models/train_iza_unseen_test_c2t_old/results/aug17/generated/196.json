@@ -1,0 +1,64 @@
+{
+   "title": "Diesel price per liter in selected countries - December 2019",
+   "xAxis": "Country",
+   "yAxis": "Price per liter in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Diesel price per liter the Price of per they 've had . ",
+      "\\n It shows United_Kingdom has had 1.7 per , Italy has had the Diesel at 0.81 per , France has had 1.62 , Germany has had 1.41 , Spain has had the most per at 1.7 and United_States has had 0.81 per ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "7",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "7",
+         "40": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Price per liter in U.S. dollars": "1.7"
+      },
+      {
+         "Country": "Italy",
+         "Price per liter in U.S. dollars": "1.64"
+      },
+      {
+         "Country": "France",
+         "Price per liter in U.S. dollars": "1.62"
+      },
+      {
+         "Country": "Germany",
+         "Price per liter in U.S. dollars": "1.41"
+      },
+      {
+         "Country": "Spain",
+         "Price per liter in U.S. dollars": "1.36"
+      },
+      {
+         "Country": "Japan",
+         "Price per liter in U.S. dollars": "1.18"
+      },
+      {
+         "Country": "Canada",
+         "Price per liter in U.S. dollars": "0.98"
+      },
+      {
+         "Country": "United States",
+         "Price per liter in U.S. dollars": "0.81"
+      }
+   ],
+   "gold": "In December 2019 , the diesel price per liter in the United States stood at 0.807 U.S. dollars per liter . In the United Kingdom in the same month , the price stood at 1.704 U.S. dollars per liter . This data concerns the price of automotive diesel ( for non-commercial use ) per liter in selected countries .\n"
+}

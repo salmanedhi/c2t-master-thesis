@@ -1,0 +1,87 @@
+{
+   "title": "Leading trends in appetizers on restaurant menus in the U.S. in 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Leading trends in U.S.",
+      "It shows Vegetarian_appetizers was the Leading at just 24 degrees and Seafood_charcuterie was the warmest at 67 respondents . ",
+      "After Vegetarian_appetizers , the next Leading trends are Fresh/house-made_sausage at 67 degrees , followed by Sliders/mini-burgers at 18 degrees , House-cured_meats/charcuterie at 59 degrees and then Ethnic/street_food-inspired_appetizers_(e.g._tempura_taquitos_kabobs) at 53 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "12",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "12",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Fresh/house-made sausage",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "House-cured meats/charcuterie",
+         "Share of respondents": "59"
+      },
+      {
+         "Response": "Vegetarian appetizers",
+         "Share of respondents": "59"
+      },
+      {
+         "Response": "Ethnic/street food-inspired appetizers (e.g. tempura taquitos kabobs)",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Seafood charcuterie",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Amuse-bouche/bite-size hors d'oeuvre",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Ethnic dips (e.g. hummus tabbouleh baba ganoush tzatziki)",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Poke/ceviche",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Bone marrow",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Jerky (e.g. beef fish turkey boar bison)",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Flatbread appetizers",
+         "Share of respondents": "30"
+      },
+      {
+         "Response": "Oysters",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "Sliders/mini-burgers",
+         "Share of respondents": "24"
+      }
+   ],
+   "gold": "This statistic shows the leading trends in appetizers on restaurant menus in the United States as forecasted by professional chefs for 2016 . During the survey , 59 percent of the respondents stated that house-cured meats/charcuterie was a `` hot trend `` for restaurant menus in 2016 .\n"
+}

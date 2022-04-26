@@ -1,0 +1,41 @@
+{
+   "title": "Netherlands : average annual salary and bonuses 2018",
+   "xAxis": "Salaries",
+   "yAxis": "Annual wage in euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the wage Annual of Salaries in the Netherlands ( ) between and 2018 . ",
+      "Yearly_wage_including_bonuses and Yearly_wage_including_bonuses held the largest Annual of the wearables wage at 34670\u20ac % , following 2018 Yearly_wage_excluding_special_payments with a 30090\u20ac % Annual ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "0",
+         "12": "0",
+         "17": "1",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Salaries": "Yearly wage including bonuses",
+         "Annual wage in euros": "34670\u20ac"
+      },
+      {
+         "Salaries": "Yearly wage excluding special payments",
+         "Annual wage in euros": "30090\u20ac"
+      },
+      {
+         "Salaries": "Bonuses and allowances",
+         "Annual wage in euros": "4580\u20ac"
+      },
+      {
+         "Salaries": "Additional tax liability for company car",
+         "Annual wage in euros": "420\u20ac"
+      }
+   ],
+   "gold": "This statistic displays the average annual salary in the Netherlands in 2018 , in euros . It shows that the average employee , next to an annual salary of roughly 20,100 euros , also received an additional 4,600 euros in special payments . Together , the combined yearly salary in the Netherlands was approximately 34,700 euros .\n"
+}

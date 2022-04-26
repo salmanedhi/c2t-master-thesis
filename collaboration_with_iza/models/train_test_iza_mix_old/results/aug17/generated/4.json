@@ -1,0 +1,41 @@
+{
+   "title": "Median Salary of Women Per Year",
+   "xAxis": "Year",
+   "yAxis": "Salary 1000",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the amount of Median Salary on Salary Women Per Year in millions of 1000 per Year in the Year . ",
+      "\\\\n From the chart we see that in the Year approximately 290 % of 1000 were Salary on Salary Women Per Year in 2015 as the highest in the world . ",
+      "The lowest amount of Median Salary on Salary Women Per Year in the world is 2000 at approximately 150 % of 1000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "21": "3"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Salary 1000": "40"
+      },
+      {
+         "Year": "2005",
+         "Salary 1000": "45"
+      },
+      {
+         "Year": "2010",
+         "Salary 1000": "50"
+      },
+      {
+         "Year": "2015",
+         "Salary 1000": "55"
+      }
+   ],
+   "gold": "2015 saw women median pay rise to 53 k , from 50 k in 2010 . 2005 it was at 45 k from 40 k in 2000 , so you can see it has been rising steadily\n"
+}

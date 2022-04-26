@@ -1,0 +1,57 @@
+{
+   "title": "ACSI - U.S. customer satisfaction with social media 2019",
+   "xAxis": "Platform",
+   "yAxis": "ACSI score (100-point scale)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the ACSI U.S. customer of satisfaction social media in the 2019 as of 2019 . ",
+      "In the survey period , it was found that 80 % of the score (100-point scale) ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Pinterest",
+         "ACSI score (100-point scale)": "80"
+      },
+      {
+         "Platform": "YouTube",
+         "ACSI score (100-point scale)": "78"
+      },
+      {
+         "Platform": "Wikipedia",
+         "ACSI score (100-point scale)": "74"
+      },
+      {
+         "Platform": "Instagram",
+         "ACSI score (100-point scale)": "72"
+      },
+      {
+         "Platform": "Snapchat",
+         "ACSI score (100-point scale)": "71"
+      },
+      {
+         "Platform": "Twitter",
+         "ACSI score (100-point scale)": "69"
+      },
+      {
+         "Platform": "LinkedIn",
+         "ACSI score (100-point scale)": "69"
+      },
+      {
+         "Platform": "Tumblr",
+         "ACSI score (100-point scale)": "64"
+      },
+      {
+         "Platform": "Facebook",
+         "ACSI score (100-point scale)": "63"
+      }
+   ],
+   "gold": "This graph shows the American Customer Satisfaction Index ( ACSI ) of customer satisfaction with social media websites in 2019 . Overall , Pinterest scored the highest level of customer satisfaction with 80 index points . Facebook was ranked last with an index score rating of 63 / 100 index points .\n"
+}

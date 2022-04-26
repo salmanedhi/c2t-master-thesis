@@ -1,0 +1,81 @@
+{
+   "title": "Number of immigrants in Canada , by province 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of Immigrants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of Immigrants conducted by Canada in a by province . ",
+      "\\\\n From the chart we see that the British_Columbia Month was the Number immigrants Month in the province with 139071 Immigrants . ",
+      "The next Month to make the most Immigrants was the Alberta Month with 40725 Immigrants closely followed by Nunavut with 25 Immigrants ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "12",
+         "20": "12"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of Immigrants": "139071"
+      },
+      {
+         "Month": "Quebec",
+         "Number of Immigrants": "44856"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of Immigrants": "43151"
+      },
+      {
+         "Month": "Alberta",
+         "Number of Immigrants": "40725"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of Immigrants": "15918"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of Immigrants": "13910"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of Immigrants": "6393"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of Immigrants": "5076"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of Immigrants": "2267"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of Immigrants": "1651"
+      },
+      {
+         "Month": "Yukon",
+         "Number of Immigrants": "310"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of Immigrants": "227"
+      },
+      {
+         "Month": "Nunavut",
+         "Number of Immigrants": "25"
+      }
+   ],
+   "gold": "Ontario was the province with the most immigrants in 2019 , with 139,071 immigrants living within its boundaries . Nunavut , Canada 's northernmost territory , had 25 immigrants residing there in the same year . Immigration to Canada Over the past 20 years , the number of immigrants to Canada has held steady and is just about evenly split between men and women .\n"
+}

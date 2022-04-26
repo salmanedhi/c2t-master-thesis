@@ -1,0 +1,45 @@
+{
+   "title": "Alibaba : number of employees 2018 , by department",
+   "xAxis": "Department",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Alibaba in millions of employees that was number on employees 2018 in different continents in 2018 . ",
+      "\\n\\\\n Research_and_development number the most Alibaba on employees 2018 in Alibaba with around 24964 % employees being number . ",
+      "General_and_administrative then number the next highest amount with 6494 % employees and Sales_and_marketing number half in at 10143 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "13": "3"
+      },
+      {
+         "0": "0",
+         "8": "0",
+         "12": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Department": "General and administrative",
+         "Number of employees": "6494"
+      },
+      {
+         "Department": "Sales and marketing",
+         "Number of employees": "10143"
+      },
+      {
+         "Department": "Research and development",
+         "Number of employees": "24820"
+      },
+      {
+         "Department": "Operations and customer service",
+         "Number of employees": "24964"
+      }
+   ],
+   "gold": "The statistic shows the number of full-time employees of the Alibaba Group , sorted by department . As of March 2018 , the Chinese e-commerce corporation had 24,964 full-time employees working in operations and customer service .\n"
+}

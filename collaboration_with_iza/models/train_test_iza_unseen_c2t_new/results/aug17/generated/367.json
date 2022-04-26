@@ -1,0 +1,44 @@
+{
+   "title": "Value of ayurvedic and herbal products from India 2014 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Export value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In Fiscal Year FY_2019 , the Value ayurvedic amounted to 456.12 thousand million U.S. across India . ",
+      "The India chemical industry is highly diversified . ",
+      "With a coverage of over 80 thousand products , the south Asian country was the sixth largest producer of chemicals in the world and the third largest in Asia ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "10": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Export value in million U.S. dollars": "446.13"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Export value in million U.S. dollars": "456.12"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Export value in million U.S. dollars": "401.68"
+      },
+      {
+         "Fiscal Year": "FY 2016",
+         "Export value in million U.S. dollars": "364.0"
+      },
+      {
+         "Fiscal Year": "FY 2015",
+         "Export value in million U.S. dollars": "354.68"
+      }
+   ],
+   "gold": "The export value of ayurvedic and herbal products amounted to about 446 million U.S. dollars from India in fiscal year 2019 . There was a consistent increase in the value of these exports since fiscal year 2015 . Agricultural and allied sectors , of which ayurvedic and herbal products are part of , contributed to about 8.6 percent of the country 's exports .\n"
+}

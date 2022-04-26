@@ -1,0 +1,197 @@
+{
+   "title": "Walt Disney Company : quarterly revenue 2010 to 2020",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Walt Disney Quarter in terms of the Revenue of billion with Q1_'19 having the Walt \u2013 20.86 billion down to Q4_'19 the least Disney of the group at 8.58 billion . ",
+      "In between , we have Q1_'20 20.86 , Q1_'10 9.74 , Q2_'19 14.92 and Q3_'19 20.25 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "39"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "40",
+         "9": "40",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '20",
+         "Revenue in billion U.S. dollars": "20.86"
+      },
+      {
+         "Quarter": "Q4 '19",
+         "Revenue in billion U.S. dollars": "19.1"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in billion U.S. dollars": "20.25"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in billion U.S. dollars": "14.92"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in billion U.S. dollars": "15.3"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in billion U.S. dollars": "14.31"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in billion U.S. dollars": "15.23"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in billion U.S. dollars": "14.55"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in billion U.S. dollars": "15.35"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in billion U.S. dollars": "12.78"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in billion U.S. dollars": "14.24"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in billion U.S. dollars": "13.34"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in billion U.S. dollars": "14.78"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in billion U.S. dollars": "13.14"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in billion U.S. dollars": "14.28"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in billion U.S. dollars": "12.97"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in billion U.S. dollars": "15.24"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in billion U.S. dollars": "13.51"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in billion U.S. dollars": "13.1"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in billion U.S. dollars": "12.46"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in billion U.S. dollars": "13.39"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in billion U.S. dollars": "12.39"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in billion U.S. dollars": "12.47"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in billion U.S. dollars": "11.65"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in billion U.S. dollars": "12.31"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in billion U.S. dollars": "11.57"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in billion U.S. dollars": "11.58"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in billion U.S. dollars": "10.55"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in billion U.S. dollars": "11.34"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in billion U.S. dollars": "10.78"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Revenue in billion U.S. dollars": "11.09"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Revenue in billion U.S. dollars": "9.63"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Revenue in billion U.S. dollars": "10.78"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Revenue in billion U.S. dollars": "10.43"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Revenue in billion U.S. dollars": "10.68"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Revenue in billion U.S. dollars": "9.08"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Revenue in billion U.S. dollars": "10.72"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Revenue in billion U.S. dollars": "9.74"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Revenue in billion U.S. dollars": "10.0"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Revenue in billion U.S. dollars": "8.58"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "Revenue in billion U.S. dollars": "9.74"
+      }
+   ],
+   "gold": "In the last measured quarter , The Walt Disney Company generated 20.86 billion U.S. dollars in revenue . Disney 's first fiscal quarter of 2020 was a strong one , which the company partially attributed to the success of its new streaming service , Disney Plus ( stylized as Disney+ ) . The Walt Disney Company : financial dataDisney 's quarterly net income often varies wildly throughout each fiscal year , sometimes surpassing four or five billion U.S. dollars and other times dipping below one billion .\n"
+}

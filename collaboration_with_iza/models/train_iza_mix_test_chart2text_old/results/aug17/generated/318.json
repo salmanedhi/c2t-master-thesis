@@ -1,0 +1,65 @@
+{
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018",
+   "xAxis": "Mobile Carrier",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market of share conducted by carrier in a market shares . ",
+      "\\\\n From the chart we see that the Vodafone Mobile was the Mobile operators in the shares with 28 share . ",
+      "The next Mobile to make the most share was the Three Mobile with 12 share closely followed by Sky with 1 share ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "8",
+         "20": "8"
+      }
+   ],
+   "data": [
+      {
+         "Mobile Carrier": "BT (including EE)",
+         "Market share": "28"
+      },
+      {
+         "Mobile Carrier": "O2",
+         "Market share": "26"
+      },
+      {
+         "Mobile Carrier": "Vodafone",
+         "Market share": "21"
+      },
+      {
+         "Mobile Carrier": "Three",
+         "Market share": "12"
+      },
+      {
+         "Mobile Carrier": "Tesco Mobile",
+         "Market share": "6"
+      },
+      {
+         "Mobile Carrier": "Virgin Mobile",
+         "Market share": "4"
+      },
+      {
+         "Mobile Carrier": "Talk Talk",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "iD Mobile",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "Sky",
+         "Market share": "1"
+      }
+   ],
+   "gold": "This statistic shows the market shares held by mobile operators in the United Kingdom ( UK ) as at 31 December 2017 . BT , including Everything Everywhere ( EE ) held the greatest share of the market with 28 percent followed by O2 who held 26 percent . The four main mobile network operators ( MNO ) in the UK are Vodafone , Three ( 3 ) , EE and O2 .\n"
+}

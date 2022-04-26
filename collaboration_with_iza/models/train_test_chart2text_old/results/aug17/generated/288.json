@@ -1,0 +1,42 @@
+{
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic provides information on the primary travelers who U.S. to abandon their had in the items as of 2015 . ",
+      "During the most recent survey period , 10 % of respondents stated they had abandoned shopping had due to the cost of Smartphone ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "License",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "The statistic shows the share of U.S. survey respondents who have had items with sensitive information lost or stolen , while traveling . 10 percent of respondents have lost or had a smartphone stolen whilst traveling .\n"
+}

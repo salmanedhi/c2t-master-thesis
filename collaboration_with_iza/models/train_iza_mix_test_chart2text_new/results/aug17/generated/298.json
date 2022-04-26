@@ -1,0 +1,35 @@
+{
+   "title": "Distribution of global animal health care market by species 2018",
+   "xAxis": "Animal Type",
+   "yAxis": "Distribution of animal health care market volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Animal of in Distribution . ",
+      "\\\\n The biggest Animal , shown to be responsible for 62 % of Animal , is genes . ",
+      "Companion_animal of Companion_animal accounts for 35 % of animal and Food_animal is the Animal in nearly 25 % of Animal ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Animal Type": "Food animal",
+         "Distribution of animal health care market volume": "62"
+      },
+      {
+         "Animal Type": "Companion animal",
+         "Distribution of animal health care market volume": "38"
+      }
+   ],
+   "gold": "This statistic shows the distribution of the global animal health care market volume in 2018 , by species . In that year , health products for companion animals generated some 38 percent of the total global animal health market volume .\n"
+}

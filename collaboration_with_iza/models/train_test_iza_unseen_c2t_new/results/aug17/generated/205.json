@@ -1,0 +1,77 @@
+{
+   "title": "Number of births in Canada , by province 2019",
+   "xAxis": "province",
+   "yAxis": "Number of births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number births province Quebec in the Canada in 2019 . ",
+      "The Ontario in had a Number births of 145806 million births for the 2019 season ."
+   ],
+   "trends": [
+      {
+         "9": "1"
+      },
+      {
+         "1": "0",
+         "3": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "province": "Ontario",
+         "Number of births": "145806"
+      },
+      {
+         "province": "Quebec",
+         "Number of births": "83900"
+      },
+      {
+         "province": "Alberta",
+         "Number of births": "54107"
+      },
+      {
+         "province": "British Columbia",
+         "Number of births": "43370"
+      },
+      {
+         "province": "Manitoba",
+         "Number of births": "17477"
+      },
+      {
+         "province": "Saskatchewan",
+         "Number of births": "15479"
+      },
+      {
+         "province": "Nova Scotia",
+         "Number of births": "8472"
+      },
+      {
+         "province": "New Brunswick",
+         "Number of births": "6565"
+      },
+      {
+         "province": "Newfoundland and Labrador",
+         "Number of births": "3969"
+      },
+      {
+         "province": "Prince Edward Island",
+         "Number of births": "1397"
+      },
+      {
+         "province": "Nunavut",
+         "Number of births": "916"
+      },
+      {
+         "province": "Northwest Territories",
+         "Number of births": "595"
+      },
+      {
+         "province": "Yukon",
+         "Number of births": "480"
+      }
+   ],
+   "gold": "This statistic shows the total number of births in Canada in 2019 , distinguished by province . In 2019 , 145,806 babies were born in Ontario . The life expectancy of babies born in 2017 in Canada was 82.47 years .\n"
+}

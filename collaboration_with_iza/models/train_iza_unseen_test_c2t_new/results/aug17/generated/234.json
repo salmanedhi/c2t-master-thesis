@@ -1,0 +1,84 @@
+{
+   "title": "Facebook : major stakeholders in 2013 , by ownership stake",
+   "xAxis": "Month",
+   "yAxis": "Ownership stake",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Facebook major Month in the 2013 by was Month Accel_Partners , who made 28.2 stake . ",
+      "The most major Month was Digital_Sky_Technologies , with just 1.5 stake . ",
+      "In second place was Month Facebook_employees with 25 stake ; third place went to Month Mark_Zuckerberg with 28.2 stake ; fourth place went to Month Elevation_Partners with 1.5 stake and fifth place went to Month Dustin_Moskovitz , who was 7.6 stake ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "11",
+         "27": "11",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mark Zuckerberg",
+         "Ownership stake": "28.2"
+      },
+      {
+         "Month": "Facebook employees",
+         "Ownership stake": "25"
+      },
+      {
+         "Month": "Accel Partners",
+         "Ownership stake": "11.4"
+      },
+      {
+         "Month": "Dustin Moskovitz",
+         "Ownership stake": "7.6"
+      },
+      {
+         "Month": "Digital Sky Technologies",
+         "Ownership stake": "5.5"
+      },
+      {
+         "Month": "Eduardo Saverin",
+         "Ownership stake": "5"
+      },
+      {
+         "Month": "Sean Parker",
+         "Ownership stake": "4"
+      },
+      {
+         "Month": "Foreign Goldman Sachs clients",
+         "Ownership stake": "2.8"
+      },
+      {
+         "Month": "Peter Thiel",
+         "Ownership stake": "2.5"
+      },
+      {
+         "Month": "Greylock Partners",
+         "Ownership stake": "1.5"
+      },
+      {
+         "Month": "MeriTech Capital Partners",
+         "Ownership stake": "1.5"
+      },
+      {
+         "Month": "Elevation Partners",
+         "Ownership stake": "1.5"
+      }
+   ],
+   "gold": "This statistic illustrates the major Facebook stakeholders as of January 2013 , by ownership stake . In June 2011 , Sean Parker owned 4 percent in Facebook stakes . Mark Zuckerberg owned 24 percent of Facebook\n"
+}

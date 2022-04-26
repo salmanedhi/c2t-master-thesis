@@ -1,0 +1,65 @@
+{
+   "title": "Shortest Oscar acceptance speeches 2019",
+   "xAxis": "Actor",
+   "yAxis": "Number of words",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The acceptance speeches 2019 in the Oscar is called the Patty_Duke_(1963) speeches Complex , located in the Patty_Duke_(1963) States , with a total of 10 words . ",
+      "It is made up of 22 power Actor and spread over several kilometers , located north of San Francisco . ",
+      "It sits on top of a deep magma chamber that spans over 30 square miles ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "17": "0",
+         "24": "9"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Actor": "Patty Duke (1963)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Louie Psihoyos (2010)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Alfred Newman (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Gloria Graham (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "William Holden (1954)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Alfred Hitchcock (1968)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Joe Pesci (1991)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Dimitri Tiomkin (1953)",
+         "Number of words": "6"
+      },
+      {
+         "Actor": "Delbert Mann (1956)",
+         "Number of words": "8"
+      },
+      {
+         "Actor": "Billy Willder (1961)",
+         "Number of words": "10"
+      }
+   ],
+   "gold": "This statistic presents data on the shortest Academy Awards acceptance speeches of all time as of 2019 . According to the source , the record for the shortest speech is held by Patty Duke , who simply said `` thank you `` when accepting her Best Supporting Actress award in 1963 .\n"
+}

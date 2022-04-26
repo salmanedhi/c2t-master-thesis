@@ -1,0 +1,46 @@
+{
+   "title": "Quarterly gross mortgage lending in the United Kingdom ( UK ) Q4 2018- Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Mortgages value in billion GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Quarterly gross on United Kingdom in billion 70.43 . ",
+      "\\\\n From the chart we see that Q1_'19 gross a total of \u00a3 70.46 billion value for the year , \u00a3 120 billion more than the closest competitor ( Q3_'19 , which gross \u00a3 70.43 billion ) and over twice as much Q2_'19 and Q4_'18 put together ( which gross \u00a3 64.1 and \u00a3 60.81 billion respectively , totalling \u00a3 150 billion ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "3",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1",
+         "55": "2"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Mortgages value in billion GBP": "70.43"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Mortgages value in billion GBP": "64.1"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Mortgages value in billion GBP": "60.81"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Mortgages value in billion GBP": "70.46"
+      }
+   ],
+   "gold": "This statistic illustrates the total quarterly value of gross mortgage lending in the United Kingdom ( UK ) from the fourth quarter of 2018 to the third quarter of 2019 . It can be seen that the value of gross mortgage lending reached an estimated value of approximately 70.4 billion British pounds as of the third quarter of 2019 .\n"
+}

@@ -1,0 +1,42 @@
+{
+   "title": "Market share of leading companies in the coffee market in Germany 2016",
+   "xAxis": "Coffee Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2016 , 23.2 % of Market package deliveries in the leading were for Coffee to consumer ( Nestl\u00e9 ) parcels . ",
+      "The remaining Market share was split between Coffee to ( Tchibo ) and consumer to ( Jacobs_Douwe_Egberts ) deliveries . ",
+      "Nestl\u00e9 e-commerce The size of the Nestl\u00e9 parcel share market is likely attributable to online retailing ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "18": "2"
+      },
+      {
+         "11": "1",
+         "18": "0"
+      },
+      {
+         "0": "2",
+         "6": "2"
+      }
+   ],
+   "data": [
+      {
+         "Coffee Company": "Jacobs Douwe Egberts",
+         "Market share": "23.2"
+      },
+      {
+         "Coffee Company": "Tchibo",
+         "Market share": "12"
+      },
+      {
+         "Coffee Company": "Nestl\u00e9",
+         "Market share": "10.3"
+      }
+   ],
+   "gold": "This statistic illustrates the market share of leading companies in the German coffee market in 2016 . In the period of consideration , Tchibo had a market share of 12 percent .\n"
+}

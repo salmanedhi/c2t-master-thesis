@@ -1,0 +1,66 @@
+{
+   "title": "Foreign population of Belgium in 2019 , by origin",
+   "xAxis": "Country",
+   "yAxis": "Foreign population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the estimated number of Foreign population in the Belgium in 2019 , by Country of Foreign . ",
+      "As of 2019 , about 454038 % Foreign population from France were living in the 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "10",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Foreign population": "167508"
+      },
+      {
+         "Country": "Netherlands",
+         "Foreign population": "157474"
+      },
+      {
+         "Country": "Italy",
+         "Foreign population": "155866"
+      },
+      {
+         "Country": "Romania",
+         "Foreign population": "96034"
+      },
+      {
+         "Country": "Morocco",
+         "Foreign population": "80295"
+      },
+      {
+         "Country": "Poland",
+         "Foreign population": "71331"
+      },
+      {
+         "Country": "Spain",
+         "Foreign population": "65476"
+      },
+      {
+         "Country": "Portugal",
+         "Foreign population": "47677"
+      },
+      {
+         "Country": "Germany",
+         "Foreign population": "39608"
+      },
+      {
+         "Country": "Bulgaria",
+         "Foreign population": "37277"
+      },
+      {
+         "Country": "Others",
+         "Foreign population": "454038"
+      }
+   ],
+   "gold": "Belgium has a multicultural landscape ; a variety of nationalities coexist in the country . Brussels houses most of the European Union institutions . This is the reason behind the nickname `` capital of Europe `` .\n"
+}

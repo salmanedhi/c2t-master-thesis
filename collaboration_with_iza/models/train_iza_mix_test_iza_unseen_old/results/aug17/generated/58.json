@@ -1,0 +1,41 @@
+{
+   "title": "The least frequent daily users of social media",
+   "xAxis": "Age Group",
+   "yAxis": "Minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the least frequent users of social media by Age Group . ",
+      "\\\\n You can see that the least frequent users are in the 35 - 44 and 25 - 34 Age groups . ",
+      "The most frequent users are in the 45 - 54 Age Group and they use social media twice as much the least frequent users ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Age Group": "15-24",
+         "Minutes": "125"
+      },
+      {
+         "Age Group": "25-34",
+         "Minutes": "75"
+      },
+      {
+         "Age Group": "35-44",
+         "Minutes": "74"
+      },
+      {
+         "Age Group": "45-54",
+         "Minutes": "150"
+      },
+      {
+         "Age Group": "55-64",
+         "Minutes": "110"
+      }
+   ],
+   "gold": "The biggest users of social media daily is the 45 - 54 age group with 150 minutes each day , next is 15 - 24 at 124 minutes daily , then 55 - 64 at 112 minutes , then 25 - 34 at 76 minutes , in last place is 35 - 44 at 72 minutes .\n"
+}

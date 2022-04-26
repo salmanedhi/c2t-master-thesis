@@ -1,0 +1,38 @@
+{
+   "title": "Revenue of Canada Goose by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million Canadan dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , million region Canada e-commerce Revenue in the Total amounted to 830.5 dollars , more than double the amount of million region Canada Revenue in Canada and more than 174 times the amount of the Revenue in Rest_of_world ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "13": "0",
+         "28": "1",
+         "40": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Total",
+         "Revenue in million Canadan dollars": "830.5"
+      },
+      {
+         "Country": "Canada",
+         "Revenue in million Canadan dollars": "293.3"
+      },
+      {
+         "Country": "United States",
+         "Revenue in million Canadan dollars": "251.1"
+      },
+      {
+         "Country": "Rest of world",
+         "Revenue in million Canadan dollars": "286.1"
+      }
+   ],
+   "gold": "Canada Goose , originally known as Metro Sportswear Ltd. , is a Canadian owned apparel company focusing on the production and sale of winter clothing . The worldwide revenue of Canada Goose amounted to approximately 830.5 million Canadian dollars in the 2019 financial year . Around 293 million dollars of this total revenue was generated in Canada , and around 251 million dollars in the United States .\n"
+}

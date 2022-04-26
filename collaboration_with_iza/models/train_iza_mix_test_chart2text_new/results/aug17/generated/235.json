@@ -1,0 +1,57 @@
+{
+   "title": "Price of tobacco sticks used with IQOS device from Phillip Morris in France 2019",
+   "xAxis": "Tobacco sticks used with IQOS devices",
+   "yAxis": "Price in euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Price of euros made by Tobacco in a used with . ",
+      "\\\\n From the chart we see that the Heets_Turquoise_Label_(61g)_20_units Tobacco was the Price tobacco in the with 7 euros . ",
+      "The next Tobacco to make the most euros was the Heets_Yellow_Label_(61g)_20_units Tobacco with 7 euros closely followed by the Heets_Sienna_Label_(61g)_20_units Tobacco with 7 euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "6",
+         "22": "6"
+      }
+   ],
+   "data": [
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Amber Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Blue Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Turquoise Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Yellow Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Blue Label (62g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Bronze Label (61g) 20 units",
+         "Price in euros": "7"
+      },
+      {
+         "Tobacco sticks used with IQOS devices": "Heets Sienna Label (61g) 20 units",
+         "Price in euros": "7"
+      }
+   ],
+   "gold": "This statistic displays the price of tobacco sticks packs used with the IQOS smoking device from the brand Phillip Morris in France as of February 2019 . It shows that the Heets tobacco sticks were worth 7 euros per pack of 20 units .\n"
+}

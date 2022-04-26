@@ -1,0 +1,138 @@
+{
+   "title": "Average player salary in the NFL by team 2018/19",
+   "xAxis": "Team Name",
+   "yAxis": "Average player salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Average player salary of the Name in the National Basketball Association in 2018/19 . ",
+      "The Jacksonville_Jaguars had an Average player salary of 3.34 million U.S. dollars for the 2018/19 season ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Team Name": "Jacksonville Jaguars",
+         "Average player salary in million U.S. dollars": "3.34"
+      },
+      {
+         "Team Name": "Minnesota Vikings",
+         "Average player salary in million U.S. dollars": "3.32"
+      },
+      {
+         "Team Name": "Tampa Bay Bucs",
+         "Average player salary in million U.S. dollars": "3.21"
+      },
+      {
+         "Team Name": "Pittsburgh Steelers",
+         "Average player salary in million U.S. dollars": "3.2"
+      },
+      {
+         "Team Name": "San Francisco 49ers",
+         "Average player salary in million U.S. dollars": "3.17"
+      },
+      {
+         "Team Name": "Tennessee Titans",
+         "Average player salary in million U.S. dollars": "3.17"
+      },
+      {
+         "Team Name": "Denver Broncos",
+         "Average player salary in million U.S. dollars": "3.13"
+      },
+      {
+         "Team Name": "Green Bay Packers",
+         "Average player salary in million U.S. dollars": "3.08"
+      },
+      {
+         "Team Name": "Carolina Panthers",
+         "Average player salary in million U.S. dollars": "3.07"
+      },
+      {
+         "Team Name": "Chicago Bears",
+         "Average player salary in million U.S. dollars": "3.05"
+      },
+      {
+         "Team Name": "Atlanta Falcons",
+         "Average player salary in million U.S. dollars": "3.05"
+      },
+      {
+         "Team Name": "Los Angeles Rams",
+         "Average player salary in million U.S. dollars": "3.01"
+      },
+      {
+         "Team Name": "Detroit Lions",
+         "Average player salary in million U.S. dollars": "3.01"
+      },
+      {
+         "Team Name": "New England Patriots",
+         "Average player salary in million U.S. dollars": "2.97"
+      },
+      {
+         "Team Name": "Cleveland Browns",
+         "Average player salary in million U.S. dollars": "2.93"
+      },
+      {
+         "Team Name": "Philadelphia Eagles",
+         "Average player salary in million U.S. dollars": "2.92"
+      },
+      {
+         "Team Name": "Cincinnati Bengals",
+         "Average player salary in million U.S. dollars": "2.91"
+      },
+      {
+         "Team Name": "Oakland Raiders",
+         "Average player salary in million U.S. dollars": "2.9"
+      },
+      {
+         "Team Name": "Los Angeles Chargers",
+         "Average player salary in million U.S. dollars": "2.87"
+      },
+      {
+         "Team Name": "Washington Redskins",
+         "Average player salary in million U.S. dollars": "2.87"
+      },
+      {
+         "Team Name": "New Orleans Saints",
+         "Average player salary in million U.S. dollars": "2.83"
+      },
+      {
+         "Team Name": "New York Giants",
+         "Average player salary in million U.S. dollars": "2.81"
+      },
+      {
+         "Team Name": "Miami Dolphins",
+         "Average player salary in million U.S. dollars": "2.79"
+      },
+      {
+         "Team Name": "Kansas City Chiefs",
+         "Average player salary in million U.S. dollars": "2.78"
+      },
+      {
+         "Team Name": "New York Jets",
+         "Average player salary in million U.S. dollars": "2.78"
+      },
+      {
+         "Team Name": "Houston Texans",
+         "Average player salary in million U.S. dollars": "2.76"
+      },
+      {
+         "Team Name": "Arizona Cardinals",
+         "Average player salary in million U.S. dollars": "2.71"
+      },
+      {
+         "Team Name": "Baltimore Ravens",
+         "Average player salary in million U.S. dollars": "2.61"
+      },
+      {
+         "Team Name": "Seattle Seahawks",
+         "Average player salary in million U.S. dollars": "2.57"
+      }
+   ],
+   "gold": "The Jacksonville Jaguars had the highest average annual player salary in the 2018/19 season \u2013 each of their players took home an average of 3.34 million U.S. dollars . The Jaguars proved to be a cautionary tale about how money ca n't buy you success \u2013 the franchise finished the season bottom of the AFC South with a record of 5 - 11 . In comparison , the team with the lowest wage bill , the Seattle Seahawks , were able to make it out of their division only to narrowly miss out in the Wild Card Playoffs .\n"
+}

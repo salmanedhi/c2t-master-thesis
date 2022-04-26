@@ -1,0 +1,79 @@
+{
+   "title": "IT functions outsourced worldwide 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the functions outsourced in IT . ",
+      "It shows Data_centers was the functions at just 6 degrees and Service_desk_/_help_desk was the warmest at 64 degrees . ",
+      "After Data_centers , the next functions outsourced are Software_application_development at 64 degrees , followed by KPO at 18 degrees , Software_application_maintenance at 51 degrees and then IT_infrastructure at 32 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "10",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "10",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Software application development",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Software application maintenance",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Data centers",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "IT infrastructure",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Service desk / help desk",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Networks",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Systems integration",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "HR BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT department",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "KPO",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "The statistic reveals the IT functions most commonly outsourced by IT leaders worldwide , as of 2017 . In 2017 , software application development was outsourced by 64 percent of respondents .\n"
+}

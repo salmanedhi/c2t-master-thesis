@@ -1,0 +1,36 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by education",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey conducted United the Hearth , Patio & Barbecue Association ( HPBA ) in and 2019 . ",
+      "During the survey , United States consumers were asked about which types of grills they owned . ",
+      "Approximately 75 % of the respondents indicated reach of a High_school_or_less ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "High school or less",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "Some college",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "College +",
+         "Share of respondents": "74"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by educational background . During that period of time , 74 percent of respondents who had attained a college degree used the social networking site .\n"
+}

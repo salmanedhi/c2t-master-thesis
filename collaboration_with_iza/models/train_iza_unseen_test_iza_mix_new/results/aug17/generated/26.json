@@ -1,0 +1,45 @@
+{
+   "title": "Closing stock prices for Akef Inc. on Wednesday",
+   "xAxis": "Day of the Week",
+   "yAxis": "Closing Stock Price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Closing Stock Price for Akef Inc. per Day of the Week . ",
+      "The Closing Stock Price is gradually rising towards mid - Week , being approx . ",
+      "\u00a3 51.4 on Monday , \u00a3 62.0 on Tuesday and \u00a3 74.38 on Wednesday ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "0",
+         "6": "1",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Day of the Week": "Mon",
+         "Closing Stock Price": "51.4"
+      },
+      {
+         "Day of the Week": "Tue",
+         "Closing Stock Price": "62.0"
+      },
+      {
+         "Day of the Week": "Wed",
+         "Closing Stock Price": "74.38"
+      },
+      {
+         "Day of the Week": "Thu",
+         "Closing Stock Price": "21.9"
+      },
+      {
+         "Day of the Week": "Fri",
+         "Closing Stock Price": "9.42"
+      }
+   ],
+   "gold": "This graph compares the closing stock prices in GBP for Akef Inc on different days of the week . The highest closing stock price is on a Wednesday which is around 74 pound . The lowest closing stock price is on a friday with the price being around 10 pound .\n"
+}

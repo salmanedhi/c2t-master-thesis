@@ -1,0 +1,46 @@
+{
+   "title": "What do Students choose to study ?",
+   "xAxis": "Deparment",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of Students that choose to study each subject . ",
+      "The graph shows that most Students ( 50 percentage ) choose to study STEM subjects , while Medicine and Literature are the second most popular , with 20 percentage of Students studying these subjects . ",
+      "The least popular subject is Philosophy , with only 10 percentage of Students studying this subject ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "13": "0",
+         "17": "3",
+         "19": "1",
+         "27": "3"
+      },
+      {
+         "5": "2",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Deparment": "STEM",
+         "Percentage": "50"
+      },
+      {
+         "Deparment": "Literature",
+         "Percentage": "20"
+      },
+      {
+         "Deparment": "Philosophy",
+         "Percentage": "10"
+      },
+      {
+         "Deparment": "Medicine",
+         "Percentage": "20"
+      }
+   ],
+   "gold": "This graph shows the percentage of students who choose to study in four different departments . 50 % - STEM \\\\n 20 % - Literature \\\\n 10 % - Philosophy \\\\n 20 % - Medicine\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Minority Representation in the Parliament of Lybia 1",
+   "xAxis": "Years",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of 1 within the Parliament Lybia Parliament . ",
+      "\\n From the chart we see that during the Years of 1990 - 1994 approximately 0.4 percentage of the Parliament were represented by minorities . ",
+      "\\n During the Years 1995 - 1999 this increased to 2.1 percentage , and continued to increase 7.8 percentage during 2000 - 2004 , increasing to 10.0 percentage during 2005 - 2009 , increasing to 12.8 percentage during 2010 - 2014 and increasing ti 14.0 percentage during 2015 - 2019 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "1",
+         "27": "3",
+         "45": "5"
+      }
+   ],
+   "data": [
+      {
+         "Years": "1990-1994",
+         "Percentage": "0.5"
+      },
+      {
+         "Years": "1995-1999",
+         "Percentage": "2.1"
+      },
+      {
+         "Years": "2000-2004",
+         "Percentage": "7.5"
+      },
+      {
+         "Years": "2005-2009",
+         "Percentage": "10.0"
+      },
+      {
+         "Years": "2010-2014",
+         "Percentage": "12.7"
+      },
+      {
+         "Years": "2015-2019",
+         "Percentage": "14.0"
+      }
+   ],
+   "gold": "Minority representation in Lybia 's parliament has increased from a fraction of 1 % in 1990 - 1994 to around 14 % in 2015 - 2019 . During the previous four-year periods it increased steadily , with the biggest step being from under 3 % to nearly 8 % in 2000 - 1004 .\n"
+}

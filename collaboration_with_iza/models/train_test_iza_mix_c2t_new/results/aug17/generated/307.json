@@ -1,0 +1,51 @@
+{
+   "title": "Weekly LinkedIn usage of registered users 2016",
+   "xAxis": "Hours",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the reasons for 8+_hours at 5-6_hours among registered in LinkedIn 2016 . ",
+      "Of those surveyed , 22 percentage of respondents reported that 3-4_hours at 5-6_hours was a LinkedIn of 8+_hours . ",
+      "High levels of 8+_hours sustained for a long period can lead to impacts on both physical and mental health , which can also lead to impacts on the immune system ."
+   ],
+   "trends": [
+      {
+         "6": "4",
+         "8": "2"
+      },
+      {
+         "4": "1",
+         "10": "1",
+         "12": "2",
+         "17": "4"
+      },
+      {
+         "3": "4"
+      }
+   ],
+   "data": [
+      {
+         "Hours": "0-2 hours",
+         "Percentage of respondents": "53"
+      },
+      {
+         "Hours": "3-4 hours",
+         "Percentage of respondents": "22"
+      },
+      {
+         "Hours": "5-6 hours",
+         "Percentage of respondents": "10"
+      },
+      {
+         "Hours": "7-8 hours",
+         "Percentage of respondents": "5"
+      },
+      {
+         "Hours": "8+ hours",
+         "Percentage of respondents": "10"
+      }
+   ],
+   "gold": "This statistic provides information on average number of weekly hours that LinkedIn users spend on the social networking site . During a March 2016 survey , it was found that 53 percent of LinkedIn users only spend zero to two hours on the site per week .\n"
+}

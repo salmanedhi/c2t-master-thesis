@@ -1,0 +1,73 @@
+{
+   "title": "Most valuable Swedish brands 2019",
+   "xAxis": "Swedish Brand",
+   "yAxis": "Value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The valuable Swedish of Brand in the 2019 include IKEA , cancer Volvo injuries , Nordea respiratory IKEA , and Telia IKEA . ",
+      "However , IKEA and cancer account for most Brand in the 2019 . ",
+      "Cardiovascular IKEA Brand from cardiovascular IKEA are more common among men than women but have decreased for both sexes over the past few decades ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "13": "2",
+         "16": "3",
+         "18": "0",
+         "21": "4",
+         "22": "0"
+      },
+      {
+         "2": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Swedish Brand": "IKEA",
+         "Value in million U.S. dollars": "21531"
+      },
+      {
+         "Swedish Brand": "H&M",
+         "Value in million U.S. dollars": "15876"
+      },
+      {
+         "Swedish Brand": "Volvo",
+         "Value in million U.S. dollars": "13772"
+      },
+      {
+         "Swedish Brand": "Nordea",
+         "Value in million U.S. dollars": "5638"
+      },
+      {
+         "Swedish Brand": "Telia",
+         "Value in million U.S. dollars": "4724"
+      },
+      {
+         "Swedish Brand": "Swedbank",
+         "Value in million U.S. dollars": "3513"
+      },
+      {
+         "Swedish Brand": "Svenska Handelsbanken",
+         "Value in million U.S. dollars": "3360"
+      },
+      {
+         "Swedish Brand": "SEB",
+         "Value in million U.S. dollars": "2644"
+      },
+      {
+         "Swedish Brand": "Ericsson",
+         "Value in million U.S. dollars": "2536"
+      },
+      {
+         "Swedish Brand": "Absolut",
+         "Value in million U.S. dollars": "2404"
+      }
+   ],
+   "gold": "As of 2019 , the self-assembly furniture retailer IKEA was the most valuable Swedish brand . The company 's value amounted to over 21 billion U.S. dollars that year . H & M ( short for Hennes & Mauritz ) came second , with a value of nearly 16 billion U.S. dollars .\n"
+}

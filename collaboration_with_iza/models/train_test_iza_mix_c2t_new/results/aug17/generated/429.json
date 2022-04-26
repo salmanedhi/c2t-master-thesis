@@ -1,0 +1,34 @@
+{
+   "title": "Share of U.S. male/female adults following Major League Baseball ( MLB ) 2014",
+   "xAxis": "Sex",
+   "yAxis": "Answered yes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of online consumers in the Share who are Major League Baseball members . ",
+      "During the most recent survey period in 2014 , it was found that 27 % of All_adults yes had an Major League Baseball adults ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "1",
+         "16": "2"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Answered yes": "47"
+      },
+      {
+         "Sex": "Female",
+         "Answered yes": "27"
+      },
+      {
+         "Sex": "All adults",
+         "Answered yes": "37"
+      }
+   ],
+   "gold": "The statistic depicts the the share of the surveyed respondents that follow Major League Baseball . 47 percent of the male respondents said that they do follow Major League Baseball .\n"
+}

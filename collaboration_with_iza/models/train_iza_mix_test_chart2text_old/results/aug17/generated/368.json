@@ -1,0 +1,59 @@
+{
+   "title": "Global population by continent 2018",
+   "xAxis": "Country",
+   "yAxis": "Population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Global population by in Global by Population . ",
+      "The Global population Country with an Population of 41 \u00b0 millions is Europe , followed by Asia at 4536 \u00b0 millions , Oceania at 41 \u00b0 millions , then Africa at 1284 \u00b0 millions . ",
+      "North_America is the warmest Country shown with an average Population of 4536 \u00b0 millions , closely followed by Latin_America_Caribbean at 649 \u00b0 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "5",
+         "12": "2",
+         "16": "0",
+         "18": "0",
+         "22": "5",
+         "24": "5",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "0",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Population in millions": "4536"
+      },
+      {
+         "Country": "Africa",
+         "Population in millions": "1284"
+      },
+      {
+         "Country": "Europe",
+         "Population in millions": "746"
+      },
+      {
+         "Country": "Latin America Caribbean",
+         "Population in millions": "649"
+      },
+      {
+         "Country": "North America",
+         "Population in millions": "365"
+      },
+      {
+         "Country": "Oceania",
+         "Population in millions": "41"
+      }
+   ],
+   "gold": "The statistic shows the global population by continent as of mid-2018 . In mid-2018 , approximately 4.54 billion people lived in Asia . World population and the most populous countries There are approximately 7.3 billion people living in the world today , a figure that shows a dramatic increase since the beginning of the Common Era .\n"
+}

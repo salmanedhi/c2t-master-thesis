@@ -1,0 +1,45 @@
+{
+   "title": "The most frequent daily users of social media",
+   "xAxis": "Age Group",
+   "yAxis": "Minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the number of Minutes that different Age Group users social media daily . ",
+      "The most frequent daily users of social media are the 45 - 54 Age Group , with approx 150 Minutes . ",
+      "We can see form the chart that the next most frequent daily users are the 15 - 24 year olds , spending approximately 125 Minutes on social media daily ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "3"
+      },
+      {
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age Group": "15-24",
+         "Minutes": "125"
+      },
+      {
+         "Age Group": "25-34",
+         "Minutes": "75"
+      },
+      {
+         "Age Group": "35-44",
+         "Minutes": "74"
+      },
+      {
+         "Age Group": "45-54",
+         "Minutes": "150"
+      },
+      {
+         "Age Group": "55-64",
+         "Minutes": "110"
+      }
+   ],
+   "gold": "The graph compares the daily minutes spent on social media by users from 5 ages groups . The overall age range is from 15 to 64 years . Users aged 45 - 54 are the most frequent daily users with an average of 150 minutes spent on social media .\n"
+}

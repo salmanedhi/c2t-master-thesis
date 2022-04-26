@@ -1,0 +1,65 @@
+{
+   "title": "Persons with whom Italians cheat on their partners 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by Response in a Italians cheat . ",
+      "\\\\n From the chart we see that the Stranger_met_in_a_particular_context_(disco_gym_holidays_etc.) Response was the Persons with Response in the cheat with 25.4 respondents . ",
+      "The next Response to make the most respondents was the Neighbor Response with 10.7 respondents closely followed by the Family_member Response with 1.3 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "8",
+         "22": "8"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Friend",
+         "Share of respondents": "25.4"
+      },
+      {
+         "Response": "Colleague from work",
+         "Share of respondents": "22.6"
+      },
+      {
+         "Response": "Stranger met in a particular context (disco gym holidays etc.)",
+         "Share of respondents": "17.5"
+      },
+      {
+         "Response": "Neighbor",
+         "Share of respondents": "10.7"
+      },
+      {
+         "Response": "Does not reply",
+         "Share of respondents": "9.3"
+      },
+      {
+         "Response": "Partner of a friend of mine",
+         "Share of respondents": "5.3"
+      },
+      {
+         "Response": "Stranger met by chance",
+         "Share of respondents": "4.4"
+      },
+      {
+         "Response": "Escort",
+         "Share of respondents": "3.5"
+      },
+      {
+         "Response": "Family member",
+         "Share of respondents": "1.3"
+      }
+   ],
+   "gold": "A survey conducted in 2017 reveals that the largest groups of Italian respondents cheated on their partner either with a friend or with a colleague . In particular , 25.4 percent of interviewees in Italy stated that they betrayed their partner with a friend , while 22.6 percent did so with a colleague . However , it was common to cheat with strangers as well .\n"
+}

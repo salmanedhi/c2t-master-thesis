@@ -1,0 +1,64 @@
+{
+   "title": "Multiple winners of FIFA football Ballon d'Or 1956 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of awards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic ranks the FIFA winners football according to the Number of awards 2019 in 1956 . ",
+      "Lionel_Messi_(Argentina) leads all football with a total of 6 awards in 50 matches . ",
+      "Most awards in - additional information In FIFA an awards is a legal 2019 that is not touched d'Or the receiver , thus winning the point for the server ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Lionel Messi (Argentina)",
+         "Number of awards": "6"
+      },
+      {
+         "Month": "Cristiano Ronaldo (Portugal)",
+         "Number of awards": "5"
+      },
+      {
+         "Month": "Johann Cruyff (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Michel Platini (France)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Marco van Basten (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Alfredo Di St\u00e9fano (Spain)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Franz Beckenbauer (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Kevin Keegan (England)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Ronaldo (Brazil)",
+         "Number of awards": "2"
+      }
+   ],
+   "gold": "The Ballon d'Or is an annual football prize presented by France Football . The award , voted for by football journalists , is given to the male player who was deemed to have played the best football over the previous 12 months . Unsurprisingly , two of the greatest footballers of all time , Lionel Messi and Cristiano Ronaldo , top the list of all-time winners .\n"
+}

@@ -1,0 +1,106 @@
+{
+   "title": "Leading banks in the U.S. 2018 , by number of employees",
+   "xAxis": "Bank In Usa",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of employees made by Bank . ",
+      "\\n U.S._Bank has the highest Number of employees sitting at 12.8",
+      "\\n Second to U.S._Bank is Citibank at 9.2 employees ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Bank In Usa": "Wells Fargo Bank",
+         "Number of employees": "230338"
+      },
+      {
+         "Bank In Usa": "JPMorgan Chase Bank",
+         "Number of employees": "194680"
+      },
+      {
+         "Bank In Usa": "Citibank",
+         "Number of employees": "163581"
+      },
+      {
+         "Bank In Usa": "Bank of America",
+         "Number of employees": "136502"
+      },
+      {
+         "Bank In Usa": "U.S. Bank",
+         "Number of employees": "72144"
+      },
+      {
+         "Bank In Usa": "PNC Bank",
+         "Number of employees": "52319"
+      },
+      {
+         "Bank In Usa": "The Bank of New York Mellon",
+         "Number of employees": "40742"
+      },
+      {
+         "Bank In Usa": "Branch Banking and Trust Company",
+         "Number of employees": "33401"
+      },
+      {
+         "Bank In Usa": "State Street Bank and Trust Company",
+         "Number of employees": "33004"
+      },
+      {
+         "Bank In Usa": "Capital One",
+         "Number of employees": "27679"
+      },
+      {
+         "Bank In Usa": "TD Bank",
+         "Number of employees": "26305"
+      },
+      {
+         "Bank In Usa": "Capital One Bank (USA)",
+         "Number of employees": "23764"
+      },
+      {
+         "Bank In Usa": "SunTrust Bank",
+         "Number of employees": "21405"
+      },
+      {
+         "Bank In Usa": "Regions Bank",
+         "Number of employees": "19906"
+      },
+      {
+         "Bank In Usa": "The Northern Trust Company",
+         "Number of employees": "18436"
+      },
+      {
+         "Bank In Usa": "KeyBank",
+         "Number of employees": "17737"
+      },
+      {
+         "Bank In Usa": "Fifth Third Bank",
+         "Number of employees": "17420"
+      },
+      {
+         "Bank In Usa": "Manufacturers and Traders Trust Company",
+         "Number of employees": "16341"
+      },
+      {
+         "Bank In Usa": "Citizens Bank",
+         "Number of employees": "15343"
+      },
+      {
+         "Bank In Usa": "The Huntington National Bank",
+         "Number of employees": "14802"
+      }
+   ],
+   "gold": "The statistic depicts the leading banks in the United States as of December 31 , 2018 , by number of employees . Wells Fargo Bank was the largest U.S. employer in the banking sector in 2018 , with over 230 thousand employees . Employment in the banking sector \u2013 additional information Apart from the Wells Fargo Bank , other leading banks in terms of employment in the United States in 2018 , were JPMorgan Chase Bank , Citibank and Bank of America .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "College majors with the highest unemployment rates in the U.S. 2012",
+   "xAxis": "College Mayor",
+   "yAxis": "Share of unemployed U.S. students",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the College majors highest in the unemployment competirion . ",
+      "\\\\n From the chart we see that the Political_Science_and_Government College made the College unemployed by some margin , with only 9.8",
+      "Computer_and_Information_Systems and International_Business made a respectable 12.1 and 12.3 unemployed , with Economics and Anthropology_and_Archeology not far behind , at 9.8 and 10.9 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "College Mayor": "International Business",
+         "Share of unemployed U.S. students": "12.3"
+      },
+      {
+         "College Mayor": "Computer and Information Systems",
+         "Share of unemployed U.S. students": "12.1"
+      },
+      {
+         "College Mayor": "Miscellaneous Computer",
+         "Share of unemployed U.S. students": "11.3"
+      },
+      {
+         "College Mayor": "Anthropology and Archeology",
+         "Share of unemployed U.S. students": "10.9"
+      },
+      {
+         "College Mayor": "Political Science and Government",
+         "Share of unemployed U.S. students": "10.9"
+      },
+      {
+         "College Mayor": "Architecture",
+         "Share of unemployed U.S. students": "10.3"
+      },
+      {
+         "College Mayor": "Philosophy and Religious Studies",
+         "Share of unemployed U.S. students": "10.3"
+      },
+      {
+         "College Mayor": "Fine Arts",
+         "Share of unemployed U.S. students": "10.2"
+      },
+      {
+         "College Mayor": "Commercial Art and Graphic Design",
+         "Share of unemployed U.S. students": "9.9"
+      },
+      {
+         "College Mayor": "Economics",
+         "Share of unemployed U.S. students": "9.8"
+      }
+   ],
+   "gold": "This statistic shows college majors with the highest unemployment rates in the United States between 2009 and 2012 . The rate of unemployment for students with an international business major stood at 12.3 percent in 2012 .\n"
+}

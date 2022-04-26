@@ -1,0 +1,42 @@
+{
+   "title": "Women representation in law firms",
+   "xAxis": "Sector",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of Women who are employed by companies across different Sector . ",
+      "The Insurance Sector is the highest employers of Women with approximately 65 percentage of staff being female . ",
+      "This is followed closely by the Tech Sector with just over 60 percentage female representation ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "11": "2"
+      },
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sector": "Financial Groups",
+         "Percentage": "50"
+      },
+      {
+         "Sector": "Tech",
+         "Percentage": "62"
+      },
+      {
+         "Sector": "Insurance",
+         "Percentage": "65"
+      },
+      {
+         "Sector": "Law Firms",
+         "Percentage": "35"
+      }
+   ],
+   "gold": "The chart compares the percentage of female representation across different sectors . Whilst insurance and tech sectors are leading the charge at over 60 % , law firms are farther behind around 35 % .\n"
+}

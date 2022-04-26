@@ -1,0 +1,44 @@
+{
+   "title": "The most affordable digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the most commonly affordable price brand in The as of by ranking . ",
+      "Sigma was among the most common price brand in The responsible for around 62.3 % of price brand . ",
+      "most of the world including the country , Latin America , and Asia-Pacific regions are expected to maintain growth in the cosmetic surgical and aesthetic medical market ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "13": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "The graph shows the average price of digital cameras by brand . You can see that Konica has the lowest average price , averaging at \u00a3 54 , Hunten is a little bit higher coming in at \u00a3 58 . Sigma is a little higher again , coming in at \u00a3 62 ; Then a bit more of a jump to \u00a3 70 for Memoto and the most expensive , \u00a3 76 average for Cambo cameras .\n"
+}

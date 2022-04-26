@@ -1,0 +1,215 @@
+{
+   "title": "Ford car sales in the United Kingdom ( UK ) 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "sales sold 15030 United in the United Kingdom ( Ford ) in 2019 . ",
+      "This was slightly higher than in the corresponding Month in the previous year . ",
+      "Across all years recorded , Kingdom figures were highest in , as this is the Month when the Driver & Vehicle Licensing Agency ( DVLA ) issues new registration plates ."
+   ],
+   "trends": [
+      {
+         "2": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": "15030"
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": "16238"
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": "16745"
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": "32522"
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": "10764"
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": "17049"
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": "22049"
+      },
+      {
+         "Month": "May 19",
+         "Units sold": "19892"
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": "18074"
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": "40755"
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": "10390"
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": "16629"
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": "16493"
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": "14666"
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": "16820"
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": "33326"
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": "11208"
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": "16028"
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": "22334"
+      },
+      {
+         "Month": "May 18",
+         "Units sold": "21136"
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": "20114"
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": "50257"
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": "12046"
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": "19654"
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": "15541"
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": "18095"
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": "19580"
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": "39696"
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": "9234"
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": "16934"
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": "27095"
+      },
+      {
+         "Month": "May 17",
+         "Units sold": "20514"
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": "16183"
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": "71837"
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": "9909"
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": "22778"
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": "20741"
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": "21944"
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": "21411"
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": "49078"
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": "11703"
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": "22247"
+      },
+      {
+         "Month": "Jun 16",
+         "Units sold": "30244"
+      },
+      {
+         "Month": "May 16",
+         "Units sold": "23740"
+      },
+      {
+         "Month": "Apr 16",
+         "Units sold": "23311"
+      },
+      {
+         "Month": "Mar 16",
+         "Units sold": "60349"
+      },
+      {
+         "Month": "Feb 16",
+         "Units sold": "11513"
+      },
+      {
+         "Month": "Jan 16",
+         "Units sold": "22035"
+      }
+   ],
+   "gold": "This statistic illustrates the number of cars sold by Ford in the United Kingdom ( UK ) between January 2016 and December 2019 . In December 2019 , sales volume amounted to 15,030 units . Ford was one of the leading car companies in the UK .\n"
+}

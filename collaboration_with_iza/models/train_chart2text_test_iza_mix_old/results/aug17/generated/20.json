@@ -1,0 +1,40 @@
+{
+   "title": "What Students at Lagos State University choose to study",
+   "xAxis": "Course of Study",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the What of Students Lagos State the University to STEM in , study Course of study . ",
+      "There were approximately 31 percentage Lagos State the University to STEM in ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "3": "3",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Course of Study": "STEM",
+         "Percentage": "15"
+      },
+      {
+         "Course of Study": "Literature",
+         "Percentage": "24"
+      },
+      {
+         "Course of Study": "Philosophy",
+         "Percentage": "30"
+      },
+      {
+         "Course of Study": "Medicine",
+         "Percentage": "31"
+      }
+   ],
+   "gold": "The bar chart shows the percentage of students showing particular subjects at Lagos State University . There were 15 % choosing STEM subjects , approximately 24 % choosing Literature and 30 % choosing Philosophy . Roughly 31 % of students chose to study medicine .\n"
+}

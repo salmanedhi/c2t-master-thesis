@@ -1,0 +1,65 @@
+{
+   "title": "Fastest growing internet companies 2017",
+   "xAxis": "Platform",
+   "yAxis": "Three-year average sales growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2017 , it was found that 43 % of Fastest Android growth who had installed Ellie_Mae were also average sales growth . ",
+      "According to App Ape , 2017 GrubHub app audiences in the companies showed the highest average app growing internet with almost 52 % ."
+   ],
+   "trends": [
+      {
+         "8": "4",
+         "17": "4"
+      },
+      {
+         "6": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "GrubHub",
+         "Three-year average sales growth": "52"
+      },
+      {
+         "Platform": "Facebook",
+         "Three-year average sales growth": "51"
+      },
+      {
+         "Platform": "Arista Networks",
+         "Three-year average sales growth": "46"
+      },
+      {
+         "Platform": "Paycom Software",
+         "Three-year average sales growth": "46"
+      },
+      {
+         "Platform": "Ellie Mae",
+         "Three-year average sales growth": "43"
+      },
+      {
+         "Platform": "Stamps.com",
+         "Three-year average sales growth": "42"
+      },
+      {
+         "Platform": "NetScout Systems",
+         "Three-year average sales growth": "37"
+      },
+      {
+         "Platform": "Veeva Systems",
+         "Three-year average sales growth": "37"
+      },
+      {
+         "Platform": "Gigamon",
+         "Three-year average sales growth": "31"
+      },
+      {
+         "Platform": "Shutterstock",
+         "Three-year average sales growth": "28"
+      }
+   ],
+   "gold": "This statistic gives information on the fastest growing online and tech companies in 2017 , based on three-year average sales growth . Food delivery platform GrubHub went public in 2014 and was ranked first with a three-year average sales growth of 52 percent .\n"
+}

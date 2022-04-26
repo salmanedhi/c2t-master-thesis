@@ -1,0 +1,69 @@
+{
+   "title": "Number of active physicians in Alabama 2019 , by specialty area",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of physicians made by Specialty in a Alabama 2019 . ",
+      "\\\\n From the chart we see that the Anesthesiologists Specialty was the Number active Specialty in the 2019 with 6342 physicians . ",
+      "The next Specialty to make the most physicians was the Emergency_medicine Specialty with 465 physicians closely followed by the Total_specialty Specialty with 6342 physicians ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "9"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": "506"
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": "754"
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": "602"
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": "465"
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": "674"
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": "410"
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": "241"
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": "71"
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": "2619"
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": "6342"
+      }
+   ],
+   "gold": "This statistic depicts the number of active physicians in Alabama as of March 2019 , sorted by specialty area . In that year , there were 602 anesthesiologists active in Alabama . Thus , this was one of the three largest specialty groups in Alabama .\n"
+}

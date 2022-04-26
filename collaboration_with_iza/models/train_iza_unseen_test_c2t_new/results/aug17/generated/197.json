@@ -1,0 +1,76 @@
+{
+   "title": "Annual incomes of highest-paid celebrities 2019",
+   "xAxis": "Celebrity",
+   "yAxis": "Income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Annual incomes Celebrity in the celebrities 2019 was Celebrity Kanye_West , who made 185 million . ",
+      "The most incomes Celebrity was Ed_Sheeran , with just 94 million . ",
+      "In second place was Celebrity Kylie_Jenner with 170 million ; third place went to Celebrity Taylor_Swift with 185 million ; fourth place went to Celebrity Canelo_Alvarez with 94 million and fifth place went to Celebrity Lionel_Messi , who was 127 million ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Celebrity": "Taylor Swift",
+         "Income in million U.S. dollars": "185"
+      },
+      {
+         "Celebrity": "Kylie Jenner",
+         "Income in million U.S. dollars": "170"
+      },
+      {
+         "Celebrity": "Kanye West",
+         "Income in million U.S. dollars": "150"
+      },
+      {
+         "Celebrity": "Lionel Messi",
+         "Income in million U.S. dollars": "127"
+      },
+      {
+         "Celebrity": "Ed Sheeran",
+         "Income in million U.S. dollars": "110"
+      },
+      {
+         "Celebrity": "Cristiano Ronaldo",
+         "Income in million U.S. dollars": "109"
+      },
+      {
+         "Celebrity": "Neymar",
+         "Income in million U.S. dollars": "105"
+      },
+      {
+         "Celebrity": "The Eagles",
+         "Income in million U.S. dollars": "100"
+      },
+      {
+         "Celebrity": "Dr. Phil McGraw",
+         "Income in million U.S. dollars": "95"
+      },
+      {
+         "Celebrity": "Canelo Alvarez",
+         "Income in million U.S. dollars": "94"
+      }
+   ],
+   "gold": "Leading the ranking of highest-paid celebrities between June 2018 and June 2019 is Taylor Swift , with an annual income of 185 million U.S. dollars . Following closely behind are Kylie Jenner and Kanye West , with 170 and 150 million dollars in earnings respectively . Taylor Swift and Kylie Jenner were the highest paid women in entertainment in 2019 , beating the likes of J.K. Rowling , Kim Kardashian West and Celine Dion .\n"
+}

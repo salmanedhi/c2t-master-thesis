@@ -1,0 +1,161 @@
+{
+   "title": "NFL team ranking by all-time regular season wins 2019",
+   "xAxis": "Teams",
+   "yAxis": "Number of wins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the NFL team Teams in terms of the Number of wins with Washington_Redskins having the NFL \u2013 761 wins down to Green_Bay_Packers the least team of the group at 121 wins . ",
+      "In between , we have Chicago_Bears 761 , Houston_Texans 121 , Pittsburgh_Steelers 628 and New_York_Giants 692 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "31"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "31",
+         "9": "31",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Teams": "Chicago Bears",
+         "Number of wins": "761"
+      },
+      {
+         "Teams": "Green Bay Packers",
+         "Number of wins": "743"
+      },
+      {
+         "Teams": "New York Giants",
+         "Number of wins": "692"
+      },
+      {
+         "Teams": "Pittsburgh Steelers",
+         "Number of wins": "628"
+      },
+      {
+         "Teams": "Washington Redskins",
+         "Number of wins": "600"
+      },
+      {
+         "Teams": "Philadelphia Eagles",
+         "Number of wins": "577"
+      },
+      {
+         "Teams": "San Francisco 49ers",
+         "Number of wins": "570"
+      },
+      {
+         "Teams": "Los Angeles Rams",
+         "Number of wins": "568"
+      },
+      {
+         "Teams": "Detroit Lions",
+         "Number of wins": "559"
+      },
+      {
+         "Teams": "Arizona Cardinals",
+         "Number of wins": "553"
+      },
+      {
+         "Teams": "Indianapolis Colts",
+         "Number of wins": "516"
+      },
+      {
+         "Teams": "Cleveland Browns",
+         "Number of wins": "516"
+      },
+      {
+         "Teams": "Dallas Cowboys",
+         "Number of wins": "512"
+      },
+      {
+         "Teams": "New England Patriots",
+         "Number of wins": "500"
+      },
+      {
+         "Teams": "Minnesota Vikings",
+         "Number of wins": "478"
+      },
+      {
+         "Teams": "Denver Broncos",
+         "Number of wins": "476"
+      },
+      {
+         "Teams": "Kansas City Chiefs",
+         "Number of wins": "469"
+      },
+      {
+         "Teams": "Oakland Raiders",
+         "Number of wins": "466"
+      },
+      {
+         "Teams": "Miami Dolphins",
+         "Number of wins": "452"
+      },
+      {
+         "Teams": "Los Angeles Chargers",
+         "Number of wins": "447"
+      },
+      {
+         "Teams": "Tennessee Titans",
+         "Number of wins": "431"
+      },
+      {
+         "Teams": "Buffalo Bills",
+         "Number of wins": "415"
+      },
+      {
+         "Teams": "New York Jets",
+         "Number of wins": "401"
+      },
+      {
+         "Teams": "New Orleans Saints",
+         "Number of wins": "362"
+      },
+      {
+         "Teams": "Atlanta Falcons",
+         "Number of wins": "358"
+      },
+      {
+         "Teams": "Cincinnati Bengals",
+         "Number of wins": "357"
+      },
+      {
+         "Teams": "Seattle Seahawks",
+         "Number of wins": "344"
+      },
+      {
+         "Teams": "Tampa Bay Buccaneers",
+         "Number of wins": "260"
+      },
+      {
+         "Teams": "Baltimore Ravens",
+         "Number of wins": "200"
+      },
+      {
+         "Teams": "Carolina Panthers",
+         "Number of wins": "190"
+      },
+      {
+         "Teams": "Jacksonville Jaguars",
+         "Number of wins": "170"
+      },
+      {
+         "Teams": "Houston Texans",
+         "Number of wins": "121"
+      }
+   ],
+   "gold": "At the start of the 2019 National Football League ( NFL ) season , the Chicago Bears had won the most regular-season games in the history of the competition . The Bears have made two Super Bowl appearances and were crowned champions for the only time in the 1985 season . How is an NFL season structured ? Each NFL season is split into two distinct competition formats : regular season and postseason .\n"
+}

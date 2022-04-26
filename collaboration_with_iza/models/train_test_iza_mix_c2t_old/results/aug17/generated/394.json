@@ -1,0 +1,64 @@
+{
+   "title": "Average annual CEO compensation worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Compensation in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2017 , it was estimated that around 14.25 dollars 10,000 million in the United_States had dollars spectrum disorder , one of the CEO prevalence compensation in the world . ",
+      "dollars spectrum disorder ( ASD ) includes a variety of disorders . ",
+      "The `` spectrum denotes the range of symptoms as well their severity ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "14": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Compensation in million U.S. dollars": "14.25"
+      },
+      {
+         "Country": "Switzerland",
+         "Compensation in million U.S. dollars": "8.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Compensation in million U.S. dollars": "8.24"
+      },
+      {
+         "Country": "United Kingdom",
+         "Compensation in million U.S. dollars": "7.95"
+      },
+      {
+         "Country": "Canada",
+         "Compensation in million U.S. dollars": "6.49"
+      },
+      {
+         "Country": "Germany",
+         "Compensation in million U.S. dollars": "6.17"
+      },
+      {
+         "Country": "Australia",
+         "Compensation in million U.S. dollars": "4.96"
+      },
+      {
+         "Country": "Spain",
+         "Compensation in million U.S. dollars": "4.89"
+      },
+      {
+         "Country": "Hong Kong",
+         "Compensation in million U.S. dollars": "4.88"
+      },
+      {
+         "Country": "Singapore",
+         "Compensation in million U.S. dollars": "4.62"
+      }
+   ],
+   "gold": "This statistic shows the average annual compensation of CEOs around the world in 2017 by country . In 2017 , the average annual income of CEOs in the United States was 14.25 million U.S. dollars which is about 5 million U.S. dollars more than the average annual income of CEOs in Switzerland .\n"
+}

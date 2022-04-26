@@ -1,0 +1,67 @@
+{
+   "title": "EU : used car sales in 2013 , per 1,000 population",
+   "xAxis": "Country",
+   "yAxis": "Number of used car sales per thousand population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the countries with the EU used in 2013 . ",
+      "In 2013 , Spain suffered 116 used , the same Number as Italy ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "5": "10",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Number of used car sales per thousand population": "35"
+      },
+      {
+         "Country": "Italy",
+         "Number of used car sales per thousand population": "42"
+      },
+      {
+         "Country": "Portugal",
+         "Number of used car sales per thousand population": "49"
+      },
+      {
+         "Country": "Belgium",
+         "Number of used car sales per thousand population": "78"
+      },
+      {
+         "Country": "France",
+         "Number of used car sales per thousand population": "81"
+      },
+      {
+         "Country": "Germany",
+         "Number of used car sales per thousand population": "88"
+      },
+      {
+         "Country": "Denmark",
+         "Number of used car sales per thousand population": "97"
+      },
+      {
+         "Country": "Austria",
+         "Number of used car sales per thousand population": "98"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of used car sales per thousand population": "102"
+      },
+      {
+         "Country": "Sweden",
+         "Number of used car sales per thousand population": "107"
+      },
+      {
+         "Country": "UK",
+         "Number of used car sales per thousand population": "116"
+      }
+   ],
+   "gold": "This statistic displays the volume of used car sales in selected European countries in 2013 , per thousand population . The United Kingdom ( UK ) is the biggest used car market among the displayed countries , handling approximately eight percent more used cars than Sweden in 2013 .\n"
+}

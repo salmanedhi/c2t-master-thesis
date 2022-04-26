@@ -1,0 +1,46 @@
+{
+   "title": "The most successful teams in quiz competition",
+   "xAxis": "Team",
+   "yAxis": "Number of mistakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of mistakes competition The in competition . ",
+      "9 people were mistakes competition The in DIY ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Team": "DIY",
+         "Number of mistakes": "4"
+      },
+      {
+         "Team": "Cats",
+         "Number of mistakes": "3"
+      },
+      {
+         "Team": "Lovely",
+         "Number of mistakes": "9"
+      },
+      {
+         "Team": "Smart Kids",
+         "Number of mistakes": "6"
+      },
+      {
+         "Team": "Fearless",
+         "Number of mistakes": "1"
+      },
+      {
+         "Team": "ABC",
+         "Number of mistakes": "5"
+      }
+   ],
+   "gold": "This graph shows a measurement of success for teams in a quiz competition . Team Fearless are the most successful , making only 1 mistake , with Team Lovely the least successful with 9 mistakes . In descending order , the remaining teams were Team Smart Kids with 6 mistakes ; Team ABC with 5 ; Team DIY with 4 and Team Cats with 3 mistakes .\n"
+}

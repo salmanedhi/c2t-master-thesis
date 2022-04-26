@@ -1,0 +1,38 @@
+{
+   "title": "Median Salary of Women Per Year",
+   "xAxis": "Year",
+   "yAxis": "Salary 1000",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the monthly wages of Women Per in 1000 Salary Women Per Year in , Year . ",
+      "In , a Women soldier of 2000 , the lowest Year during the compulsory Year service , is paid approximately 40 thousand 1000 per month ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Salary 1000": "40"
+      },
+      {
+         "Year": "2005",
+         "Salary 1000": "45"
+      },
+      {
+         "Year": "2010",
+         "Salary 1000": "50"
+      },
+      {
+         "Year": "2015",
+         "Salary 1000": "55"
+      }
+   ],
+   "gold": "This graph shows how the median salary of women has changed over time . This is done by looking every half decade from the year 2000 to 2015 . $ 40 000 - 2000 \\\\n $ 42 000 - 2005 \\\\n $ 50 000 - 2010 \\\\n $ 52 000 - 2015\n"
+}

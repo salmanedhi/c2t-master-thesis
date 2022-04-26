@@ -1,0 +1,66 @@
+{
+   "title": "Multiple winners of FIFA football Ballon d'Or 1956 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of awards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The FIFA is a historic Test cricket series held at least once every two years between England and Australia . ",
+      "The 2019 series was held in England , with Steve Lionel_Messi_(Argentina) FIFA the way in terms of awards . ",
+      "Despite missing the third test match due to concussion , Lionel_Messi_(Argentina) still hit 6 awards in seven innings at an average of 110.57 ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "10": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Lionel Messi (Argentina)",
+         "Number of awards": "6"
+      },
+      {
+         "Month": "Cristiano Ronaldo (Portugal)",
+         "Number of awards": "5"
+      },
+      {
+         "Month": "Johann Cruyff (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Michel Platini (France)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Marco van Basten (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Alfredo Di St\u00e9fano (Spain)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Franz Beckenbauer (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Kevin Keegan (England)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Ronaldo (Brazil)",
+         "Number of awards": "2"
+      }
+   ],
+   "gold": "The Ballon d'Or is an annual football prize presented by France Football . The award , voted for by football journalists , is given to the male player who was deemed to have played the best football over the previous 12 months . Unsurprisingly , two of the greatest footballers of all time , Lionel Messi and Cristiano Ronaldo , top the list of all-time winners .\n"
+}

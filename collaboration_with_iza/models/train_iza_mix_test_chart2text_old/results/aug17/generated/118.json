@@ -1,0 +1,38 @@
+{
+   "title": "Cat litter : market volume worldwide 2015",
+   "xAxis": "Regions Of The World",
+   "yAxis": "Market volume in thousand tonnes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Cat litter of market in Cat . ",
+      "\\\\n There is a 1909 thousand chance that market is caused by US_and_Canada , 2172 thousand Europe and 35 thousand Europe of . ",
+      "Overall market is commonly caused by genetics , whilst US_and_Canada does not really have a greater effect ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "12": "0",
+         "14": "0",
+         "16": "1",
+         "20": "1",
+         "22": "1"
+      },
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Regions Of The World": "US and Canada",
+         "Market volume in thousand tonnes": "2172"
+      },
+      {
+         "Regions Of The World": "Europe",
+         "Market volume in thousand tonnes": "1909"
+      }
+   ],
+   "gold": "This statistic shows the market volume of the cat litter market in North America and Europe in 2015 . The United States and Canada was the largest market in terms of volume measured at 2,172 tonnes .\n"
+}

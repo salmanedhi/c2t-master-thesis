@@ -1,0 +1,123 @@
+{
+   "title": "Top 25 most populated cities in the U.S. - poverty rate in 2018",
+   "xAxis": "Us City",
+   "yAxis": "Percentage of poor people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows a ranking of the Top 25 Detroit_city_Michigan in 2018 , sorted by Us poor . ",
+      "In 2018 , about 24.5 percentage people in U.S. ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "4": "1"
+      }
+   ],
+   "data": [
+      {
+         "Us City": "Detroit city Michigan",
+         "Percentage of poor people": "33.4"
+      },
+      {
+         "Us City": "Philadelphia city Pennsylvania",
+         "Percentage of poor people": "24.5"
+      },
+      {
+         "Us City": "Houston city Texas",
+         "Percentage of poor people": "20.4"
+      },
+      {
+         "Us City": "El Paso city Texas",
+         "Percentage of poor people": "20.1"
+      },
+      {
+         "Us City": "San Antonio city Texas",
+         "Percentage of poor people": "20"
+      },
+      {
+         "Us City": "Columbus city Ohio",
+         "Percentage of poor people": "19.9"
+      },
+      {
+         "Us City": "Boston city Massachusetts",
+         "Percentage of poor people": "18.2"
+      },
+      {
+         "Us City": "Dallas city Texas",
+         "Percentage of poor people": "18"
+      },
+      {
+         "Us City": "Chicago city Illinois",
+         "Percentage of poor people": "17.4"
+      },
+      {
+         "Us City": "New York city New York",
+         "Percentage of poor people": "17.3"
+      },
+      {
+         "Us City": "Los Angeles city California",
+         "Percentage of poor people": "16.5"
+      },
+      {
+         "Us City": "Indianapolis city (balance) Indiana",
+         "Percentage of poor people": "16.5"
+      },
+      {
+         "Us City": "Washington city District of Columbia",
+         "Percentage of poor people": "16.2"
+      },
+      {
+         "Us City": "Nashville-Davidson metropolitan government (balance) Tennessee",
+         "Percentage of poor people": "15.6"
+      },
+      {
+         "Us City": "Phoenix city Arizona",
+         "Percentage of poor people": "15.6"
+      },
+      {
+         "Us City": "Fort Worth city Texas",
+         "Percentage of poor people": "15.6"
+      },
+      {
+         "Us City": "Jacksonville city Florida",
+         "Percentage of poor people": "15"
+      },
+      {
+         "Us City": "Austin city Texas",
+         "Percentage of poor people": "13.3"
+      },
+      {
+         "Us City": "San Diego city California",
+         "Percentage of poor people": "12.9"
+      },
+      {
+         "Us City": "Charlotte city North Carolina",
+         "Percentage of poor people": "12.8"
+      },
+      {
+         "Us City": "Portland city Oregon",
+         "Percentage of poor people": "11.5"
+      },
+      {
+         "Us City": "Denver city Colorado",
+         "Percentage of poor people": "11.3"
+      },
+      {
+         "Us City": "Seattle city Washington",
+         "Percentage of poor people": "11"
+      },
+      {
+         "Us City": "San Francisco city California",
+         "Percentage of poor people": "10"
+      },
+      {
+         "Us City": "San Jose city California",
+         "Percentage of poor people": "8.3"
+      }
+   ],
+   "gold": "This statistic shows the percentage of people who live below the poverty level in the top 25 most populated cities in the U.S. in 2018 . In 2018 , total 33.4 percent of all residents in Detroit , Michigan lived below the poverty level .\n"
+}

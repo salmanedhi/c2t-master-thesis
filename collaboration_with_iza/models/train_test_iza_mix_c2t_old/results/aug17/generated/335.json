@@ -1,0 +1,68 @@
+{
+   "title": "Largest cities in Finland 2018",
+   "xAxis": "City",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , there were almost 648042 thousand inhabitants in Finland , whereas Helsinki the most populated in Finland . ",
+      "inhabitants is a group of people in the country . ",
+      "Population of Espoo , Tampere and Vantaa also topped the top producer in that year ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "13": "0"
+      },
+      {},
+      {
+         "2": "1",
+         "4": "2",
+         "7": "3"
+      }
+   ],
+   "data": [
+      {
+         "City": "Helsinki",
+         "Number of inhabitants": "648042"
+      },
+      {
+         "City": "Espoo",
+         "Number of inhabitants": "283632"
+      },
+      {
+         "City": "Tampere",
+         "Number of inhabitants": "235239"
+      },
+      {
+         "City": "Vantaa",
+         "Number of inhabitants": "228166"
+      },
+      {
+         "City": "Oulu",
+         "Number of inhabitants": "203567"
+      },
+      {
+         "City": "Turku",
+         "Number of inhabitants": "191331"
+      },
+      {
+         "City": "Jyv\u00e4skyl\u00e4",
+         "Number of inhabitants": "141305"
+      },
+      {
+         "City": "Lahti",
+         "Number of inhabitants": "119951"
+      },
+      {
+         "City": "Kuopio",
+         "Number of inhabitants": "118664"
+      },
+      {
+         "City": "Pori",
+         "Number of inhabitants": "84403"
+      }
+   ],
+   "gold": "This statistic shows the ten largest cities in Finland as of December 2018 . The largest city in Finland is Helsinki with roughly 648 thousand citizens . Helsinki is the capital of Finland and is located in the south .\n"
+}

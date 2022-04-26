@@ -1,0 +1,69 @@
+{
+   "title": "Reasons for unreported vandalism against businesses in England and Wales 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by Response in a vandalism against . ",
+      "\\\\n From the chart we see that the Private/dealt_with_ourselves Response was the Reasons for Response in the against with 43 respondents . ",
+      "The next Response to make the most respondents was the Lack_of_evidence Response with 3 respondents closely followed by the Other Response with 6 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Trivial/no loss",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Lack of police engagement",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Private/dealt with ourselves",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Lack of evidence",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Reported to other authorities",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Inconvenient to report",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Police came",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Common occurrence",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Fear of reprisal",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This survey shows the reasons businesses gave for not reporting cases of vandalism on their premises to the police in England and Wales in 2014 . Of respondents , 43 percent claimed they did not report the incident as there was no loss or damage or the crime was too trivial to report to the police .\n"
+}

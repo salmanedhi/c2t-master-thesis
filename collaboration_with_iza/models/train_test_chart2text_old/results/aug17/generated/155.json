@@ -1,0 +1,35 @@
+{
+   "title": "Disabled people in Sweden 2018 , by disability type",
+   "xAxis": "Disability Type",
+   "yAxis": "Number of disabled people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Number of disabled Sweden by in 2018 , with a breakdown disability Mental_retardation_autism_or_pervasive_developmental_disorders . ",
+      "In this year , the electrical and electronics Mental_retardation_autism_or_pervasive_developmental_disorders installed some 105,000 people ."
+   ],
+   "trends": [
+      {
+         "17": "0"
+      },
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Disability Type": "Mental retardation autism or pervasive developmental disorders",
+         "Number of disabled people": "65191"
+      },
+      {
+         "Disability Type": "Other lasting physical or mental disabilities that are clearly not due to normal aging",
+         "Number of disabled people": "6714"
+      },
+      {
+         "Disability Type": "Significant and permanent intellectual disability after brain damage in adult age caused by external violence or physical illness",
+         "Number of disabled people": "2096"
+      }
+   ],
+   "gold": "This statistic shows the number of disabled people in Sweden in 2018 , by type of disability accordingly to the Swedish LSS law . That year , there were over 65 thousand people with intellectual disabilities like e.g . autism in Sweden .\n"
+}

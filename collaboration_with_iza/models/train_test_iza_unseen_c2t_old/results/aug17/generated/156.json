@@ -1,0 +1,100 @@
+{
+   "title": "Average daily rate of hotels in India 2000 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Average daily rate in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In Fiscal Year FY_2019 , the Average daily of rate in India was 89 % , up by one % from the previous Year . ",
+      "Among the various types of rate , four-star rate had the highest Average at 67.5 % , making it the highest in this decade . ",
+      "Mumbai \u2013 a city that never sleeps Mumbai , the capital of Maharashtra , witnessed a slow-paced growth in the hotel industry in recent years mainly due to the changes in real estate policies and exorbitant land prices ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "13": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Average daily rate in U.S. dollars": "89"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Average daily rate in U.S. dollars": "89"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Average daily rate in U.S. dollars": "85"
+      },
+      {
+         "Fiscal Year": "FY 2016",
+         "Average daily rate in U.S. dollars": "85"
+      },
+      {
+         "Fiscal Year": "FY 2015",
+         "Average daily rate in U.S. dollars": "90"
+      },
+      {
+         "Fiscal Year": "FY 2014",
+         "Average daily rate in U.S. dollars": "92"
+      },
+      {
+         "Fiscal Year": "FY 2013",
+         "Average daily rate in U.S. dollars": "106"
+      },
+      {
+         "Fiscal Year": "FY 2012",
+         "Average daily rate in U.S. dollars": "126"
+      },
+      {
+         "Fiscal Year": "FY 2011",
+         "Average daily rate in U.S. dollars": "143"
+      },
+      {
+         "Fiscal Year": "FY 2010",
+         "Average daily rate in U.S. dollars": "136"
+      },
+      {
+         "Fiscal Year": "FY 2009",
+         "Average daily rate in U.S. dollars": "168"
+      },
+      {
+         "Fiscal Year": "FY 2008",
+         "Average daily rate in U.S. dollars": "199"
+      },
+      {
+         "Fiscal Year": "FY 2007",
+         "Average daily rate in U.S. dollars": "162"
+      },
+      {
+         "Fiscal Year": "FY 2006",
+         "Average daily rate in U.S. dollars": "122"
+      },
+      {
+         "Fiscal Year": "FY 2005",
+         "Average daily rate in U.S. dollars": "96"
+      },
+      {
+         "Fiscal Year": "FY 2004",
+         "Average daily rate in U.S. dollars": "78"
+      },
+      {
+         "Fiscal Year": "FY 2003",
+         "Average daily rate in U.S. dollars": "68"
+      },
+      {
+         "Fiscal Year": "FY 2002",
+         "Average daily rate in U.S. dollars": "73"
+      },
+      {
+         "Fiscal Year": "FY 2001",
+         "Average daily rate in U.S. dollars": "83"
+      }
+   ],
+   "gold": "In financial year 2019 , the average daily rate of hotels in India was 89 U.S. dollars , the same as that of the previous year . The average daily rate was the highest for five-star hotels at 159 U.S. dollars in 2019 .\n"
+}

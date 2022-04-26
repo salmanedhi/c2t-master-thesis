@@ -1,0 +1,62 @@
+{
+   "title": "Home birth rate : leading U.S. states 2018",
+   "xAxis": "State",
+   "yAxis": "Percentage of all births that were home births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S. birth rate the leading Percentage 2018 from U.S. as of 2018 . ",
+      "As of this time , Montana had the leading U.S. Percentage all rate 2.4 deaths rate U.S. as the underlying cause of Percentage births were ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Montana",
+         "Percentage of all births that were home births": "2.4"
+      },
+      {
+         "State": "Wisconsin",
+         "Percentage of all births that were home births": "2.3"
+      },
+      {
+         "State": "Utah",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Idaho",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Washington",
+         "Percentage of all births that were home births": "2.1"
+      },
+      {
+         "State": "Vermont",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Oregon",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Alaska",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Maine",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Pennsylvania",
+         "Percentage of all births that were home births": "1.9"
+      }
+   ],
+   "gold": "The states in the U.S. with the highest home birth rate in 2018 included Montana , Wisconsin and Utah . Montana had the highest home birth rate with 2.4 percent of all births occurring at home while 2.3 percent of all births in Wisconsin occurred at home . Home births Home births are selected by women in the U.S. for a variety of reasons that may include , a preference for less medical intervention , a location preference , cost , and a cultural or religious preference .\n"
+}

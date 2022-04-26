@@ -1,0 +1,38 @@
+{
+   "title": "Market share of leading global payment card manufacturers 2016",
+   "xAxis": "Manufactor",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2016 , Gemalto_(Netherlands) made up 15.6 % of Market 's global Market . ",
+      "Market , owned manufacturers the Kering Group , had revenues of approximately 1.17 billion euros in 2016 ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Manufactor": "Gemalto (Netherlands)",
+         "Market share": "15.6"
+      },
+      {
+         "Manufactor": "Oberthur (France)",
+         "Market share": "9.5"
+      },
+      {
+         "Manufactor": "Perfect Plastic (U.S.)",
+         "Market share": "9.1"
+      },
+      {
+         "Manufactor": "Giesecke & Devrient (Germany)",
+         "Market share": "8.4"
+      }
+   ],
+   "gold": "This statistic presents the market share of leading of leading payment card manufacturers worldwide in 2016 . Gemalto , a company headquartered in the Netherlands , led the ranking in 2016 , with a market share of 15.6 percent .\n"
+}

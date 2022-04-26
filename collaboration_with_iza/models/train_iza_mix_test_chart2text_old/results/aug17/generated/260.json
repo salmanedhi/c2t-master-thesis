@@ -1,0 +1,35 @@
+{
+   "title": "U.S. TV consumption : average viewing time in 2018 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Time in hours",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the TV of consumption in TV . ",
+      "\\\\n The biggest Gender , shown to be responsible for 3.09 % of cases , is genes . ",
+      "Women of Women accounts for 35 % of consumption and Men is the Gender in nearly 25 % of cases ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Men",
+         "Time in hours": "3.09"
+      },
+      {
+         "Gender": "Women",
+         "Time in hours": "2.61"
+      }
+   ],
+   "gold": "This statistic shows the average daily time per capita spent watching TV in the United States in 2018 , by gender . Overall , women spent an average of 2.61 hours per day watching T.V .\n"
+}

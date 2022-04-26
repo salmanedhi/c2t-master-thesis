@@ -1,0 +1,93 @@
+{
+   "title": "Safest countries according to the World Risk Index 2019",
+   "xAxis": "Country",
+   "yAxis": "World Risk Index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Safest countries Country in terms of the World of Risk with Saudi_Arabia having the Safest \u2013 2.34 Risk down to Malta the least countries of the group at 0.31 Risk . ",
+      "In between , we have Qatar 0.31 , Norway 2.34 , Grenada 1.01 and St_Vincent_and_the_Grenadines 0.8 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "14",
+         "24": "1",
+         "32": "0"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "14",
+         "9": "14",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Qatar",
+         "World Risk Index score": "0.31"
+      },
+      {
+         "Country": "Malta",
+         "World Risk Index score": "0.54"
+      },
+      {
+         "Country": "St Vincent and the Grenadines",
+         "World Risk Index score": "0.8"
+      },
+      {
+         "Country": "Grenada",
+         "World Risk Index score": "1.01"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "World Risk Index score": "1.04"
+      },
+      {
+         "Country": "Barbados",
+         "World Risk Index score": "1.35"
+      },
+      {
+         "Country": "Iceland",
+         "World Risk Index score": "1.71"
+      },
+      {
+         "Country": "Egypt",
+         "World Risk Index score": "1.84"
+      },
+      {
+         "Country": "Finland",
+         "World Risk Index score": "1.94"
+      },
+      {
+         "Country": "Estonia",
+         "World Risk Index score": "2.04"
+      },
+      {
+         "Country": "Switzerland",
+         "World Risk Index score": "2.05"
+      },
+      {
+         "Country": "Maldives",
+         "World Risk Index score": "2.08"
+      },
+      {
+         "Country": "Sweden",
+         "World Risk Index score": "2.2"
+      },
+      {
+         "Country": "Lithuania",
+         "World Risk Index score": "2.29"
+      },
+      {
+         "Country": "Norway",
+         "World Risk Index score": "2.34"
+      }
+   ],
+   "gold": "This statistic shows the countries with the lowest risk of natural disasters according to the Global Risk Index in 2019 . At this time , Qatar , with an index value of 0.31 , was the safest country in the world . In the framework of the WorldRiskIndex , disaster risk is analyzed as a complex interplay of natural hazards and social , political and environmental factors .\n"
+}

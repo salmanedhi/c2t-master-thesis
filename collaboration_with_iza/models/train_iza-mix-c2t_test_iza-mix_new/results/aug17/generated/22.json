@@ -1,0 +1,52 @@
+{
+   "title": "Women representation in the literature department",
+   "xAxis": "Department",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Women representation in Women department = There is a 60 percentage representation of Women in Computer_Science and 70 percentage in Engineering . ",
+      "In Maths this is 55 percentage . ",
+      "However in Arts it is 32 percentage and Literature just 24 percentage ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "16": "0",
+         "18": "4",
+         "21": "4"
+      },
+      {
+         "4": "2"
+      },
+      {
+         "2": "1",
+         "5": "1",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Department": "Computer Science",
+         "Percentage": "60"
+      },
+      {
+         "Department": "Arts",
+         "Percentage": "32"
+      },
+      {
+         "Department": "Mathematics",
+         "Percentage": "55"
+      },
+      {
+         "Department": "Literature",
+         "Percentage": "23"
+      },
+      {
+         "Department": "Engineering",
+         "Percentage": "70"
+      }
+   ],
+   "gold": "This graph displays women representation in the literature department as a % , comparing the female representation to four other departments ( Arts , Computer Science , Mathematics and Engineering ) . In Literature , women represent 22 % of the department . Comparing this to other departments ( 32 % for Arts , 55 % for Mathematics , 60 % for Computer Science and 70 % for Engineering ) , the Literature department has the least female representation .\n"
+}

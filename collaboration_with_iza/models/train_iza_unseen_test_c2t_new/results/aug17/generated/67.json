@@ -1,0 +1,76 @@
+{
+   "title": "Netherlands : top 10 online stores",
+   "xAxis": "Online Store",
+   "yAxis": "E-commerce revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Netherlands top Online in the online stores was Online wehkamp.nl , who made 1410.2 revenue . ",
+      "The most top Online was apple.com , with just 168.9 revenue . ",
+      "In second place was Online coolblue.nl with 1110.7 revenue ; third place went to Online bol.com with 1410.2 revenue ; fourth place went to Online alternate.nl with 168.9 revenue and fifth place went to Online ah.nl , who was 485.8 revenue ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Online Store": "bol.com",
+         "E-commerce revenue in million U.S. dollars": "1410.2"
+      },
+      {
+         "Online Store": "coolblue.nl",
+         "E-commerce revenue in million U.S. dollars": "1110.7"
+      },
+      {
+         "Online Store": "wehkamp.nl",
+         "E-commerce revenue in million U.S. dollars": "705.3"
+      },
+      {
+         "Online Store": "ah.nl",
+         "E-commerce revenue in million U.S. dollars": "485.8"
+      },
+      {
+         "Online Store": "apple.com",
+         "E-commerce revenue in million U.S. dollars": "390.1"
+      },
+      {
+         "Online Store": "mediamarkt.nl",
+         "E-commerce revenue in million U.S. dollars": "322.8"
+      },
+      {
+         "Online Store": "zalando.nl",
+         "E-commerce revenue in million U.S. dollars": "275.0"
+      },
+      {
+         "Online Store": "amazon.com",
+         "E-commerce revenue in million U.S. dollars": "199.6"
+      },
+      {
+         "Online Store": "vente-exclusive.com",
+         "E-commerce revenue in million U.S. dollars": "182.5"
+      },
+      {
+         "Online Store": "alternate.nl",
+         "E-commerce revenue in million U.S. dollars": "168.9"
+      }
+   ],
+   "gold": "The biggest online stores in the Netherlands include domestic players like online hypermarket bol.com , electronics retailer coolblue.nl and fashion store wehkamp.nl , sometimes outperforming major e-commerce companies such as Amazon or Zalando . With a revenue of US $ 1 , 410.2m bol.com is leading the Dutch e-commerce market directly followed by coolblue.nl with US $ 1 , 110.7m.bol.com survives the Amazon threadThe Dutch internet bookstore bol.com achieved net sales of around US $ 1.8 billion in 2018 with a growth of 30 % . Sales of up to US $ 2.3 billion are expected for 2019 .\n"
+}

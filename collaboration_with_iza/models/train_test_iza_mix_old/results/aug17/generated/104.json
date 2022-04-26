@@ -1,0 +1,47 @@
+{
+   "title": "The most expensive digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average price ( \u00a3 ) of most expensive digital cameras by Average price . ",
+      "The cheapest Camera is the Konica at \u00a3 53 followed by Hunten at \u00a3 58 , Sigma at \u00a3 62.3 , Memoto at \u00a3 70.1 and the most expensive is the Cambo at \u00a3 86 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "4",
+         "11": "3",
+         "16": "1",
+         "19": "1",
+         "21": "0",
+         "24": "0",
+         "31": "2"
+      }
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "The chart shows the most expensive digital cameras by average price - a comparison of five brands , and a range of \u00a3 50 to \u00a3 80 \\n\\\\n The cameras range from between \u00a3 52 ( Konica ) to \u00a3 75 ( Cambo ) . The average price of the five is Sigma , at \u00a3 62 .\n"
+}

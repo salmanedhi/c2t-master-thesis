@@ -1,0 +1,64 @@
+{
+   "title": "Political party membership in the United Kingdom ( UK ) in 2018",
+   "xAxis": "Party",
+   "yAxis": "Number of members (in 1,000s)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Political party in the United Kingdom was Party Scottish_National_Party , who made 540 members . ",
+      "The most party was Green , with just 8 members . ",
+      "In second place was Party Conservatives with 124 members ; third place went to Party Labour with 540 members ; fourth place went to Party Plaid_Cymru with 8 members and fifth place went to Party Liberal_Democrats , who was 99 members ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Party": "Labour",
+         "Number of members (in 1,000s)": "540"
+      },
+      {
+         "Party": "Conservatives",
+         "Number of members (in 1,000s)": "124"
+      },
+      {
+         "Party": "Scottish National Party",
+         "Number of members (in 1,000s)": "125"
+      },
+      {
+         "Party": "Liberal Democrats",
+         "Number of members (in 1,000s)": "99"
+      },
+      {
+         "Party": "Green",
+         "Number of members (in 1,000s)": "39"
+      },
+      {
+         "Party": "UKIP",
+         "Number of members (in 1,000s)": "24"
+      },
+      {
+         "Party": "Plaid Cymru",
+         "Number of members (in 1,000s)": "8"
+      }
+   ],
+   "gold": "In early 2018 the Labour Party was estimated to have over half a million members , by far the most of any political party in the United Kingdom . The next three largest parties in terms of members were the Conservatives , the Scottish National Party and the Liberal Democrats which all had membership numbers that numbered over 100 thousand . More members but less voters While the Labour Party clearly had more party members than the Conservative Party , it has also not been in power since 2010 and has struggled to oust successive Tory governments .\n"
+}

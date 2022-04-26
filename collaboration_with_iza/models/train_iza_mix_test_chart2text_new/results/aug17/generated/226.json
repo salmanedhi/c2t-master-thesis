@@ -1,0 +1,53 @@
+{
+   "title": "Frequency of soda purchases among consumers in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by Response in a among consumers . ",
+      "\\\\n From the chart we see that the A_few_times_per_month Response was the Frequency soda Response in the consumers with 32.2 respondents . ",
+      "The next Response to make the most respondents was the A_few_times_every_three_months Response with 9.8 respondents closely followed by the Not_a_soda_consumer Response with 15 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "2"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "5",
+         "22": "5"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Every day",
+         "Share of respondents": "10.1"
+      },
+      {
+         "Response": "A few times per week",
+         "Share of respondents": "25.8"
+      },
+      {
+         "Response": "A few times per month",
+         "Share of respondents": "32.2"
+      },
+      {
+         "Response": "A few times every three months",
+         "Share of respondents": "9.8"
+      },
+      {
+         "Response": "Less frequently than once every three months",
+         "Share of respondents": "7.1"
+      },
+      {
+         "Response": "Not a soda consumer",
+         "Share of respondents": "15"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey in which U.S. consumers were asked how frequently they purchase soda . Some 32.2 percent of respondents stated that they purchase soda a few times per month , while 25.8 percent of respondents reportedly purchase soda a few times per week .\n"
+}

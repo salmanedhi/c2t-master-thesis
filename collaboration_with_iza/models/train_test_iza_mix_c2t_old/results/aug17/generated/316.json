@@ -1,0 +1,75 @@
+{
+   "title": "Alibaba : mobile user MAU Q4 2016-Q4 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Active Alibaba mobile users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Active millions of mobile in user MAU in the Alibaba from 2019 to 2020 . ",
+      "mobile user MAU increased by 824 millions in 2020 from the previous Quarter . ",
+      "The data are in current Alibaba dollars , seasonally adjusted at annual rates ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Active Alibaba mobile users in millions": "824"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Active Alibaba mobile users in millions": "785"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Active Alibaba mobile users in millions": "755"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Active Alibaba mobile users in millions": "721"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Active Alibaba mobile users in millions": "699"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Active Alibaba mobile users in millions": "666"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Active Alibaba mobile users in millions": "634"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Active Alibaba mobile users in millions": "617"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Active Alibaba mobile users in millions": "580"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Active Alibaba mobile users in millions": "549"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Active Alibaba mobile users in millions": "529"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Active Alibaba mobile users in millions": "507"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Active Alibaba mobile users in millions": "493"
+      }
+   ],
+   "gold": "This statistic gives information on the consolidated number of monthly active mobile users ( MAU ) across Alibaba 's online shopping properties from the fourth quarter of 2016 to the fourth quarter of 2019 . As of the last quarter of 2019 , Alibaba 's Chinese e-commerce properties had been accessed by around 824 million mobile MAU .\n"
+}

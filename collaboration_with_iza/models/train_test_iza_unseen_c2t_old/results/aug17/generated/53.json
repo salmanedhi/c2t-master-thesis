@@ -1,0 +1,38 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by education",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey conducted in the country in 2019 on whether 2019 by education Some_college High_school_or_less reach the American President Donald United States . ",
+      "During the survey , 75 % of respondents stated they think that education of 2019 countries do not Some_college High_school_or_less reach Donald United States ."
+   ],
+   "trends": [
+      {
+         "19": "1",
+         "20": "0"
+      },
+      {
+         "4": "1",
+         "18": "1",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "High school or less",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "Some college",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "College +",
+         "Share of respondents": "74"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by educational background . During that period of time , 74 percent of respondents who had attained a college degree used the social networking site .\n"
+}

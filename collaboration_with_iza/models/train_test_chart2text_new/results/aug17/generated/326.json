@@ -1,0 +1,58 @@
+{
+   "title": "Advertising costs of Target in the U.S. 2010 to 2018",
+   "xAxis": "Fiscal year",
+   "yAxis": "Advertising spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Advertising of Fiscal in Target as of 2010 , U.S. Fiscal year . ",
+      "The most common type of Fiscal in Target were single 2018 Fiscal which amounted to 1600 million Target dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "15": "4"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2018",
+         "Advertising spending in million U.S. dollars": "1494"
+      },
+      {
+         "Fiscal year": "2017",
+         "Advertising spending in million U.S. dollars": "1457"
+      },
+      {
+         "Fiscal year": "2016",
+         "Advertising spending in million U.S. dollars": "1465"
+      },
+      {
+         "Fiscal year": "2015",
+         "Advertising spending in million U.S. dollars": "1434"
+      },
+      {
+         "Fiscal year": "2014",
+         "Advertising spending in million U.S. dollars": "1600"
+      },
+      {
+         "Fiscal year": "2013",
+         "Advertising spending in million U.S. dollars": "1548"
+      },
+      {
+         "Fiscal year": "2012",
+         "Advertising spending in million U.S. dollars": "1389"
+      },
+      {
+         "Fiscal year": "2011",
+         "Advertising spending in million U.S. dollars": "1360"
+      },
+      {
+         "Fiscal year": "2010",
+         "Advertising spending in million U.S. dollars": "1292"
+      }
+   ],
+   "gold": "This timeline shows the advertising expenditure of Target in North America from 2010 to 2018 . In 2012 , Target 's ad spending amounted to 1.39 billion U.S. dollars .\n"
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Mobile phone services used to plan leisure travel in the U.S. as of spring 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of middle and high school students in the country who were Search_engine_for_general_web_search , divided by the type of Search_engine_for_general_web_search phone endured . ",
+      "During the 2019 survey , 16.2 % of Search_engine_for_general_web_search phone victims had Search_engine_for_general_web_search impersonated Search_engine_for_images_or_photos during the last 69.8 days . ",
+      "Search_engine_for_general_web_search phone includes unwanted contact by threatening or insulting the respondent via digital communications as well sharing private information Search_engine_for_images_or_photos ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "23": "0"
+      },
+      {
+         "5": "7",
+         "8": "0",
+         "12": "0",
+         "14": "1",
+         "18": "0"
+      },
+      {
+         "0": "0",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Search engine for general web search",
+         "Share of respondents": "69.8"
+      },
+      {
+         "Response": "Search engine for images or photos",
+         "Share of respondents": "39.4"
+      },
+      {
+         "Response": "Social media websites",
+         "Share of respondents": "36.5"
+      },
+      {
+         "Response": "Online travel agency websites",
+         "Share of respondents": "28.6"
+      },
+      {
+         "Response": "Airbnb.com",
+         "Share of respondents": "24.7"
+      },
+      {
+         "Response": "Online video (YouTube.com etc)",
+         "Share of respondents": "20.3"
+      },
+      {
+         "Response": "Ask friends on social media",
+         "Share of respondents": "17.1"
+      },
+      {
+         "Response": "Official tourism office website",
+         "Share of respondents": "16.2"
+      },
+      {
+         "Response": "Travel-related podcasts",
+         "Share of respondents": "12.6"
+      },
+      {
+         "Response": "Map websites or mapping apps",
+         "Share of respondents": "11.1"
+      },
+      {
+         "Response": "Email travel newsletters",
+         "Share of respondents": "9.9"
+      },
+      {
+         "Response": "Digital assistant (Siri Google Now etc)",
+         "Share of respondents": "9.3"
+      },
+      {
+         "Response": "User review websites",
+         "Share of respondents": "8.6"
+      },
+      {
+         "Response": "Blogs articles or stories",
+         "Share of respondents": "7.2"
+      }
+   ],
+   "gold": "This statistic shows the services and technology used by people in the U.S. to find inspiration or ideas on where to travel as of Spring 2019 . During the survey , 36.5 percent of respondents said they used social media websites for travel inspiration or ideas .\n"
+}

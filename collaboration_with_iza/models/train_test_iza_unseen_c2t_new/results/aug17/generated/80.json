@@ -1,0 +1,50 @@
+{
+   "title": "Luxury vehicles : United States premium vehicle market share 2018",
+   "xAxis": "Marque (owner)",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The ranking illustrates the global Market share of United States with a vehicles Marque setup in 2018 , premium vehicle . ",
+      "In 2018 , Mercedes-Benz_(Daimler) accounted for 15.8 % of the vehicles Marque United States Market ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Marque (owner)": "Mercedes-Benz (Daimler)",
+         "Market share": "15.8"
+      },
+      {
+         "Marque (owner)": "BMW (BMW)",
+         "Market share": "15.55"
+      },
+      {
+         "Marque (owner)": "Lexus (Toyota)",
+         "Market share": "14.92"
+      },
+      {
+         "Marque (owner)": "Audi (VW)",
+         "Market share": "11.17"
+      },
+      {
+         "Marque (owner)": "Tesla (Tesla Inc.)",
+         "Market share": "9.12"
+      },
+      {
+         "Marque (owner)": "Acura (Honda)",
+         "Market share": "7.95"
+      },
+      {
+         "Marque (owner)": "Cadillac (GM)",
+         "Market share": "7.74"
+      }
+   ],
+   "gold": "This graph illustrates the market share of luxury car brands in the United States in 2018 , when Mercedes-Benz reached a market share of almost 16 percent . U.S. luxury car market share in 2018 , by key marque There is something majestic about luxury vehicles . From the glass panel roofs and the LED headlights to the leather-trimmed seats and powerful engines , these automobiles are built with the finest of materials , giving each driver the feeling of uniqueness .\n"
+}

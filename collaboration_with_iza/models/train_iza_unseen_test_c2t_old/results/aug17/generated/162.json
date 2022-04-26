@@ -1,0 +1,119 @@
+{
+   "title": "Number of M & A deals in the U.S. 2020 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Number of deals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number M in Number M A . ",
+      "It shows Finance was the Number at just 5 degrees and Producer_manufacturing was the warmest at 594 degrees . ",
+      "After Finance , the next Number M are Commercial_services at 594 degrees , followed by Miscellaneous at 18 degrees , Technology_services at 543 degrees and then Consumer_services at 234 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "20",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Commercial services",
+         "Number of deals": "594"
+      },
+      {
+         "Industry": "Technology services",
+         "Number of deals": "543"
+      },
+      {
+         "Industry": "Finance",
+         "Number of deals": "473"
+      },
+      {
+         "Industry": "Consumer services",
+         "Number of deals": "234"
+      },
+      {
+         "Industry": "Producer manufacturing",
+         "Number of deals": "225"
+      },
+      {
+         "Industry": "Distribution services",
+         "Number of deals": "197"
+      },
+      {
+         "Industry": "Industrial services",
+         "Number of deals": "190"
+      },
+      {
+         "Industry": "Health services",
+         "Number of deals": "157"
+      },
+      {
+         "Industry": "Process industries",
+         "Number of deals": "140"
+      },
+      {
+         "Industry": "Electronic technology",
+         "Number of deals": "130"
+      },
+      {
+         "Industry": "Health technology",
+         "Number of deals": "117"
+      },
+      {
+         "Industry": "Consumer non-durables",
+         "Number of deals": "95"
+      },
+      {
+         "Industry": "Retail trade",
+         "Number of deals": "87"
+      },
+      {
+         "Industry": "Transportation",
+         "Number of deals": "80"
+      },
+      {
+         "Industry": "Utilities",
+         "Number of deals": "60"
+      },
+      {
+         "Industry": "Consumer durables",
+         "Number of deals": "58"
+      },
+      {
+         "Industry": "Non-energy minerals",
+         "Number of deals": "39"
+      },
+      {
+         "Industry": "Communications",
+         "Number of deals": "36"
+      },
+      {
+         "Industry": "Energy minerals",
+         "Number of deals": "24"
+      },
+      {
+         "Industry": "Government",
+         "Number of deals": "5"
+      },
+      {
+         "Industry": "Miscellaneous",
+         "Number of deals": "10"
+      }
+   ],
+   "gold": "Between November 2019 and January 2020 , there were 594 M & A deals in the commercial services sector in the United States . The total number of M & A deals amounted to 3,494 in that period .\n"
+}

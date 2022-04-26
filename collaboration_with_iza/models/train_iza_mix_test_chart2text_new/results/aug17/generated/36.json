@@ -1,0 +1,57 @@
+{
+   "title": "Global oilseed production 2019/20 , by type",
+   "xAxis": "Leading type of Oilseed",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Production of million made by Leading in a 2019/20 by . ",
+      "\\\\n From the chart we see that the Palm_kernel Leading was the Global oilseed Leading in the by with 337.48 million . ",
+      "The next Leading to make the most million was the Peanuts Leading with 45.52 million closely followed by the Sunflowerseed Leading with 53.48 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "5"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "6",
+         "22": "6"
+      }
+   ],
+   "data": [
+      {
+         "Leading type of Oilseed": "Copra",
+         "Production in million metric tons": "5.81"
+      },
+      {
+         "Leading type of Oilseed": "Cottonseed",
+         "Production in million metric tons": "44.3"
+      },
+      {
+         "Leading type of Oilseed": "Palm kernel",
+         "Production in million metric tons": "20.02"
+      },
+      {
+         "Leading type of Oilseed": "Peanuts",
+         "Production in million metric tons": "45.52"
+      },
+      {
+         "Leading type of Oilseed": "Rapeseed",
+         "Production in million metric tons": "68.02"
+      },
+      {
+         "Leading type of Oilseed": "Soybeans",
+         "Production in million metric tons": "337.48"
+      },
+      {
+         "Leading type of Oilseed": "Sunflowerseed",
+         "Production in million metric tons": "53.48"
+      }
+   ],
+   "gold": "In the 2019/2020 crop year , soybeans were the leading type of oilseed in the world . That year , some 337.5 million metric tons of soybeans were produced worldwide . Vegetable oil production Though soybeans are the most produced type of oilseed , the world 's leading vegetable oil is palm oil .\n"
+}

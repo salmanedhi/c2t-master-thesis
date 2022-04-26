@@ -1,0 +1,49 @@
+{
+   "title": "U.S. fire statistics : fire department responses , by type of call 2018",
+   "xAxis": "Type of call",
+   "yAxis": "Number of calls responded (in thousands)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of calls responded (in in the U.S. in 2018 , by Type . ",
+      "In 2018 , 23551.5 % of calls in the U.S. were between 18 and 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Type of call": "Medical aid responses (ambulance EMS rescue)",
+         "Number of calls responded (in thousands)": "23551.5"
+      },
+      {
+         "Type of call": "All other responses (smoke scares lock-outs etc.)",
+         "Number of calls responded (in thousands)": "6342.5"
+      },
+      {
+         "Type of call": "False alarms",
+         "Number of calls responded (in thousands)": "2889.0"
+      },
+      {
+         "Type of call": "Mutual aid or assistance",
+         "Number of calls responded (in thousands)": "1512.5"
+      },
+      {
+         "Type of call": "Fire incidents",
+         "Number of calls responded (in thousands)": "1318.5"
+      },
+      {
+         "Type of call": "Other hazardous responses (arcing wires bomb removal etc.)",
+         "Number of calls responded (in thousands)": "706.5"
+      },
+      {
+         "Type of call": "Hazardous material responses (Spills Leaks etc.)",
+         "Number of calls responded (in thousands)": "426.0"
+      }
+   ],
+   "gold": "This statistic shows total number of calls responded by fire departments of the United States in 2018 . In 2018 , U.S. fire departments responded to 2,889,000 false alarms . This was an increase of 13 % from the previous year .\n"
+}

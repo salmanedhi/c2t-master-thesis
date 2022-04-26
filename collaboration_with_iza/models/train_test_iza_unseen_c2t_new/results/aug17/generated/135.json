@@ -1,0 +1,66 @@
+{
+   "title": "Biggest M & A inbound deals in Europe H1 2019 , by deal value",
+   "xAxis": "Merge / Aquisitions",
+   "yAxis": "Deal value in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , Allergan_plc_-_AbbVie_Inc. was the Biggest M Merge / at 75.77 value . ",
+      "Currently in its seventh generation , it was first billion in and had been popular with Europe consumers from the beginning . ",
+      "Two years after its introduction on the market , the Allergan_plc_-_AbbVie_Inc. Mk1 had already reached the peak of the most billion supermini Merge ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "11": "0"
+      },
+      {},
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Merge / Aquisitions": "Allergan plc - AbbVie Inc.",
+         "Deal value in billion euros": "75.77"
+      },
+      {
+         "Merge / Aquisitions": "Alcon Inc - Novartis AG (Shareholders)",
+         "Deal value in billion euros": "23.67"
+      },
+      {
+         "Merge / Aquisitions": "Nestle Skin Health S.A. - A consortium led by EQT Partners AB and Abu Dhabi Investment Authority",
+         "Deal value in billion euros": "9.03"
+      },
+      {
+         "Merge / Aquisitions": "Metro AG (89.09 stake) - EP Global Commerce a.s.",
+         "Deal value in billion euros": "8.76"
+      },
+      {
+         "Merge / Aquisitions": "WABCO - ZF Friedrichshafen AG",
+         "Deal value in billion euros": "6.45"
+      },
+      {
+         "Merge / Aquisitions": "UPC Switzerland LLC - Sunrise Communications AG",
+         "Deal value in billion euros": "5.54"
+      },
+      {
+         "Merge / Aquisitions": "RPC Group Plc - Berry Plastics Group Inc.",
+         "Deal value in billion euros": "5.22"
+      },
+      {
+         "Merge / Aquisitions": "Merlin Entertainments Plc (71.08 stake) - Kirkbi - Blackstone CPPIB consortium",
+         "Deal value in billion euros": "5.11"
+      },
+      {
+         "Merge / Aquisitions": "Axel Springer SE (54.6 stake) - Kohlberg Kravis Roberts & Co. L.P.",
+         "Deal value in billion euros": "4.95"
+      },
+      {
+         "Merge / Aquisitions": "Altran Technologies S.A - Capgemini SA",
+         "Deal value in billion euros": "4.91"
+      }
+   ],
+   "gold": "The \u2018 merging of two companies into one , or the \u2018 buying ' of one company by another through acquisition is a common practice in the corporate world . M & A can be used to fulfill several strategies including growth , expansion , increasing market share , eliminating a competitor or even talent acquisition . For both the buyer and seller , strategic drivers differ .\n"
+}

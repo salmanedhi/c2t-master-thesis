@@ -1,0 +1,73 @@
+{
+   "title": "Total number of Home Depot stores in Canada by province 2018",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of stores conducted by Home in a Depot stores . ",
+      "\\\\n From the chart we see that the Alberta Province was the Total number Province in the stores with 182 stores . ",
+      "The next Province to make the most stores was the British_Columbia Province with 26 stores closely followed by Prince_Edward_Island with 1 stores ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "10",
+         "20": "10"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Total",
+         "Number of stores": "182"
+      },
+      {
+         "Province": "Ontario",
+         "Number of stores": "88"
+      },
+      {
+         "Province": "Alberta",
+         "Number of stores": "27"
+      },
+      {
+         "Province": "British Columbia",
+         "Number of stores": "26"
+      },
+      {
+         "Province": "Quebec",
+         "Number of stores": "22"
+      },
+      {
+         "Province": "Manitoba",
+         "Number of stores": "6"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of stores": "4"
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of stores": "4"
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of stores": "3"
+      },
+      {
+         "Province": "Newfoundland",
+         "Number of stores": "1"
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of stores": "1"
+      }
+   ],
+   "gold": "There were 182 Home Depot stores across Canada in 2018 . Ontario was home to 88 , the most stores by far . Alberta and British Columbia were ranked in second and third places , with 27 and 26 stores located in each province respectively .\n"
+}

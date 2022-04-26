@@ -1,0 +1,56 @@
+{
+   "title": "Wealthiest independent recording artists in U.S. 2014",
+   "xAxis": "Recording Artist",
+   "yAxis": "Net worth in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Net worth of Wealthiest independent recording in the artists in 2014 , . ",
+      "In that year , Ben_Haggerty_\"Macklemore\" was ranked second with an Net worth of approximately 18.0 million U.S. dollars . ",
+      "independent cards in the U.S. concept of using a recording for purchases has its roots in the early 19th century , but it was sometime after that in the 1940s that the first independent recording was used in the U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Recording Artist": "\"Ray J\" Norwood",
+         "Net worth in million U.S. dollars": "18.0"
+      },
+      {
+         "Recording Artist": "Ben Haggerty \"Macklemore\"",
+         "Net worth in million U.S. dollars": "16.0"
+      },
+      {
+         "Recording Artist": "Early Stevens aka \"E-40\"",
+         "Net worth in million U.S. dollars": "8.0"
+      },
+      {
+         "Recording Artist": "Aaron Dontez Yates \"Tech N9NE\"",
+         "Net worth in million U.S. dollars": "8.0"
+      },
+      {
+         "Recording Artist": "Malcom James McCormick \"Mac Miller\"",
+         "Net worth in million U.S. dollars": "6.0"
+      },
+      {
+         "Recording Artist": "Donald Glover \"Childish Gambino\"",
+         "Net worth in million U.S. dollars": "4.5"
+      },
+      {
+         "Recording Artist": "Atmosphere",
+         "Net worth in million U.S. dollars": "3.8"
+      },
+      {
+         "Recording Artist": "David Styles \"Styles P\"",
+         "Net worth in million U.S. dollars": "3.0"
+      }
+   ],
+   "gold": "The statistic illustrates the leading independent recording artists in the United States as of May 2014 , by net worth . The second highest earning independent recording artist of 2014 was Ben Haggerty also known as `` Macklemore `` with an estimated net worth of 16 million U.S. dollars\n"
+}

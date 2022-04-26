@@ -1,0 +1,52 @@
+{
+   "title": "Women representation in the literature department",
+   "xAxis": "Department",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of Women enrolled in department . ",
+      "The representation is highest within STEM fields , with Engineering showing the highest representation at 70 percentage , followed by Computer_Science with a 60 percentage representation and Mathematics with 56 percentage of Women represented . ",
+      "Only 32 percentage of Women are now represented in Arts and 24 percentage in Literature , indicating a decline in Arts and Humanities in favour STEM fields . "
+   ],
+   "trends": [
+      {},
+      {
+         "9": "4",
+         "15": "4",
+         "20": "0",
+         "23": "0",
+         "27": "2"
+      },
+      {
+         "1": "1",
+         "9": "1",
+         "14": "3",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Department": "Computer Science",
+         "Percentage": "60"
+      },
+      {
+         "Department": "Arts",
+         "Percentage": "32"
+      },
+      {
+         "Department": "Mathematics",
+         "Percentage": "55"
+      },
+      {
+         "Department": "Literature",
+         "Percentage": "23"
+      },
+      {
+         "Department": "Engineering",
+         "Percentage": "70"
+      }
+   ],
+   "gold": "The following graph show the percentage representation of women in the literature department . Engineering has the most representation at 70 % . Literature has the lowest percent representation at 22 % .\n"
+}

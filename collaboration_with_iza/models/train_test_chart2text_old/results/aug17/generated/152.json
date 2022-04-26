@@ -1,0 +1,46 @@
+{
+   "title": "Market share of tablet brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Tablet Brand",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the Market share of brands Tablet share in the European Union ( United Kingdom ) in 2013 . ",
+      "In 2013 , Apple_iPad accounted for a Market share of 2 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "10": "4"
+      }
+   ],
+   "data": [
+      {
+         "Tablet Brand": "Apple iPad",
+         "Market share": "56"
+      },
+      {
+         "Tablet Brand": "Other",
+         "Market share": "24"
+      },
+      {
+         "Tablet Brand": "Samsung",
+         "Market share": "12"
+      },
+      {
+         "Tablet Brand": "Blackberry",
+         "Market share": "4"
+      },
+      {
+         "Tablet Brand": "Acer",
+         "Market share": "2"
+      },
+      {
+         "Tablet Brand": "Archos",
+         "Market share": "2"
+      }
+   ],
+   "gold": "This statistic shows the respective market shares of the leading tablet brands in the United Kingdom ( UK ) . In 2013 , 56 percent of UK tablet owners used an Apple iPad . Thus , the iPad brand is the most popular for tablets .\n"
+}

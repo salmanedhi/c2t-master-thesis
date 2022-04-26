@@ -1,0 +1,126 @@
+{
+   "title": "Average monthly housing rent in Italy 2018 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Price of euros made by Month . ",
+      "\\n Sep_19 has the highest Price of euros sitting at 12.8",
+      "\\n Second to Sep_19 is Nov_19 at 9.2 euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan 20",
+         "Price in euros per square meter": "9.66"
+      },
+      {
+         "Month": "Dec 19",
+         "Price in euros per square meter": "9.79"
+      },
+      {
+         "Month": "Nov 19",
+         "Price in euros per square meter": "9.68"
+      },
+      {
+         "Month": "Oct 19",
+         "Price in euros per square meter": "9.72"
+      },
+      {
+         "Month": "Sep 19",
+         "Price in euros per square meter": "9.72"
+      },
+      {
+         "Month": "Aug 19",
+         "Price in euros per square meter": "9.72"
+      },
+      {
+         "Month": "Jul 19",
+         "Price in euros per square meter": "9.68"
+      },
+      {
+         "Month": "Jun 19",
+         "Price in euros per square meter": "9.6"
+      },
+      {
+         "Month": "May 19",
+         "Price in euros per square meter": "9.65"
+      },
+      {
+         "Month": "Apr 19",
+         "Price in euros per square meter": "9.64"
+      },
+      {
+         "Month": "Mar 19",
+         "Price in euros per square meter": "9.61"
+      },
+      {
+         "Month": "Feb 19",
+         "Price in euros per square meter": "9.62"
+      },
+      {
+         "Month": "Jan 19",
+         "Price in euros per square meter": "9.58"
+      },
+      {
+         "Month": "Dec 18",
+         "Price in euros per square meter": "9.51"
+      },
+      {
+         "Month": "Nov 18",
+         "Price in euros per square meter": "9.49"
+      },
+      {
+         "Month": "Oct 18",
+         "Price in euros per square meter": "9.47"
+      },
+      {
+         "Month": "Sep 18",
+         "Price in euros per square meter": "9.49"
+      },
+      {
+         "Month": "Aug 18",
+         "Price in euros per square meter": "9.5"
+      },
+      {
+         "Month": "Jul 18",
+         "Price in euros per square meter": "9.47"
+      },
+      {
+         "Month": "Jun 18",
+         "Price in euros per square meter": "9.47"
+      },
+      {
+         "Month": "May 18",
+         "Price in euros per square meter": "9.42"
+      },
+      {
+         "Month": "Apr 18",
+         "Price in euros per square meter": "9.43"
+      },
+      {
+         "Month": "Mar 18",
+         "Price in euros per square meter": "9.4"
+      },
+      {
+         "Month": "Feb 18",
+         "Price in euros per square meter": "9.35"
+      },
+      {
+         "Month": "Jan 18",
+         "Price in euros per square meter": "9.36"
+      }
+   ],
+   "gold": "The average monthly housing rent in Italy in January 2020 was nearly 9.7 euros per square meter . However , this figure differed significantly according to the region in which the rental was looked for . In Aosta Valley , the tiniest region in the country which borders France and Switzerland , the average housing rent in December 2018 peaked at over 20 euros per square meter .\n"
+}

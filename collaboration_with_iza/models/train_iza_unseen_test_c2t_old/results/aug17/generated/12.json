@@ -1,0 +1,85 @@
+{
+   "title": "Important food attributes when selecting healthy meals 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Important food attributes in the when competirion . ",
+      "\\\\n From the chart we see that the Portion_control_off\u0090erings Response made the Important respondents by some margin , with only 4 . ",
+      "Low-calorie_options and Local_and_fresh_ingredients made a respectable 41 and 45 respondents , with None_of_these and Low-sodium_options not far behind , at 13 and 32 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "11"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "12",
+         "14": "3",
+         "20": "12",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Local and fresh ingredients",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Low-calorie options",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Nutritional information on menus",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Low-sodium options",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Portion control off\u0090erings",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Antibiotic- and hormone-free ingredients",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Organic products",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "GMO-free ingredients",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Sustainable and/or humane ingredient-supply practices",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Gluten-free off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Plant-based meal off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Items backed by recognized diet programs",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "13"
+      }
+   ],
+   "gold": "The statistic shows which food attributes are important to U.S. survey respondents when selecting a healthy meal in 2016 . During the survey , 41 percent of respondents cited low-calorie options as important when selecting a healthy meal .\n"
+}

@@ -1,0 +1,68 @@
+{
+   "title": "U.S. consumers ' purchase frequency of cosmetic products 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The U.S. consumers Response in the purchase frequency was Response Hair_styling_products , who made 87 respondents . ",
+      "The most consumers Response was Cosmetics_(e.g._bronzer_foundation_lip_gloss) , with just 8 respondents . ",
+      "In second place was Response Facial/skin_care_products_(e.g._moisturizers_primers_specialty_cleansers) with 48 respondents ; third place went to Response Shampoos_and/or_conditioners with 87 respondents ; fourth place went to Response None_of_these with 8 respondents and fifth place went to Response Sunscreen , who was 41 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "7",
+         "27": "7",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Shampoos and/or conditioners",
+         "Share of respondents": "87"
+      },
+      {
+         "Response": "Facial/skin care products (e.g. moisturizers primers specialty cleansers)",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "Hair styling products",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Sunscreen",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Cosmetics (e.g. bronzer foundation lip gloss)",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Non-sunscreen products with SPF protection (e.g. lotions lip balm)",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Hair color",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "8"
+      }
+   ],
+   "gold": "This statistic presents the results of a survey among U.S. adult consumers . The survey was fielded online by Harris Interactive in June 2014 , asking the respondents which cosmetic products they purchase and regularly use . Some 42 percent of U.S. adults indicated that they purchase and use hair styling products on a regular basis .\n"
+}

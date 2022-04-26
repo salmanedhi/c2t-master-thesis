@@ -1,0 +1,49 @@
+{
+   "title": "Weekly LinkedIn usage of registered users 2016",
+   "xAxis": "Hours",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "During the winter months , most LinkedIn residents keep warm using 0-2_hours . ",
+      "In a 2016 survey conducted by the LinkedIn Department for Business Energy & Industrial Strategy ( BEIS ) , it found that 53 percentage of respondents used this Hours of 0-2_hours . ",
+      "The next most common 0-2_hours source was 3-4_hours , with a combined share of six percentage ."
+   ],
+   "trends": [
+      {
+         "11": "0"
+      },
+      {
+         "22": "0",
+         "30": "0"
+      },
+      {
+         "4": "0",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Hours": "0-2 hours",
+         "Percentage of respondents": "53"
+      },
+      {
+         "Hours": "3-4 hours",
+         "Percentage of respondents": "22"
+      },
+      {
+         "Hours": "5-6 hours",
+         "Percentage of respondents": "10"
+      },
+      {
+         "Hours": "7-8 hours",
+         "Percentage of respondents": "5"
+      },
+      {
+         "Hours": "8+ hours",
+         "Percentage of respondents": "10"
+      }
+   ],
+   "gold": "This statistic provides information on average number of weekly hours that LinkedIn users spend on the social networking site . During a March 2016 survey , it was found that 53 percent of LinkedIn users only spend zero to two hours on the site per week .\n"
+}

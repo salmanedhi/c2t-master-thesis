@@ -1,0 +1,89 @@
+{
+   "title": "Leading car brands : market share in Spain 2019",
+   "xAxis": "Car Brand",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , hip-hop and rap Leading accounted for 8.73 % of total Leading share in the market , more than double the percentage of R Hyundai B Leading sales . ",
+      "Other highly popular Car included Seat and Volkswagen Leading , whereas just 4.27 % of all Leading sold in the Spain in 2019 was Dacia . ",
+      "Why are some Car more popular than others ? Whilst Leading is a highly subjective medium in terms of the listener 's taste and preferences , the top Car in terms of share tend not to fluctuate heavily ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "26": "8"
+      },
+      {
+         "5": "1",
+         "7": "2",
+         "12": "10",
+         "24": "10"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Car Brand": "Peugeot",
+         "Market share": "8.73"
+      },
+      {
+         "Car Brand": "Seat",
+         "Market share": "8.51"
+      },
+      {
+         "Car Brand": "Volkswagen",
+         "Market share": "7.24"
+      },
+      {
+         "Car Brand": "Renault",
+         "Market share": "6.63"
+      },
+      {
+         "Car Brand": "Citro\u00ebn",
+         "Market share": "6.56"
+      },
+      {
+         "Car Brand": "Opel",
+         "Market share": "5.63"
+      },
+      {
+         "Car Brand": "Toyota",
+         "Market share": "5.51"
+      },
+      {
+         "Car Brand": "Ford",
+         "Market share": "4.86"
+      },
+      {
+         "Car Brand": "Hyundai",
+         "Market share": "4.82"
+      },
+      {
+         "Car Brand": "Kia",
+         "Market share": "4.57"
+      },
+      {
+         "Car Brand": "Dacia",
+         "Market share": "4.27"
+      },
+      {
+         "Car Brand": "Mercedes",
+         "Market share": "4.13"
+      },
+      {
+         "Car Brand": "Nissan",
+         "Market share": "3.96"
+      },
+      {
+         "Car Brand": "Audi",
+         "Market share": "3.92"
+      },
+      {
+         "Car Brand": "BMW",
+         "Market share": "3.6"
+      }
+   ],
+   "gold": "In 2019 , Peugeot ranked as the leading make in Spain with a market share of 8.73 percent . SEAT ranked second with a market share of 8.51 percent , followed by Volkswagen with 7.24 percent . The Spanish car brand saw its sales increase , with the most registered SEAT models being the SEAT Leon and SEAT Ibiza , both exceeding 30 thousand registrations during 2018 .\n"
+}

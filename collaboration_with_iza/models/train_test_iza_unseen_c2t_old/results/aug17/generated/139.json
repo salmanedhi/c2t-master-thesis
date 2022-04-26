@@ -1,0 +1,129 @@
+{
+   "title": "Kickstarter : total amount of funding pledged 2012 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Amount of U.S. dollars pledged in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Kickstarter trend of total amount in the Kickstarter from first half 2012 to second half 2019 . ",
+      "In second half 2015 , the amount was read by an average 661.0 millions readers per issue ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jul '12",
+         "Amount of U.S. dollars pledged in millions": "276.0"
+      },
+      {
+         "Month": "Jun '13",
+         "Amount of U.S. dollars pledged in millions": "661.0"
+      },
+      {
+         "Month": "Aug '13",
+         "Amount of U.S. dollars pledged in millions": "763.0"
+      },
+      {
+         "Month": "Feb '14",
+         "Amount of U.S. dollars pledged in millions": "982.0"
+      },
+      {
+         "Month": "Mar '14",
+         "Amount of U.S. dollars pledged in millions": "1000.0"
+      },
+      {
+         "Month": "Jul '14",
+         "Amount of U.S. dollars pledged in millions": "1207.06"
+      },
+      {
+         "Month": "Oct '14",
+         "Amount of U.S. dollars pledged in millions": "1351.55"
+      },
+      {
+         "Month": "Jan '15",
+         "Amount of U.S. dollars pledged in millions": "1470.96"
+      },
+      {
+         "Month": "Apr '15",
+         "Amount of U.S. dollars pledged in millions": "1648.98"
+      },
+      {
+         "Month": "Jul '15",
+         "Amount of U.S. dollars pledged in millions": "1843.97"
+      },
+      {
+         "Month": "Oct '15",
+         "Amount of U.S. dollars pledged in millions": "2002.8"
+      },
+      {
+         "Month": "Jan '16",
+         "Amount of U.S. dollars pledged in millions": "2165.24"
+      },
+      {
+         "Month": "Apr '16",
+         "Amount of U.S. dollars pledged in millions": "2327.0"
+      },
+      {
+         "Month": "Aug '16",
+         "Amount of U.S. dollars pledged in millions": "2526.7"
+      },
+      {
+         "Month": "Oct '16",
+         "Amount of U.S. dollars pledged in millions": "2685.6"
+      },
+      {
+         "Month": "Jan '17",
+         "Amount of U.S. dollars pledged in millions": "2835.95"
+      },
+      {
+         "Month": "Apr '17",
+         "Amount of U.S. dollars pledged in millions": "3006.07"
+      },
+      {
+         "Month": "Aug '17",
+         "Amount of U.S. dollars pledged in millions": "3209.24"
+      },
+      {
+         "Month": "Oct '17",
+         "Amount of U.S. dollars pledged in millions": "3314.85"
+      },
+      {
+         "Month": "Jan '18",
+         "Amount of U.S. dollars pledged in millions": "3458.04"
+      },
+      {
+         "Month": "Apr '18",
+         "Amount of U.S. dollars pledged in millions": "3607.43"
+      },
+      {
+         "Month": "Aug' 18",
+         "Amount of U.S. dollars pledged in millions": "3827.68"
+      },
+      {
+         "Month": "Oct '18",
+         "Amount of U.S. dollars pledged in millions": "3923.18"
+      },
+      {
+         "Month": "Jan '19",
+         "Amount of U.S. dollars pledged in millions": "4065.01"
+      },
+      {
+         "Month": "Apr '19",
+         "Amount of U.S. dollars pledged in millions": "4203.44"
+      },
+      {
+         "Month": "Jul '19",
+         "Amount of U.S. dollars pledged in millions": "4389.89"
+      },
+      {
+         "Month": "Oct '19",
+         "Amount of U.S. dollars pledged in millions": "4559.21"
+      }
+   ],
+   "gold": "This statistic shows the cumulative amount of dollars pledged to project funding on Kickstarter from July 2012 to October 2019 . As of the last reported period , more than 4.56 billion U.S. dollars had been pledged to projects on the crowdfunding platform . The early 2000s saw the launch of one of the first internet crowdfunding platforms in the United States called ArtistShare .\n"
+}

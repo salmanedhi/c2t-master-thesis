@@ -1,0 +1,34 @@
+{
+   "title": "Share of U.S. adults who use social media 2019 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows Share U.S.",
+      "We can see that Men accounts for a high percentage of this at 78 percent whilst Women follows at 78 percent and Women of exercise at 65 percent ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "1",
+         "16": "1",
+         "19": "1",
+         "22": "1",
+         "26": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Men",
+         "Share of U.S. adults": "65"
+      },
+      {
+         "Gender": "Women",
+         "Share of U.S. adults": "78"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using social networks as of February 2019 , sorted by gender . During that period of time , 78 percent of adult women and 65 percent of adult men used social networking sites .\n"
+}

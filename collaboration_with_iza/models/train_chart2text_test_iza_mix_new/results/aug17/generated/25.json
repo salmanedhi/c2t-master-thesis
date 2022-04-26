@@ -1,0 +1,44 @@
+{
+   "title": "Closing stock prices for Akef Inc. on Wednesday",
+   "xAxis": "Day of the Week",
+   "yAxis": "Closing Stock Price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Closing of Stock for to Day Week in the Akef in , by type . ",
+      "There were total 21.9 Stock reported for to Thu in . ",
+      "In total , there were 355 Stock for to Day Week in the Akef that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "3",
+         "8": "3"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Day of the Week": "Mon",
+         "Closing Stock Price": "51.4"
+      },
+      {
+         "Day of the Week": "Tue",
+         "Closing Stock Price": "62.0"
+      },
+      {
+         "Day of the Week": "Wed",
+         "Closing Stock Price": "74.38"
+      },
+      {
+         "Day of the Week": "Thu",
+         "Closing Stock Price": "21.9"
+      },
+      {
+         "Day of the Week": "Fri",
+         "Closing Stock Price": "9.42"
+      }
+   ],
+   "gold": "The chart shows the closing stock prices for AKEF inc on different days of the week . Monday saw a stock price of \u00a3 51 . Tuesday and Wednesday saw a rise to \u00a3 74 .\n"
+}

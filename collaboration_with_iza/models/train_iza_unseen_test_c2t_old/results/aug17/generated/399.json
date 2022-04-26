@@ -1,0 +1,61 @@
+{
+   "title": "Forecast of office rent growth in the U.S. 2015 to 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Rent growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Forecast office rent in the growth competirion . ",
+      "\\\\n From the chart we see that the Q4_2015 Quarter made the Forecast growth by some margin , with only 0.8",
+      "Q3_2016 and Q4_2016 made a respectable 0.9 and 1 growth , with Q2_2015 and Q1_2016 not far behind , at 0.8 and 0.9 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "6"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "6",
+         "14": "3",
+         "20": "6",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 2016",
+         "Rent growth": "1"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Rent growth": "0.8"
+      }
+   ],
+   "gold": "This statistic presents a forecast of office rent growth in the United States from second quarter of 2015 to fourth quarter of 2016 . It was expected that office rent would grow by one percent in the fourth quarter of 2016 in the United States . Coworking worldwide \u2013 additional information Coworking is an alternative to the traditional office space , wherein independent workers , such as freelancers and remote workers , share a working environment .\n"
+}

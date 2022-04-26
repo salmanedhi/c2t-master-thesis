@@ -1,0 +1,44 @@
+{
+   "title": "Follower count distribution on Twitter 2014",
+   "xAxis": "Number of followers",
+   "yAxis": "Percentage of Twitter users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Percentage Twitter of Number followers in the Twitter ( ) during the period from to 2014 , by followers . ",
+      "101-200 cost an Percentage 2.75 British pounds in the Twitter , while 301-400 cost an Percentage 0.57 British pounds ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "4": "1",
+         "12": "3",
+         "16": "3"
+      }
+   ],
+   "data": [
+      {
+         "Number of followers": "1-100",
+         "Percentage of Twitter users": "93.68"
+      },
+      {
+         "Number of followers": "101-200",
+         "Percentage of Twitter users": "2.75"
+      },
+      {
+         "Number of followers": "201-300",
+         "Percentage of Twitter users": "1.04"
+      },
+      {
+         "Number of followers": "301-400",
+         "Percentage of Twitter users": "0.57"
+      },
+      {
+         "Number of followers": "401-500",
+         "Percentage of Twitter users": "0.36"
+      }
+   ],
+   "gold": "This statistic gives information on the follower count distribution on Twitter . As of April 2014 , 93.68 percent of Twitter users had between 1 and 100 followers on the microblogging site .\n"
+}

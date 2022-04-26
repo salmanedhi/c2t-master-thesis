@@ -1,0 +1,52 @@
+{
+   "title": "U.S. most often forgotten items on vaction 2012",
+   "xAxis": "Cell Phone Accessory",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the percentage of Cell_phone_charger forgotten in the U.S. who have a Cell_phone_charger as of 2012 . ",
+      "According to the findings , 24 percentage of respondents reported that Cell_phone_charger of their Cell_phone_charger were , while 15 percentage of respondents stated the opposite saying Toothbrush of their Cell_phone_charger were at Cell_phone_charger ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "14": "0"
+      },
+      {
+         "5": "0",
+         "11": "0",
+         "14": "0",
+         "16": "0",
+         "19": "3",
+         "27": "3",
+         "30": "0",
+         "32": "0",
+         "34": "0"
+      }
+   ],
+   "data": [
+      {
+         "Cell Phone Accessory": "Cell phone charger",
+         "Percentage of respondents": "24"
+      },
+      {
+         "Cell Phone Accessory": "Sunscreen",
+         "Percentage of respondents": "20"
+      },
+      {
+         "Cell Phone Accessory": "Razor",
+         "Percentage of respondents": "18"
+      },
+      {
+         "Cell Phone Accessory": "Toothbrush",
+         "Percentage of respondents": "15"
+      },
+      {
+         "Cell Phone Accessory": "Sunglasses",
+         "Percentage of respondents": "14"
+      }
+   ],
+   "gold": "This survey depicts the most common items forgotten on vacation by U.S. consumers . Some 24 percent of respondents stated they are most likely to have forgotten to bring a charger for their cell phone .\n"
+}

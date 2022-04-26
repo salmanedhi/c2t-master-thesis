@@ -1,0 +1,44 @@
+{
+   "title": "United Kingdom tobacco imports : Leading 5 countries ranked by value 2019",
+   "xAxis": "Country",
+   "yAxis": "Import value in 1,000 GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the 5 five importing ranked of imports into the United Kingdom ( ) in 2019 , ranked value Import . ",
+      "Poland ranked highest , with imports Leading valuing approximately 697 million British pounds , followed value Germany accounting for 680 million British pounds worth of United Kingdom Leading . ",
+      "Leading of imports to the United Kingdom predominantly come from the European Union , with the majority of consumers drinking imports on a weekly basis ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "16": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Poland",
+         "Import value in 1,000 GBP": "203.88"
+      },
+      {
+         "Country": "Germany",
+         "Import value in 1,000 GBP": "107.07"
+      },
+      {
+         "Country": "Netherlands",
+         "Import value in 1,000 GBP": "94.13"
+      },
+      {
+         "Country": "Romania",
+         "Import value in 1,000 GBP": "21.27"
+      },
+      {
+         "Country": "Belgium",
+         "Import value in 1,000 GBP": "18.06"
+      }
+   ],
+   "gold": "The biggest country of origin for tobacco imported into the United Kingdom was Poland . In 2019 , the country supplied tobacco worth over two hundred million British pounds to the UK . Germany and the Netherlands rank next , with imports from these countries amounting to 107 and 94 million pounds respectively .\n"
+}

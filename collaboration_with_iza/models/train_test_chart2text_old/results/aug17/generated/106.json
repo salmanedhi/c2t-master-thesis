@@ -1,0 +1,38 @@
+{
+   "title": "Total number of households in the Netherlands 2019 , by type",
+   "xAxis": "Type Of Household",
+   "yAxis": "Number of households",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of Type in Netherlands 2019 by type ( households ) in 2019 , type . ",
+      "In that year , Total_private_households had an Number of 7924691 million , the highest among the referenced Netherlands 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Household": "Total private households",
+         "Number of households": "7924691"
+      },
+      {
+         "Type Of Household": "One-person households",
+         "Number of households": "3037622"
+      },
+      {
+         "Type Of Household": "Multi-person households with children",
+         "Number of households": "2604772"
+      },
+      {
+         "Type Of Household": "Multi-person households without children",
+         "Number of households": "2282297"
+      }
+   ],
+   "gold": "This statistic shows the total number of households in the Netherlands in 2019 , by type . The majority of the households ( approximately three million ) are composed of single men and women . Roughly 2.3 million households are formed by couples without children , whereas approximately 2.6 million households are multi-person households with one or more children .\n"
+}

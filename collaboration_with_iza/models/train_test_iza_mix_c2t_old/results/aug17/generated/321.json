@@ -1,0 +1,66 @@
+{
+   "title": "Largest donors of humanitarian aid worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Aid (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The worldwide is a major producer of soybeans worldwide , with United_States importing the largest amount of Largest grown soybeans of any Country as of 2019 . ",
+      "In that year , United_States imported nearly 6496.3 million U.S. of soybeans from the worldwide . ",
+      "Soy foods Soybeans are naturally high in protein and hence a popular ingredient in vegetarian and vegan cuisine ."
+   ],
+   "trends": [
+      {
+         "11": "0"
+      },
+      {
+         "4": "0",
+         "7": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Aid (in million U.S. dollars)": "6496.3"
+      },
+      {
+         "Country": "Germany",
+         "Aid (in million U.S. dollars)": "1483.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Aid (in million U.S. dollars)": "1439.3"
+      },
+      {
+         "Country": "European commission",
+         "Aid (in million U.S. dollars)": "1168.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Aid (in million U.S. dollars)": "990.8"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Aid (in million U.S. dollars)": "425.0"
+      },
+      {
+         "Country": "Canada",
+         "Aid (in million U.S. dollars)": "406.2"
+      },
+      {
+         "Country": "Central Emergency Response Fund",
+         "Aid (in million U.S. dollars)": "398.5"
+      },
+      {
+         "Country": "Sweden",
+         "Aid (in million U.S. dollars)": "351.2"
+      },
+      {
+         "Country": "EU Commission - EU facility for refugees in Turkey",
+         "Aid (in million U.S. dollars)": "349.4"
+      }
+   ],
+   "gold": "This statistic shows the top donors of humanitarian aid worldwide in 2019 . In this year , the United States government donated nearly 6.5 billion U.S. dollars in humanitarian aid worldwide .\n"
+}

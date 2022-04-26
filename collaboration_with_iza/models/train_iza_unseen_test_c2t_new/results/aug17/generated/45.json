@@ -1,0 +1,64 @@
+{
+   "title": "Preferred social login ID worldwide 2016",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Preferred social Platform in the ID worldwide was Platform Twitter , who made 53.1 logins . ",
+      "The most social Platform was Yahoo , with just 0.11 logins . ",
+      "In second place was Platform GooglePlus with 44.8 logins ; third place went to Platform Facebook with 53.1 logins ; fourth place went to Platform Live with 0.11 logins and fifth place went to Platform LinkedIn , who was 0.56 logins ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": "53.1"
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": "44.8"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": "1.01"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": "0.56"
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": "0.29"
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": "0.15"
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": "0.11"
+      }
+   ],
+   "gold": "This statistic gives information on the preferred social login ID used by internet users worldwide . During the second quarter of 2016 , data analysis revealed that 53.1 percent of social logins were through a Facebook account . Approximately one percent of internet users used their Twitter account to login to a website .\n"
+}

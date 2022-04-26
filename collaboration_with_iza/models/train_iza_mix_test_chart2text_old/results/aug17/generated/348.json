@@ -1,0 +1,81 @@
+{
+   "title": "Canada : real Gross Domestic Product ( GDP ) in 2018 , by province",
+   "xAxis": "Province",
+   "yAxis": "Real GDP in billion chained (2007) Canadian dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Real of GDP conducted by Gross in a Domestic Product . ",
+      "\\\\n From the chart we see that the Alberta Province was the Canada real Province in the Product with 728.36 GDP . ",
+      "The next Province to make the most GDP was the British_Columbia Province with 246.51 GDP closely followed by Yukon with 2.63 GDP ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "12",
+         "20": "12"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Ontario",
+         "Real GDP in billion chained (2007) Canadian dollars": "728.36"
+      },
+      {
+         "Province": "Quebec",
+         "Real GDP in billion chained (2007) Canadian dollars": "365.61"
+      },
+      {
+         "Province": "Alberta",
+         "Real GDP in billion chained (2007) Canadian dollars": "335.1"
+      },
+      {
+         "Province": "British Columbia",
+         "Real GDP in billion chained (2007) Canadian dollars": "246.51"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Real GDP in billion chained (2007) Canadian dollars": "82.5"
+      },
+      {
+         "Province": "Manitoba",
+         "Real GDP in billion chained (2007) Canadian dollars": "62.73"
+      },
+      {
+         "Province": "Nova Scotia",
+         "Real GDP in billion chained (2007) Canadian dollars": "36.52"
+      },
+      {
+         "Province": "Newfoundland and Labrador",
+         "Real GDP in billion chained (2007) Canadian dollars": "30.76"
+      },
+      {
+         "Province": "New Brunswick",
+         "Real GDP in billion chained (2007) Canadian dollars": "30.3"
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Real GDP in billion chained (2007) Canadian dollars": "5.7"
+      },
+      {
+         "Province": "Northwest Territories",
+         "Real GDP in billion chained (2007) Canadian dollars": "4.95"
+      },
+      {
+         "Province": "Nunavut",
+         "Real GDP in billion chained (2007) Canadian dollars": "2.96"
+      },
+      {
+         "Province": "Yukon",
+         "Real GDP in billion chained (2007) Canadian dollars": "2.63"
+      }
+   ],
+   "gold": "This graph shows the real Gross Domestic Product ( GDP ) of Canada in 2018 , by province . In 2018 , Ontario added about 728.4 billion chained ( 2012 ) Canadian dollars of value to the real GDP of Canada .\n"
+}

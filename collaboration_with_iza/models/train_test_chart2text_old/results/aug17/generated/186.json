@@ -1,0 +1,231 @@
+{
+   "title": "U.S. - job growth 2018 , by state",
+   "xAxis": "State",
+   "yAxis": "Growth rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the 2018 Growth of rate in the growth in 2018 , with a breakdown state . ",
+      "In 2018 , there were almost 3.4 million driver 's license holders in Utah . ",
+      "U.S. rate rate state The driver 's license became mandatory in the growth in the early 20th century , with Pennsylvania and West_Virginia being the first states to require an official license for operating certain types of motor vehicles , including motorcycles , passenger vehicles , trucks trailers or buses ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "13": "1"
+      },
+      {
+         "21": "19",
+         "23": "15"
+      }
+   ],
+   "data": [
+      {
+         "State": "Nevada",
+         "Growth rate": "3.4"
+      },
+      {
+         "State": "Utah",
+         "Growth rate": "3.2"
+      },
+      {
+         "State": "Idaho",
+         "Growth rate": "3.1"
+      },
+      {
+         "State": "Arizona",
+         "Growth rate": "2.8"
+      },
+      {
+         "State": "Washington",
+         "Growth rate": "2.6"
+      },
+      {
+         "State": "Colorado",
+         "Growth rate": "2.4"
+      },
+      {
+         "State": "Florida",
+         "Growth rate": "2.4"
+      },
+      {
+         "State": "South Carolina",
+         "Growth rate": "2.4"
+      },
+      {
+         "State": "Texas",
+         "Growth rate": "2.3"
+      },
+      {
+         "State": "California",
+         "Growth rate": "2"
+      },
+      {
+         "State": "Georgia",
+         "Growth rate": "1.9"
+      },
+      {
+         "State": "Oregon",
+         "Growth rate": "1.8"
+      },
+      {
+         "State": "North Carolina",
+         "Growth rate": "1.7"
+      },
+      {
+         "State": "Tennessee",
+         "Growth rate": "1.6"
+      },
+      {
+         "State": "Oklahoma",
+         "Growth rate": "1.5"
+      },
+      {
+         "State": "West Virginia",
+         "Growth rate": "1.5"
+      },
+      {
+         "State": "New Mexico",
+         "Growth rate": "1.3"
+      },
+      {
+         "State": "Alabama",
+         "Growth rate": "1.2"
+      },
+      {
+         "State": "New York",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "Pennsylvania",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "Michigan",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "Virginia",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "Arkansas",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "Montana",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "South Dakota",
+         "Growth rate": "1.1"
+      },
+      {
+         "State": "District of Columbia",
+         "Growth rate": "1"
+      },
+      {
+         "State": "Indiana",
+         "Growth rate": "1"
+      },
+      {
+         "State": "Delaware",
+         "Growth rate": "1"
+      },
+      {
+         "State": "New Jersey",
+         "Growth rate": "0.9"
+      },
+      {
+         "State": "Illinois",
+         "Growth rate": "0.9"
+      },
+      {
+         "State": "Kansas",
+         "Growth rate": "0.9"
+      },
+      {
+         "State": "Massachussets",
+         "Growth rate": "0.9"
+      },
+      {
+         "State": "New Hampshire",
+         "Growth rate": "0.8"
+      },
+      {
+         "State": "Wisconsin",
+         "Growth rate": "0.8"
+      },
+      {
+         "State": "Minnesota",
+         "Growth rate": "0.8"
+      },
+      {
+         "State": "Maine",
+         "Growth rate": "0.7"
+      },
+      {
+         "State": "Iowa",
+         "Growth rate": "0.7"
+      },
+      {
+         "State": "Maryland",
+         "Growth rate": "0.7"
+      },
+      {
+         "State": "Wyoming",
+         "Growth rate": "0.7"
+      },
+      {
+         "State": "North Dakota",
+         "Growth rate": "0.6"
+      },
+      {
+         "State": "Ohio",
+         "Growth rate": "0.6"
+      },
+      {
+         "State": "Louisiana",
+         "Growth rate": "0.5"
+      },
+      {
+         "State": "Hawaii",
+         "Growth rate": "0.5"
+      },
+      {
+         "State": "Kentucky",
+         "Growth rate": "0.5"
+      },
+      {
+         "State": "Missouri",
+         "Growth rate": "0.5"
+      },
+      {
+         "State": "Rhode Island",
+         "Growth rate": "0.5"
+      },
+      {
+         "State": "Nebraska",
+         "Growth rate": "0.4"
+      },
+      {
+         "State": "Mississippi",
+         "Growth rate": "0.3"
+      },
+      {
+         "State": "Vermont",
+         "Growth rate": "0.2"
+      },
+      {
+         "State": "Connecticut",
+         "Growth rate": "0.1"
+      },
+      {
+         "State": "Alaska",
+         "Growth rate": "-0.6"
+      }
+   ],
+   "gold": "This statistic shows the growth in jobs in the United States from 2017 to 2018 , by state . In 2018 , the state of Nevada was ranked first with the job growth of 3.4 percent .\n"
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Average prices of Gleevec - selected countries 2013",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average prices Country selected the Price of U.S. that occured . ",
+      "The Country with the Average Price of U.S. is Switzerland with only 989 followed by United_States with 6214 , New_Zealand with 989 , Netherlands with 3321 , Spain with 3348 and the most popular being England with 6214 U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "6",
+         "15": "0",
+         "17": "0",
+         "19": "6",
+         "21": "6",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Price in U.S. dollars": "6214"
+      },
+      {
+         "Country": "Switzerland",
+         "Price in U.S. dollars": "3633"
+      },
+      {
+         "Country": "Spain",
+         "Price in U.S. dollars": "3348"
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars": "3321"
+      },
+      {
+         "Country": "England",
+         "Price in U.S. dollars": "2697"
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars": "1141"
+      },
+      {
+         "Country": "New Zealand",
+         "Price in U.S. dollars": "989"
+      }
+   ],
+   "gold": "This statistic displays the average prices of Gleevec in 2013 in selected countries . In that year , the price of Gleevec averaged 3,321 U.S. dollars in the Netherlands . Gleevec is a prescription drug used to treat some types of cancers , including some types of leukemia .\n"
+}

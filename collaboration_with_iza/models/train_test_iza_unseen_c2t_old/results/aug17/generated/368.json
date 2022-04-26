@@ -1,0 +1,48 @@
+{
+   "title": "Global population by continent 2018",
+   "xAxis": "Country",
+   "yAxis": "Population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Population of by continent in 2018 , . ",
+      "In that year , there were 1284 population by in Africa . ",
+      "population is a way of collecting money from various individuals interested in a given project ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Population in millions": "4536"
+      },
+      {
+         "Country": "Africa",
+         "Population in millions": "1284"
+      },
+      {
+         "Country": "Europe",
+         "Population in millions": "746"
+      },
+      {
+         "Country": "Latin America Caribbean",
+         "Population in millions": "649"
+      },
+      {
+         "Country": "North America",
+         "Population in millions": "365"
+      },
+      {
+         "Country": "Oceania",
+         "Population in millions": "41"
+      }
+   ],
+   "gold": "The statistic shows the global population by continent as of mid-2018 . In mid-2018 , approximately 4.54 billion people lived in Asia . World population and the most populous countries There are approximately 7.3 billion people living in the world today , a figure that shows a dramatic increase since the beginning of the Common Era .\n"
+}

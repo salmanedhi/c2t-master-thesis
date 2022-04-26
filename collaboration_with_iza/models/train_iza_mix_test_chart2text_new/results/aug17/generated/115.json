@@ -1,0 +1,88 @@
+{
+   "title": "Leading social media traffic referral sources H2 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Leading social Platform in the traffic referral was Platform Twitter , who made 18.16 traffic . ",
+      "The most social Platform was YouTube , with just 0 traffic . ",
+      "In second place was Platform Pinterest with 7.53 traffic ; third place went to Platform Facebook with 18.16 traffic ; fourth place went to Platform Tumblr with 0 traffic and fifth place went to Platform Instagram , who made 0.73 traffic ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "12"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "12",
+         "27": "12",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of traffic": "18.16"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of traffic": "7.53"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of traffic": "0.74"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of traffic": "0.73"
+      },
+      {
+         "Platform": "YouTube",
+         "Share of traffic": "0.17"
+      },
+      {
+         "Platform": "Flipboard",
+         "Share of traffic": "0.13"
+      },
+      {
+         "Platform": "StumbleUpon",
+         "Share of traffic": "0.1"
+      },
+      {
+         "Platform": "Buzzfeed",
+         "Share of traffic": "0.07"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of traffic": "0.07"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of traffic": "0.05"
+      },
+      {
+         "Platform": "Yummly",
+         "Share of traffic": "0.04"
+      },
+      {
+         "Platform": "Google+",
+         "Share of traffic": "0.03"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of traffic": "0"
+      }
+   ],
+   "gold": "This statistic gives information on the leading sources of internet referral traffic , based on Shareaholic 's global publisher network . In the second half of 2017 , it was found that social network Pinterest generated 7.53 percent of global referral traffic . Facebook was ranked first with a 18.16 percent traffic share .\n"
+}

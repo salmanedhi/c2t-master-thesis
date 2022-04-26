@@ -1,0 +1,77 @@
+{
+   "title": "Internet activities of U.S. users 2017",
+   "xAxis": "Activity",
+   "yAxis": "Share of internet users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of internet made by Activity in a users 2017 . ",
+      "\\\\n From the chart we see that the Using_online_social_networks Activity was the Internet activities Activity in the 2017 with 90.8 internet . ",
+      "The next Activity to make the most internet was the Watching_video_online Activity with 69.5 internet closely followed by the Interacting_with_household_equipment_via_internet Activity with 11 internet ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "11",
+         "22": "11"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Using email",
+         "Share of internet users": "90.8"
+      },
+      {
+         "Activity": "Using text messaging or instant messaging",
+         "Share of internet users": "90.2"
+      },
+      {
+         "Activity": "Using online social networks",
+         "Share of internet users": "74.4"
+      },
+      {
+         "Activity": "Watching video online",
+         "Share of internet users": "69.5"
+      },
+      {
+         "Activity": "Shopping making reservations or using other consumer services online",
+         "Share of internet users": "68.5"
+      },
+      {
+         "Activity": "Using online financial services (banking investing paying bills etc.)",
+         "Share of internet users": "65.9"
+      },
+      {
+         "Activity": "Streaming or downloading music radio podcasts etc.",
+         "Share of internet users": "52.6"
+      },
+      {
+         "Activity": "Participating in online video calls or conferences",
+         "Share of internet users": "46.6"
+      },
+      {
+         "Activity": "Working remotely via internet",
+         "Share of internet users": "22.6"
+      },
+      {
+         "Activity": "Searching for a job online",
+         "Share of internet users": "20.8"
+      },
+      {
+         "Activity": "Taking classes or participating in job training online",
+         "Share of internet users": "19.1"
+      },
+      {
+         "Activity": "Interacting with household equipment via internet",
+         "Share of internet users": "11"
+      }
+   ],
+   "gold": "This ranking gives information on the most popular online activities of adult internet users in the United States as of November 2017 . During the survey period , it was found that 74.4 percent of the online adult population accessed social networks .\n"
+}

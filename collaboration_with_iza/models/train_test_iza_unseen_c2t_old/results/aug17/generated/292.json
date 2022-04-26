@@ -1,0 +1,130 @@
+{
+   "title": "Personal care products most frequently used by college students in the U.S. 2011",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of early 2011 , Toothpaste and Deodorant_or_antiperspirant were the U.S. commonly used most frequently used software by around the world , with nearly 97.8 % of respondents stating that they used Toothpaste and 81.1 % using Deodorant_or_antiperspirant . ",
+      "Facial_soap_or_wash . ",
+      "Body_soap_or_wash , and Lip_balm rounded out the top 22.9 U.S. care used most frequently around the world ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "24": "0",
+         "32": "0",
+         "34": "1",
+         "37": "1"
+      },
+      {
+         "0": "2"
+      },
+      {
+         "0": "3",
+         "3": "4",
+         "8": "18"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Toothpaste",
+         "Share of respondents": "97.8"
+      },
+      {
+         "Response": "Deodorant or antiperspirant",
+         "Share of respondents": "81.1"
+      },
+      {
+         "Response": "Facial soap or wash",
+         "Share of respondents": "69.5"
+      },
+      {
+         "Response": "Body soap or wash",
+         "Share of respondents": "69.1"
+      },
+      {
+         "Response": "Lip balm",
+         "Share of respondents": "65.9"
+      },
+      {
+         "Response": "Facial moisturizer",
+         "Share of respondents": "59.4"
+      },
+      {
+         "Response": "Hand or body moisturizer",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "Shampoo",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Mascara",
+         "Share of respondents": "38.9"
+      },
+      {
+         "Response": "Hair conditioner",
+         "Share of respondents": "36.5"
+      },
+      {
+         "Response": "Mouthwash",
+         "Share of respondents": "34.3"
+      },
+      {
+         "Response": "Perfume cologne body spray",
+         "Share of respondents": "33.9"
+      },
+      {
+         "Response": "Foundation",
+         "Share of respondents": "30.6"
+      },
+      {
+         "Response": "Eyeliner",
+         "Share of respondents": "28.3"
+      },
+      {
+         "Response": "Lipstick or lip gloss",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "Hair styling products",
+         "Share of respondents": "27.8"
+      },
+      {
+         "Response": "Acne products",
+         "Share of respondents": "26.7"
+      },
+      {
+         "Response": "Blush",
+         "Share of respondents": "25.5"
+      },
+      {
+         "Response": "Other makeup",
+         "Share of respondents": "22.9"
+      },
+      {
+         "Response": "Eye shadow",
+         "Share of respondents": "22.5"
+      },
+      {
+         "Response": "Facial toner",
+         "Share of respondents": "20.8"
+      },
+      {
+         "Response": "Facial mask or scrub",
+         "Share of respondents": "10.5"
+      },
+      {
+         "Response": "Sunscreen or body",
+         "Share of respondents": "8.3"
+      },
+      {
+         "Response": "Shaving cream or gel",
+         "Share of respondents": "4.6"
+      }
+   ],
+   "gold": "This statistic provides information regarding the personal care products most frequently used by college students in the United States in 2011 . The survey revealed that 97.8 percent of the respondents claimed that they used toothpaste on a daily basis .\n"
+}

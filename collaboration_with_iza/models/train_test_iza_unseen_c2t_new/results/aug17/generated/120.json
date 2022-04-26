@@ -1,0 +1,70 @@
+{
+   "title": "Largest cities in the Netherlands 2011",
+   "xAxis": "Urban Settlement",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2011 , in terms of population , the Largest Eindhoven or Settlement in Netherlands were Amsterdam , Rotterdam 's-Gravenhage , Utrecht and Eindhoven . ",
+      "The Flemish Eindhoven of Amsterdam and Rotterdam were the most populated in Netherlands 2011 . ",
+      "From a regional perspective , out of the 7 million people living in Flanders , around 800 thousand people lived in one of these two Eindhoven ."
+   ],
+   "trends": [
+      {
+         "10": "4",
+         "16": "0",
+         "18": "1",
+         "20": "2",
+         "22": "3",
+         "25": "4"
+      },
+      {
+         "2": "4",
+         "4": "0",
+         "6": "1"
+      },
+      {
+         "25": "4"
+      }
+   ],
+   "data": [
+      {
+         "Urban Settlement": "Amsterdam",
+         "Number of residents": "1.03"
+      },
+      {
+         "Urban Settlement": "Rotterdam",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "'s-Gravenhage",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "Utrecht",
+         "Number of residents": "0.34"
+      },
+      {
+         "Urban Settlement": "Eindhoven",
+         "Number of residents": "0.29"
+      },
+      {
+         "Urban Settlement": "Leiden",
+         "Number of residents": "0.26"
+      },
+      {
+         "Urban Settlement": "Dordrecht",
+         "Number of residents": "0.22"
+      },
+      {
+         "Urban Settlement": "Tilburg",
+         "Number of residents": "0.2"
+      },
+      {
+         "Urban Settlement": "Groningen",
+         "Number of residents": "0.2"
+      }
+   ],
+   "gold": "This statistic shows the largest urban settlements in the Netherlands in 2011 . In 2011 , around 1 million people lived in Amsterdam , making it the largest city in the Netherlands . Population of the Netherlands With the global financial crisis in 2008 as well as the Euro zone crisis , many countries in Europe suffered a great economic impact .\n"
+}

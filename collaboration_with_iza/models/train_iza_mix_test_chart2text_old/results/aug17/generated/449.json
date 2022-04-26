@@ -1,0 +1,69 @@
+{
+   "title": "Most popular brand pages on Facebook in the United Kingdom ( UK ) March 2019",
+   "xAxis": "Month",
+   "yAxis": "Local fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Local of fans conducted by brand in a pages Facebook . ",
+      "\\\\n From the chart we see that the Skittles Month was the Most popular Month in the Facebook with 5.78 fans . ",
+      "The next Month to make the most fans was the Samsung_UK Month with 2.23 fans closely followed by Asda with 1.79 fans ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Amazon UK",
+         "Local fans in millions": "5.78"
+      },
+      {
+         "Month": "Coca-Cola",
+         "Local fans in millions": "2.52"
+      },
+      {
+         "Month": "Skittles",
+         "Local fans in millions": "2.42"
+      },
+      {
+         "Month": "Samsung UK",
+         "Local fans in millions": "2.23"
+      },
+      {
+         "Month": "Cadbury Creme Egg",
+         "Local fans in millions": "2.06"
+      },
+      {
+         "Month": "Marks and Spencer",
+         "Local fans in millions": "1.94"
+      },
+      {
+         "Month": "iTunes UK",
+         "Local fans in millions": "1.91"
+      },
+      {
+         "Month": "Red Bull",
+         "Local fans in millions": "1.86"
+      },
+      {
+         "Month": "Tesco",
+         "Local fans in millions": "1.84"
+      },
+      {
+         "Month": "Asda",
+         "Local fans in millions": "1.79"
+      }
+   ],
+   "gold": "Amazon UK was the most popular brand page on Facebook in the United Kingdom ( UK ) as of March 2019 , attracting 5.78 million local fans . This was more than double that of Coca-Cola , the company with the second highest number of fans . Amazon UK : more than just e-commerce Amazon has enjoyed significant growth in the UK market in recent years .\n"
+}

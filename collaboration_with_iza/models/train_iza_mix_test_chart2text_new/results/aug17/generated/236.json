@@ -1,0 +1,147 @@
+{
+   "title": "Current smokers in Europe 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Current smokers Country in Europe by Share . ",
+      "The Current Country with an average Share of 7 \u00b0 respondents is France , followed by Greece at 37 \u00b0 respondents , Sweden at 7 \u00b0 respondents , then Bulgaria at 36 \u00b0 respondents . ",
+      "Poland is the warmest Country shown with an average Share of 37 \u00b0 respondents , closely followed by Croatia at 35 \u00b0 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "27",
+         "12": "2",
+         "16": "0",
+         "18": "0",
+         "22": "27",
+         "24": "27",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "0",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Greece",
+         "Share of respondents": "37"
+      },
+      {
+         "Country": "Bulgaria",
+         "Share of respondents": "36"
+      },
+      {
+         "Country": "France",
+         "Share of respondents": "36"
+      },
+      {
+         "Country": "Croatia",
+         "Share of respondents": "35"
+      },
+      {
+         "Country": "Poland",
+         "Share of respondents": "30"
+      },
+      {
+         "Country": "Latvia",
+         "Share of respondents": "29"
+      },
+      {
+         "Country": "Czechia",
+         "Share of respondents": "29"
+      },
+      {
+         "Country": "Slovenia",
+         "Share of respondents": "28"
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": "28"
+      },
+      {
+         "Country": "Romania",
+         "Share of respondents": "28"
+      },
+      {
+         "Country": "Austria",
+         "Share of respondents": "28"
+      },
+      {
+         "Country": "Cyprus",
+         "Share of respondents": "28"
+      },
+      {
+         "Country": "Hungary",
+         "Share of respondents": "27"
+      },
+      {
+         "Country": "Portugal",
+         "Share of respondents": "26"
+      },
+      {
+         "Country": "Slovakia",
+         "Share of respondents": "26"
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": "25"
+      },
+      {
+         "Country": "Italy",
+         "Share of respondents": "24"
+      },
+      {
+         "Country": "Malta",
+         "Share of respondents": "24"
+      },
+      {
+         "Country": "Estonia",
+         "Share of respondents": "23"
+      },
+      {
+         "Country": "Lithuania",
+         "Share of respondents": "21"
+      },
+      {
+         "Country": "Luxemburg",
+         "Share of respondents": "21"
+      },
+      {
+         "Country": "Finland",
+         "Share of respondents": "20"
+      },
+      {
+         "Country": "Denmark",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "Netherlands",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "Ireland",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "Belgium",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of respondents": "17"
+      },
+      {
+         "Country": "Sweden",
+         "Share of respondents": "7"
+      }
+   ],
+   "gold": "This statistic displays the proportion of individuals who currently smoke cigarettes , cigars , cigarillos or a pipe in selected European countries in 2017 . In this period , Greece had the highest proportion of smokers in the EU with 37 percent . Cigarette prices differ across Europe : the most expensive country in which to purchase cigarettes is the United Kingdom ( UK ) .\n"
+}

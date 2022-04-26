@@ -1,0 +1,80 @@
+{
+   "title": "Most googled car hire keywords in the United Kingdom ( UK ) in January 2016",
+   "xAxis": "Keywords",
+   "yAxis": "Searches in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most googled Keywords in the hire keywords was rent_a_car , who made 933.1 thousands . ",
+      "The most googled Keywords was car_hire_uk , with just 9.9 thousands . ",
+      "In second place was Keywords car_rental with 40.5 thousands ; third place went to Keywords car_hire with 90.5 thousands ; fourth place went to Keywords Other_keywords with 933.1 thousands and fifth place went to Keywords rental_cars , who was 27.1 thousands ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "10"
+      },
+      {
+         "6": "4",
+         "10": "8"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Keywords": "car hire",
+         "Searches in thousands": "90.5"
+      },
+      {
+         "Keywords": "car rental",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Keywords": "rent a car",
+         "Searches in thousands": "33.1"
+      },
+      {
+         "Keywords": "rental cars",
+         "Searches in thousands": "27.1"
+      },
+      {
+         "Keywords": "car hire uk",
+         "Searches in thousands": "27.1"
+      },
+      {
+         "Keywords": "cheap car hire",
+         "Searches in thousands": "18.1"
+      },
+      {
+         "Keywords": "car hire usa",
+         "Searches in thousands": "12.1"
+      },
+      {
+         "Keywords": "car hire spain",
+         "Searches in thousands": "12.1"
+      },
+      {
+         "Keywords": "car hire orlando",
+         "Searches in thousands": "9.9"
+      },
+      {
+         "Keywords": "car hire comparison",
+         "Searches in thousands": "9.9"
+      },
+      {
+         "Keywords": "Other keywords",
+         "Searches in thousands": "933.1"
+      }
+   ],
+   "gold": "This statistic displays the most searched car hire and car rental related keywords on Google UK in January 2016 . Most popular was the term `` car hire `` , which was searched approximately 90.5 thousand times that month .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Global population by continent 2018",
+   "xAxis": "Country",
+   "yAxis": "Population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Population of millions that have population a variety Country . ",
+      "We can see that the Global population is North_America with 4536 millions , and the least population is Africa . ",
+      "\\n The data does n't tell us much about the thoroughness , length of time spent per millions , or the size of the millions party ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "10": "0",
+         "18": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Population in millions": "4536"
+      },
+      {
+         "Country": "Africa",
+         "Population in millions": "1284"
+      },
+      {
+         "Country": "Europe",
+         "Population in millions": "746"
+      },
+      {
+         "Country": "Latin America Caribbean",
+         "Population in millions": "649"
+      },
+      {
+         "Country": "North America",
+         "Population in millions": "365"
+      },
+      {
+         "Country": "Oceania",
+         "Population in millions": "41"
+      }
+   ],
+   "gold": "The statistic shows the global population by continent as of mid-2018 . In mid-2018 , approximately 4.54 billion people lived in Asia . World population and the most populous countries There are approximately 7.3 billion people living in the world today , a figure that shows a dramatic increase since the beginning of the Common Era .\n"
+}

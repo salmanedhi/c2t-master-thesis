@@ -1,0 +1,95 @@
+{
+   "title": "U.S. exports - top trading partners 2018",
+   "xAxis": "Country",
+   "yAxis": "Export value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the U.S. exports in U.S.",
+      "It shows China was the U.S. at just 30.2 degrees and United_Kingdom was the warmest at 298.7 degrees . ",
+      "After China , the next U.S. exports are Canada at 298.7 degrees , followed by Taiwan at 18 degrees , Mexico at 265.0 degrees and then Japan at 75.0 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "14",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "14",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Export value in billion U.S. dollars": "298.7"
+      },
+      {
+         "Country": "Mexico",
+         "Export value in billion U.S. dollars": "265.0"
+      },
+      {
+         "Country": "China",
+         "Export value in billion U.S. dollars": "120.3"
+      },
+      {
+         "Country": "Japan",
+         "Export value in billion U.S. dollars": "75.0"
+      },
+      {
+         "Country": "United Kingdom",
+         "Export value in billion U.S. dollars": "66.2"
+      },
+      {
+         "Country": "Germany",
+         "Export value in billion U.S. dollars": "57.7"
+      },
+      {
+         "Country": "Korea South",
+         "Export value in billion U.S. dollars": "56.3"
+      },
+      {
+         "Country": "Netherlands",
+         "Export value in billion U.S. dollars": "49.4"
+      },
+      {
+         "Country": "Brazil",
+         "Export value in billion U.S. dollars": "39.5"
+      },
+      {
+         "Country": "Hong Kong",
+         "Export value in billion U.S. dollars": "37.5"
+      },
+      {
+         "Country": "France",
+         "Export value in billion U.S. dollars": "36.3"
+      },
+      {
+         "Country": "Singapore",
+         "Export value in billion U.S. dollars": "33.1"
+      },
+      {
+         "Country": "India",
+         "Export value in billion U.S. dollars": "33.1"
+      },
+      {
+         "Country": "Belgium",
+         "Export value in billion U.S. dollars": "31.4"
+      },
+      {
+         "Country": "Taiwan",
+         "Export value in billion U.S. dollars": "30.2"
+      }
+   ],
+   "gold": "This graph shows the largest trading partners for the United States in 2018 , by value of exported trade goods . In 2018 , the United States exported trade goods worth about 39.5 billion U.S. dollars to Brazil .\n"
+}

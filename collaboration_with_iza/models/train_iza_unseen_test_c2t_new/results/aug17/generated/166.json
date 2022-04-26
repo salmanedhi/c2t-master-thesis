@@ -1,0 +1,54 @@
+{
+   "title": "Causes of deforestation in Canada in 2015",
+   "xAxis": "Cause",
+   "yAxis": "Share of deforestation causes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of deforestation causes at the Canada from the Cause Agriculture towards Hydroelectric_development . ",
+      "From the chart , we can see that in the Cause Agriculture , we saw 41 causes which was followed by a huge increase in Resource_extraction with 41 causes . ",
+      "We then saw a drop in Urban_expansion_and_recreation with around 12 causes with was followed by another drop in Forestry with 1 causes ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "4"
+      },
+      {
+         "11": "0",
+         "15": "0",
+         "25": "1",
+         "27": "0"
+      },
+      {
+         "6": "2",
+         "9": "2",
+         "18": "3",
+         "20": "4"
+      }
+   ],
+   "data": [
+      {
+         "Cause": "Agriculture",
+         "Share of deforestation causes": "41"
+      },
+      {
+         "Cause": "Resource extraction",
+         "Share of deforestation causes": "37"
+      },
+      {
+         "Cause": "Urban expansion and recreation",
+         "Share of deforestation causes": "12"
+      },
+      {
+         "Cause": "Forestry",
+         "Share of deforestation causes": "8"
+      },
+      {
+         "Cause": "Hydroelectric development",
+         "Share of deforestation causes": "1"
+      }
+   ],
+   "gold": "This statistic shows the distribution of causes of deforestation in Canada in 2015 . Forty-one percent of deforestation in Canada in 2015 was caused by agriculture . Deforestation Deforestation is the intentional destruction of forested land for permanent reuse for agricultural , urban , industrial , or other non-forest operations .\n"
+}

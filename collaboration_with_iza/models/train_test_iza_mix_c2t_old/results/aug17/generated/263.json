@@ -1,0 +1,56 @@
+{
+   "title": "Number of Overwatch players worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Overwatch is a free-to-play online collectible card game which reached a milestone 40 millions players 2018 in October_2016 May_2016 , thereby doubling the Number of players since August_2016 . ",
+      "The game originally bore the subtitle `` Overwatch of `` as it is based in the same universe as Blizzard 's extremely popular Overwatch series . ",
+      "Overwatch still going strong after 30 years Overwatch is seen as one of the jewels in the crown of Blizzard Entertainment ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "4",
+         "18": "6",
+         "27": "5"
+      },
+      {},
+      {
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "May 2018",
+         "Number of players in millions": "40"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "35"
+      },
+      {
+         "Month": "April 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "January 2017",
+         "Number of players in millions": "25"
+      },
+      {
+         "Month": "October 2016",
+         "Number of players in millions": "20"
+      },
+      {
+         "Month": "August 2016",
+         "Number of players in millions": "15"
+      },
+      {
+         "Month": "May 2016",
+         "Number of players in millions": "7"
+      }
+   ],
+   "gold": "How many people play Overwatch ? Overwatch , a team-based first-person shooter video game , launched in May 2016 and already a week later it was reported to have had seven million players . As of May 2018 , Overwatch had 40 million players worldwide . Overwatch 's eSports success While the number of gamers playing Overwatch has increased dramatically , so has the appeal of the game as an eSport .\n"
+}

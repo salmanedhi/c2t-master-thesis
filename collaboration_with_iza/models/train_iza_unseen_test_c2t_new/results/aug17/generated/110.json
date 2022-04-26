@@ -1,0 +1,76 @@
+{
+   "title": "Top U.S. hospital operators based on number of hospitals 2019",
+   "xAxis": "Operator (City, State)",
+   "yAxis": "Number of hospitals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Top U.S. Operator in the operators based was Operator CommonSpirit_Health_(Chicago_Ill.) , who made 185 hospitals . ",
+      "The most U.S. Operator was Trinity_Health_(Livonia_Mich.) , with just 50 hospitals . ",
+      "In second place was Operator Ascension_Health_(St._Louis) with 151 hospitals ; third place went to Operator Hospital_Corporation_of_America_(Nashville_Tenn.) with 185 hospitals ; fourth place went to Operator Atrium_Health_(Charlotte_N.C.) with 50 hospitals and fifth place went to Operator Community_Health_Systems_(Franklin_Tenn.) , who was 105 hospitals ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Operator (City, State)": "Hospital Corporation of America (Nashville Tenn.)",
+         "Number of hospitals": "185"
+      },
+      {
+         "Operator (City, State)": "Ascension Health (St. Louis)",
+         "Number of hospitals": "151"
+      },
+      {
+         "Operator (City, State)": "CommonSpirit Health (Chicago Ill.)",
+         "Number of hospitals": "142"
+      },
+      {
+         "Operator (City, State)": "Community Health Systems (Franklin Tenn.)",
+         "Number of hospitals": "105"
+      },
+      {
+         "Operator (City, State)": "Trinity Health (Livonia Mich.)",
+         "Number of hospitals": "92"
+      },
+      {
+         "Operator (City, State)": "LifePoint Hospitals (Brentwood Tenn.)",
+         "Number of hospitals": "86"
+      },
+      {
+         "Operator (City, State)": "Tenet Healthcare Corp. (Dallas Tex.)",
+         "Number of hospitals": "65"
+      },
+      {
+         "Operator (City, State)": "Vibra Healthcare (Mechanicsburg Pa.)",
+         "Number of hospitals": "65"
+      },
+      {
+         "Operator (City, State)": "Providence Health & Services (Renton Wash.)",
+         "Number of hospitals": "51"
+      },
+      {
+         "Operator (City, State)": "Atrium Health (Charlotte N.C.)",
+         "Number of hospitals": "50"
+      }
+   ],
+   "gold": "This statistic depicts a ranking of the top U.S. for-profit hospital operators based on number of hospitals as of July 2019 . At this point , the Hospital Corporation of America , based in Nashville , Tennessee , was ranked first in the United States , with a total of 185 hospitals . Hospitals in the United States Currently , there are approximately 6,210 hospitals in the United States .\n"
+}

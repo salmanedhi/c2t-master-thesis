@@ -1,0 +1,45 @@
+{
+   "title": "Lack of diversity in the Libyan parliament : percentage of minority representation",
+   "xAxis": "Years",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart looks at Lack in the Libyan by looking at the percentage of minority during four year periods . ",
+      "The overall trend is an increase in percentage minority from 1990 to 2019 . ",
+      "During the period 1990 - 1994 there was 0.4 percentage minority ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Years": "1990-1994",
+         "Percentage": "0.5"
+      },
+      {
+         "Years": "1995-1999",
+         "Percentage": "2.1"
+      },
+      {
+         "Years": "2000-2004",
+         "Percentage": "7.5"
+      },
+      {
+         "Years": "2005-2009",
+         "Percentage": "10.0"
+      },
+      {
+         "Years": "2010-2014",
+         "Percentage": "12.7"
+      },
+      {
+         "Years": "2015-2019",
+         "Percentage": "14.0"
+      }
+   ],
+   "gold": "This chart shows the percentage of minority representation in the Libyan parliament . We can see from the chart that between 1990 - 1994 the percentage of minority representation was approximately 0.5 % , it increased in years 1995 - 1999 to 2 % . We can then see it increased a large amount , in 2000 - 2004 the percentage was approximately 7.5 .\n"
+}

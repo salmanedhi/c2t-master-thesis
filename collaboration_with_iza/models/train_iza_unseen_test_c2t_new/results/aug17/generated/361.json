@@ -1,0 +1,241 @@
+{
+   "title": "Rate of pertussis among U.S. population by state 2018",
+   "xAxis": "State",
+   "yAxis": "New cases per 100,000 population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Rate pertussis State in terms of the New of cases with Florida having the Rate \u2013 46.5 cases down to Nevada the least pertussis of the group at 0.2 cases . ",
+      "In between , we have Mississippi 0.2 , Vermont 46.5 , West_Virginia 1.4 and Louisiana 1.4 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "51",
+         "24": "1",
+         "32": "0"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "51",
+         "9": "51",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "State": "Mississippi",
+         "New cases per 100,000 population": "0.2"
+      },
+      {
+         "State": "Nevada",
+         "New cases per 100,000 population": "1.2"
+      },
+      {
+         "State": "Louisiana",
+         "New cases per 100,000 population": "1.4"
+      },
+      {
+         "State": "West Virginia",
+         "New cases per 100,000 population": "1.4"
+      },
+      {
+         "State": "Florida",
+         "New cases per 100,000 population": "1.6"
+      },
+      {
+         "State": "District of Columbia",
+         "New cases per 100,000 population": "1.6"
+      },
+      {
+         "State": "South Dakota",
+         "New cases per 100,000 population": "1.6"
+      },
+      {
+         "State": "Delaware",
+         "New cases per 100,000 population": "1.6"
+      },
+      {
+         "State": "Georgia",
+         "New cases per 100,000 population": "1.8"
+      },
+      {
+         "State": "Montana",
+         "New cases per 100,000 population": "2.0"
+      },
+      {
+         "State": "Tennessee",
+         "New cases per 100,000 population": "2.1"
+      },
+      {
+         "State": "Maryland",
+         "New cases per 100,000 population": "2.2"
+      },
+      {
+         "State": "Arkansas",
+         "New cases per 100,000 population": "2.3"
+      },
+      {
+         "State": "Virginia",
+         "New cases per 100,000 population": "2.7"
+      },
+      {
+         "State": "Connecticut",
+         "New cases per 100,000 population": "2.7"
+      },
+      {
+         "State": "South Carolina",
+         "New cases per 100,000 population": "2.7"
+      },
+      {
+         "State": "Indiana",
+         "New cases per 100,000 population": "2.7"
+      },
+      {
+         "State": "North Carolina",
+         "New cases per 100,000 population": "2.9"
+      },
+      {
+         "State": "Massachusetts",
+         "New cases per 100,000 population": "3.0"
+      },
+      {
+         "State": "Alabama",
+         "New cases per 100,000 population": "3.6"
+      },
+      {
+         "State": "Wyoming",
+         "New cases per 100,000 population": "3.6"
+      },
+      {
+         "State": "Hawaii",
+         "New cases per 100,000 population": "3.8"
+      },
+      {
+         "State": "California",
+         "New cases per 100,000 population": "3.8"
+      },
+      {
+         "State": "Michigan",
+         "New cases per 100,000 population": "4.2"
+      },
+      {
+         "State": "Arizona",
+         "New cases per 100,000 population": "4.2"
+      },
+      {
+         "State": "New Hampshire",
+         "New cases per 100,000 population": "4.5"
+      },
+      {
+         "State": "Texas",
+         "New cases per 100,000 population": "4.6"
+      },
+      {
+         "State": "Oregon",
+         "New cases per 100,000 population": "4.7"
+      },
+      {
+         "State": "Oklahoma",
+         "New cases per 100,000 population": "4.7"
+      },
+      {
+         "State": "New York",
+         "New cases per 100,000 population": "4.9"
+      },
+      {
+         "State": "Idaho",
+         "New cases per 100,000 population": "4.9"
+      },
+      {
+         "State": "Iowa",
+         "New cases per 100,000 population": "5.1"
+      },
+      {
+         "State": "Kansas",
+         "New cases per 100,000 population": "5.5"
+      },
+      {
+         "State": "United States",
+         "New cases per 100,000 population": "5.6"
+      },
+      {
+         "State": "North Dakota",
+         "New cases per 100,000 population": "5.8"
+      },
+      {
+         "State": "Missouri",
+         "New cases per 100,000 population": "5.9"
+      },
+      {
+         "State": "New Jersey",
+         "New cases per 100,000 population": "6.3"
+      },
+      {
+         "State": "New Mexico",
+         "New cases per 100,000 population": "7.7"
+      },
+      {
+         "State": "Nebraska",
+         "New cases per 100,000 population": "8.0"
+      },
+      {
+         "State": "Illinois",
+         "New cases per 100,000 population": "8.1"
+      },
+      {
+         "State": "Washington",
+         "New cases per 100,000 population": "8.5"
+      },
+      {
+         "State": "Rhode Island",
+         "New cases per 100,000 population": "8.6"
+      },
+      {
+         "State": "Ohio",
+         "New cases per 100,000 population": "8.6"
+      },
+      {
+         "State": "Utah",
+         "New cases per 100,000 population": "8.7"
+      },
+      {
+         "State": "Kentucky",
+         "New cases per 100,000 population": "10.4"
+      },
+      {
+         "State": "Pennsylvania",
+         "New cases per 100,000 population": "12.4"
+      },
+      {
+         "State": "Colorado",
+         "New cases per 100,000 population": "12.9"
+      },
+      {
+         "State": "Minnesota",
+         "New cases per 100,000 population": "18.4"
+      },
+      {
+         "State": "Maine",
+         "New cases per 100,000 population": "19.5"
+      },
+      {
+         "State": "Alaska",
+         "New cases per 100,000 population": "21.3"
+      },
+      {
+         "State": "Wisconsin",
+         "New cases per 100,000 population": "25.0"
+      },
+      {
+         "State": "Vermont",
+         "New cases per 100,000 population": "46.5"
+      }
+   ],
+   "gold": "The states with the highest rates of pertussis include Vermont , Wisconsin , Alaska and Maine . Pertussis is more commonly known as whooping cough . It is a respiratory disease that causes uncontrollable coughing .\n"
+}

@@ -1,0 +1,44 @@
+{
+   "title": "Worldwide digital population as of January 2020",
+   "xAxis": "Users",
+   "yAxis": "Number of users in billions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of users the January Four Users in 2020 . ",
+      "Active_internet_users was the largest of the January four Users in terms of Number having generated approximately 4.54 billions users . ",
+      "The Number of the Active_internet_users amount , Unique_mobile_internet_users had 4.54 billions users ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "16": "0"
+      },
+      {
+         "4": "0",
+         "7": "1",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Users": "Active internet users",
+         "Number of users in billions": "4.54"
+      },
+      {
+         "Users": "Unique mobile internet users",
+         "Number of users in billions": "4.18"
+      },
+      {
+         "Users": "Active social media users",
+         "Number of users in billions": "3.8"
+      },
+      {
+         "Users": "Active mobile social media users",
+         "Number of users in billions": "3.75"
+      }
+   ],
+   "gold": "How many people use the internet ? Almost 4.54 billion people were active internet users as of January 2020 , encompassing 59 percent of the global population . China , India and the United States rank ahead all other countries in terms of internet users . Global internet usage By now , a world without the internet is unimaginable .\n"
+}

@@ -1,0 +1,51 @@
+{
+   "title": "InfoWars credibility in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2017 , right-wing American news website InfoWars was rated as Not_at_all_credible at by 12 % of respondents from a survey of over two thousand InfoWars adults . ",
+      "Additionally , over half of respondents had either Never_heard_of of the publication or had Heard_of_no_opinion about InfoWars 's credibility . ",
+      "Conservative view of news media While right-wing websites and online publications have grown in number and popularity in recent years , Fox News remains the largest and perhaps most influential conservative news source in the U.S. ."
+   ],
+   "trends": [
+      {
+         "12": "2",
+         "14": "2"
+      },
+      {
+         "8": "0",
+         "14": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Never heard of",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Heard of no opinion",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Not at all credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Not too credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Somewhat credible",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Very credible",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This timeline presents data on the credibility of InfoWars in the United States as of November 2017 . During a survey , six percent of respondents stated that they found the website very credible .\n"
+}

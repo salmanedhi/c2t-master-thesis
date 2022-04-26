@@ -1,0 +1,66 @@
+{
+   "title": "Major asparagus producing countries worldwide 2017",
+   "xAxis": "Country",
+   "yAxis": "Production in metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Country with the highest asparagus of multiple sclerosis include China_mainland , Peru Mexico , and Germany . ",
+      "Multiple sclerosis ( Major ) is a disease that affects communication in parts of the nervous system and damages the brain and spinal cord . ",
+      "Some of those with Major eventually become disabled due to the disease , but many can still walk , if not with the aid of a cane or crutches ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "1",
+         "14": "2",
+         "17": "3"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China mainland",
+         "Production in metric tons": "7843162"
+      },
+      {
+         "Country": "Peru",
+         "Production in metric tons": "383098"
+      },
+      {
+         "Country": "Mexico",
+         "Production in metric tons": "245681"
+      },
+      {
+         "Country": "Germany",
+         "Production in metric tons": "130881"
+      },
+      {
+         "Country": "Spain",
+         "Production in metric tons": "63433"
+      },
+      {
+         "Country": "Italy",
+         "Production in metric tons": "46419"
+      },
+      {
+         "Country": "United States of America",
+         "Production in metric tons": "34100"
+      },
+      {
+         "Country": "Japan",
+         "Production in metric tons": "29981"
+      },
+      {
+         "Country": "Thailand",
+         "Production in metric tons": "25000"
+      },
+      {
+         "Country": "Netherlands",
+         "Production in metric tons": "20800"
+      }
+   ],
+   "gold": "This statistic depicts the global leading 10 asparagus producing countries in 2017 . In that year , China was the biggest producer of asparagus worldwide , producing approximately 7.8 million metric tons of asparagus . The U.S. production of asparagus amounted to about 685 thousand cwt in 2015 .\n"
+}

@@ -1,0 +1,75 @@
+{
+   "title": "Shortest Oscar acceptance speeches 2019",
+   "xAxis": "Actor",
+   "yAxis": "Number of words",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Shortest Oscar speeches Number of words . ",
+      "The Shortest Oscar Actor is Louie_Psihoyos_(2010) with only 2 words , followed speeches Patty_Duke_(1963) with 2 words , then Billy_Willder_(1961) with 10 words . ",
+      "Gloria_Graham_(1953) has been visited on 4 words , while Alfred_Newman_(1953) and William_Holden_(1954) have been visited on 4 and 10 words respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "8": "0",
+         "13": "0",
+         "15": "0",
+         "19": "9",
+         "21": "9"
+      },
+      {
+         "0": "3",
+         "5": "3",
+         "9": "2",
+         "11": "4",
+         "16": "2",
+         "18": "9"
+      }
+   ],
+   "data": [
+      {
+         "Actor": "Patty Duke (1963)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Louie Psihoyos (2010)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Alfred Newman (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Gloria Graham (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "William Holden (1954)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Alfred Hitchcock (1968)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Joe Pesci (1991)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Dimitri Tiomkin (1953)",
+         "Number of words": "6"
+      },
+      {
+         "Actor": "Delbert Mann (1956)",
+         "Number of words": "8"
+      },
+      {
+         "Actor": "Billy Willder (1961)",
+         "Number of words": "10"
+      }
+   ],
+   "gold": "This statistic presents data on the shortest Academy Awards acceptance speeches of all time as of 2019 . According to the source , the record for the shortest speech is held by Patty Duke , who simply said `` thank you `` when accepting her Best Supporting Actress award in 1963 .\n"
+}

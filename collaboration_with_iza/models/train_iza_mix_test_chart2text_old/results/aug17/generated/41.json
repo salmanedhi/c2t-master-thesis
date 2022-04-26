@@ -1,0 +1,53 @@
+{
+   "title": "Grocery market share in Ireland 2019",
+   "xAxis": "Grocery Store",
+   "yAxis": "Market share of total grocers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market of share conducted by share in a Ireland 2019 . ",
+      "\\\\n From the chart we see that the Tesco Grocery was the Grocery market in the 2019 with 22.2 share . ",
+      "The next Grocery to make the most share was the Aldi Grocery with 12.5 share closely followed by Other_outlets with 10.6 share ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "5",
+         "20": "5"
+      }
+   ],
+   "data": [
+      {
+         "Grocery Store": "Dunnes",
+         "Market share of total grocers": "22.2"
+      },
+      {
+         "Grocery Store": "SuperValu",
+         "Market share of total grocers": "21.4"
+      },
+      {
+         "Grocery Store": "Tesco",
+         "Market share of total grocers": "21.4"
+      },
+      {
+         "Grocery Store": "Aldi",
+         "Market share of total grocers": "12.5"
+      },
+      {
+         "Grocery Store": "Lidl",
+         "Market share of total grocers": "11.9"
+      },
+      {
+         "Grocery Store": "Other outlets",
+         "Market share of total grocers": "10.6"
+      }
+   ],
+   "gold": "This statistic illustrates the market share of grocery stores in Ireland for the 12 weeks ending September 8 , 2019 . Dunnes held the highest market share at 22.2 percent , followed by SuperValu at 21.4 percent . The cost of food on the Irish market deflated amid lowering prices .\n"
+}

@@ -1,0 +1,103 @@
+{
+   "title": "Sales of the leading travel agencies worldwide in 2016",
+   "xAxis": "Company",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Sales of the leading travel agencies Company worldwide in 2016 . ",
+      "In that year , the Expedia_Inc. was the leading Expedia_Inc. Company in the world with Sales amounting to approximately 72.4 billion U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "9": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Expedia Inc.",
+         "Sales in billion U.S. dollars": "72.4"
+      },
+      {
+         "Company": "The Priceline Group",
+         "Sales in billion U.S. dollars": "68.1"
+      },
+      {
+         "Company": "American Express Global Business Travel",
+         "Sales in billion U.S. dollars": "31.1"
+      },
+      {
+         "Company": "BCD Travel",
+         "Sales in billion U.S. dollars": "24.6"
+      },
+      {
+         "Company": "Carlson Wagonlit Travel",
+         "Sales in billion U.S. dollars": "22.4"
+      },
+      {
+         "Company": "HRG North America",
+         "Sales in billion U.S. dollars": "16.0"
+      },
+      {
+         "Company": "Flight Centre Travel Group USA",
+         "Sales in billion U.S. dollars": "14.4"
+      },
+      {
+         "Company": "American Express Travel",
+         "Sales in billion U.S. dollars": "4.9"
+      },
+      {
+         "Company": "Travel Leaders Group",
+         "Sales in billion U.S. dollars": "4.39"
+      },
+      {
+         "Company": "Fareportal",
+         "Sales in billion U.S. dollars": "4.13"
+      },
+      {
+         "Company": "Corporate Travel Management",
+         "Sales in billion U.S. dollars": "3.87"
+      },
+      {
+         "Company": "AAA Travel",
+         "Sales in billion U.S. dollars": "3.74"
+      },
+      {
+         "Company": "Travel and Transport",
+         "Sales in billion U.S. dollars": "2.86"
+      },
+      {
+         "Company": "Altour",
+         "Sales in billion U.S. dollars": "2.58"
+      },
+      {
+         "Company": "Direct Travel",
+         "Sales in billion U.S. dollars": "2.5"
+      },
+      {
+         "Company": "Frosch",
+         "Sales in billion U.S. dollars": "1.75"
+      },
+      {
+         "Company": "Omega World Travel",
+         "Sales in billion U.S. dollars": "1.4"
+      },
+      {
+         "Company": "JTB Americas Group",
+         "Sales in billion U.S. dollars": "1.36"
+      },
+      {
+         "Company": "World Travel",
+         "Sales in billion U.S. dollars": "1.2"
+      },
+      {
+         "Company": "Ovation Travel Group",
+         "Sales in billion U.S. dollars": "1.14"
+      }
+   ],
+   "gold": "This statistic shows the sales of the leading travel agencies worldwide in 2016 . The travel company Carlson Wagonlit Travel ranked fifth among the leading travel agencies with sales of 22.4 billion U.S. dollars in 2016 . Travel agencies - additional information Travel agencies facilitate the purchase of travel products between travel providers and customers .\n"
+}

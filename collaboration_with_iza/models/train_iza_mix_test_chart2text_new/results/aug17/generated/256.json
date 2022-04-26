@@ -1,0 +1,45 @@
+{
+   "title": "Revenue of Canada Goose by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million Canadan dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the amounts Canada on Canada Goose in 830.5 different regions . ",
+      "United_States Canada the most , $ 300 million , while $ 830.5 million was Canada in Total , $ 293.3 m in Canada , and $ 251.1 m in Rest_of_world ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "0": "2",
+         "11": "0",
+         "16": "0",
+         "19": "1",
+         "22": "1",
+         "26": "2",
+         "29": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Total",
+         "Revenue in million Canadan dollars": "830.5"
+      },
+      {
+         "Country": "Canada",
+         "Revenue in million Canadan dollars": "293.3"
+      },
+      {
+         "Country": "United States",
+         "Revenue in million Canadan dollars": "251.1"
+      },
+      {
+         "Country": "Rest of world",
+         "Revenue in million Canadan dollars": "286.1"
+      }
+   ],
+   "gold": "Canada Goose , originally known as Metro Sportswear Ltd. , is a Canadian owned apparel company focusing on the production and sale of winter clothing . The worldwide revenue of Canada Goose amounted to approximately 830.5 million Canadian dollars in the 2019 financial year . Around 293 million dollars of this total revenue was generated in Canada , and around 251 million dollars in the United States .\n"
+}

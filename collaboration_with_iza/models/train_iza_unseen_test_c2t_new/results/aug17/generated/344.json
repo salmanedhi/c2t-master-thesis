@@ -1,0 +1,84 @@
+{
+   "title": "Money raised during Games Done Quick charity events 2014 to 2019",
+   "xAxis": "Charity Events",
+   "yAxis": "Money raised in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Money raised Charity in the Games Done was Charity Awesome_Games_Done_Quick_(Prevent_Cancer_Foundation_January_2015) , who made 3.0 raised . ",
+      "The most raised Charity was Awesome_Games_Done_Quick_(Prevent_Cancer_Foundation_January_2016) , with just 0.71 raised . ",
+      "In second place was Charity Summer_Games_Done_Quick_(Doctors_Without_Borders_June_2014) with 0.71 raised ; third place went to Charity Awesome_Games_Done_Quick_(Prevent_Cancer_Foundation_January_2014) with 1.01 raised ; fourth place went to Charity Summer_Games_Done_Quick_(Doctors_Without_Borders_June_2019) with 3.0 raised and fifth place went to Charity Summer_Games_Done_Quick_(Doctors_Without_Borders_July_2015) , who was 1.2 raised ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "11"
+      },
+      {
+         "6": "4",
+         "10": "1"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "11",
+         "27": "11",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2014)",
+         "Money raised in million U.S. dollars": "1.01"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders June 2014)",
+         "Money raised in million U.S. dollars": "0.71"
+      },
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2015)",
+         "Money raised in million U.S. dollars": "1.57"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders July 2015)",
+         "Money raised in million U.S. dollars": "1.2"
+      },
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2016)",
+         "Money raised in million U.S. dollars": "1.2"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders July 2016)",
+         "Money raised in million U.S. dollars": "1.3"
+      },
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2017)",
+         "Money raised in million U.S. dollars": "2.2"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders July 2017)",
+         "Money raised in million U.S. dollars": "1.7"
+      },
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2018)",
+         "Money raised in million U.S. dollars": "2.2"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders July 2018)",
+         "Money raised in million U.S. dollars": "2.1"
+      },
+      {
+         "Charity Events": "Awesome Games Done Quick (Prevent Cancer Foundation January 2019)",
+         "Money raised in million U.S. dollars": "2.39"
+      },
+      {
+         "Charity Events": "Summer Games Done Quick (Doctors Without Borders June 2019)",
+         "Money raised in million U.S. dollars": "3.0"
+      }
+   ],
+   "gold": "The timeline presents information on the amount of money raised during Games Done Quick charity events from 2014 to 2019 . Games Done Quick is a video game speedrun charity marathon . Awesome Games Done Quick ( AGDQ ) is held in January each year and is usually devoted to raising money for the Prevent Cancer Foundation , and Summer Games Done Quick ( SGDQ ) takes place in June , July or August with the goal to raise funds for Doctors Without Borders .\n"
+}

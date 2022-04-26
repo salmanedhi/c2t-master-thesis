@@ -1,0 +1,41 @@
+{
+   "title": "What do Students choose to study ?",
+   "xAxis": "Deparment",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "50 percentage of Students choose to study STEM , 20 percentage each choose to study Literature and Medicine , with only 10 percentage choosing to study Philosophy ."
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "7": "0",
+         "9": "3",
+         "15": "1",
+         "17": "3",
+         "21": "2",
+         "26": "2"
+      }
+   ],
+   "data": [
+      {
+         "Deparment": "STEM",
+         "Percentage": "50"
+      },
+      {
+         "Deparment": "Literature",
+         "Percentage": "20"
+      },
+      {
+         "Deparment": "Philosophy",
+         "Percentage": "10"
+      },
+      {
+         "Deparment": "Medicine",
+         "Percentage": "20"
+      }
+   ],
+   "gold": "This graph shows the percentage of students who choose to study in four different departments . 50 % - STEM \\\\n 20 % - Literature \\\\n 10 % - Philosophy \\\\n 20 % - Medicine\n"
+}

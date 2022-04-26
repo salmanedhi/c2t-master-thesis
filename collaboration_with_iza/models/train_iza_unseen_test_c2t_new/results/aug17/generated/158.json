@@ -1,0 +1,80 @@
+{
+   "title": "VR/AR headsets average session time in U.S. 2018",
+   "xAxis": "VR Device",
+   "yAxis": "Average session time in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The VR/AR headsets VR in the session time was VR Sony_Playstation_VR , who made 49.5 session . ",
+      "The most headsets VR was Lenovo_Star_Wars_Jedi_Challenges , with just 24.5 session . ",
+      "In second place was VR Windows_10_Mixed_Reality_Headset with 49.5 session ; third place went to VR Average with 38.0 session ; fourth place went to VR Other_Smartphone_VR_headset with 24.5 session and fifth place went to VR AR_headset , who was 46.5 session ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "1"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "VR Device": "Average",
+         "Average session time in minutes": "38.0"
+      },
+      {
+         "VR Device": "Windows 10 Mixed Reality Headset",
+         "Average session time in minutes": "49.5"
+      },
+      {
+         "VR Device": "Sony Playstation VR",
+         "Average session time in minutes": "49.0"
+      },
+      {
+         "VR Device": "AR headset",
+         "Average session time in minutes": "46.5"
+      },
+      {
+         "VR Device": "Lenovo Star Wars Jedi Challenges",
+         "Average session time in minutes": "44.5"
+      },
+      {
+         "VR Device": "HTC Vive VR headset",
+         "Average session time in minutes": "43.5"
+      },
+      {
+         "VR Device": "Oculus Rift VR headset",
+         "Average session time in minutes": "42.5"
+      },
+      {
+         "VR Device": "Samsung Gear VR",
+         "Average session time in minutes": "35.5"
+      },
+      {
+         "VR Device": "Google Daydream View",
+         "Average session time in minutes": "34.5"
+      },
+      {
+         "VR Device": "Google Cardboard",
+         "Average session time in minutes": "24.5"
+      },
+      {
+         "VR Device": "Other Smartphone VR headset",
+         "Average session time in minutes": "24.5"
+      }
+   ],
+   "gold": "The statistic depicts the average session time of virtual reality/augmented reality devices in the United States as of 2018 . Users of Sony PlayStation VR spent 49 minutes on average in each VR session , according to the survey .\n"
+}

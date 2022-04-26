@@ -1,0 +1,47 @@
+{
+   "title": "Causes of deforestation in Canada in 2015",
+   "xAxis": "Cause",
+   "yAxis": "Share of deforestation causes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows Causes deforestation Canada Cause brands in the 2015 average Share deforestation in 2015 . ",
+      "YouGov 's brand Share 2015 results show that Agriculture 2015 highest with a score of 41 . ",
+      "In , Urban_expansion_and_recreation was the second Urban_expansion_and_recreation Cause chain in the 2015 in terms of sales ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "15": "0"
+      },
+      {
+         "2": "2",
+         "6": "2"
+      }
+   ],
+   "data": [
+      {
+         "Cause": "Agriculture",
+         "Share of deforestation causes": "41"
+      },
+      {
+         "Cause": "Resource extraction",
+         "Share of deforestation causes": "37"
+      },
+      {
+         "Cause": "Urban expansion and recreation",
+         "Share of deforestation causes": "12"
+      },
+      {
+         "Cause": "Forestry",
+         "Share of deforestation causes": "8"
+      },
+      {
+         "Cause": "Hydroelectric development",
+         "Share of deforestation causes": "1"
+      }
+   ],
+   "gold": "This statistic shows the distribution of causes of deforestation in Canada in 2015 . Forty-one percent of deforestation in Canada in 2015 was caused by agriculture . Deforestation Deforestation is the intentional destruction of forested land for permanent reuse for agricultural , urban , industrial , or other non-forest operations .\n"
+}

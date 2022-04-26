@@ -1,0 +1,73 @@
+{
+   "title": "Number of M & A deals in the U.S. 2019 , by deal value",
+   "xAxis": "Deal value in million U.S. dollars",
+   "yAxis": "Number of deals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number M & in the deals competirion . ",
+      "\\\\n From the chart we see that the 50_to_99.9 Deal made the Number deals by some margin , with only 205 . ",
+      "500_to_999 and More_than_1000 made a respectable 205 and 281 deals , with Total and 100_to_249.9 not far behind , at 12713 and 441 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "1"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Deal value in million U.S. dollars": "More than 1000",
+         "Number of deals": "281"
+      },
+      {
+         "Deal value in million U.S. dollars": "500 to 999",
+         "Number of deals": "205"
+      },
+      {
+         "Deal value in million U.S. dollars": "250 to 499.9",
+         "Number of deals": "293"
+      },
+      {
+         "Deal value in million U.S. dollars": "100 to 249.9",
+         "Number of deals": "441"
+      },
+      {
+         "Deal value in million U.S. dollars": "50 to 99.9",
+         "Number of deals": "361"
+      },
+      {
+         "Deal value in million U.S. dollars": "25 to 49.9",
+         "Number of deals": "348"
+      },
+      {
+         "Deal value in million U.S. dollars": "10 to 24.9",
+         "Number of deals": "370"
+      },
+      {
+         "Deal value in million U.S. dollars": "Under 10",
+         "Number of deals": "698"
+      },
+      {
+         "Deal value in million U.S. dollars": "Undisclosed",
+         "Number of deals": "9716"
+      },
+      {
+         "Deal value in million U.S. dollars": "Total",
+         "Number of deals": "12713"
+      }
+   ],
+   "gold": "The statistic presents the number of M & A deals in the United States as of September 2019 , by deal value . In that year , there were 281 M & A transactions valued at more than one billion U.S. dollars in the United States . The overall number of M & A deals in the 12 months ending September 30 , 2019 amounted to 12,713 .\n"
+}

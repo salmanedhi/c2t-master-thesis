@@ -1,0 +1,64 @@
+{
+   "title": "Production of titanium dioxide worldwide by country share 2014",
+   "xAxis": "Country",
+   "yAxis": "Percentage of global production",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Production titanium dioxide worldwide the Percentage of global they 've had . ",
+      "\\n It shows China has had 18 global , Australia has had the Production at 6 global , South_Africa has had 15 , Canada has had 11 , Ukraine has had the most global at 19 and Others has had 19 global ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "6",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "7",
+         "37": "7",
+         "40": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of global production": "18"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of global production": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Percentage of global production": "15"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of global production": "11"
+      },
+      {
+         "Country": "Ukraine",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "India",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "Mozambique",
+         "Percentage of global production": "6"
+      },
+      {
+         "Country": "Others",
+         "Percentage of global production": "19"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of global titanium dioxide ( mineral sands ) production in 2014 , by country . Australia , China , and South Africa were the leading producers with 17 , 18 , and 15 percent , respectively . Titanium dioxide is one of the two core product streams of the mineral sands industry .\n"
+}

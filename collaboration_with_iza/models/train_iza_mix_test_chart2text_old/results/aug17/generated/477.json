@@ -1,0 +1,69 @@
+{
+   "title": "Highest grossing James Bond movies in North America 2018",
+   "xAxis": "Month",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Revenue of million conducted by James in a Bond movies . ",
+      "\\\\n From the chart we see that the Quantum_of_Solace_(2008) Month was the Highest grossing Month in the movies with 304.36 million . ",
+      "The next Month to make the most million was the Casino_Royale_(2006) Month with 167.37 million closely followed by Octopussy_(1983) with 67.9 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Skyfall (2012)",
+         "Revenue in million U.S. dollars": "304.36"
+      },
+      {
+         "Month": "Spectre (2015)",
+         "Revenue in million U.S. dollars": "200.07"
+      },
+      {
+         "Month": "Quantum of Solace (2008)",
+         "Revenue in million U.S. dollars": "169.37"
+      },
+      {
+         "Month": "Casino Royale (2006)",
+         "Revenue in million U.S. dollars": "167.37"
+      },
+      {
+         "Month": "Die Another Day (2002)",
+         "Revenue in million U.S. dollars": "160.94"
+      },
+      {
+         "Month": "The World Is Not Enough (1999)",
+         "Revenue in million U.S. dollars": "126.93"
+      },
+      {
+         "Month": "Tomorrow Never Dies (1997)",
+         "Revenue in million U.S. dollars": "125.3"
+      },
+      {
+         "Month": "Goldeneye (1995)",
+         "Revenue in million U.S. dollars": "106.43"
+      },
+      {
+         "Month": "Moonraker (1979)",
+         "Revenue in million U.S. dollars": "70.3"
+      },
+      {
+         "Month": "Octopussy (1983)",
+         "Revenue in million U.S. dollars": "67.9"
+      }
+   ],
+   "gold": "This statistic provides information on the highest grossing James Bond movies in North America as of November 2018 . The James Bond film with the highest domestic box office revenue was 'Skyfall ' _ , having made over 304 million dollars at the North American box office , followed by 'Spectre ' with revenues of 200 million . 'Skyfall ' was also the most successful James Bond movie worldwide in terms of revenue , having made over 1.1 billion U.S. dollars globally after its release in 2015 .\n"
+}

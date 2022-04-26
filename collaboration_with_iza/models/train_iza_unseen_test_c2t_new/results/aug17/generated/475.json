@@ -1,0 +1,76 @@
+{
+   "title": "Movies with biggest production budgets in India 2019",
+   "xAxis": "Movie",
+   "yAxis": "Production budget in billion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Movies with Movie in the production budgets was Movie Zero , who made 5.75 budget . ",
+      "The most with Movie was Tiger_Zinda_Hai , with just 1.85 budget . ",
+      "In second place was Movie Thugs_of_Hindostan with 3.25 budget ; third place went to Movie 2.0 with 5.75 budget ; fourth place went to Movie War with 2.05 budget and fifth place went to Movie Padmaavat , who was 2.15 budget ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Movie": "2.0",
+         "Production budget in billion Indian rupees": "5.75"
+      },
+      {
+         "Movie": "Thugs of Hindostan",
+         "Production budget in billion Indian rupees": "3.25"
+      },
+      {
+         "Movie": "Zero",
+         "Production budget in billion Indian rupees": "2.7"
+      },
+      {
+         "Movie": "Padmaavat",
+         "Production budget in billion Indian rupees": "2.15"
+      },
+      {
+         "Movie": "Tiger Zinda Hai",
+         "Production budget in billion Indian rupees": "2.1"
+      },
+      {
+         "Movie": "Bahubali 2 - The Conclusion",
+         "Production budget in billion Indian rupees": "1.95"
+      },
+      {
+         "Movie": "Race 3",
+         "Production budget in billion Indian rupees": "1.85"
+      },
+      {
+         "Movie": "Saaho",
+         "Production budget in billion Indian rupees": "3.25"
+      },
+      {
+         "Movie": "Bharat",
+         "Production budget in billion Indian rupees": "2.4"
+      },
+      {
+         "Movie": "War",
+         "Production budget in billion Indian rupees": "2.05"
+      }
+   ],
+   "gold": "The science fiction movie 2.0 was ranked as the all-time highest budget movie in India with a production value of almost six billion Indian rupees . Saaho , another action thriller produced in 2019 became the second highest big-budget film costing over 3.2 billion rupees . The business of Bollywood The Indian film industry was valued at over 180 billion rupees in fiscal year 2019 , and it was estimated to reach up to 260 billion rupees by the end of fiscal year 2024 .\n"
+}

@@ -1,0 +1,55 @@
+{
+   "title": "Number of Overwatch players worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows information on the Number of players PlayerUnknown 's Battlegrounds ( Overwatch ) on Overwatch from May_2016 to May_2018 . ",
+      "According to the estimates , the battle royale game developed by Bluehole attracted 40 millions players on Overwatch in May_2018 . ",
+      "At the same time , the game had a global player base of 10 millions ."
+   ],
+   "trends": [
+      {
+         "20": "6",
+         "22": "0"
+      },
+      {
+         "13": "0",
+         "19": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "May 2018",
+         "Number of players in millions": "40"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "35"
+      },
+      {
+         "Month": "April 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "January 2017",
+         "Number of players in millions": "25"
+      },
+      {
+         "Month": "October 2016",
+         "Number of players in millions": "20"
+      },
+      {
+         "Month": "August 2016",
+         "Number of players in millions": "15"
+      },
+      {
+         "Month": "May 2016",
+         "Number of players in millions": "7"
+      }
+   ],
+   "gold": "How many people play Overwatch ? Overwatch , a team-based first-person shooter video game , launched in May 2016 and already a week later it was reported to have had seven million players . As of May 2018 , Overwatch had 40 million players worldwide . Overwatch 's eSports success While the number of gamers playing Overwatch has increased dramatically , so has the appeal of the game as an eSport .\n"
+}

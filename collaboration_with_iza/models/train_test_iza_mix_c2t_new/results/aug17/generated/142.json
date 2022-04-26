@@ -1,0 +1,126 @@
+{
+   "title": "Countries with the largest Hindu population in 2010",
+   "xAxis": "Country",
+   "yAxis": "Estimated Hindu population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Among than half of the world 's population identify as with - in Nepal alone , over 80 millions of Hindu very much or somewhat millions that they defined themselves as with . ",
+      "Surprisingly , this number is much lower in developed Country like the Burma_(Myanmar) or Yemen ( with not even 40 millions of Hindu agreeing ) , which might be due to the bad reputation with - wrongfully \u2013 has . ",
+      "But are some really more equal than others ? Despite its deceptive title , with is not about establishing superiority of women \u2013 its core concept is equality for all , no matter their sex , gender or orientation ."
+   ],
+   "trends": [
+      {
+         "13": "1"
+      },
+      {
+         "12": "8",
+         "14": "24"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Estimated Hindu population in millions": "973.75"
+      },
+      {
+         "Country": "Nepal",
+         "Estimated Hindu population in millions": "24.17"
+      },
+      {
+         "Country": "Bangladesh",
+         "Estimated Hindu population in millions": "13.52"
+      },
+      {
+         "Country": "Indonesia",
+         "Estimated Hindu population in millions": "4.05"
+      },
+      {
+         "Country": "Pakistan",
+         "Estimated Hindu population in millions": "3.33"
+      },
+      {
+         "Country": "Sri Lanka",
+         "Estimated Hindu population in millions": "2.83"
+      },
+      {
+         "Country": "United States",
+         "Estimated Hindu population in millions": "1.79"
+      },
+      {
+         "Country": "Malaysia",
+         "Estimated Hindu population in millions": "1.72"
+      },
+      {
+         "Country": "Burma (Myanmar)",
+         "Estimated Hindu population in millions": "0.82"
+      },
+      {
+         "Country": "United Kingdom",
+         "Estimated Hindu population in millions": "0.8"
+      },
+      {
+         "Country": "Mauritius",
+         "Estimated Hindu population in millions": "0.73"
+      },
+      {
+         "Country": "South Africa",
+         "Estimated Hindu population in millions": "0.57"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Estimated Hindu population in millions": "0.49"
+      },
+      {
+         "Country": "Canada",
+         "Estimated Hindu population in millions": "0.47"
+      },
+      {
+         "Country": "Australia",
+         "Estimated Hindu population in millions": "0.31"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Estimated Hindu population in millions": "0.31"
+      },
+      {
+         "Country": "Trinidad and Tobago",
+         "Estimated Hindu population in millions": "0.3"
+      },
+      {
+         "Country": "Singapore",
+         "Estimated Hindu population in millions": "0.26"
+      },
+      {
+         "Country": "Fiji",
+         "Estimated Hindu population in millions": "0.24"
+      },
+      {
+         "Country": "Qatar",
+         "Estimated Hindu population in millions": "0.24"
+      },
+      {
+         "Country": "Kuwait",
+         "Estimated Hindu population in millions": "0.23"
+      },
+      {
+         "Country": "Guyana",
+         "Estimated Hindu population in millions": "0.19"
+      },
+      {
+         "Country": "Bhutan",
+         "Estimated Hindu population in millions": "0.16"
+      },
+      {
+         "Country": "Oman",
+         "Estimated Hindu population in millions": "0.15"
+      },
+      {
+         "Country": "Yemen",
+         "Estimated Hindu population in millions": "0.15"
+      }
+   ],
+   "gold": "This statistic shows the top 25 countries in the world with the largest number of Hindu population in 2010 . In 2010 , there were about 974 million Hindus living in India .\n"
+}

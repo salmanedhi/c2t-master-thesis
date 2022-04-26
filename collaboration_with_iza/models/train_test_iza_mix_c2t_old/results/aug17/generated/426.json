@@ -1,0 +1,34 @@
+{
+   "title": "YouTube : distribution of U.S. users 2015 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "YouTube is the most popular social network in the U.S. and as of 2015 , 51 percentage of 2015 YouTube audiences were Male , and 49 percentage of users were Female . ",
+      "The social network had a combined 247 percentage monthly active users in the U.S. and Canada as of the third quarter of 2015 . ",
+      "YouTube usage in the U.S. Thanks to its wide reach and vast range of products including YouTube Messenger , Instagram and WhatsApp , many internet users would find it hard to imagine an online experience without the company that arguably made social media mainstream ."
+   ],
+   "trends": [
+      {
+         "15": "0",
+         "22": "0",
+         "25": "1",
+         "30": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Percentage of users": "51"
+      },
+      {
+         "Sex": "Female",
+         "Percentage of users": "49"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of YouTube users in the United States as of Fall 2015 , sorted by gender . During the survey period , 51 percent of YouTube users were male and 49 percent of users were female .\n"
+}

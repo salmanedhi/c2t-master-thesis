@@ -1,0 +1,76 @@
+{
+   "title": "U.S. company data loss prevention methods 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The U.S. company Response in the loss prevention was Response Endpoint_security_solutions , who made 60 respondents . ",
+      "The most company Response was Additional_manual_procedures_and_controls , with just 16 respondents . ",
+      "In second place is Response Expanded_use_of_encryption with 55 respondents ; third place went to Response Training_and_awareness_programs with 60 respondents ; fourth place went to Response Strenghtening_of_perimeter_controls with 16 respondents and fifth place went to Response Identity_and_access_management_solutions , who made 44 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Training and awareness programs",
+         "Share of respondents": "60"
+      },
+      {
+         "Response": "Expanded use of encryption",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "Endpoint security solutions",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Identity and access management solutions",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Additional manual procedures and controls",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "Data loss prevention (DLP) solutions",
+         "Share of respondents": "36"
+      },
+      {
+         "Response": "Security intelligence solutions",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Other system control practices",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Security certification or audit",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Strenghtening of perimeter controls",
+         "Share of respondents": "16"
+      }
+   ],
+   "gold": "This statistic presents a ranking of common data loss prevention controls and activities of organizations in the United States in 2017 . During the survey period , it was found that 35 percent of U.S. companies had implemented security intelligence solutions .\n"
+}

@@ -1,0 +1,183 @@
+{
+   "title": "Yelp : quarterly net revenue 2010 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In the fourth Quarter of 2019 , Yelp 's Revenue amounted to over 268.82 million U.S. dollars , a 22 million increase compared to the previous Quarter . ",
+      "The majority of the social network 's Revenue are generated via advertising , followed by data licensing and other Revenue . ",
+      "Yelp company information Yelp ranks among the biggest social networks worldwide ."
+   ],
+   "trends": [
+      {
+         "13": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Revenue in million U.S. dollars": "268.82"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in million U.S. dollars": "262.47"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in million U.S. dollars": "246.96"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in million U.S. dollars": "235.94"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in million U.S. dollars": "243.74"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in million U.S. dollars": "241.1"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in million U.S. dollars": "234.86"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in million U.S. dollars": "223.07"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in million U.S. dollars": "219.44"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in million U.S. dollars": "223.3"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in million U.S. dollars": "209.9"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in million U.S. dollars": "198.2"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in million U.S. dollars": "194.8"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in million U.S. dollars": "186.2"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in million U.S. dollars": "173.4"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in million U.S. dollars": "158.61"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in million U.S. dollars": "153.73"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in million U.S. dollars": "143.6"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in million U.S. dollars": "133.9"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in million U.S. dollars": "118.5"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in million U.S. dollars": "109.9"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in million U.S. dollars": "102.5"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in million U.S. dollars": "88.8"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in million U.S. dollars": "76.41"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in million U.S. dollars": "70.7"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in million U.S. dollars": "61.18"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in million U.S. dollars": "55.0"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in million U.S. dollars": "46.1"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in million U.S. dollars": "41.16"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Revenue in million U.S. dollars": "36.4"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Revenue in million U.S. dollars": "32.65"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Revenue in million U.S. dollars": "27.39"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Revenue in million U.S. dollars": "24.91"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Revenue in million U.S. dollars": "22.3"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Revenue in million U.S. dollars": "19.58"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Revenue in million U.S. dollars": "16.5"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Revenue in million U.S. dollars": "15.27"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Revenue in million U.S. dollars": "12.59"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Revenue in million U.S. dollars": "10.73"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "Revenue in million U.S. dollars": "9.14"
+      }
+   ],
+   "gold": "In the fourth quarter of 2019 , Yelp 's revenue amounted to 268.82 million U.S. dollars , an increase from almost 262.5 million U.S. dollars in the preceding quarter . The local business recommendation site derives most of its revenue from advertising .\n"
+}

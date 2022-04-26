@@ -1,0 +1,99 @@
+{
+   "title": "Wealth per adult on average in Europe in 2014 , by country",
+   "xAxis": "Country",
+   "yAxis": "Average wealth per adult",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Wealth per in Europe . ",
+      "It shows Belgium was the Wealth at just 33295 degrees and Austria was the warmest at 432221 degrees . ",
+      "After Belgium , the next Wealth per are Luxembourg at 432221 degrees , followed by Slovakia at 18 degrees , Switzerland at 394917 degrees and then Netherlands at 213365 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "15",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "15",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Luxembourg",
+         "Average wealth per adult": "432221"
+      },
+      {
+         "Country": "Switzerland",
+         "Average wealth per adult": "394917"
+      },
+      {
+         "Country": "Belgium",
+         "Average wealth per adult": "240928"
+      },
+      {
+         "Country": "Netherlands",
+         "Average wealth per adult": "213365"
+      },
+      {
+         "Country": "Austria",
+         "Average wealth per adult": "188552"
+      },
+      {
+         "Country": "Germany",
+         "Average wealth per adult": "185857"
+      },
+      {
+         "Country": "United Kingdom",
+         "Average wealth per adult": "183325"
+      },
+      {
+         "Country": "France",
+         "Average wealth per adult": "178862"
+      },
+      {
+         "Country": "Italy",
+         "Average wealth per adult": "163493"
+      },
+      {
+         "Country": "Cyprus",
+         "Average wealth per adult": "137298"
+      },
+      {
+         "Country": "Finland",
+         "Average wealth per adult": "124285"
+      },
+      {
+         "Country": "Spain",
+         "Average wealth per adult": "92341"
+      },
+      {
+         "Country": "Portugal",
+         "Average wealth per adult": "84847"
+      },
+      {
+         "Country": "Slovenia",
+         "Average wealth per adult": "67878"
+      },
+      {
+         "Country": "Greece",
+         "Average wealth per adult": "58877"
+      },
+      {
+         "Country": "Slovakia",
+         "Average wealth per adult": "33295"
+      }
+   ],
+   "gold": "The statistic displays the average value of wealth per adult in selected European countries as of 2014 . The average value of wealth per adult in Luxembourg amounted to 432.2 thousand euros , while in the United Kingdom ( UK ) it reached approximately 188.6 thousand euros .\n"
+}

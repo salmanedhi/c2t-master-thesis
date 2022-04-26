@@ -1,0 +1,44 @@
+{
+   "title": "Distribution of investment fund assets in the U.S. 2018 , by type",
+   "xAxis": "Type Of Fund",
+   "yAxis": "Share of mutual fund assets",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of mutual fund assets Domestic_equity_funds in the U.S. in 2018 , type . ",
+      "According to the source , 15 % of mutual fund assets were Domestic_equity_funds in the type ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "5": "2",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Fund": "Domestic equity funds",
+         "Share of mutual fund assets": "41"
+      },
+      {
+         "Type Of Fund": "Bond funds",
+         "Share of mutual fund assets": "22"
+      },
+      {
+         "Type Of Fund": "World equity funds",
+         "Share of mutual fund assets": "15"
+      },
+      {
+         "Type Of Fund": "Money market funds",
+         "Share of mutual fund assets": "14"
+      },
+      {
+         "Type Of Fund": "Hybrid and other funds",
+         "Share of mutual fund assets": "7"
+      }
+   ],
+   "gold": "The statistic presents the distribution of mutual fund and ETF assets in the United States in 2018 , by fund type . Domestic equity funds constituted 41 percent of the mutual fund and ETF assets in the United States in 2018 .\n"
+}

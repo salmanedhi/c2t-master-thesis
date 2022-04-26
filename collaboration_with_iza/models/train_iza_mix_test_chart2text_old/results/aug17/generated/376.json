@@ -1,0 +1,66 @@
+{
+   "title": "Sales of the book publishing market worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market of share conducted market Country . ",
+      "\\n France has the highest Market of share sitting at 12.8",
+      "\\n Second to France is Germany at 9.2 share ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Market share": "30"
+      },
+      {
+         "Country": "China",
+         "Market share": "10"
+      },
+      {
+         "Country": "Germany",
+         "Market share": "9"
+      },
+      {
+         "Country": "Japan",
+         "Market share": "7"
+      },
+      {
+         "Country": "France",
+         "Market share": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Market share": "4"
+      },
+      {
+         "Country": "Italy",
+         "Market share": "3"
+      },
+      {
+         "Country": "Spain",
+         "Market share": "3"
+      },
+      {
+         "Country": "India",
+         "Market share": "2"
+      },
+      {
+         "Country": "Brazil",
+         "Market share": "2"
+      }
+   ],
+   "gold": "The graph shows the share of the total sales of the global book publishing market in 2017 , by country . According to the source , the United States made of 30 percent of the global book publishing market in terms on total sales as of 2017 .\n"
+}

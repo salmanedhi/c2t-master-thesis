@@ -1,0 +1,73 @@
+{
+   "title": "World leaders with the most Twitter followers 2019",
+   "xAxis": "Account Name",
+   "yAxis": "Twitter followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the World leaders Account in terms of the Twitter of followers with President_United_States_@POTUS having the World \u2013 61 followers down to Pope_Francis_Vatican__@Pontifex the least leaders of the group at 9 followers . ",
+      "In between , we have Donald_Trump_United_States__@RealDonaldTrump 61 , Imran_Khan_Pakistan_@imrankhanpti 9 , Narendra_Modi_India__@PMOIndia_(institutional_account) 29 and Narendra_Modi_India__@NarendraModi_(personal_account) 48 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "9"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "9",
+         "9": "9",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Account Name": "Donald Trump United States  @RealDonaldTrump",
+         "Twitter followers in millions": "61"
+      },
+      {
+         "Account Name": "Pope Francis Vatican  @Pontifex",
+         "Twitter followers in millions": "48"
+      },
+      {
+         "Account Name": "Narendra Modi India  @NarendraModi (personal account)",
+         "Twitter followers in millions": "48"
+      },
+      {
+         "Account Name": "Narendra Modi India  @PMOIndia (institutional account)",
+         "Twitter followers in millions": "29"
+      },
+      {
+         "Account Name": "President United States @POTUS",
+         "Twitter followers in millions": "26"
+      },
+      {
+         "Account Name": "The White House United States @WhiteHouse",
+         "Twitter followers in millions": "18"
+      },
+      {
+         "Account Name": "Recep Tayyip Erdo\u011fan Turkey  @RTErdogan",
+         "Twitter followers in millions": "13"
+      },
+      {
+         "Account Name": "Joko Widodo Indonesia @Jokowi",
+         "Twitter followers in millions": "11"
+      },
+      {
+         "Account Name": "Queen Rania Jordan @QueenRania",
+         "Twitter followers in millions": "10"
+      },
+      {
+         "Account Name": "Imran Khan Pakistan @imrankhanpti",
+         "Twitter followers in millions": "9"
+      }
+   ],
+   "gold": "In 2019 , 187 countries were represented through an official presence on Twitter , either by personal or institutional accounts run by heads of state and government and foreign ministers . During the measured period , U.S. President Donald Trump was ranked first , having accumulated over 61 million Twitter followers on his personal account . The official @ POTUS account was ranked fifth with 26 million followers worldwide .\n"
+}

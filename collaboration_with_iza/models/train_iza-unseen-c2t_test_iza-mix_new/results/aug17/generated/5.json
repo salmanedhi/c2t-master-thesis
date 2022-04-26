@@ -1,0 +1,42 @@
+{
+   "title": "Median Salary of Women in Najaf Per Year",
+   "xAxis": "Year",
+   "yAxis": "Salary Thousand Pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The bar chart shows the Median Salary of Women in Najar Per Year over a 4 Year period . ",
+      "In 2000 the Median Salary was approximately \u00a3 22.5 k . ",
+      "In 2005 the Median Salary was just under \u00a3 25.65 k ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0"
+      },
+      {
+         "1": "1",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Salary Thousand Pounds": "22.7"
+      },
+      {
+         "Year": "2005",
+         "Salary Thousand Pounds": "25.65"
+      },
+      {
+         "Year": "2010",
+         "Salary Thousand Pounds": "19.7"
+      },
+      {
+         "Year": "2015",
+         "Salary Thousand Pounds": "16.0"
+      }
+   ],
+   "gold": "The median salary of women in Najaf per 5 years started fairly high in the table in the year 2000 and showed its highest in 2005 being \u00a3 26 ,000 . Over the next 10 years the salary soon dropped to a shocking \u00a3 16 ,000 by 2015 .\n"
+}

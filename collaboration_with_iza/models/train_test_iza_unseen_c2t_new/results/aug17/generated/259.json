@@ -1,0 +1,412 @@
+{
+   "title": "Obama presidential job approval 2009 to 2017",
+   "xAxis": "Month",
+   "yAxis": "Approval rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the leading Month in the Obama Approval 2009 in the field of job Obama . ",
+      "The 2009 edition of the Approval uses data from the year . ",
+      "The Approval rate for Jan_'17 was at 66 rate in the Obama Approval 2009 in the field of job Obama ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "4": "0",
+         "7": "96"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '17",
+         "Approval rate": "57"
+      },
+      {
+         "Month": "Dec '16",
+         "Approval rate": "56"
+      },
+      {
+         "Month": "Nov '16",
+         "Approval rate": "56"
+      },
+      {
+         "Month": "Oct '16",
+         "Approval rate": "54"
+      },
+      {
+         "Month": "Sep '16",
+         "Approval rate": "52"
+      },
+      {
+         "Month": "Aug '16",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Jul '16",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Jun '16",
+         "Approval rate": "52"
+      },
+      {
+         "Month": "May '16",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Apr '16",
+         "Approval rate": "50"
+      },
+      {
+         "Month": "Mar '16",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Feb '16",
+         "Approval rate": "48"
+      },
+      {
+         "Month": "Jan '16",
+         "Approval rate": "48"
+      },
+      {
+         "Month": "Dec '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Nov '15",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Oct '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Sep '15",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Aug '15",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Jul '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Jun '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "May '15",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Apr '15",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Mar '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Feb '15",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Jan '15",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Dec '14",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Nov '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "Oct '14",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Sep '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "Aug '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "Jul '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "Jun '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "May '14",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Apr '14",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Mar '14",
+         "Approval rate": "43"
+      },
+      {
+         "Month": "Feb '14",
+         "Approval rate": "42"
+      },
+      {
+         "Month": "Jan '14",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Dec '13",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Nov '13",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Oct '13",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Sep '13",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Aug '13",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Jul '13",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Jun '13",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "May '13",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Apr '13",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Mar '13",
+         "Approval rate": "48"
+      },
+      {
+         "Month": "Feb '13",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Jan '13",
+         "Approval rate": "52"
+      },
+      {
+         "Month": "Dec '12",
+         "Approval rate": "53"
+      },
+      {
+         "Month": "Nov '12",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Oct '12",
+         "Approval rate": "50"
+      },
+      {
+         "Month": "Sep '12",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Aug '12",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Jul '12",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Jun '12",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "May '12",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Apr '12",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Mar '12",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Feb '12",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Jan '12",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Dec '11",
+         "Approval rate": "43"
+      },
+      {
+         "Month": "Nov '11",
+         "Approval rate": "43"
+      },
+      {
+         "Month": "Oct '11",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Sep '11",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Aug '11",
+         "Approval rate": "41"
+      },
+      {
+         "Month": "Jul '11",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Jun '11",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "May '11",
+         "Approval rate": "50"
+      },
+      {
+         "Month": "Apr '11",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Mar '11",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Feb '11",
+         "Approval rate": "47"
+      },
+      {
+         "Month": "Jan '11",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Dec '10",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Nov '10",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Oct '10",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Sep '10",
+         "Approval rate": "45"
+      },
+      {
+         "Month": "Aug '10",
+         "Approval rate": "44"
+      },
+      {
+         "Month": "Jul '10",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "Jun '10",
+         "Approval rate": "46"
+      },
+      {
+         "Month": "May '10",
+         "Approval rate": "48"
+      },
+      {
+         "Month": "Apr '10",
+         "Approval rate": "48"
+      },
+      {
+         "Month": "Mar '10",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Feb '10",
+         "Approval rate": "50"
+      },
+      {
+         "Month": "Jan '10",
+         "Approval rate": "49"
+      },
+      {
+         "Month": "Dec '09",
+         "Approval rate": "50"
+      },
+      {
+         "Month": "Nov '09",
+         "Approval rate": "51"
+      },
+      {
+         "Month": "Oct '09",
+         "Approval rate": "53"
+      },
+      {
+         "Month": "Sep '09",
+         "Approval rate": "52"
+      },
+      {
+         "Month": "Aug '09",
+         "Approval rate": "57"
+      },
+      {
+         "Month": "Jul '09",
+         "Approval rate": "61"
+      },
+      {
+         "Month": "Jun '09",
+         "Approval rate": "61"
+      },
+      {
+         "Month": "May '09",
+         "Approval rate": "65"
+      },
+      {
+         "Month": "Apr '09",
+         "Approval rate": "63"
+      },
+      {
+         "Month": "Mar '09",
+         "Approval rate": "62"
+      },
+      {
+         "Month": "Feb '09",
+         "Approval rate": "64"
+      },
+      {
+         "Month": "Jan '09",
+         "Approval rate": "66"
+      }
+   ],
+   "gold": "This statistic shows the job approval ratings of U.S. president Barack Obama , on a monthly basis during his time in office from 2009 to 2017 . The survey is conducted doing telephone interviews among about 15,000 adults per month in the U.S . The graph shows the results for the monthly aggregate to depict an annual trend .\n"
+}

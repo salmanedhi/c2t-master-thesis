@@ -1,0 +1,45 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total Number of expeditions in the ( ) in , sorted expeditions Glacier . ",
+      "In , 13 % of the expeditions were Volta The in by ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "The chart shows the most explored glaciers in terms of the number of expeditions with Mefonna having the most \u2013 13 expeditions down to Tasman the least expored of the group at 2 expeditions . In between , we have Volata 4 , Olav 5 , Zvevzda 6 and Akkem 9 .\n"
+}

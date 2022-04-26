@@ -1,0 +1,36 @@
+{
+   "title": "YouTube usage penetration in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the findings of YouTube Sex penetration in United States . ",
+      "\\\\n The highest percentage was Female Sex at 68 % . ",
+      "Next highest was Female of at around 35 % and Male the lowest , at just under 25 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "8": "0"
+      },
+      {
+         "3": "1",
+         "5": "1",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Reach": "68"
+      },
+      {
+         "Sex": "Female",
+         "Reach": "67"
+      }
+   ],
+   "gold": "According to a third quarter 2019 survey , 68 percent of male internet users in the United States used YouTube . The video platform had a usage reach of 67 percent among female U.S. internet users . Overall , 38 percent of U.S. YouTube users accessed the platform several times a day .\n"
+}

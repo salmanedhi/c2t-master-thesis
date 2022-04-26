@@ -1,0 +1,53 @@
+{
+   "title": "Total global visitor traffic to Groupon.com 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of unique visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of unique made by visitor in a traffic Groupon.com . ",
+      "\\\\n From the chart we see that the Aug_'19 Month was the Total global Month in the Groupon.com with 54.2 unique . ",
+      "The next Month to make the most unique was the Jul_'19 Month with 54.1 unique closely followed by the May_'19 Month with 52.9 unique ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "4"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "5",
+         "22": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Oct '19",
+         "Number of unique visitors in millions": "43.4"
+      },
+      {
+         "Month": "Sep '19",
+         "Number of unique visitors in millions": "42.5"
+      },
+      {
+         "Month": "Aug '19",
+         "Number of unique visitors in millions": "47.7"
+      },
+      {
+         "Month": "Jul '19",
+         "Number of unique visitors in millions": "54.1"
+      },
+      {
+         "Month": "Jun '19",
+         "Number of unique visitors in millions": "54.2"
+      },
+      {
+         "Month": "May '19",
+         "Number of unique visitors in millions": "52.9"
+      }
+   ],
+   "gold": "This statistic shows the unique monthly visitors to social couponing site Groupon from May 2019 to October 2019 . During the last measured month , almost 43.4 million unique global visitors had visited Groupon , down from 52.9 million visitors in May 2019 .\n"
+}

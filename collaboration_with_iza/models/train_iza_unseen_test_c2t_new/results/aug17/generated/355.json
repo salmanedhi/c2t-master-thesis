@@ -1,0 +1,76 @@
+{
+   "title": "Delay rate of the most punctual trains in Europe 2016",
+   "xAxis": "Railway Stations",
+   "yAxis": "Rate of delay",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Delay rate Railway in the punctual trains was Railway Reims_(SNCF) , who made 1.32 delay . ",
+      "The most rate Railway was Brest_(SNCF) , with just 0 delay . ",
+      "In second place was Railway Ashford_International_(Eurostar) with 0 delay ; third place went to Railway Lille_Europe_(Eurostar) with 0 delay ; fourth place went to Railway Ebbsfleet_(Eurostar) with 1.32 delay and fifth place went to Railway Limoges_(SNCF) , who was 1.09 delay ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "9"
+      },
+      {
+         "6": "4",
+         "10": "0"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Railway Stations": "Lille Europe (Eurostar)",
+         "Rate of delay": "0"
+      },
+      {
+         "Railway Stations": "Ashford International (Eurostar)",
+         "Rate of delay": "0"
+      },
+      {
+         "Railway Stations": "Reims (SNCF)",
+         "Rate of delay": "0.89"
+      },
+      {
+         "Railway Stations": "Limoges (SNCF)",
+         "Rate of delay": "1.09"
+      },
+      {
+         "Railway Stations": "Brest (SNCF)",
+         "Rate of delay": "1.14"
+      },
+      {
+         "Railway Stations": "Dijon (SNCF)",
+         "Rate of delay": "1.16"
+      },
+      {
+         "Railway Stations": "Lille (SNCF)",
+         "Rate of delay": "1.21"
+      },
+      {
+         "Railway Stations": "Anger Saint-Laud (SNCF)",
+         "Rate of delay": "1.26"
+      },
+      {
+         "Railway Stations": "Laval (SNCF)",
+         "Rate of delay": "1.29"
+      },
+      {
+         "Railway Stations": "Ebbsfleet (Eurostar)",
+         "Rate of delay": "1.32"
+      }
+   ],
+   "gold": "The Eurostar high-speed train brings passengers from one side of the Channel , which separates the United Kingdom from Continental Europe , to the other . Much to the pleasure of the passengers heading to or departing from the Lille Railway station , this train registered a rate of delay ( of more than half an hour ) of 0 percent , making it one of the most punctual European trains in 2016 . Eurostar has a high perception in the UK Usually , the high volume of passengers combined with the long distances covered by this train , could signify a decrease in the quality of the service provided .\n"
+}

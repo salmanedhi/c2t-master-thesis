@@ -1,0 +1,70 @@
+{
+   "title": "Largest donors of humanitarian aid worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Aid (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , United_States had 398.5 of the highest worldwide 2019 donors humanitarian as a million of its Largest among the select Country globally . ",
+      "United_States aid energy-related humanitarian Aid of Largest totaled 6496.3 million within this period . ",
+      "Comparatively , Sweden aid donors of their Largest was just 398.5 million ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "7"
+      },
+      {
+         "0": "0",
+         "8": "0"
+      },
+      {
+         "2": "8",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Aid (in million U.S. dollars)": "6496.3"
+      },
+      {
+         "Country": "Germany",
+         "Aid (in million U.S. dollars)": "1483.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Aid (in million U.S. dollars)": "1439.3"
+      },
+      {
+         "Country": "European commission",
+         "Aid (in million U.S. dollars)": "1168.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Aid (in million U.S. dollars)": "990.8"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Aid (in million U.S. dollars)": "425.0"
+      },
+      {
+         "Country": "Canada",
+         "Aid (in million U.S. dollars)": "406.2"
+      },
+      {
+         "Country": "Central Emergency Response Fund",
+         "Aid (in million U.S. dollars)": "398.5"
+      },
+      {
+         "Country": "Sweden",
+         "Aid (in million U.S. dollars)": "351.2"
+      },
+      {
+         "Country": "EU Commission - EU facility for refugees in Turkey",
+         "Aid (in million U.S. dollars)": "349.4"
+      }
+   ],
+   "gold": "This statistic shows the top donors of humanitarian aid worldwide in 2019 . In this year , the United States government donated nearly 6.5 billion U.S. dollars in humanitarian aid worldwide .\n"
+}

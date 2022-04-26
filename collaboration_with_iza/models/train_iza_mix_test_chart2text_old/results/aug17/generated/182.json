@@ -1,0 +1,39 @@
+{
+   "title": "Gross NPA of private banks India 2016 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Value in trillion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the NPA of private in NPA . ",
+      "\\\\n The biggest Fiscal , shown to be responsible for 1.86 trillion of cases , is genes . ",
+      "FY_2017 of FY_2017 accounts for 35 trillion of private and FY_2019 is the Fiscal in nearly 25 trillion of cases ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "1"
+      },
+      {
+         "0": "2",
+         "2": "2",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Value in trillion Indian rupees": "1.84"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Value in trillion Indian rupees": "1.86"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Value in trillion Indian rupees": "0.94"
+      }
+   ],
+   "gold": "In fiscal year 2019 , the value of non-performing assets of private banks across India amounted to over 1.8 trillion Indian rupees . This was much lesser in fiscal year 2017 , amounting to about 9.3 billion rupees . Non-performing assets have posed a big problem for banks in India and experts point that this crisis had been long in the making .\n"
+}

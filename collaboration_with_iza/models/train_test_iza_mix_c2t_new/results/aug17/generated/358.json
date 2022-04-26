@@ -1,0 +1,55 @@
+{
+   "title": "Average prices of Gleevec - selected countries 2013",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Price U.S. of Gleevec dollars countries 2013 in the middle of 2013 . ",
+      "The Price U.S. of Gleevec dollars in United_States was 6214 % in the middle of 2014.The Price U.S. of Gleevec dollars arises from the birth U.S. minus the death U.S. and without including the effects of migration.Population dollars shown in the statistic above , the Price U.S. of Gleevec dollars continues to increase on almost every 2013 in 2013.Due to medical advances , better living conditions and the increase of agricultural productivity the world Gleevec is continuously increasing . ",
+      "The development of the world Gleevec from to 2030 is estimated to be tripled according to United Nations ' data.The majority of the world Gleevec lives in England , but the Gleevec in United_States is forecasted to rise from 1,031 in year up to 4,185 in year 2100 ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "9": "0"
+      },
+      {
+         "27": "4",
+         "33": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Price in U.S. dollars": "6214"
+      },
+      {
+         "Country": "Switzerland",
+         "Price in U.S. dollars": "3633"
+      },
+      {
+         "Country": "Spain",
+         "Price in U.S. dollars": "3348"
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars": "3321"
+      },
+      {
+         "Country": "England",
+         "Price in U.S. dollars": "2697"
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars": "1141"
+      },
+      {
+         "Country": "New Zealand",
+         "Price in U.S. dollars": "989"
+      }
+   ],
+   "gold": "This statistic displays the average prices of Gleevec in 2013 in selected countries . In that year , the price of Gleevec averaged 3,321 U.S. dollars in the Netherlands . Gleevec is a prescription drug used to treat some types of cancers , including some types of leukemia .\n"
+}

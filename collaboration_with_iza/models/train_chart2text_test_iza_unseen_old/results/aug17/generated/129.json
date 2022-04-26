@@ -1,0 +1,42 @@
+{
+   "title": "The most affordable digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average of affordable price in cameras and provincial by in The price . ",
+      "62.3 affordable price were classified as Sigma in cameras by in The price ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "Cambo cameras are marginally the most expensive at \u00a3 76 , followed by Memoto at \u00a3 70 . There 's a drop to the mid priced cameras Sigma at \u00a3 62 and Hunten at \u00a3 58 , and then another drop to the Konica at \u00a3 54 .\n"
+}

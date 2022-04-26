@@ -1,0 +1,235 @@
+{
+   "title": "German national football team - players with the most goals 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of goals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the German national in German . ",
+      "It shows Joachim_Streich was the German at just 14 degrees and J\u00fcrgen_Klinsmann was the warmest at 71 degrees . ",
+      "After Joachim_Streich , the next German national are Miroslav_Klose at 71 degrees , followed by Tull_Harder at 18 degrees , Gerd_M\u00fcller at 68 degrees and then Lukas_Podolski at 49 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "46",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "49",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Miroslav Klose",
+         "Number of goals": "71"
+      },
+      {
+         "Month": "Gerd M\u00fcller",
+         "Number of goals": "68"
+      },
+      {
+         "Month": "Joachim Streich",
+         "Number of goals": "59"
+      },
+      {
+         "Month": "Lukas Podolski",
+         "Number of goals": "49"
+      },
+      {
+         "Month": "J\u00fcrgen Klinsmann",
+         "Number of goals": "47"
+      },
+      {
+         "Month": "Rudi V\u00f6ller",
+         "Number of goals": "47"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge",
+         "Number of goals": "45"
+      },
+      {
+         "Month": "Uwe Seeler",
+         "Number of goals": "43"
+      },
+      {
+         "Month": "Michael Ballack",
+         "Number of goals": "42"
+      },
+      {
+         "Month": "Thomas M\u00fcller",
+         "Number of goals": "38"
+      },
+      {
+         "Month": "Oliver Bierhoff",
+         "Number of goals": "37"
+      },
+      {
+         "Month": "Ulf Kirsten",
+         "Number of goals": "34"
+      },
+      {
+         "Month": "Fritz Walter",
+         "Number of goals": "33"
+      },
+      {
+         "Month": "Klaus Fischer",
+         "Number of goals": "32"
+      },
+      {
+         "Month": "Mario Gomez",
+         "Number of goals": "31"
+      },
+      {
+         "Month": "Ernst Lehner",
+         "Number of goals": "31"
+      },
+      {
+         "Month": "Andreas M\u00f6ller",
+         "Number of goals": "29"
+      },
+      {
+         "Month": "Edmund Conen",
+         "Number of goals": "27"
+      },
+      {
+         "Month": "Eberhard Vogel",
+         "Number of goals": "27"
+      },
+      {
+         "Month": "Hans-J\u00fcrgen Kreische",
+         "Number of goals": "27"
+      },
+      {
+         "Month": "Bastian Schweinsteiger",
+         "Number of goals": "24"
+      },
+      {
+         "Month": "Richard Hofmann",
+         "Number of goals": "24"
+      },
+      {
+         "Month": "Mesut \u00d6zil",
+         "Number of goals": "23"
+      },
+      {
+         "Month": "Lothar Matth\u00e4us",
+         "Number of goals": "23"
+      },
+      {
+         "Month": "Andr\u00e9 Sch\u00fcrrle",
+         "Number of goals": "22"
+      },
+      {
+         "Month": "Helmut Rahn",
+         "Number of goals": "21"
+      },
+      {
+         "Month": "Max Morlock",
+         "Number of goals": "21"
+      },
+      {
+         "Month": "Rainer Ernst",
+         "Number of goals": "20"
+      },
+      {
+         "Month": "Karl Hohmann",
+         "Number of goals": "20"
+      },
+      {
+         "Month": "Kevin Kur\u00e1nyi",
+         "Number of goals": "19"
+      },
+      {
+         "Month": "J\u00fcrgen Sparwasser",
+         "Number of goals": "19"
+      },
+      {
+         "Month": "Henning Frenzel",
+         "Number of goals": "19"
+      },
+      {
+         "Month": "Pierre Littbarski",
+         "Number of goals": "18"
+      },
+      {
+         "Month": "Andreas Thom",
+         "Number of goals": "18"
+      },
+      {
+         "Month": "Toni Kroos",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Wolfgang Overath",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Klaus Allofs",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Otto Siffling",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Helmut Sch\u00f6n",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Martin Hoffmann",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Mario G\u00f6tze",
+         "Number of goals": "17"
+      },
+      {
+         "Month": "Karl-Heinz Riedle",
+         "Number of goals": "16"
+      },
+      {
+         "Month": "Willi Hahnemann",
+         "Number of goals": "16"
+      },
+      {
+         "Month": "Peter Ducke",
+         "Number of goals": "16"
+      },
+      {
+         "Month": "J\u00fcrgen N\u00f6ldner",
+         "Number of goals": "16"
+      },
+      {
+         "Month": "Hans Sch\u00e4fer",
+         "Number of goals": "15"
+      },
+      {
+         "Month": "Franz Beckenbauer",
+         "Number of goals": "14"
+      },
+      {
+         "Month": "Matthias Sammer",
+         "Number of goals": "14"
+      },
+      {
+         "Month": "Jupp Heynckes",
+         "Number of goals": "14"
+      },
+      {
+         "Month": "Tull Harder",
+         "Number of goals": "14"
+      }
+   ],
+   "gold": "Miroslav Klose tops the current ranking , having scored 71 goals during his time playing for the German national football team in international matches . Besides playing for Germany , notably in the team that won the title in the FIFA World Cup in 2014 , his career includes such clubs as Bayern Munich and Werder Bremen . German football stars Miroslav Klose is the leading goal scorer of all time , though experts predict the next player to take the crown could be Gerd M\u00fcller .\n"
+}

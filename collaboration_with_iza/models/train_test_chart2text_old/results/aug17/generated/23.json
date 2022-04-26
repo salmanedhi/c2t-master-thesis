@@ -1,0 +1,106 @@
+{
+   "title": "Ranking of telecommunication companies in Sweden 2019 , by number of employees",
+   "xAxis": "Telecommunication Companies",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of employees companies the Sweden Eltel_AB by number in 2019 . ",
+      "The Eltel_AB Companies Telia_Company_AB employs the most people among the Sweden Eltel_AB by , with 24468 employees number in 2019 ."
+   ],
+   "trends": [
+      {
+         "10": "1"
+      },
+      {
+         "1": "1",
+         "3": "0",
+         "11": "1",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Telecommunication Companies": "Telia Company AB",
+         "Number of employees": "24468"
+      },
+      {
+         "Telecommunication Companies": "Eltel AB",
+         "Number of employees": "8781"
+      },
+      {
+         "Telecommunication Companies": "Tele2 AB",
+         "Number of employees": "6924"
+      },
+      {
+         "Telecommunication Companies": "Relacom Management AB",
+         "Number of employees": "2667"
+      },
+      {
+         "Telecommunication Companies": "Tele2 Sverige AB",
+         "Number of employees": "2344"
+      },
+      {
+         "Telecommunication Companies": "Eltel Networks Infranet AB",
+         "Number of employees": "2125"
+      },
+      {
+         "Telecommunication Companies": "Telenor Sverige AB",
+         "Number of employees": "1530"
+      },
+      {
+         "Telecommunication Companies": "Com Hem AB",
+         "Number of employees": "883"
+      },
+      {
+         "Telecommunication Companies": "Transtema Network Services AB",
+         "Number of employees": "739"
+      },
+      {
+         "Telecommunication Companies": "Svenska Rymd AB",
+         "Number of employees": "465"
+      },
+      {
+         "Telecommunication Companies": "CLX Communications AB",
+         "Number of employees": "340"
+      },
+      {
+         "Telecommunication Companies": "Transtema Group AB",
+         "Number of employees": "294"
+      },
+      {
+         "Telecommunication Companies": "TelaVox AB",
+         "Number of employees": "229"
+      },
+      {
+         "Telecommunication Companies": "A3 Allm\u00e4nna IT - och Telekom AB",
+         "Number of employees": "150"
+      },
+      {
+         "Telecommunication Companies": "Verizon Sweden AB",
+         "Number of employees": "124"
+      },
+      {
+         "Telecommunication Companies": "Telenor Connexion AB",
+         "Number of employees": "116"
+      },
+      {
+         "Telecommunication Companies": "Viafield Sweden AB",
+         "Number of employees": "95"
+      },
+      {
+         "Telecommunication Companies": "IT-M\u00e4staren Mitt AB",
+         "Number of employees": "76"
+      },
+      {
+         "Telecommunication Companies": "Rebtel Owners AB",
+         "Number of employees": "75"
+      },
+      {
+         "Telecommunication Companies": "Reb Tel Networks AB",
+         "Number of employees": "74"
+      }
+   ],
+   "gold": "Based on the number of employees , Telia Company AB was the top ranked telecommunication company in Sweden in 2019 . Telia had nearly 25 thousand employees in Sweden . It was followed by Eltel AB and Tele2 AB , which had 8.7 and 6.9 thousand employees , respectively .\n"
+}

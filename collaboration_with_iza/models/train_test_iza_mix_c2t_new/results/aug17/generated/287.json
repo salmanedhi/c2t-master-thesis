@@ -1,0 +1,71 @@
+{
+   "title": "Construction cost per kilometer of high-speed line in France 2014",
+   "xAxis": "High-speed Line",
+   "yAxis": "Construction cost per kilometer in millions of euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic reflects the LGV_Paris-Lyon Line France in the Construction in , sorted by LGV_North . ",
+      "During the survey period , it was found that 10.8 millions of the cost per kilometer had a LGV_North LGV_Paris-Lyon of LGV_North at cost . ",
+      "Furthermore , 13.4 millions of kilometer also hat a LGV_Rh\u00f4ne-Alpes and 15.5 millions LGV_Atlantic subscribed to LGV_Rh\u00f4ne-Alpes online service LGV_Paris-Lyon North-South_interconnection LGV_North of LGV_Paris-Lyon ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "14": "2"
+      },
+      {
+         "9": "2",
+         "18": "2",
+         "19": "0",
+         "21": "2"
+      },
+      {
+         "2": "3",
+         "9": "3",
+         "11": "4",
+         "13": "1",
+         "16": "3",
+         "19": "0",
+         "20": "4",
+         "21": "2",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "High-speed Line": "LGV Paris-Lyon",
+         "Construction cost per kilometer in millions of euros": "5.5"
+      },
+      {
+         "High-speed Line": "LGV Atlantic",
+         "Construction cost per kilometer in millions of euros": "10.4"
+      },
+      {
+         "High-speed Line": "LGV North",
+         "Construction cost per kilometer in millions of euros": "10.8"
+      },
+      {
+         "High-speed Line": "LGV Rh\u00f4ne-Alpes",
+         "Construction cost per kilometer in millions of euros": "13.4"
+      },
+      {
+         "High-speed Line": "North-South interconnection",
+         "Construction cost per kilometer in millions of euros": "15.5"
+      },
+      {
+         "High-speed Line": "LGV East",
+         "Construction cost per kilometer in millions of euros": "15.7"
+      },
+      {
+         "High-speed Line": "LGV Rhine-Rhone",
+         "Construction cost per kilometer in millions of euros": "17.5"
+      },
+      {
+         "High-speed Line": "LGV Mediterranean",
+         "Construction cost per kilometer in millions of euros": "19.7"
+      }
+   ],
+   "gold": "Here is a statistic about the construction cost per kilometer of high-speed lines ( HSL ) in France in 2014 ( in millions of euros ) . It shows that the construction of the Mediterranean high-speed line , which links the Provence-Alpes-C\u00f4te d'Azur and Languedoc-Roussillon regions , cost around 20 million euros per kilometer .\n"
+}

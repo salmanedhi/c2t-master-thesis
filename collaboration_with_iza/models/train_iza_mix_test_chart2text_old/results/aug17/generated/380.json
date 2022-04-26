@@ -1,0 +1,61 @@
+{
+   "title": "Population of Virginia , by race and ethnicity 2018",
+   "xAxis": "Race",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of residents conducted by in a race ethnicity . ",
+      "\\\\n From the chart we see that the Hispanic_or_Latino_(of_any_race) Race was the Population Virginia Race in the ethnicity with 5224295 residents . ",
+      "The next Race to make the most residents was the Asian_alone Race with 550696 residents closely followed by Native_Hawaiian_and_Other_Pacific_Islander_alone with 4587 residents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "7",
+         "20": "7"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White alone",
+         "Number of residents": "5224295"
+      },
+      {
+         "Race": "Black or African American alone",
+         "Number of residents": "1597761"
+      },
+      {
+         "Race": "Hispanic or Latino (of any race)",
+         "Number of residents": "812810"
+      },
+      {
+         "Race": "Asian alone",
+         "Number of residents": "550696"
+      },
+      {
+         "Race": "Two or more races",
+         "Number of residents": "288865"
+      },
+      {
+         "Race": "Some other race alone",
+         "Number of residents": "20390"
+      },
+      {
+         "Race": "American Indian and Alaska Native alone",
+         "Number of residents": "18281"
+      },
+      {
+         "Race": "Native Hawaiian and Other Pacific Islander alone",
+         "Number of residents": "4587"
+      }
+   ],
+   "gold": "This statistic shows the population of Virginia , distinguished by race and Hispanic origin in 2018 . In 2018 , about 1.6 million people in Virginia were Black or African American .\n"
+}

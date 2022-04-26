@@ -1,0 +1,38 @@
+{
+   "title": "Gender pay gap in Germany in 2017",
+   "xAxis": "Country",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage difference of the Gender Germany in 2017 from 3 European nations . ",
+      "The 2 largest economies , Germany and the United Kingdom have a similar Germany at just above 20 percentage . ",
+      "Spain has the lowest percentage in Gender Germany at 15.1 percentage ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      },
+      {
+         "0": "1",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Percentage": "21.0"
+      },
+      {
+         "Country": "Spain",
+         "Percentage": "15.1"
+      },
+      {
+         "Country": "UK",
+         "Percentage": "20.5"
+      }
+   ],
+   "gold": "The chart shows the gender pay gap , expressed in percentage in three different countries . The UK and Germany have similar gender pay gaps at around 20 % whilst Spain is doing a little better at 15 % .\n"
+}

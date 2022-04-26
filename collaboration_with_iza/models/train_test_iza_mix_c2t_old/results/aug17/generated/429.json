@@ -1,0 +1,38 @@
+{
+   "title": "Share of U.S. male/female adults following Major League Baseball ( MLB ) 2014",
+   "xAxis": "Sex",
+   "yAxis": "Answered yes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Since 1982 , an astonishing 47 Share U.S. have been carried out in the male/female following Male adults . ",
+      "In contrast , only 27 Share U.S. ( defined following the source as a single attack in a public place in which four or more victims were killed ) have been carried out following women . ",
+      "Gun ownership in the male/female ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "16": "0"
+      },
+      {
+         "4": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Answered yes": "47"
+      },
+      {
+         "Sex": "Female",
+         "Answered yes": "27"
+      },
+      {
+         "Sex": "All adults",
+         "Answered yes": "37"
+      }
+   ],
+   "gold": "The statistic depicts the the share of the surveyed respondents that follow Major League Baseball . 47 percent of the male respondents said that they do follow Major League Baseball .\n"
+}

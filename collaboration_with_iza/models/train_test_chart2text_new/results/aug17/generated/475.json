@@ -1,0 +1,62 @@
+{
+   "title": "Movies with biggest production budgets in India 2019",
+   "xAxis": "Movie",
+   "yAxis": "Production budget in billion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the India Movie worldwide production 30 day budgets as of 2019 . ",
+      "At that time , 2.0 had a 30 day budgets of 5.75 billion budget , making it the largest Movie globally ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Movie": "2.0",
+         "Production budget in billion Indian rupees": "5.75"
+      },
+      {
+         "Movie": "Thugs of Hindostan",
+         "Production budget in billion Indian rupees": "3.25"
+      },
+      {
+         "Movie": "Zero",
+         "Production budget in billion Indian rupees": "2.7"
+      },
+      {
+         "Movie": "Padmaavat",
+         "Production budget in billion Indian rupees": "2.15"
+      },
+      {
+         "Movie": "Tiger Zinda Hai",
+         "Production budget in billion Indian rupees": "2.1"
+      },
+      {
+         "Movie": "Bahubali 2 - The Conclusion",
+         "Production budget in billion Indian rupees": "1.95"
+      },
+      {
+         "Movie": "Race 3",
+         "Production budget in billion Indian rupees": "1.85"
+      },
+      {
+         "Movie": "Saaho",
+         "Production budget in billion Indian rupees": "3.25"
+      },
+      {
+         "Movie": "Bharat",
+         "Production budget in billion Indian rupees": "2.4"
+      },
+      {
+         "Movie": "War",
+         "Production budget in billion Indian rupees": "2.05"
+      }
+   ],
+   "gold": "The science fiction movie 2.0 was ranked as the all-time highest budget movie in India with a production value of almost six billion Indian rupees . Saaho , another action thriller produced in 2019 became the second highest big-budget film costing over 3.2 billion rupees . The business of Bollywood The Indian film industry was valued at over 180 billion rupees in fiscal year 2019 , and it was estimated to reach up to 260 billion rupees by the end of fiscal year 2024 .\n"
+}

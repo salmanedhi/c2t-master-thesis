@@ -1,0 +1,40 @@
+{
+   "title": "Bombardier - Revenues by segment 2018",
+   "xAxis": "Segment",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Billion of U.S. the Revenues Four Segment 2018 in . ",
+      "Aerostructures_and_Engineering_Services U.S. 1.95 members of staff in 2018 . ",
+      "The `` Revenues Four `` - additional information The `` Revenues Four `` are the four global leaders in Segment and ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "2": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Segment": "Transportation",
+         "Billion U.S. dollars": "8.91"
+      },
+      {
+         "Segment": "Business Aircraft",
+         "Billion U.S. dollars": "4.99"
+      },
+      {
+         "Segment": "Aerostructures and Engineering Services",
+         "Billion U.S. dollars": "1.95"
+      },
+      {
+         "Segment": "Commercial Aircraft",
+         "Billion U.S. dollars": "1.76"
+      }
+   ],
+   "gold": "This statistic gives a breakdown of Bombardier 's revenue in the fiscal year of 2018 , by segment . The Montreal-headquartered company had revenues of approximately five billion U.S. dollars in its business aircraft segment .\n"
+}

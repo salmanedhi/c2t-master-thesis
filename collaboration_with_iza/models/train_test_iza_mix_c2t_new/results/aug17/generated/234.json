@@ -1,0 +1,71 @@
+{
+   "title": "Facebook : major stakeholders in 2013 , by ownership stake",
+   "xAxis": "Month",
+   "yAxis": "Ownership stake",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Facebook of major and stakeholders 2013 the by Ownership stake . ",
+      "As of the last reported period , Facebook had paid a Facebook of 28.2 million major stakeholders stake . ",
+      "The social photo sharing website managed to garner great attention by gaining more than 11 % US stake in ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Mark Zuckerberg",
+         "Ownership stake": "28.2"
+      },
+      {
+         "Month": "Facebook employees",
+         "Ownership stake": "25"
+      },
+      {
+         "Month": "Accel Partners",
+         "Ownership stake": "11.4"
+      },
+      {
+         "Month": "Dustin Moskovitz",
+         "Ownership stake": "7.6"
+      },
+      {
+         "Month": "Digital Sky Technologies",
+         "Ownership stake": "5.5"
+      },
+      {
+         "Month": "Eduardo Saverin",
+         "Ownership stake": "5"
+      },
+      {
+         "Month": "Sean Parker",
+         "Ownership stake": "4"
+      },
+      {
+         "Month": "Foreign Goldman Sachs clients",
+         "Ownership stake": "2.8"
+      },
+      {
+         "Month": "Peter Thiel",
+         "Ownership stake": "2.5"
+      },
+      {
+         "Month": "Greylock Partners",
+         "Ownership stake": "1.5"
+      },
+      {
+         "Month": "MeriTech Capital Partners",
+         "Ownership stake": "1.5"
+      },
+      {
+         "Month": "Elevation Partners",
+         "Ownership stake": "1.5"
+      }
+   ],
+   "gold": "This statistic illustrates the major Facebook stakeholders as of January 2013 , by ownership stake . In June 2011 , Sean Parker owned 4 percent in Facebook stakes . Mark Zuckerberg owned 24 percent of Facebook\n"
+}

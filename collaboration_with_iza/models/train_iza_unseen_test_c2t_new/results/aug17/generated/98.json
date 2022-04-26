@@ -1,0 +1,72 @@
+{
+   "title": "Average annual consumer spending , by type U.S. 2018",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Average annual Spending in the spending by was Spending Food , who made 20091 U.S.",
+      "The most annual Spending was Healthcare , with just 1866 U.S.",
+      "In second place was Spending Transportation with 9761 U.S. ; third place went to Spending Housing with 20091 U.S. ; fourth place went to Spending Apparel_and_services with 1866 U.S. and fifth place went to Spending Personal_insurance_and_pensions , who was 7296 U.S. ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "8"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "8",
+         "27": "8",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": "20091"
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": "9761"
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": "7923"
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": "7296"
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": "4968"
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": "3226"
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": "2030"
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": "1888"
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": "1866"
+      }
+   ],
+   "gold": "This statistic shows the average annual expenditures of consumer units in the United States in 2018 , by type . In 2018 , the average U.S. consumer unit spent about 7,923 U.S. dollars on food . The total average U.S. consumer spending amounted to 61,224 U.S. dollars .\n"
+}

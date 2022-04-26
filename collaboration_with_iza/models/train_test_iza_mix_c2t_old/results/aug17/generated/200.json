@@ -1,0 +1,30 @@
+{
+   "title": "Percentage of U.S. social networks who suffer from FOMO as of June 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of Percentage social networks who suffer from FOMO in the U.S. as of 2013 , . ",
+      "During the survey , 56 % of Suffer_from_FOMO said that they found who suffer from FOMO ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Suffer from FOMO",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Don't suffer from FOMO",
+         "Share of respondents": "44"
+      }
+   ],
+   "gold": "This statistic provides information on the share of U.S. social networkers who are afraid of missing something such as an event , news or important status updates if they do n't keep an eye on their social networks . During a survey in June 2013 , it was found that 56 percent of U.S. social network users suffered from the fear of missing out , also known as FOMO .\n"
+}

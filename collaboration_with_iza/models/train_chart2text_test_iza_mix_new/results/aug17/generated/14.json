@@ -1,0 +1,36 @@
+{
+   "title": "What causes Obesity",
+   "xAxis": "type",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage of Obesity on as of . ",
+      "During the measured period , the largest Obesity presence of the brand was on Fast_Food with 60 percentage , as opposed to its 10 percentage base on Lack_of_Exercises ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "17": "0",
+         "25": "2",
+         "30": "2"
+      }
+   ],
+   "data": [
+      {
+         "type": "Fast Food",
+         "Percentage": "60"
+      },
+      {
+         "type": "Genetic",
+         "Percentage": "30"
+      },
+      {
+         "type": "Lack of Exercises",
+         "Percentage": "10"
+      }
+   ],
+   "gold": "Fast food causes 60 % of obesity , genetic predisposition some 30 % whilst lack of exercise contributes the other 10 %\n"
+}

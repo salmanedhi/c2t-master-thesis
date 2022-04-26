@@ -1,0 +1,100 @@
+{
+   "title": "Public opinion on the most important problem facing the U.S. 2020",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph depicts the Public opinion Response , important looking at the Share of respondents that have visited each Response . ",
+      "The Immigration Response is the Public opinion , with only 2 respondents , whilst the Unifying_the_country Response is the most opinion with 28 respondents . ",
+      "After the Immigration , the next lowest is the Dissatisfaction_with_government/Poor_leadership with 28 respondents , then Wars/War_(nonspecific)/Fear_of_war with 2 , Ethics/moral/religious/family_decline with 5 and Healthcare with 5 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "10": "9",
+         "15": "4",
+         "22": "0"
+      },
+      {
+         "2": "1",
+         "9": "0",
+         "11": "0",
+         "15": "15",
+         "17": "15",
+         "19": "3",
+         "21": "3",
+         "23": "2",
+         "25": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Dissatisfaction with government/Poor leadership",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "Immigration",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Healthcare",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Ethics/moral/religious/family decline",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Unifying the country",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Poverty/Hunger/Homelessness",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Lack of respect for each other",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Environment/Pollution/Climate change",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Race relations/Racism",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Situation in Iraq/ISIS",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Foreign policy/Foreign aid/Focus overseas",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Economy in general",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Guns/Gun control",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Gap between rich and poor",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Education",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Wars/War (nonspecific)/Fear of war",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic represents American adults ' view of the most important problem facing the United States . In January 2020 , 28 percent of the participants stated that poor leadership and a general dissatisfaction with the government were the most important problems facing the U.S .\n"
+}

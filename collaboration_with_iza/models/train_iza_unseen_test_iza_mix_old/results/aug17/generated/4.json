@@ -1,0 +1,36 @@
+{
+   "title": "Median Salary of Women Per Year",
+   "xAxis": "Year",
+   "yAxis": "Salary 1000",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Median Salary for Salary Women Per Year has risen steadily from 2000 to 2015 , with on average a $ 5 ,000 increase every 5 years ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "11": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Salary 1000": "40"
+      },
+      {
+         "Year": "2005",
+         "Salary 1000": "45"
+      },
+      {
+         "Year": "2010",
+         "Salary 1000": "50"
+      },
+      {
+         "Year": "2015",
+         "Salary 1000": "55"
+      }
+   ],
+   "gold": "2015 saw women median pay rise to 53 k , from 50 k in 2010 . 2005 it was at 45 k from 40 k in 2000 , so you can see it has been rising steadily\n"
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Annual incomes of highest-paid celebrities 2019",
+   "xAxis": "Celebrity",
+   "yAxis": "Income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays a ranking of the Annual Celebrity in Annual on as of 2019 , based on Income . ",
+      "At this point , Taylor_Swift was the Annual incomes Celebrity , with a Income of 185 million dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Celebrity": "Taylor Swift",
+         "Income in million U.S. dollars": "185"
+      },
+      {
+         "Celebrity": "Kylie Jenner",
+         "Income in million U.S. dollars": "170"
+      },
+      {
+         "Celebrity": "Kanye West",
+         "Income in million U.S. dollars": "150"
+      },
+      {
+         "Celebrity": "Lionel Messi",
+         "Income in million U.S. dollars": "127"
+      },
+      {
+         "Celebrity": "Ed Sheeran",
+         "Income in million U.S. dollars": "110"
+      },
+      {
+         "Celebrity": "Cristiano Ronaldo",
+         "Income in million U.S. dollars": "109"
+      },
+      {
+         "Celebrity": "Neymar",
+         "Income in million U.S. dollars": "105"
+      },
+      {
+         "Celebrity": "The Eagles",
+         "Income in million U.S. dollars": "100"
+      },
+      {
+         "Celebrity": "Dr. Phil McGraw",
+         "Income in million U.S. dollars": "95"
+      },
+      {
+         "Celebrity": "Canelo Alvarez",
+         "Income in million U.S. dollars": "94"
+      }
+   ],
+   "gold": "Leading the ranking of highest-paid celebrities between June 2018 and June 2019 is Taylor Swift , with an annual income of 185 million U.S. dollars . Following closely behind are Kylie Jenner and Kanye West , with 170 and 150 million dollars in earnings respectively . Taylor Swift and Kylie Jenner were the highest paid women in entertainment in 2019 , beating the likes of J.K. Rowling , Kim Kardashian West and Celine Dion .\n"
+}

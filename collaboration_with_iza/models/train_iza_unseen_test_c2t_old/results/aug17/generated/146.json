@@ -1,0 +1,115 @@
+{
+   "title": "Career receiving yards leaders - Dallas Cowboys 1960 to 2019",
+   "xAxis": "Player",
+   "yAxis": "Receiving yards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Career receiving in Dallas . ",
+      "It shows Tony_Hill was the Career at just 2888 degrees and Dez_Bryant was the warmest at 12977 degrees . ",
+      "After Tony_Hill , the next Career receiving are Jason_Witten at 12977 degrees , followed by Patrick_Crayton at 18 degrees , Michael_Irvin at 11904 degrees and then Drew_Pearson at 7822 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "19",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Player": "Jason Witten",
+         "Receiving yards": "12977"
+      },
+      {
+         "Player": "Michael Irvin",
+         "Receiving yards": "11904"
+      },
+      {
+         "Player": "Tony Hill",
+         "Receiving yards": "7988"
+      },
+      {
+         "Player": "Drew Pearson",
+         "Receiving yards": "7822"
+      },
+      {
+         "Player": "Dez Bryant",
+         "Receiving yards": "7459"
+      },
+      {
+         "Player": "Bob Hayes",
+         "Receiving yards": "7295"
+      },
+      {
+         "Player": "Frank Clarke",
+         "Receiving yards": "5214"
+      },
+      {
+         "Player": "Miles Austin",
+         "Receiving yards": "4481"
+      },
+      {
+         "Player": "Doug Cosbie",
+         "Receiving yards": "3728"
+      },
+      {
+         "Player": "Terrell Owens",
+         "Receiving yards": "3587"
+      },
+      {
+         "Player": "Jay Novacek",
+         "Receiving yards": "3576"
+      },
+      {
+         "Player": "Billy Joe DuPree",
+         "Receiving yards": "3565"
+      },
+      {
+         "Player": "Lance Rentzel",
+         "Receiving yards": "3521"
+      },
+      {
+         "Player": "Tony Dorsett",
+         "Receiving yards": "3432"
+      },
+      {
+         "Player": "Terrance Williams",
+         "Receiving yards": "3377"
+      },
+      {
+         "Player": "Terry Glenn",
+         "Receiving yards": "3337"
+      },
+      {
+         "Player": "Cole Beasley",
+         "Receiving yards": "3271"
+      },
+      {
+         "Player": "Kelvin Martin",
+         "Receiving yards": "3083"
+      },
+      {
+         "Player": "Emmitt Smith",
+         "Receiving yards": "3012"
+      },
+      {
+         "Player": "Patrick Crayton",
+         "Receiving yards": "2888"
+      }
+   ],
+   "gold": "The statistic shows Dallas Cowboys players with the most receiving yards in franchise history . Jason Witten is the career receiving leader of the Dallas Cowboys with 12,977 yards .\n"
+}

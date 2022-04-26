@@ -1,0 +1,99 @@
+{
+   "title": "Manchester United Facebook fans 2019",
+   "xAxis": "Month",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Planning to visit the city of light ? If the `` Grand Manchester United Facebook `` counts over two thousand United , in these United welcomed around 35 millions tourists . ",
+      "So how much should one expect to pay for a standard double Facebook ? Which is the cheapest Month to book a Facebook in Manchester United Facebook ? On Facebook , prices vary from 120 millions to over 200 millions , depending on the Month you choose to visit . ",
+      "seems to be the Month offering the cheapest rates throughout the year , whereas Jul_'11 was the priciest ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jul '10",
+         "Facebook fans in millions": "0.8"
+      },
+      {
+         "Month": "Jan '11",
+         "Facebook fans in millions": "8.1"
+      },
+      {
+         "Month": "Jul '11",
+         "Facebook fans in millions": "17.2"
+      },
+      {
+         "Month": "Jan '12",
+         "Facebook fans in millions": "21.5"
+      },
+      {
+         "Month": "Jul '12",
+         "Facebook fans in millions": "26.7"
+      },
+      {
+         "Month": "Jan '13",
+         "Facebook fans in millions": "31.0"
+      },
+      {
+         "Month": "Jul '13",
+         "Facebook fans in millions": "34.2"
+      },
+      {
+         "Month": "Jan '14",
+         "Facebook fans in millions": "40.7"
+      },
+      {
+         "Month": "Jul '14",
+         "Facebook fans in millions": "55.0"
+      },
+      {
+         "Month": "Feb '15",
+         "Facebook fans in millions": "65.0"
+      },
+      {
+         "Month": "Aug '15",
+         "Facebook fans in millions": "65.9"
+      },
+      {
+         "Month": "Feb '16",
+         "Facebook fans in millions": "68.21"
+      },
+      {
+         "Month": "Jul '16",
+         "Facebook fans in millions": "69.99"
+      },
+      {
+         "Month": "Feb '17",
+         "Facebook fans in millions": "72.62"
+      },
+      {
+         "Month": "Jul '17",
+         "Facebook fans in millions": "73.79"
+      },
+      {
+         "Month": "Feb '18",
+         "Facebook fans in millions": "73.78"
+      },
+      {
+         "Month": "Aug '18",
+         "Facebook fans in millions": "73.43"
+      },
+      {
+         "Month": "Feb '19",
+         "Facebook fans in millions": "73.36"
+      },
+      {
+         "Month": "Aug '19",
+         "Facebook fans in millions": "73.34"
+      }
+   ],
+   "gold": "This statistic shows the number of fans on the official Manchester United Facebook page from July 2010 to August 2019 . The page had a total of 73.34 million fans in August 2019 .\n"
+}

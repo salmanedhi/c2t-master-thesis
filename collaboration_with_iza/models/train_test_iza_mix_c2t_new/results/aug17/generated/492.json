@@ -1,0 +1,45 @@
+{
+   "title": "Money spent on higher education in Asia in 2010",
+   "xAxis": "Continent",
+   "yAxis": "Million Pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph describes the amount of Money spent on higher education in 200 . ",
+      "\\n The title states the data is limited to Asia , but the dataset proves to show the global data , separated by Continent : North_America , Europe Asia , Africa . ",
+      "\\n The data is shown in units of million Pounds ( GBP ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "9": "2",
+         "25": "0",
+         "27": "1",
+         "29": "2",
+         "31": "3"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Continent": "North America",
+         "Million Pounds": "200"
+      },
+      {
+         "Continent": "Europe",
+         "Million Pounds": "100"
+      },
+      {
+         "Continent": "Asia",
+         "Million Pounds": "320"
+      },
+      {
+         "Continent": "Africa",
+         "Million Pounds": "50"
+      }
+   ],
+   "gold": "This graph explores the money spent on higher education in Asia in 2010 . The amount is in millions pounds . Asia spent \u00a3 320 m which is 3 x more than europes total of \u00a3 100 m .\n"
+}

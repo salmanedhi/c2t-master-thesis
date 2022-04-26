@@ -1,0 +1,39 @@
+{
+   "title": "Number of registered automobiles in Washington 2016",
+   "xAxis": "Autmobile type",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the registered of automobiles in Washington . ",
+      "\\\\n The biggest Autmobile , shown to be responsible for 2935656 % of cases , is genes . ",
+      "Total of Total accounts for 35 % of automobiles and Publicly_owned is the Autmobile in nearly 25 % of cases ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "2"
+      },
+      {
+         "0": "2",
+         "2": "2",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Autmobile type": "Publicly owned",
+         "Number of registered automobiles": "72003"
+      },
+      {
+         "Autmobile type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "2863653"
+      },
+      {
+         "Autmobile type": "Total",
+         "Number of registered automobiles": "2935656"
+      }
+   ],
+   "gold": "This statistic represents the number of registered automobiles in Washington in 2016 . In that year , there were around 2.86 million private and commercial automobiles ( including taxicabs ) registered in Washington .\n"
+}

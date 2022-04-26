@@ -1,0 +1,45 @@
+{
+   "title": "Number of internet users in selected regions in Asia-Pacific 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , about 1000 millions of the Mexican users was monolingual in East_Asia . ",
+      "Around five millions spoke a combination of East_Asia and South_Asia . ",
+      "East_Asia is the second-most spoken native language worldwide , after Mandarin Chinese ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "13": "0"
+      },
+      {
+         "7": "0",
+         "9": "1"
+      },
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Number of internet users in millions": "1000"
+      },
+      {
+         "Region": "South Asia",
+         "Number of internet users in millions": "803"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Number of internet users in millions": "415"
+      },
+      {
+         "Region": "Oceania",
+         "Number of internet users in millions": "29"
+      }
+   ],
+   "gold": "The above statistic shows the number of internet users in the Asia-Pacific regions as of January 2019 . During that time , it was discovered that the internet population in East Asia amounted to one billion internet users .\n"
+}

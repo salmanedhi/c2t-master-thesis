@@ -1,0 +1,67 @@
+{
+   "title": "Average annual CEO compensation worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Compensation in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2017 , the United_States had the highest CEO worldwide base in the world , annual an Compensation of 14.25 million worldwide . ",
+      "Switzerland ranked in second place annual a CEO Compensation base of 8.5 million worldwide . ",
+      "The photo-sharing platform is projected to surpass 365 million global worldwide in 2023 ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "20": "0"
+      },
+      {
+         "0": "1",
+         "11": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Compensation in million U.S. dollars": "14.25"
+      },
+      {
+         "Country": "Switzerland",
+         "Compensation in million U.S. dollars": "8.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Compensation in million U.S. dollars": "8.24"
+      },
+      {
+         "Country": "United Kingdom",
+         "Compensation in million U.S. dollars": "7.95"
+      },
+      {
+         "Country": "Canada",
+         "Compensation in million U.S. dollars": "6.49"
+      },
+      {
+         "Country": "Germany",
+         "Compensation in million U.S. dollars": "6.17"
+      },
+      {
+         "Country": "Australia",
+         "Compensation in million U.S. dollars": "4.96"
+      },
+      {
+         "Country": "Spain",
+         "Compensation in million U.S. dollars": "4.89"
+      },
+      {
+         "Country": "Hong Kong",
+         "Compensation in million U.S. dollars": "4.88"
+      },
+      {
+         "Country": "Singapore",
+         "Compensation in million U.S. dollars": "4.62"
+      }
+   ],
+   "gold": "This statistic shows the average annual compensation of CEOs around the world in 2017 by country . In 2017 , the average annual income of CEOs in the United States was 14.25 million U.S. dollars which is about 5 million U.S. dollars more than the average annual income of CEOs in Switzerland .\n"
+}

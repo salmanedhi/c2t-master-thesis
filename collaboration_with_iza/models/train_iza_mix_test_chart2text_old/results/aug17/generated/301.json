@@ -1,0 +1,87 @@
+{
+   "title": "Instagram : most-followed FMCG brands 2017",
+   "xAxis": "Month",
+   "yAxis": "Number of Instagram followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Instagram most-followed FMCG in the Number of Instagram . ",
+      "\\n The Instagram most-followed Month was Urban_Decay , with only 1.7 Instagram . ",
+      "Followed brands Too_Faced_Cosmetics , with 9.6 Instagram , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "14"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Too Faced Cosmetics",
+         "Number of Instagram followers in millions": "9.6"
+      },
+      {
+         "Month": "Urban Decay",
+         "Number of Instagram followers in millions": "9.2"
+      },
+      {
+         "Month": "Red Bull",
+         "Number of Instagram followers in millions": "8.0"
+      },
+      {
+         "Month": "Benefit Cosmetics US",
+         "Number of Instagram followers in millions": "7.4"
+      },
+      {
+         "Month": "Tarte Cosmetics",
+         "Number of Instagram followers in millions": "7.3"
+      },
+      {
+         "Month": "Monster Energy",
+         "Number of Instagram followers in millions": "4.4"
+      },
+      {
+         "Month": "Make Up For Ever",
+         "Number of Instagram followers in millions": "4.2"
+      },
+      {
+         "Month": "Smashbox Cosmetics",
+         "Number of Instagram followers in millions": "3.7"
+      },
+      {
+         "Month": "Bath and Body Works",
+         "Number of Instagram followers in millions": "3.3"
+      },
+      {
+         "Month": "Bobbi Brown Cosmetics",
+         "Number of Instagram followers in millions": "2.6"
+      },
+      {
+         "Month": "Oreo",
+         "Number of Instagram followers in millions": "2.4"
+      },
+      {
+         "Month": "Milani Cosmetics",
+         "Number of Instagram followers in millions": "2.3"
+      },
+      {
+         "Month": "Coca Cola",
+         "Number of Instagram followers in millions": "2.3"
+      },
+      {
+         "Month": "House of Lashes",
+         "Number of Instagram followers in millions": "2.2"
+      },
+      {
+         "Month": "Marc Jacobs Beauty",
+         "Number of Instagram followers in millions": "1.7"
+      }
+   ],
+   "gold": "This statistic presents a ranking of leading FMCG brands on Instagram as of December 2017 , based on the number of followers . As of the survey period , Red Bull ranked third with 8 million followers . Too Faced Cosmetics was ranked first with 9.6 million followers .\n"
+}

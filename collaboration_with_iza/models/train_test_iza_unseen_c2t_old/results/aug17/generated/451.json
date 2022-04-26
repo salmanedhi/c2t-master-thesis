@@ -1,0 +1,58 @@
+{
+   "title": "National debt of selected countries in relation to gross domestic product ( GDP ) 2018",
+   "xAxis": "Country",
+   "yAxis": "National debt in relation to gross domestic product (GDP)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the National debt selected of GDP as of 2018 . ",
+      "That year , GDP 's National debt partner were the Japan with a 237.69 % National in GDP 's debt relation ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "National debt in relation to gross domestic product (GDP)": "237.69"
+      },
+      {
+         "Country": "United States",
+         "National debt in relation to gross domestic product (GDP)": "106.22"
+      },
+      {
+         "Country": "France",
+         "National debt in relation to gross domestic product (GDP)": "99.31"
+      },
+      {
+         "Country": "Brazil",
+         "National debt in relation to gross domestic product (GDP)": "91.57"
+      },
+      {
+         "Country": "United Kingdom",
+         "National debt in relation to gross domestic product (GDP)": "85.55"
+      },
+      {
+         "Country": "India",
+         "National debt in relation to gross domestic product (GDP)": "69.04"
+      },
+      {
+         "Country": "Germany",
+         "National debt in relation to gross domestic product (GDP)": "58.58"
+      },
+      {
+         "Country": "China",
+         "National debt in relation to gross domestic product (GDP)": "55.57"
+      },
+      {
+         "Country": "Russia",
+         "National debt in relation to gross domestic product (GDP)": "16.49"
+      }
+   ],
+   "gold": "This statistic shows the national debt of important industrial and emerging countries in 2019 in relation to the gross domestic product ( GDP ) . In 2019 , the national debt of China was at about 55.57 percent of the gross domestic product .\n"
+}

@@ -1,0 +1,76 @@
+{
+   "title": "Top selling Nintendo Switch games worldwide in 2019",
+   "xAxis": "Month",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Top selling Month in the Switch games was Month Super_Mario_Odyssey , who made 19.01 million . ",
+      "The most selling Month was Pok\u00e9mon:_Let's_Go_Pikachu!/_Pok\u00e9mon:_Let's_Go_Eevee! , with just 3.13 million . ",
+      "In second place was Month Super_Smash_Bros._Ultimate with 15.71 million ; third place went to Month Mario_Kart_8_Deluxe with 19.01 million ; fourth place went to Month The_Legend_of_Zelda:_Link's_Awakening with 3.13 million and fifth place went to Month The_Legend_of_Zelda:__Breath_of_the_Wild , who was 14.54 million ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mario Kart 8 Deluxe",
+         "Sales in million units": "19.01"
+      },
+      {
+         "Month": "Super Smash Bros. Ultimate",
+         "Sales in million units": "15.71"
+      },
+      {
+         "Month": "Super Mario Odyssey",
+         "Sales in million units": "15.38"
+      },
+      {
+         "Month": "The Legend of Zelda:  Breath of the Wild",
+         "Sales in million units": "14.54"
+      },
+      {
+         "Month": "Pok\u00e9mon: Let's Go Pikachu!/ Pok\u00e9mon: Let's Go Eevee!",
+         "Sales in million units": "11.28"
+      },
+      {
+         "Month": "Splatoon 2",
+         "Sales in million units": "9.28"
+      },
+      {
+         "Month": "Super Mario Party",
+         "Sales in million units": "7.59"
+      },
+      {
+         "Month": "New Super Mario Bros. U Deluxe",
+         "Sales in million units": "4.59"
+      },
+      {
+         "Month": "Super Mario Maker 2",
+         "Sales in million units": "3.93"
+      },
+      {
+         "Month": "The Legend of Zelda: Link's Awakening",
+         "Sales in million units": "3.13"
+      }
+   ],
+   "gold": "This statistic shows the top selling Nintendo Switch titles worldwide as of September 2019 . With 19.01 million units sold , Mario Kart 8 Deluxe was the top selling Nintendo Switch game as of September 2019 .\n"
+}

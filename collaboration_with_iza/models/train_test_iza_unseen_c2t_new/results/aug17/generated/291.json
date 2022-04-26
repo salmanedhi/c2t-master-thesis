@@ -1,0 +1,292 @@
+{
+   "title": "Monthly BMW car market share in the United Kingdom 2014 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the monthly United Kingdom ( UK ) Market share for BMW between Jul_19 2014 and 2019 . ",
+      "In the period of consideration , the Japanese company 's Market share fluctuated between 4.86 and 9.78 % . ",
+      "The highest Market share for BMW was recorded in , at 9.78 % ."
+   ],
+   "trends": [
+      {
+         "14": "5"
+      },
+      {
+         "14": "35",
+         "16": "18"
+      },
+      {
+         "11": "18"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": "9.47"
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": "7.43"
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": "8.44"
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": "8.11"
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": "5.24"
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": "5.85"
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": "8.94"
+      },
+      {
+         "Month": "May 19",
+         "Market share": "6.76"
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": "6.75"
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": "6.62"
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": "8.38"
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": "5.93"
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": "8.05"
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": "8.08"
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": "7.37"
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": "8.25"
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": "6.37"
+      },
+      {
+         "Month": "Jul 18",
+         "Market share": "6.09"
+      },
+      {
+         "Month": "Jun 18",
+         "Market share": "9.78"
+      },
+      {
+         "Month": "May 18",
+         "Market share": "6.72"
+      },
+      {
+         "Month": "Apr 18",
+         "Market share": "5.41"
+      },
+      {
+         "Month": "Mar 18",
+         "Market share": "6.68"
+      },
+      {
+         "Month": "Feb 18",
+         "Market share": "8.35"
+      },
+      {
+         "Month": "Jan 18",
+         "Market share": "5.5"
+      },
+      {
+         "Month": "Dec 17",
+         "Market share": "8.84"
+      },
+      {
+         "Month": "Nov 17",
+         "Market share": "7.82"
+      },
+      {
+         "Month": "Oct 17",
+         "Market share": "6.99"
+      },
+      {
+         "Month": "Sep 17",
+         "Market share": "7.38"
+      },
+      {
+         "Month": "Aug 17",
+         "Market share": "6.03"
+      },
+      {
+         "Month": "Jul 17",
+         "Market share": "5.61"
+      },
+      {
+         "Month": "Jun 17",
+         "Market share": "7.87"
+      },
+      {
+         "Month": "May 17",
+         "Market share": "6.83"
+      },
+      {
+         "Month": "Apr 17",
+         "Market share": "7.42"
+      },
+      {
+         "Month": "Mar 17",
+         "Market share": "6.2"
+      },
+      {
+         "Month": "Feb 17",
+         "Market share": "7.36"
+      },
+      {
+         "Month": "Jan 17",
+         "Market share": "4.86"
+      },
+      {
+         "Month": "Dec 16",
+         "Market share": "8.46"
+      },
+      {
+         "Month": "Nov 16",
+         "Market share": "8.33"
+      },
+      {
+         "Month": "Oct 16",
+         "Market share": "7.52"
+      },
+      {
+         "Month": "Sep 16",
+         "Market share": "6.94"
+      },
+      {
+         "Month": "Aug 16",
+         "Market share": "5.82"
+      },
+      {
+         "Month": "Jul 16",
+         "Market share": "5.43"
+      },
+      {
+         "Month": "Jun 16",
+         "Market share": "7.32"
+      },
+      {
+         "Month": "May 16",
+         "Market share": "7.58"
+      },
+      {
+         "Month": "Apr 16",
+         "Market share": "5.79"
+      },
+      {
+         "Month": "Mar 16",
+         "Market share": "6.26"
+      },
+      {
+         "Month": "Feb 16",
+         "Market share": "6.91"
+      },
+      {
+         "Month": "Jan 16",
+         "Market share": "4.87"
+      },
+      {
+         "Month": "Dec 15",
+         "Market share": "9.54"
+      },
+      {
+         "Month": "Nov 15",
+         "Market share": "6.69"
+      },
+      {
+         "Month": "Oct 15",
+         "Market share": "7.85"
+      },
+      {
+         "Month": "Sep 15",
+         "Market share": "6.42"
+      },
+      {
+         "Month": "Aug 15",
+         "Market share": "6.13"
+      },
+      {
+         "Month": "Jul 15",
+         "Market share": "5.26"
+      },
+      {
+         "Month": "Jun 15",
+         "Market share": "6.69"
+      },
+      {
+         "Month": "May 15",
+         "Market share": "6.14"
+      },
+      {
+         "Month": "Apr 15",
+         "Market share": "5.86"
+      },
+      {
+         "Month": "Mar 15",
+         "Market share": "5.46"
+      },
+      {
+         "Month": "Feb 15",
+         "Market share": "6.62"
+      },
+      {
+         "Month": "Jan 15",
+         "Market share": "4.86"
+      },
+      {
+         "Month": "Dec 14",
+         "Market share": "7.49"
+      },
+      {
+         "Month": "Nov 14",
+         "Market share": "7.17"
+      },
+      {
+         "Month": "Oct 14",
+         "Market share": "5.87"
+      },
+      {
+         "Month": "Sep 14",
+         "Market share": "5.84"
+      },
+      {
+         "Month": "Aug 14",
+         "Market share": "4.92"
+      },
+      {
+         "Month": "Jul 14",
+         "Market share": "5.76"
+      }
+   ],
+   "gold": "This graph shows the monthly United Kingdom ( UK ) market share for BMW from July 2014 to December 2019 . The company 's market share had a range between 4.9 and 9.8 percent during this time period . In December 2019 , BMW 's market share was around 9.5 percent .\n"
+}

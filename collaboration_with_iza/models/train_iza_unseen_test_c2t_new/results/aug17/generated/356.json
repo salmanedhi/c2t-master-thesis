@@ -1,0 +1,52 @@
+{
+   "title": "Countries with the highest proportion of soccer players 2010",
+   "xAxis": "Country",
+   "yAxis": "Proportion of soccer players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows that Germany has the highest Proportion of Countries soccer with 50/100 being on their Countries . ",
+      "Slovakia holds 11.4 % of the Countries soccer , followed by The_Netherlands with 10.4",
+      "Paraguay and Chile both have 10.4 soccer in the Countries highest . "
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "0": "3",
+         "2": "3",
+         "11": "4",
+         "13": "4"
+      },
+      {
+         "0": "2",
+         "2": "1",
+         "5": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Proportion of soccer players": "19.8"
+      },
+      {
+         "Country": "Chile",
+         "Proportion of soccer players": "15.7"
+      },
+      {
+         "Country": "Paraguay",
+         "Proportion of soccer players": "14.8"
+      },
+      {
+         "Country": "Slovakia",
+         "Proportion of soccer players": "11.4"
+      },
+      {
+         "Country": "The Netherlands",
+         "Proportion of soccer players": "10.4"
+      }
+   ],
+   "gold": "This table shows the countries with the highest proportion of soccer players in the population . 19.8 percent of the German population are soccer players .\n"
+}

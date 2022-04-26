@@ -1,0 +1,79 @@
+{
+   "title": "Foreign population of Belgium in 2019 , by origin",
+   "xAxis": "Country",
+   "yAxis": "Foreign population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Foreign population Country in Belgium by Foreign . ",
+      "The Foreign population Country with an average Foreign of 37277 \u00b0 population is Italy , followed by France with 167508 \u00b0 population , Others with 454038 \u00b0 population , then Netherlands at 157474 \u00b0 . ",
+      "Morocco is the warmest Country shown with an average Foreign of 454038 \u00b0 population , closely followed by Romania at 96034 \u00b0 population ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9",
+         "13": "2",
+         "17": "0",
+         "19": "0",
+         "23": "10",
+         "25": "10",
+         "30": "1",
+         "32": "1"
+      },
+      {
+         "0": "4",
+         "11": "10",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Foreign population": "167508"
+      },
+      {
+         "Country": "Netherlands",
+         "Foreign population": "157474"
+      },
+      {
+         "Country": "Italy",
+         "Foreign population": "155866"
+      },
+      {
+         "Country": "Romania",
+         "Foreign population": "96034"
+      },
+      {
+         "Country": "Morocco",
+         "Foreign population": "80295"
+      },
+      {
+         "Country": "Poland",
+         "Foreign population": "71331"
+      },
+      {
+         "Country": "Spain",
+         "Foreign population": "65476"
+      },
+      {
+         "Country": "Portugal",
+         "Foreign population": "47677"
+      },
+      {
+         "Country": "Germany",
+         "Foreign population": "39608"
+      },
+      {
+         "Country": "Bulgaria",
+         "Foreign population": "37277"
+      },
+      {
+         "Country": "Others",
+         "Foreign population": "454038"
+      }
+   ],
+   "gold": "Belgium has a multicultural landscape ; a variety of nationalities coexist in the country . Brussels houses most of the European Union institutions . This is the reason behind the nickname `` capital of Europe `` .\n"
+}

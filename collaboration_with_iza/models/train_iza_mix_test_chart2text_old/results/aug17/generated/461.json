@@ -1,0 +1,103 @@
+{
+   "title": "Monthly Shanghai Stock Exchange Composite Index performance January 2020",
+   "xAxis": "Month",
+   "yAxis": "Index points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Monthly Shanghai Stock in the Index of points . ",
+      "\\n The Monthly Shanghai Month was Dec_'19 , with only 2493.9 points . ",
+      "Followed Exchange Jan_'20 , with 2976.53 points , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "13"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Index points": "2976.53"
+      },
+      {
+         "Month": "Dec '19",
+         "Index points": "3050.12"
+      },
+      {
+         "Month": "Nov '19",
+         "Index points": "2871.98"
+      },
+      {
+         "Month": "Oct '19",
+         "Index points": "2929.06"
+      },
+      {
+         "Month": "Sep '19",
+         "Index points": "2905.19"
+      },
+      {
+         "Month": "Aug '19",
+         "Index points": "2886.24"
+      },
+      {
+         "Month": "Jul '19",
+         "Index points": "2932.51"
+      },
+      {
+         "Month": "Jun '19",
+         "Index points": "2978.88"
+      },
+      {
+         "Month": "May '19",
+         "Index points": "2898.7"
+      },
+      {
+         "Month": "Apr '19",
+         "Index points": "3086.4"
+      },
+      {
+         "Month": "Mar '19",
+         "Index points": "3090.76"
+      },
+      {
+         "Month": "Feb '19",
+         "Index points": "2940.95"
+      },
+      {
+         "Month": "Jan '19",
+         "Index points": "2584.57"
+      },
+      {
+         "Month": "Dec '18",
+         "Index points": "2493.9"
+      },
+      {
+         "Month": "Nov '18",
+         "Index points": "2588.19"
+      },
+      {
+         "Month": "Oct '18",
+         "Index points": "2602.78"
+      },
+      {
+         "Month": "Sep '18",
+         "Index points": "2821.35"
+      },
+      {
+         "Month": "Aug '18",
+         "Index points": "2725.25"
+      },
+      {
+         "Month": "Jul '18",
+         "Index points": "2876.4"
+      }
+   ],
+   "gold": "The statistic shows the monthly development of the Shanghai Stock Exchange Composite Index from July 2018 to January 2020 . The SSE Composite Index reflects the performance of all stocks traded on the Shanghai Stock Exchange . On January 23rd , 2020 the SSE Composite Index had closed at about 2,976.53 points .\n"
+}

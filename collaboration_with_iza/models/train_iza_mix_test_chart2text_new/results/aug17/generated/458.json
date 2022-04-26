@@ -1,0 +1,69 @@
+{
+   "title": "Multiple winners of FIFA football Ballon d'Or 1956 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of awards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of awards made by Month in a football Ballon . ",
+      "\\\\n From the chart we see that the Johann_Cruyff_(The_Netherlands) Month was the Multiple winners Month in the Ballon with 6 awards . ",
+      "The next Month to make the most awards was the Michel_Platini_(France) Month with 3 awards closely followed by the Ronaldo_(Brazil) Month with 2 awards ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Lionel Messi (Argentina)",
+         "Number of awards": "6"
+      },
+      {
+         "Month": "Cristiano Ronaldo (Portugal)",
+         "Number of awards": "5"
+      },
+      {
+         "Month": "Johann Cruyff (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Michel Platini (France)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Marco van Basten (The Netherlands)",
+         "Number of awards": "3"
+      },
+      {
+         "Month": "Alfredo Di St\u00e9fano (Spain)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Franz Beckenbauer (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Kevin Keegan (England)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge (West Germany)",
+         "Number of awards": "2"
+      },
+      {
+         "Month": "Ronaldo (Brazil)",
+         "Number of awards": "2"
+      }
+   ],
+   "gold": "The Ballon d'Or is an annual football prize presented by France Football . The award , voted for by football journalists , is given to the male player who was deemed to have played the best football over the previous 12 months . Unsurprisingly , two of the greatest footballers of all time , Lionel Messi and Cristiano Ronaldo , top the list of all-time winners .\n"
+}

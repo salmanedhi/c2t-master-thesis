@@ -1,0 +1,70 @@
+{
+   "title": "Middle East oil production by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Oil production in thousand barrels per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , Saudi_Arabia had 207 of the highest by country East oil as a thousand of its Middle East among the select Country globally . ",
+      "Saudi_Arabia production energy-related oil of Middle East totaled 12287 thousand within this period . ",
+      "Comparatively , Yemen production East Oil of their Middle East was just 207 thousand ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "7"
+      },
+      {
+         "0": "0",
+         "8": "0"
+      },
+      {
+         "2": "8",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "Oil production in thousand barrels per day": "12287"
+      },
+      {
+         "Country": "Iran",
+         "Oil production in thousand barrels per day": "4715"
+      },
+      {
+         "Country": "Iraq",
+         "Oil production in thousand barrels per day": "4614"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Oil production in thousand barrels per day": "3942"
+      },
+      {
+         "Country": "Kuwait",
+         "Oil production in thousand barrels per day": "3049"
+      },
+      {
+         "Country": "Qatar",
+         "Oil production in thousand barrels per day": "1879"
+      },
+      {
+         "Country": "Oman",
+         "Oil production in thousand barrels per day": "978"
+      },
+      {
+         "Country": "Other",
+         "Oil production in thousand barrels per day": "207"
+      },
+      {
+         "Country": "Yemen",
+         "Oil production in thousand barrels per day": "68"
+      },
+      {
+         "Country": "Syria",
+         "Oil production in thousand barrels per day": "24"
+      }
+   ],
+   "gold": "The countries in the Middle East are renowned for their vast oil reserves in the global market . While the largest importer of oil and petroleum is the United States , the leading producer of oil in the Middle East is Saudi Arabia with over 12 million barrels of oil produced per day as of 2018 . `` Global oil reserves and trade `` Besides Saudi Arabia , the United States imports petroleum from various countries around the world among which Canada is the largest exporter of petroleum having exported around 4.3 billion barrels of petroleum to the United States in 2018 .\n"
+}

@@ -1,0 +1,42 @@
+{
+   "title": "Average Time Spent On Social Media Daily in Maputo by Age Group",
+   "xAxis": "Age Group",
+   "yAxis": "Minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Minutes of in the Social diagnosed Time Spent A , sorted Daily Age Group , as of . ",
+      "In that year , 74 % of all Americans diagnosed Time Spent A were between 0 and 4 15-24 of Age ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age Group": "15-24",
+         "Minutes": "125"
+      },
+      {
+         "Age Group": "25-34",
+         "Minutes": "75"
+      },
+      {
+         "Age Group": "35-44",
+         "Minutes": "74"
+      },
+      {
+         "Age Group": "45-54",
+         "Minutes": "150"
+      },
+      {
+         "Age Group": "55-64",
+         "Minutes": "110"
+      }
+   ],
+   "gold": "The average time spent on social media is highest in the 45 - 54 age group which is surprising considering 15 - 24 year olds are the most likely age group to be . \\\\n 25 - 34 - 35 - 44 year olds spend the least time compared to the other age ranges .\n"
+}

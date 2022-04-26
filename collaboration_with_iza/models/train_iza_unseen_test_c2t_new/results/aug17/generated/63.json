@@ -1,0 +1,89 @@
+{
+   "title": "Reach of social media used by UK teens and young adults 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Reach social Platform in terms of the Share of respondents with Snapchat having the Reach \u2013 80.9 respondents down to Facebook the least social of the group at 0 respondents . ",
+      "In between , we have YouTube 80.9 , None 2.1 , LinkedIn 30 and Instagram 71.9 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "10"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "13",
+         "9": "13",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "YouTube",
+         "Share of respondents": "80.9"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents": "77.3"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": "71.9"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": "30"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": "57.5"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents": "76"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": "48.6"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": "25.8"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": "16"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": "22.5"
+      },
+      {
+         "Platform": "Periscope",
+         "Share of respondents": "0"
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents": "1.6"
+      },
+      {
+         "Platform": "Don\u2019t know",
+         "Share of respondents": "0.6"
+      },
+      {
+         "Platform": "None",
+         "Share of respondents": "2.1"
+      }
+   ],
+   "gold": "The statistic illustrates findings of a survey among the residents aged 15 - 25 regarding the use of social media in the United Kingdom ( UK ) in 2019 . During the survey period , it was found that 80.9 percent of respondents that go online were YouTube users .\n"
+}

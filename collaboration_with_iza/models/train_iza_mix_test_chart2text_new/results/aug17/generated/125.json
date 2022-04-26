@@ -1,0 +1,69 @@
+{
+   "title": "Leading men 's hair coloring brands in the U.S. 2019",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Sales of million made by Brand in a hair coloring . ",
+      "\\\\n From the chart we see that the Just_For_Men_Control_GX Brand was the Leading men Brand in the coloring with 138.0 million . ",
+      "The next Brand to make the most million was the Just_For_Men_Touch_of_Gray Brand with 9.7 million closely followed by the Grecian_5 Brand with 0.1 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Just For Men",
+         "Sales in million U.S. dollars": "138.0"
+      },
+      {
+         "Brand": "Just For Men Autostop",
+         "Sales in million U.S. dollars": "27.2"
+      },
+      {
+         "Brand": "Just For Men Control GX",
+         "Sales in million U.S. dollars": "18.2"
+      },
+      {
+         "Brand": "Just For Men Touch of Gray",
+         "Sales in million U.S. dollars": "9.7"
+      },
+      {
+         "Brand": "Softsheen-Carson Dark & Natural",
+         "Sales in million U.S. dollars": "5.7"
+      },
+      {
+         "Brand": "Private label",
+         "Sales in million U.S. dollars": "2.8"
+      },
+      {
+         "Brand": "Grecian Formula 16",
+         "Sales in million U.S. dollars": "2.3"
+      },
+      {
+         "Brand": "Just For Men Original Formula",
+         "Sales in million U.S. dollars": "0.5"
+      },
+      {
+         "Brand": "Creme of Nature",
+         "Sales in million U.S. dollars": "0.3"
+      },
+      {
+         "Brand": "Grecian 5",
+         "Sales in million U.S. dollars": "0.1"
+      }
+   ],
+   "gold": "In 2019 , Just For Men was the leading men 's hair coloring brand in the United States with sales of approximately 138 million U.S. dollars . Ranked second , the Just For Men Autostop brand generated sales of around 27.2 million U.S. dollars that year .\n"
+}

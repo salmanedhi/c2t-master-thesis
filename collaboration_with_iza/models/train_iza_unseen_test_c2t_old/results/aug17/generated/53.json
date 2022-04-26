@@ -1,0 +1,43 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by education",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Facebook usage reach in High_school_or_less 2019 compared with that in Some_college and the College_+ . ",
+      "In High_school_or_less there was a 75 % difference in the salaries of men and women . ",
+      "In Some_college the difference was 61 % ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "15": "1",
+         "18": "2"
+      },
+      {
+         "1": "0",
+         "5": "1"
+      },
+      {
+         "1": "1",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "High school or less",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "Some college",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "College +",
+         "Share of respondents": "74"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by educational background . During that period of time , 74 percent of respondents who had attained a college degree used the social networking site .\n"
+}

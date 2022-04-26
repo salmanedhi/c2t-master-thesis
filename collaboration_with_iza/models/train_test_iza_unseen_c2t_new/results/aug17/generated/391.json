@@ -1,0 +1,65 @@
+{
+   "title": "Most valuable brands in Indonesia 2019",
+   "xAxis": "Indonesian Brand",
+   "yAxis": "Brand value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic ranks a ranking of Bank_Mandiri Brand 2019 in , according to Brand value . ",
+      "Bank_Central_Asia_(BCA) was the Indonesia valuable Bank_Mandiri Brand 2019 in , with a Brand value of 13.05 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "6": "4"
+      },
+      {
+         "0": "0",
+         "5": "4",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Indonesian Brand": "Bank Central Asia (BCA)",
+         "Brand value in billion U.S. dollars": "13.05"
+      },
+      {
+         "Indonesian Brand": "Bank Rakyat Indonesia (BRI)",
+         "Brand value in billion U.S. dollars": "10.99"
+      },
+      {
+         "Indonesian Brand": "Telkomsel",
+         "Brand value in billion U.S. dollars": "7.32"
+      },
+      {
+         "Indonesian Brand": "A Mild",
+         "Brand value in billion U.S. dollars": "7.02"
+      },
+      {
+         "Indonesian Brand": "Bank Mandiri",
+         "Brand value in billion U.S. dollars": "6.2"
+      },
+      {
+         "Indonesian Brand": "Go-Jek",
+         "Brand value in billion U.S. dollars": "4.49"
+      },
+      {
+         "Indonesian Brand": "Dji Sam Soe",
+         "Brand value in billion U.S. dollars": "3.12"
+      },
+      {
+         "Indonesian Brand": "Surya",
+         "Brand value in billion U.S. dollars": "2.52"
+      },
+      {
+         "Indonesian Brand": "Gudang Garam",
+         "Brand value in billion U.S. dollars": "2.44"
+      },
+      {
+         "Indonesian Brand": "tokopedia",
+         "Brand value in billion U.S. dollars": "2.23"
+      }
+   ],
+   "gold": "In 2019 , Indonesia 's most valuable brand in terms of brand value was Bank Central Asia ( BCA ) , with a brand value of 13.05 billion U.S. dollars . In terms of growth , however , retail e-commerce site tokopedia was the fastest-rising brand , with a 487 percent growth in 2019 . This was followed by travel e-commerce site Traveloka at 111 percent , and ride-hailing start-up Go-Jek , which had 88 percent growth .\n"
+}

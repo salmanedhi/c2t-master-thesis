@@ -1,0 +1,77 @@
+{
+   "title": "Biggest electricity suppliers in Brussels ( Belgium ) 2019 , by market share",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Biggest electricity suppliers in the Brussels competirion . ",
+      "\\\\n From the chart we see that the Mega Month made the Biggest share by some margin , with only 0.08 . ",
+      "Lampiris and Engie_Electrabel made a respectable 18.54 and 64.29 share , with Other and Octa+ not far behind , at 0.18 and 3.09 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "10",
+         "14": "3",
+         "20": "10",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Engie Electrabel",
+         "Market share": "64.29"
+      },
+      {
+         "Month": "Lampiris",
+         "Market share": "18.54"
+      },
+      {
+         "Month": "EDF Luminus",
+         "Market share": "9.59"
+      },
+      {
+         "Month": "Octa+",
+         "Market share": "3.09"
+      },
+      {
+         "Month": "Mega",
+         "Market share": "2.5"
+      },
+      {
+         "Month": "Eneco",
+         "Market share": "0.92"
+      },
+      {
+         "Month": "Poweo",
+         "Market share": "0.35"
+      },
+      {
+         "Month": "Social suppliers",
+         "Market share": "0.25"
+      },
+      {
+         "Month": "Energie 2030",
+         "Market share": "0.21"
+      },
+      {
+         "Month": "Essent",
+         "Market share": "0.08"
+      },
+      {
+         "Month": "Other",
+         "Market share": "0.18"
+      }
+   ],
+   "gold": "With 60 percent of the market share , Engie Electrabel reached the highest market share of electricity supply in the Brussels-Capital Region . The Belgian daughter of the French multinational Engie was , therefore , leading the market in this region of Belgium in 2019 . Lampiris was the second-largest supplier , holding a market share of 19 percent .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Major rice importing countries worldwide 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Import in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Major rice importing countries the Import of thousand they 've had . ",
+      "\\n It shows China has had 4500 thousand , Philippines has had the Major at 1250 thousand , Nigeria has had 2200 , European_Union has had 2000 , Bangladesh has had the most thousand at 4500 and Senegal has had 1250 thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "9",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "9",
+         "40": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Import in thousand metric tons": "4500"
+      },
+      {
+         "Country": "Philippines",
+         "Import in thousand metric tons": "2300"
+      },
+      {
+         "Country": "Nigeria",
+         "Import in thousand metric tons": "2200"
+      },
+      {
+         "Country": "European Union",
+         "Import in thousand metric tons": "2000"
+      },
+      {
+         "Country": "Bangladesh",
+         "Import in thousand metric tons": "1600"
+      },
+      {
+         "Country": "Cote d'Ivoire",
+         "Import in thousand metric tons": "1600"
+      },
+      {
+         "Country": "Iran",
+         "Import in thousand metric tons": "1400"
+      },
+      {
+         "Country": "Iraq",
+         "Import in thousand metric tons": "1300"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Import in thousand metric tons": "1300"
+      },
+      {
+         "Country": "Senegal",
+         "Import in thousand metric tons": "1250"
+      }
+   ],
+   "gold": "This statistic shows the principal rice importing countries worldwide in 2018/2019 , measured in 1,000 metric tons . As of February 2019 , rice import to China is projected to amount to about 4.5 million metric tons in 2018/2019 . The total production of milled rice worldwide amounted to about 481.1 million metric tons that year .\n"
+}

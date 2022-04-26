@@ -1,0 +1,61 @@
+{
+   "title": "Population of Minnesota , by race and ethnicity 2018",
+   "xAxis": "Race",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of residents made by Race in a race ethnicity . ",
+      "\\\\n From the chart we see that the Hispanic_or_Latino_(of_any_race) Race was the Population Minnesota Race in the ethnicity with 4455388 residents . ",
+      "The next Race to make the most residents was the Asian_alone Race with 271051 residents closely followed by the Native_Hawaiian_and_Other_Pacific_Islander_alone Race with 2025 residents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "7",
+         "22": "7"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White alone",
+         "Number of residents": "4455388"
+      },
+      {
+         "Race": "Black or African American alone",
+         "Number of residents": "362419"
+      },
+      {
+         "Race": "Hispanic or Latino (of any race)",
+         "Number of residents": "308013"
+      },
+      {
+         "Race": "Asian alone",
+         "Number of residents": "271051"
+      },
+      {
+         "Race": "Two or more races",
+         "Number of residents": "149100"
+      },
+      {
+         "Race": "American Indian and Alaska Native alone",
+         "Number of residents": "54989"
+      },
+      {
+         "Race": "Some other race alone",
+         "Number of residents": "8194"
+      },
+      {
+         "Race": "Native Hawaiian and Other Pacific Islander alone",
+         "Number of residents": "2025"
+      }
+   ],
+   "gold": "This statistic shows the population of Minnesota , distinguished by race and Hispanic origin in 2018 . In 2018 , about 4.46 million people in Minnesota were white and not of Hispanic or Latino origin .\n"
+}

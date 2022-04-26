@@ -1,0 +1,147 @@
+{
+   "title": "Cumulative total of Tumblr posts 2011 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of Tumblr posts in billions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total Number of Tumblr posts in the Tumblr ( UK ) from 2011 to 2019 . ",
+      "The largest single Month on increase came from to , not long after the end of the First World War , when posts increased by 300,647 . ",
+      "Despite the lower level of population , from 2011 to the Number of Tumblr posts was consistently above 171.5 billions ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Apr '19",
+         "Number of Tumblr posts in billions": "171.5"
+      },
+      {
+         "Month": "Jan '19",
+         "Number of Tumblr posts in billions": "168.4"
+      },
+      {
+         "Month": "Oct '18",
+         "Number of Tumblr posts in billions": "165.5"
+      },
+      {
+         "Month": "Jul '18",
+         "Number of Tumblr posts in billions": "162.7"
+      },
+      {
+         "Month": "Apr '18",
+         "Number of Tumblr posts in billions": "160.0"
+      },
+      {
+         "Month": "Jan '18",
+         "Number of Tumblr posts in billions": "157.2"
+      },
+      {
+         "Month": "Oct '17",
+         "Number of Tumblr posts in billions": "154.1"
+      },
+      {
+         "Month": "Jul '17",
+         "Number of Tumblr posts in billions": "151.2"
+      },
+      {
+         "Month": "Apr '17",
+         "Number of Tumblr posts in billions": "148.1"
+      },
+      {
+         "Month": "Jan '17",
+         "Number of Tumblr posts in billions": "144.7"
+      },
+      {
+         "Month": "Oct '16",
+         "Number of Tumblr posts in billions": "141.2"
+      },
+      {
+         "Month": "Jul '16",
+         "Number of Tumblr posts in billions": "137.0"
+      },
+      {
+         "Month": "Apr '16",
+         "Number of Tumblr posts in billions": "133.0"
+      },
+      {
+         "Month": "Jan '16",
+         "Number of Tumblr posts in billions": "128.2"
+      },
+      {
+         "Month": "Oct '15",
+         "Number of Tumblr posts in billions": "122.7"
+      },
+      {
+         "Month": "Jul '15",
+         "Number of Tumblr posts in billions": "116.2"
+      },
+      {
+         "Month": "Apr '15",
+         "Number of Tumblr posts in billions": "106.1"
+      },
+      {
+         "Month": "Jan '15",
+         "Number of Tumblr posts in billions": "102.2"
+      },
+      {
+         "Month": "Oct '14",
+         "Number of Tumblr posts in billions": "93.7"
+      },
+      {
+         "Month": "Jul '14",
+         "Number of Tumblr posts in billions": "83.1"
+      },
+      {
+         "Month": "Apr '14",
+         "Number of Tumblr posts in billions": "82.9"
+      },
+      {
+         "Month": "Jan '14",
+         "Number of Tumblr posts in billions": "73.4"
+      },
+      {
+         "Month": "Oct '13",
+         "Number of Tumblr posts in billions": "64.0"
+      },
+      {
+         "Month": "Jul '13",
+         "Number of Tumblr posts in billions": "55.1"
+      },
+      {
+         "Month": "Apr '13",
+         "Number of Tumblr posts in billions": "44.6"
+      },
+      {
+         "Month": "Jan '13",
+         "Number of Tumblr posts in billions": "40.0"
+      },
+      {
+         "Month": "Oct '12",
+         "Number of Tumblr posts in billions": "33.1"
+      },
+      {
+         "Month": "Jul '12",
+         "Number of Tumblr posts in billions": "26.5"
+      },
+      {
+         "Month": "Mar '12",
+         "Number of Tumblr posts in billions": "20.0"
+      },
+      {
+         "Month": "Sep '11",
+         "Number of Tumblr posts in billions": "10.0"
+      },
+      {
+         "Month": "May '11",
+         "Number of Tumblr posts in billions": "5.0"
+      }
+   ],
+   "gold": "This statistic shows the cumulative total of Tumblr posts from May 2011 to April 2019 . In the most recently measured period , the social platform surpassed 171.5 billion posts , up from 160 billion posts in the corresponding period of the previous year . Tumblr and user-generated content Tumblr is a blog-based microblogging site and social networking platform based on user-generated content which is uploaded to individual users ' blogs .\n"
+}

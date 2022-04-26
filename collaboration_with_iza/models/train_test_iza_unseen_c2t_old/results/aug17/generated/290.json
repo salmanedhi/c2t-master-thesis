@@ -1,0 +1,51 @@
+{
+   "title": "U.S. population share by generation 2018",
+   "xAxis": "Generations",
+   "yAxis": "Population share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the U.S. population share by in U.S. as of 2018 , based on share volume . ",
+      "During the survey period , it was found that The_Greatest_Generation_(born_before_1928) accounted for 0.64 % of all share app . ",
+      "Local p2p tv app The_Silent_Generation_(born_1928-1945) was ranked second with a 7.47 % share Population ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "12": "0"
+      },
+      {
+         "4": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Generations": "The Greatest Generation (born before 1928)",
+         "Population share": "0.64"
+      },
+      {
+         "Generations": "The Silent Generation (born 1928-1945)",
+         "Population share": "7.47"
+      },
+      {
+         "Generations": "The Baby Boomer Generation (born 1946-1964)",
+         "Population share": "22.18"
+      },
+      {
+         "Generations": "Generation X (born 1965-1980)",
+         "Population share": "20"
+      },
+      {
+         "Generations": "The Millennial Generation (born 1981-1996)",
+         "Population share": "22.03"
+      },
+      {
+         "Generations": "Generation Z (born 1997 and later)",
+         "Population share": "27.68"
+      }
+   ],
+   "gold": "The statistic depicts the distribution of the U.S. population in 2018 , by generation . In that year , Millennials made up about 22 percent of the population in the United States .\n"
+}

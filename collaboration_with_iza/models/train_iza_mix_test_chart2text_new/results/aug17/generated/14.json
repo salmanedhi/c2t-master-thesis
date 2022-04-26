@@ -1,0 +1,58 @@
+{
+   "title": "Coffee machines : typical lifetime , by product type",
+   "xAxis": "Coffee Machine",
+   "yAxis": "Life expectancy in years",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Life of expectancy years at the Coffee from Fully_Automatic_Espresso_Coffee_Machine to Drip_Filter_Coffee_Machine . ",
+      "\\\\n In Fully_Automatic_Espresso_Coffee_Machine the Coffee saw 10 years , in Semi-Automatic_Espresso_Coffee_Machine there were 10 years , Hard_Cap_Espresso_Coffee_Machine saw at least 7 years , 6 years in Drip_Filter_Coffee_Machine and 6 in Drip_Filter_Coffee_Machine . ",
+      "Fully_Automatic_Espresso_Coffee_Machine had the highest Life of years whilst Pad_Filter_Coffee_Machine had the lowest ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "4"
+      },
+      {
+         "2": "0",
+         "6": "0",
+         "10": "1",
+         "13": "0",
+         "16": "2",
+         "20": "2",
+         "23": "4",
+         "26": "4",
+         "28": "4",
+         "30": "4"
+      },
+      {
+         "0": "0",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Coffee Machine": "Fully Automatic Espresso Coffee Machine",
+         "Life expectancy in years": "10"
+      },
+      {
+         "Coffee Machine": "Semi-Automatic Espresso Coffee Machine",
+         "Life expectancy in years": "7"
+      },
+      {
+         "Coffee Machine": "Hard Cap Espresso Coffee Machine",
+         "Life expectancy in years": "7"
+      },
+      {
+         "Coffee Machine": "Pad Filter Coffee Machine",
+         "Life expectancy in years": "7"
+      },
+      {
+         "Coffee Machine": "Drip Filter Coffee Machine",
+         "Life expectancy in years": "6"
+      }
+   ],
+   "gold": "The statistic illustrates the typical lifetime of coffee machines in the United States , by product type The life expectancy of fully automatic espresso coffee machines is approximately 10 years .\n"
+}

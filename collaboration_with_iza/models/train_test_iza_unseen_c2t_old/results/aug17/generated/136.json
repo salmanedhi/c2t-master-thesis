@@ -1,0 +1,130 @@
+{
+   "title": "Leading coupon website awareness according to U.S. users 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of early 2016 , groupon.com and coupons.com were the U.S. commonly used awareness according U.S. software users around the world , with nearly 75 % of respondents stating that they used groupon.com and 64 % using coupons.com . ",
+      "retailmenot.com . ",
+      "livingsocial.com , and redplum.com rounded out the top 5 U.S. coupon used awareness according around the world ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "24": "0",
+         "32": "0",
+         "34": "1",
+         "37": "1"
+      },
+      {
+         "0": "2"
+      },
+      {
+         "0": "3",
+         "3": "4",
+         "8": "18"
+      }
+   ],
+   "data": [
+      {
+         "Response": "groupon.com",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "coupons.com",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "retailmenot.com",
+         "Share of respondents": "62"
+      },
+      {
+         "Response": "livingsocial.com",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "redplum.com",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "mycoupons.com",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "couponcabin.com",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "swagbugs.com",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "savingstar.com",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "slickdeals.net",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "fatwallet.com",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "us.toluna.com",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "travelzoo.com",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "shopathome.com",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "woot.com",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "hip2save.com",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "couponmountain.com",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "freeshipping.org",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "couponchief.com",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "yipit.com",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "shesaved.com",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "passionforsavings.com",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "fyvor.com",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "other",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic gives information on the most popular discount and promo code websites according to users in the United States . During the August 2016 survey , 75 percent of respondents stated that they were aware of groupon.com . Coupons.com was ranked second with 64 percent awareness rate and retailmenot.com was in third place with 62 percent of respondents stating that they knew the platform .\n"
+}

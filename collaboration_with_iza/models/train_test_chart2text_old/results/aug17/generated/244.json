@@ -1,0 +1,45 @@
+{
+   "title": "Polish banks ranked by brand value in 2015",
+   "xAxis": "Banking Institution",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Brand value of Bank_Pekao and PKO_Bank_Polski ranked Banking varieties in the UK in 2015 , sorted 2015 Banking . ",
+      "In that year , PKO_Bank_Polski had an Brand value of 1594 million , the highest among the referenced Polish brand ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "9": "0"
+      },
+      {
+         "4": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Banking Institution": "PKO Bank Polski",
+         "Brand value in million U.S. dollars": "1594"
+      },
+      {
+         "Banking Institution": "Bank Pekao",
+         "Brand value in million U.S. dollars": "956"
+      },
+      {
+         "Banking Institution": "Bank Zachodni WBK",
+         "Brand value in million U.S. dollars": "902"
+      },
+      {
+         "Banking Institution": "mbank",
+         "Brand value in million U.S. dollars": "339"
+      },
+      {
+         "Banking Institution": "Millennium",
+         "Brand value in million U.S. dollars": "295"
+      }
+   ],
+   "gold": "This statistic illustrates five leading banks domiciled in Poland , ranked by the brand value as of 2015 . The highest position in the ranking was occupied by PKO Bank Polski , with a brand rank value of 1.6 billion U.S. dollars . The fifth in the ranking was Millennium , with the total brand value of 295 million U.S. dollars .\n"
+}

@@ -1,0 +1,148 @@
+{
+   "title": "Share of individuals who wear spectacles in selected European countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Individuals who wear spectacles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share individuals who wear the Individuals of who they 've had . ",
+      "\\n It shows Slovakia has had 85 who , Serbia has had the Share at 15 who , United_Kingdom has had 68 , Denmark has had 65 , Finland has had the most who at 85 and Croatia has had 15 who ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "28",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "28",
+         "40": "28"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Slovakia",
+         "Individuals who wear spectacles": "85"
+      },
+      {
+         "Country": "Serbia",
+         "Individuals who wear spectacles": "70"
+      },
+      {
+         "Country": "United Kingdom",
+         "Individuals who wear spectacles": "68"
+      },
+      {
+         "Country": "Denmark",
+         "Individuals who wear spectacles": "65"
+      },
+      {
+         "Country": "Finland",
+         "Individuals who wear spectacles": "65"
+      },
+      {
+         "Country": "Norway",
+         "Individuals who wear spectacles": "63"
+      },
+      {
+         "Country": "Germany",
+         "Individuals who wear spectacles": "63"
+      },
+      {
+         "Country": "France",
+         "Individuals who wear spectacles": "58"
+      },
+      {
+         "Country": "Netherlands",
+         "Individuals who wear spectacles": "57"
+      },
+      {
+         "Country": "Austria",
+         "Individuals who wear spectacles": "52"
+      },
+      {
+         "Country": "Portugal",
+         "Individuals who wear spectacles": "52"
+      },
+      {
+         "Country": "Switzerland",
+         "Individuals who wear spectacles": "52"
+      },
+      {
+         "Country": "Italy",
+         "Individuals who wear spectacles": "51"
+      },
+      {
+         "Country": "Latvia",
+         "Individuals who wear spectacles": "50"
+      },
+      {
+         "Country": "Bulgaria",
+         "Individuals who wear spectacles": "50"
+      },
+      {
+         "Country": "Spain",
+         "Individuals who wear spectacles": "49"
+      },
+      {
+         "Country": "Czech Republic",
+         "Individuals who wear spectacles": "45"
+      },
+      {
+         "Country": "Romania",
+         "Individuals who wear spectacles": "45"
+      },
+      {
+         "Country": "Greece",
+         "Individuals who wear spectacles": "45"
+      },
+      {
+         "Country": "Ireland",
+         "Individuals who wear spectacles": "44"
+      },
+      {
+         "Country": "Hungary",
+         "Individuals who wear spectacles": "40"
+      },
+      {
+         "Country": "Belgium",
+         "Individuals who wear spectacles": "40"
+      },
+      {
+         "Country": "Estonia",
+         "Individuals who wear spectacles": "38"
+      },
+      {
+         "Country": "Ukraine",
+         "Individuals who wear spectacles": "35"
+      },
+      {
+         "Country": "Slovenia",
+         "Individuals who wear spectacles": "30"
+      },
+      {
+         "Country": "Poland",
+         "Individuals who wear spectacles": "30"
+      },
+      {
+         "Country": "Cyprus",
+         "Individuals who wear spectacles": "25"
+      },
+      {
+         "Country": "Turkey",
+         "Individuals who wear spectacles": "20"
+      },
+      {
+         "Country": "Croatia",
+         "Individuals who wear spectacles": "15"
+      }
+   ],
+   "gold": "This statistic displays the proportion of individuals who wear eye spectacles in selected European countries in 2017 . In this year , Slovakia had the highest proportion of individuals wearing eyeglasses with approximately 85 percent doing so . This was followed by Serbia at 70 percent and the United Kingdom at 68 percent .\n"
+}

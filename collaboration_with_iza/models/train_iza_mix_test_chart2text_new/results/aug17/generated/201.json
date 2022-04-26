@@ -1,0 +1,98 @@
+{
+   "title": "Singapore population by age group as of June 2018",
+   "xAxis": "Age group in years",
+   "yAxis": "Population in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Population of thousands made by Age . ",
+      "\\n 20-24 has the highest Population of thousands sitting at 12.8",
+      "\\n Second to 20-24 is 10-14 at 9.2 thousands ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Age group in years": "0-4",
+         "Population in thousands": "185.53"
+      },
+      {
+         "Age group in years": "5-9",
+         "Population in thousands": "199.07"
+      },
+      {
+         "Age group in years": "10-14",
+         "Population in thousands": "206.53"
+      },
+      {
+         "Age group in years": "15-19",
+         "Population in thousands": "226.52"
+      },
+      {
+         "Age group in years": "20-24",
+         "Population in thousands": "255.52"
+      },
+      {
+         "Age group in years": "25-29",
+         "Population in thousands": "291.63"
+      },
+      {
+         "Age group in years": "30-34",
+         "Population in thousands": "281.4"
+      },
+      {
+         "Age group in years": "35-39",
+         "Population in thousands": "303.72"
+      },
+      {
+         "Age group in years": "40-44",
+         "Population in thousands": "303.64"
+      },
+      {
+         "Age group in years": "45-49",
+         "Population in thousands": "307.84"
+      },
+      {
+         "Age group in years": "50-54",
+         "Population in thousands": "308.96"
+      },
+      {
+         "Age group in years": "55-59",
+         "Population in thousands": "304.39"
+      },
+      {
+         "Age group in years": "60-64",
+         "Population in thousands": "271.69"
+      },
+      {
+         "Age group in years": "65-69",
+         "Population in thousands": "212.1"
+      },
+      {
+         "Age group in years": "70-74",
+         "Population in thousands": "135.55"
+      },
+      {
+         "Age group in years": "75-79",
+         "Population in thousands": "93.33"
+      },
+      {
+         "Age group in years": "80-84",
+         "Population in thousands": "57.1"
+      },
+      {
+         "Age group in years": "84+",
+         "Population in thousands": "49.78"
+      }
+   ],
+   "gold": "As of June 2018 , there were approximately 309 thousand residents between the ages of 50 to 54 years old in Singapore , making it the largest age group among its resident population then . This reflects the increasingly ageing population of Singapore , a significant demographical shift that will have long-lasting socio-economic repercussions . Living longer\u2026 The improvements in health care and quality of life has led to Singapore having one of the highest life expectancies in the world .\n"
+}

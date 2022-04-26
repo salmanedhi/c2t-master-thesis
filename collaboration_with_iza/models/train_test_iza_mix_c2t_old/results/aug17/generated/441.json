@@ -1,0 +1,51 @@
+{
+   "title": "WeChat usage frequency in the United States 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the frequency of WeChat usage in the WeChat as of 2018 . ",
+      "During an online survey conducted by We Are Flint , it was found that 2 % of internet users in the WeChat accessed the dating app Once_a_day Once_every_few_days ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "1",
+         "26": "1",
+         "27": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once a day",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once every few days",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once a week",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once every few weeks",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Less often than every few weeks",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "87"
+      }
+   ],
+   "gold": "This statistic presents the frequency of WeChat usage in the United States as of January 2018 . During an online survey conducted by We Are Flint , it was found that two percent of internet users in the United States accessed the messenger app once every few days .\n"
+}

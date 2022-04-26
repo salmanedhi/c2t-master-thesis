@@ -1,0 +1,53 @@
+{
+   "title": "InfoWars credibility in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by Response in a 2017 . ",
+      "\\\\n From the chart we see that the Not_at_all_credible Response was the InfoWars credibility Response in the 2017 with 43 respondents . ",
+      "The next Response to make the most respondents was the Not_too_credible Response with 12 respondents closely followed by the Very_credible Response with 6 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "5",
+         "22": "5"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Never heard of",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Heard of no opinion",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Not at all credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Not too credible",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Somewhat credible",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Very credible",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This timeline presents data on the credibility of InfoWars in the United States as of November 2017 . During a survey , six percent of respondents stated that they found the website very credible .\n"
+}

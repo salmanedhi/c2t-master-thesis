@@ -1,0 +1,65 @@
+{
+   "title": "Marathons ranked by number of finishers worldwide 2016",
+   "xAxis": "Cities",
+   "yAxis": "Number of finishers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number finishers of number in selected finishers in the Marathons in 2016 . ",
+      "Number finishers rates in New_York_City_U.S. amounted to 51388 British pounds , while at New_York_City_U.S. Chicago_U.S. airport Number rates were around 40608 British pounds ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "0",
+         "13": "0",
+         "14": "2",
+         "20": "2"
+      }
+   ],
+   "data": [
+      {
+         "Cities": "New York City U.S.",
+         "Number of finishers": "51388"
+      },
+      {
+         "Cities": "Paris FRA",
+         "Number of finishers": "41708"
+      },
+      {
+         "Cities": "Chicago U.S.",
+         "Number of finishers": "40608"
+      },
+      {
+         "Cities": "London GBR",
+         "Number of finishers": "39072"
+      },
+      {
+         "Cities": "Tokyo JPN",
+         "Number of finishers": "36150"
+      },
+      {
+         "Cities": "Berlin GER",
+         "Number of finishers": "36054"
+      },
+      {
+         "Cities": "Osaka JPN",
+         "Number of finishers": "29431"
+      },
+      {
+         "Cities": "Boston MA",
+         "Number of finishers": "26606"
+      },
+      {
+         "Cities": "Yokohama JPN",
+         "Number of finishers": "22594"
+      },
+      {
+         "Cities": "Los Angeles U.S.",
+         "Number of finishers": "20617"
+      }
+   ],
+   "gold": "The statistic shows a ranking of marathons worldwide by the total number of finishers in 2016 . In 2016 , the New York Marathon had a total of 51,388 finishers .\n"
+}

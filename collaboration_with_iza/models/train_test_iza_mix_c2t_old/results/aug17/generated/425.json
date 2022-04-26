@@ -1,0 +1,44 @@
+{
+   "title": "Facebook reactions on top shared content 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of reactions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the most popular smartphone top in Facebook as of shared 2017 . ",
+      "During a survey , it was found that 41 % of the reactions visited a Love , while 28 % watched Haha ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "15": "0",
+         "18": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Love",
+         "Share of reactions": "41"
+      },
+      {
+         "Response": "Haha",
+         "Share of reactions": "28"
+      },
+      {
+         "Response": "Wow",
+         "Share of reactions": "15"
+      },
+      {
+         "Response": "Sad",
+         "Share of reactions": "12"
+      },
+      {
+         "Response": "Angry",
+         "Share of reactions": "5"
+      }
+   ],
+   "gold": "This statistic presents the reaction usage in top shared posts on Facebook in September 2017 . During the measured period , Love was the most popular Facebook reaction on top shared posts on the social network .\n"
+}

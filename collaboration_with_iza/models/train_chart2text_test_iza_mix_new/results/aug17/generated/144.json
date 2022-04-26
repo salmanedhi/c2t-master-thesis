@@ -1,0 +1,47 @@
+{
+   "title": "The warmest cities in South America",
+   "xAxis": "City",
+   "yAxis": "Temperature in C",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Temperature of C in the America in , America ethnic group and Cordoba of spouses . ",
+      "As of , about 7.72 % C were of Bogota America in the America ."
+   ],
+   "trends": [
+      {
+         "18": "5"
+      },
+      {
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "City": "Santiago",
+         "Temperature in C": "20"
+      },
+      {
+         "City": "Lima",
+         "Temperature in C": "25"
+      },
+      {
+         "City": "Bogota",
+         "Temperature in C": "16"
+      },
+      {
+         "City": "Montevideo",
+         "Temperature in C": "29"
+      },
+      {
+         "City": "Belem",
+         "Temperature in C": "36"
+      },
+      {
+         "City": "Cordoba",
+         "Temperature in C": "23"
+      }
+   ],
+   "gold": "This graph compares the temperature of the warmest South American cities in degrees Celsius . The warmest city , Belem ( 36 degree C ) , is about 2.2 times warmer than the coldest city Bogota ( 16 degree C ) . The other city temperatures are , Santiago ( 20 degree C ) , Lima ( 25 degree C ) , Montevideo ( 29 degree C ) and Cordoba ( 23 ) degree C .\n"
+}

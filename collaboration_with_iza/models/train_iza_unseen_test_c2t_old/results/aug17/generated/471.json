@@ -1,0 +1,72 @@
+{
+   "title": "Countries with the largest population 2018",
+   "xAxis": "Country",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Countries largest population 2018 the Inhabitants of millions they 've had . ",
+      "\\n It shows China has had 1393.8 millions , India has had the Countries at 130.8 millions , USA has had 328.0 , Indonesia has had 265.2 , Brazil has had the most millions at 1393.8 and Mexico has had 130.8 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "9",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "9",
+         "40": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Inhabitants in millions": "1393.8"
+      },
+      {
+         "Country": "India",
+         "Inhabitants in millions": "1371.3"
+      },
+      {
+         "Country": "USA",
+         "Inhabitants in millions": "328.0"
+      },
+      {
+         "Country": "Indonesia",
+         "Inhabitants in millions": "265.2"
+      },
+      {
+         "Country": "Brazil",
+         "Inhabitants in millions": "209.4"
+      },
+      {
+         "Country": "Pakistan",
+         "Inhabitants in millions": "200.6"
+      },
+      {
+         "Country": "Nigeria",
+         "Inhabitants in millions": "195.9"
+      },
+      {
+         "Country": "Bangladesh",
+         "Inhabitants in millions": "166.4"
+      },
+      {
+         "Country": "Russia",
+         "Inhabitants in millions": "147.3"
+      },
+      {
+         "Country": "Mexico",
+         "Inhabitants in millions": "130.8"
+      }
+   ],
+   "gold": "The statistic shows the ten countries with the ten largest populations in mid 2018 . In mid 2018 , approximately 1.39 billion people lived in China . The largest countries and the global population The total world population amounts to more than 7 billion people , with China reporting the highest number of inhabitants \u2013 its total population surpassed the 1.3 billion mark a few years ago and continues to rise .\n"
+}

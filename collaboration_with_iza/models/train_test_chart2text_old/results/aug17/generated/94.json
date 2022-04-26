@@ -1,0 +1,45 @@
+{
+   "title": "Americans ' moral stance towards abortion in 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the moral stance of Americans regarding sexual intercourse 2018 an man and an 2018 woman as of 2018 . ",
+      "During the survey , 49 % of respondents stated that they think abortion 2018 partners is Morally_acceptable . ",
+      "The moral acceptance of social issues in the US More than two thirds of respondents to a survey in the country responded that they believe that abortion 2018 an man and woman is Morally_acceptable , while 1 third believed that it is Morally_acceptable Morally_wrong and only 1 % stated that it is not a moral issue ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "17": "0"
+      },
+      {
+         "34": "0",
+         "37": "3",
+         "43": "0",
+         "44": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Morally acceptable",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Morally wrong",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Depends on situation",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": "1"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey among Americans regarding their moral stance towards abortion in 2018 . In 2018 , 43 percent of respondents stated that they think having an abortion is morally acceptable , while 48 percent considered it morally wrong .\n"
+}

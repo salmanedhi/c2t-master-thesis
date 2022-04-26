@@ -1,0 +1,65 @@
+{
+   "title": "Facebook : most popular game MAU 2019",
+   "xAxis": "Facebook games",
+   "yAxis": "Monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the best Facebook games 2019 ad of 2019 , ranked by production and marketing Monthly . ",
+      "It is estimated that the MAU most Facebook games so far is Texas_Holdem_Poker , released in fall . ",
+      "Bungie and Activision are believed to have invested 10 millions users in the development and marketing of this games ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0"
+      },
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Facebook games": "Texas Holdem Poker",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "8 Ball Pool",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Candy Crush Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Farm Heroes Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Subway Surfers",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Clash of Clans",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Dragon City",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Hay Day",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Trivia Crack",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Coin Master",
+         "Monthly active users in millions": "5"
+      }
+   ],
+   "gold": "This statistic lists the most popular Facebook games , based on monthly active users . As of August 2019 , Candy Crush Saga had approximately ten million monthly active users on Facebook . Fifth-ranked Subway Surfers had five million MAU in the same period .\n"
+}

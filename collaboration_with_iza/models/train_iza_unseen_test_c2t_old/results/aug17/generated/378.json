@@ -1,0 +1,115 @@
+{
+   "title": "Best selling car brands in Poland 2019",
+   "xAxis": "Manufacturer",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Best selling in Poland . ",
+      "It shows Volkswagen was the Best at just 10975 degrees and Dacia was the warmest at 68646 degrees . ",
+      "After Volkswagen , the next Best selling are Skoda at 68646 degrees , followed by Volvo at 18 degrees , Toyota at 62771 degrees and then Opel at 33805 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "19",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Manufacturer": "Skoda",
+         "Units sold": "68646"
+      },
+      {
+         "Manufacturer": "Toyota",
+         "Units sold": "62771"
+      },
+      {
+         "Manufacturer": "Volkswagen",
+         "Units sold": "53845"
+      },
+      {
+         "Manufacturer": "Opel",
+         "Units sold": "33805"
+      },
+      {
+         "Manufacturer": "Dacia",
+         "Units sold": "30877"
+      },
+      {
+         "Manufacturer": "Ford",
+         "Units sold": "30132"
+      },
+      {
+         "Manufacturer": "Kia",
+         "Units sold": "29389"
+      },
+      {
+         "Manufacturer": "Renault",
+         "Units sold": "27581"
+      },
+      {
+         "Manufacturer": "Hyundai",
+         "Units sold": "24378"
+      },
+      {
+         "Manufacturer": "Mercedes-Benz",
+         "Units sold": "21755"
+      },
+      {
+         "Manufacturer": "BMW",
+         "Units sold": "20708"
+      },
+      {
+         "Manufacturer": "Mazda",
+         "Units sold": "15670"
+      },
+      {
+         "Manufacturer": "Peugeot",
+         "Units sold": "15465"
+      },
+      {
+         "Manufacturer": "Fiat",
+         "Units sold": "14800"
+      },
+      {
+         "Manufacturer": "Audi",
+         "Units sold": "13777"
+      },
+      {
+         "Manufacturer": "Seat",
+         "Units sold": "12433"
+      },
+      {
+         "Manufacturer": "Citroen",
+         "Units sold": "11887"
+      },
+      {
+         "Manufacturer": "Nissan",
+         "Units sold": "11423"
+      },
+      {
+         "Manufacturer": "Suzuki",
+         "Units sold": "11140"
+      },
+      {
+         "Manufacturer": "Volvo",
+         "Units sold": "10975"
+      }
+   ],
+   "gold": "\u0160koda was the best-selling car brand in the Poland in 2019 . The Czech automobile manufacturer ( MMO 60894 ) had sold nearly 69,000 units in the Polish market that year , roughly six thousand units more than the second entry . \u0160koda cars have been produced since 1905 , with number of vehicles produced having grown significantly in the following decades .\n"
+}

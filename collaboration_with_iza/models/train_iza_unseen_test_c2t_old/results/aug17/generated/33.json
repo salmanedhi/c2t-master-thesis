@@ -1,0 +1,115 @@
+{
+   "title": "Most common male names in Iceland 2016",
+   "xAxis": "Name",
+   "yAxis": "Number of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most common in Iceland . ",
+      "It shows Gu\u00f0mundur was the Most at just 1242 degrees and \u00d3lafur/Olav was the warmest at 5224 degrees . ",
+      "After Gu\u00f0mundur , the next Most common are J\u00f3n at 5224 degrees , followed by Ragnar at 18 degrees , Sigur\u00f0ur at 4210 degrees and then Gunnar at 3134 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "19",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Name": "J\u00f3n",
+         "Number of individuals": "5224"
+      },
+      {
+         "Name": "Sigur\u00f0ur",
+         "Number of individuals": "4210"
+      },
+      {
+         "Name": "Gu\u00f0mundur",
+         "Number of individuals": "3964"
+      },
+      {
+         "Name": "Gunnar",
+         "Number of individuals": "3134"
+      },
+      {
+         "Name": "\u00d3lafur/Olav",
+         "Number of individuals": "2770"
+      },
+      {
+         "Name": "Einar",
+         "Number of individuals": "2440"
+      },
+      {
+         "Name": "Kristj\u00e1n/Kristian/Christian",
+         "Number of individuals": "2420"
+      },
+      {
+         "Name": "Magn\u00fas",
+         "Number of individuals": "2333"
+      },
+      {
+         "Name": "Stef\u00e1n/Stefan",
+         "Number of individuals": "2203"
+      },
+      {
+         "Name": "J\u00f3hann",
+         "Number of individuals": "2022"
+      },
+      {
+         "Name": "Bj\u00f6rn",
+         "Number of individuals": "1701"
+      },
+      {
+         "Name": "Arnar",
+         "Number of individuals": "1667"
+      },
+      {
+         "Name": "\u00c1rni",
+         "Number of individuals": "1582"
+      },
+      {
+         "Name": "Bjarni",
+         "Number of individuals": "1506"
+      },
+      {
+         "Name": "Helgi",
+         "Number of individuals": "1487"
+      },
+      {
+         "Name": "Halld\u00f3r",
+         "Number of individuals": "1426"
+      },
+      {
+         "Name": "P\u00e9tur/Pjetur",
+         "Number of individuals": "1411"
+      },
+      {
+         "Name": "Dan\u00edel",
+         "Number of individuals": "1367"
+      },
+      {
+         "Name": "Kristinn",
+         "Number of individuals": "1309"
+      },
+      {
+         "Name": "Ragnar",
+         "Number of individuals": "1242"
+      }
+   ],
+   "gold": "This statistic shows the most common male names in Iceland in 2016 . The most popular name was J\u00f3n , with 5224 individuals having the name in 2016 . Sigur\u00f0ur and Gu\u00f0mundur were the second and third most common male names during the time under consideration .\n"
+}

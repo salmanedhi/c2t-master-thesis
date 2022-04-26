@@ -1,0 +1,72 @@
+{
+   "title": "Largest donors of humanitarian aid worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Aid (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Aid of the Largest donors Country in Largest . ",
+      "\\n The Largest donors Country is United_Kingdom at 349.4 degrees , followed by United_States at 6496.3 degrees , EU_Commission_-_EU_facility_for_refugees_in_Turkey at 349.4 degrees , Germany at 1483.8 degrees , European_commission at 1168.1 and the warmest of the displayed Country is Saudi_Arabia at 6496.3 (in ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2",
+         "8": "9",
+         "13": "0",
+         "15": "0",
+         "18": "9",
+         "20": "9",
+         "23": "1",
+         "25": "1",
+         "28": "3",
+         "30": "3",
+         "39": "4",
+         "41": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Aid (in million U.S. dollars)": "6496.3"
+      },
+      {
+         "Country": "Germany",
+         "Aid (in million U.S. dollars)": "1483.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Aid (in million U.S. dollars)": "1439.3"
+      },
+      {
+         "Country": "European commission",
+         "Aid (in million U.S. dollars)": "1168.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Aid (in million U.S. dollars)": "990.8"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Aid (in million U.S. dollars)": "425.0"
+      },
+      {
+         "Country": "Canada",
+         "Aid (in million U.S. dollars)": "406.2"
+      },
+      {
+         "Country": "Central Emergency Response Fund",
+         "Aid (in million U.S. dollars)": "398.5"
+      },
+      {
+         "Country": "Sweden",
+         "Aid (in million U.S. dollars)": "351.2"
+      },
+      {
+         "Country": "EU Commission - EU facility for refugees in Turkey",
+         "Aid (in million U.S. dollars)": "349.4"
+      }
+   ],
+   "gold": "This statistic shows the top donors of humanitarian aid worldwide in 2019 . In this year , the United States government donated nearly 6.5 billion U.S. dollars in humanitarian aid worldwide .\n"
+}

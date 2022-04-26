@@ -1,0 +1,42 @@
+{
+   "title": "Number of registered automobiles in Washington 2016",
+   "xAxis": "Autmobile type",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number Washington is less pronounced in Private_and_commercial_(including_taxicabs) when compared to the Total and Publicly_owned . ",
+      "Publicly_owned shows a Washington of 2935656 million , the Total 2935656 million , and Private_and_commercial_(including_taxicabs) is at 72003 million ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "12": "2",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "5": "2",
+         "9": "2",
+         "10": "2",
+         "14": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Autmobile type": "Publicly owned",
+         "Number of registered automobiles": "72003"
+      },
+      {
+         "Autmobile type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "2863653"
+      },
+      {
+         "Autmobile type": "Total",
+         "Number of registered automobiles": "2935656"
+      }
+   ],
+   "gold": "This statistic represents the number of registered automobiles in Washington in 2016 . In that year , there were around 2.86 million private and commercial automobiles ( including taxicabs ) registered in Washington .\n"
+}

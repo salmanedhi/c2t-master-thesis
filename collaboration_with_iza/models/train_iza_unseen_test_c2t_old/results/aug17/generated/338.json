@@ -1,0 +1,69 @@
+{
+   "title": "Most watched Winter Olympic sports selected emerging markets worldwide 2014",
+   "xAxis": "Country: most popular choice",
+   "yAxis": "Share of respondents who will watch",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most watched Winter in the Olympic competirion . ",
+      "\\\\n From the chart we see that the Kenya:_speed_skating Country: made the Most respondents by some margin , with only 40 . ",
+      "Vietnam:_skiing and India:_ice_hockey made a respectable 57 and 64 respondents , with Mexico:_ice_hockey and Indonesia:_bobsled not far behind , at 52 and 40 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "3"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "8",
+         "14": "3",
+         "20": "8",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country: most popular choice": "India: ice hockey",
+         "Share of respondents who will watch": "64"
+      },
+      {
+         "Country: most popular choice": "Vietnam: skiing",
+         "Share of respondents who will watch": "57"
+      },
+      {
+         "Country: most popular choice": "South Africa: speed skating",
+         "Share of respondents who will watch": "48"
+      },
+      {
+         "Country: most popular choice": "Indonesia: bobsled",
+         "Share of respondents who will watch": "40"
+      },
+      {
+         "Country: most popular choice": "Kenya: speed skating",
+         "Share of respondents who will watch": "41"
+      },
+      {
+         "Country: most popular choice": "Brazil: speed skating",
+         "Share of respondents who will watch": "48"
+      },
+      {
+         "Country: most popular choice": "Philippines: ice hockey",
+         "Share of respondents who will watch": "42"
+      },
+      {
+         "Country: most popular choice": "Nigeria: snowboarding",
+         "Share of respondents who will watch": "42"
+      },
+      {
+         "Country: most popular choice": "Mexico: ice hockey",
+         "Share of respondents who will watch": "52"
+      }
+   ],
+   "gold": "The graph presents data on Winter Olympics TV viewership in selected emerging markets worldwide 2014 . During a survey , 56 percent of respondents from the Philippines stated they would watch the 2014 Winter Olympics on TV . The closing ceremony for the 2014 Olympic games was expected to attract a total 80 million viewers from around the globe .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "COVID-19 deaths worldwide as of March 2 , 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the COVID-19 deaths worldwide March the Number of deaths they 've had . ",
+      "\\n It shows China has had 2915 deaths , Iran_(Islamic_Republic_of) has had the COVID-19 at 1 deaths , Italy has had 35 , Republic_of_Korea has had 22 , International_conveyance_(Diamond_Princess) has had the most deaths at 2915 and Thailand has had 1 deaths ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "7",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "9",
+         "40": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of deaths": "2915"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of deaths": "54"
+      },
+      {
+         "Country": "Italy",
+         "Number of deaths": "35"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Number of deaths": "22"
+      },
+      {
+         "Country": "International conveyance (Diamond Princess)",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "Japan",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "France",
+         "Number of deaths": "2"
+      },
+      {
+         "Country": "Philippines",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Australia",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Thailand",
+         "Number of deaths": "1"
+      }
+   ],
+   "gold": "As of March 2 , 2020 , the outbreak of the coronavirus disease ( COVID-19 ) had spread to six continents , and approximately 3,000 people had died after contracting the respiratory virus . The majority of the confirmed cases were located in China , where around 2,900 deaths had been reported . WHO raises global risk level Approximately 60 countries worldwide have been affected by the virus .\n"
+}

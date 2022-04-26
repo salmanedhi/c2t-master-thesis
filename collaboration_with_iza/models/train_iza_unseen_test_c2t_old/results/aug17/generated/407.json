@@ -1,0 +1,83 @@
+{
+   "title": "Impact of online harassment and abuse on female victims 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Impact online in Impact . ",
+      "It shows Lower_self-esteem_or_a_loss_of_self_confidence was the Impact at just 36 degrees and Less_able_to_focus_on_everyday_tasks was the warmest at 66 respondents . ",
+      "After Lower_self-esteem_or_a_loss_of_self_confidence , the next Impact online are A_feeling_of_powerlessness_in_my_ability_to_respond_to_abuse_or_harassment_online at 66 degrees , followed by Less_able_to_make_day-to-day_decisions at 18 degrees , Not_being_able_to_sleep_well at 63 degrees and then A_feeling_of_apprehension_when_thinking_about_using_the_internet_or_social_media at 58 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "11",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "11",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "A feeling of powerlessness in my ability to respond to abuse or harassment online",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Not being able to sleep well",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Lower self-esteem or a loss of self confidence",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "A feeling of apprehension when thinking about using the internet or social media",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "Less able to focus on everyday tasks",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Experiencing panic attacks anxiety or stress",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "A feeling of isolation or a need to withdraw into yourself",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "A feeling of apprehension when receiving emails or social media notifications",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "Experiencing mood swings",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Not being able to accomplish what you usually would on a typical day",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Being unable to concentrate for long periods of time",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Less able to make day-to-day decisions",
+         "Share of respondents": "36"
+      }
+   ],
+   "gold": "This statistic presents data on the psychological impact of women experiencing online abuse or harassment worldwide . During the July 2017 survey period , 66 percent of survey respondents who have experienced online abuse stated that they felt a feeling of powerlessness in their ability to respond to abuse or harassment online . A total of 63 percent of online harassment victims also reported to not being able to sleep well .\n"
+}

@@ -1,0 +1,153 @@
+{
+   "title": "MLB all-time runs scored leaders 2019",
+   "xAxis": "Mlb Player",
+   "yAxis": "Number of runs scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the MLB all-time in terms of the Number of runs with Babe_Ruth having the MLB \u2013 2295 runs down to Ty_Cobb the least all-time of the group at 1676 runs . ",
+      "In between , we have Rickey_Henderson 2295 , Mickey_Mantle 1676 , Hank_Aaron 2174 and Barry_Bonds 2227 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "29"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "29",
+         "9": "29",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Mlb Player": "Rickey Henderson",
+         "Number of runs scored": "2295"
+      },
+      {
+         "Mlb Player": "Ty Cobb",
+         "Number of runs scored": "2243"
+      },
+      {
+         "Mlb Player": "Barry Bonds",
+         "Number of runs scored": "2227"
+      },
+      {
+         "Mlb Player": "Hank Aaron",
+         "Number of runs scored": "2174"
+      },
+      {
+         "Mlb Player": "Babe Ruth",
+         "Number of runs scored": "2174"
+      },
+      {
+         "Mlb Player": "Pete Rose",
+         "Number of runs scored": "2165"
+      },
+      {
+         "Mlb Player": "Willie Mays",
+         "Number of runs scored": "2062"
+      },
+      {
+         "Mlb Player": "Alex Rodriguez",
+         "Number of runs scored": "2021"
+      },
+      {
+         "Mlb Player": "Cap Anson",
+         "Number of runs scored": "1999"
+      },
+      {
+         "Mlb Player": "Stan Musial",
+         "Number of runs scored": "1949"
+      },
+      {
+         "Mlb Player": "Derek Jeter",
+         "Number of runs scored": "1923"
+      },
+      {
+         "Mlb Player": "Lou Gehrig",
+         "Number of runs scored": "1888"
+      },
+      {
+         "Mlb Player": "Tris Speaker",
+         "Number of runs scored": "1882"
+      },
+      {
+         "Mlb Player": "Mel Ott",
+         "Number of runs scored": "1859"
+      },
+      {
+         "Mlb Player": "Craig Biggio",
+         "Number of runs scored": "1844"
+      },
+      {
+         "Mlb Player": "Frank Robinson",
+         "Number of runs scored": "1829"
+      },
+      {
+         "Mlb Player": "Albert Pujols",
+         "Number of runs scored": "1828"
+      },
+      {
+         "Mlb Player": "Eddie Collins",
+         "Number of runs scored": "1821"
+      },
+      {
+         "Mlb Player": "Carl Yastrzemski",
+         "Number of runs scored": "1816"
+      },
+      {
+         "Mlb Player": "Ted Williams",
+         "Number of runs scored": "1798"
+      },
+      {
+         "Mlb Player": "Paul Molitor",
+         "Number of runs scored": "1782"
+      },
+      {
+         "Mlb Player": "Charlie Gehringer",
+         "Number of runs scored": "1775"
+      },
+      {
+         "Mlb Player": "Jimmie Foxx",
+         "Number of runs scored": "1751"
+      },
+      {
+         "Mlb Player": "Honus Wagner",
+         "Number of runs scored": "1739"
+      },
+      {
+         "Mlb Player": "Jim O'Rourke",
+         "Number of runs scored": "1729"
+      },
+      {
+         "Mlb Player": "Jesse Burkett",
+         "Number of runs scored": "1720"
+      },
+      {
+         "Mlb Player": "Willie Keeler",
+         "Number of runs scored": "1719"
+      },
+      {
+         "Mlb Player": "Billy Hamilton",
+         "Number of runs scored": "1697"
+      },
+      {
+         "Mlb Player": "Bid McPhee",
+         "Number of runs scored": "1684"
+      },
+      {
+         "Mlb Player": "Mickey Mantle",
+         "Number of runs scored": "1676"
+      }
+   ],
+   "gold": "This statistic shows the MLB all-time runs scored leaders as of October 9 , 2019 . Rickey Henderson has scored the most runs in Major League Baseball history with 2,295 runs .\n"
+}

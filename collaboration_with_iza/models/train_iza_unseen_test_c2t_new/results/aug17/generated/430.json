@@ -1,0 +1,71 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the U.S. in the U.S. usage between - . ",
+      "The U.S. Response in U.S. is Purchase_in-app_or_online at 2 degrees , followed by Made_a_mobile_payment at 64 degrees , Sent_money_internationally at 2 degrees , Paid_a_bill at 49 degrees and Received_loyalty_points at 28 degrees , while the warmest of the displayed Response is Sent/received_money_(P2P) at 64 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2",
+         "8": "9",
+         "13": "0",
+         "15": "0",
+         "18": "9",
+         "20": "9",
+         "23": "1",
+         "25": "1",
+         "28": "3",
+         "41": "4",
+         "43": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic gives information on the U.S. consumer usage of mobile payment offerings as of January 2017 . During a survey of smartphone owners , 49 percent of respondents stated they had paid a bill via mobile .\n"
+}

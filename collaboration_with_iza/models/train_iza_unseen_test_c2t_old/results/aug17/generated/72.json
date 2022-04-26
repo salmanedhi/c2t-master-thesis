@@ -1,0 +1,61 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most popular crisps in the savoury competirion . ",
+      "\\\\n From the chart we see that the McCoys Snack made the Most respondents by some margin , with only 22 . ",
+      "Doritos and Walkers made a respectable 32 and 42 respondents , with KP_nuts and Pringles not far behind , at 22 and 26 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "6"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "6",
+         "14": "3",
+         "20": "6",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": "42"
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": "32"
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": "25"
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": "24"
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": "22"
+      }
+   ],
+   "gold": "This statistic displays the leading crisp and savory snack brands in the United Kingdom ( UK ) , ranked by most purchased . According to the survey conducted in November 2013 , the leading six products were all crisps . Walkers ranked highest with 42 percent of respondents purchasing their crisps at the time of survey , followed by Doritos at 32 percent .\n"
+}

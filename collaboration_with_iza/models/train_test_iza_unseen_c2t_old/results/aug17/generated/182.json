@@ -1,0 +1,39 @@
+{
+   "title": "Gross NPA of private banks India 2016 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Value in trillion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "NPA had 0.94 trillion in its FY_2017 as of 2 , 2016 . ",
+      "Overall , the Copenhagen-headquartered shipper accounted for 17.6 trillion of the world 's merchant container fleet . ",
+      "Fleet capacity NPA had trillion with a capacity of around 4.2 trillion twenty-foot-equivalent units , which could be broken down to some 2.36 trillion twenty-foot-equivalent units of FY_2018 capacity and about 1.8 trillion twenty-foot equivalent units of FY_2019 capacity ."
+   ],
+   "trends": [
+      {
+         "2": "2",
+         "6": "2"
+      },
+      {},
+      {
+         "27": "1",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Value in trillion Indian rupees": "1.84"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Value in trillion Indian rupees": "1.86"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Value in trillion Indian rupees": "0.94"
+      }
+   ],
+   "gold": "In fiscal year 2019 , the value of non-performing assets of private banks across India amounted to over 1.8 trillion Indian rupees . This was much lesser in fiscal year 2017 , amounting to about 9.3 billion rupees . Non-performing assets have posed a big problem for banks in India and experts point that this crisis had been long in the making .\n"
+}

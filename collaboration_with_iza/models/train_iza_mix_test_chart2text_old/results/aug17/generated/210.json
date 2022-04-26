@@ -1,0 +1,46 @@
+{
+   "title": "Number of internet users in selected regions in Asia-Pacific 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the millions of woman who are representatives in users selected in Asia . ",
+      "Most woman are representative in Southeast_Asia with 76 millions and there are only 29 millions of woman represented in the Oceania . ",
+      "The second highest internet was South_Asia with 803 millions followed by with 1000 millions in East_Asia ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "13": "3",
+         "20": "3"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "12": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Number of internet users in millions": "1000"
+      },
+      {
+         "Region": "South Asia",
+         "Number of internet users in millions": "803"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Number of internet users in millions": "415"
+      },
+      {
+         "Region": "Oceania",
+         "Number of internet users in millions": "29"
+      }
+   ],
+   "gold": "The above statistic shows the number of internet users in the Asia-Pacific regions as of January 2019 . During that time , it was discovered that the internet population in East Asia amounted to one billion internet users .\n"
+}

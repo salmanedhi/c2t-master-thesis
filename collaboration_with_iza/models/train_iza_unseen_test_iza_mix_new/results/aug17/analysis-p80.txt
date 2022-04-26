@@ -1,0 +1,60 @@
+Example 13:
+titleEntities: {'Subject': ['Obesity'], 'Date': []}
+title: What causes Obesity
+X_Axis['type']: ['Fast_Food', 'Genetic', 'Lack_of_Exercises']
+Y_Axis['Percentage']: ['60', '30', '10']
+
+gold: This graph shows what causes obesity or is a factor in someone becoming obese . 60 % Fast food \\n 30 % Genetic \\n 10 % Lack of Exercises
+gold_template: This graph shows templateTitle[0] templateTitle[1] templateTitleSubject[0] or is a factor in someone becoming obese . templateYValue[max] templateScale templateXValue[0] \\n templateYValue[1] templateScale templateXValue[1] \\n templateYValue[min] templateScale templateXValue[last] of templateXValue[last]
+
+generated_template: templateXValue[0] templateTitle[1] templateYValue[max] templateScale of templateTitleSubject[0] , templateXValue[1] predisposition some templateYValue[1] templateScale whilst templateXValue[last] of templateXValue[last] contributes the other templateYValue[min] templateScale
+generated: Fast_Food causes 60 percentage of Obesity , Genetic predisposition some 30 percentage whilst Lack_of_Exercises of contributes the other 10 percentage . 
+
+Example 49:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most frequent daily users of social media
+X_Axis['Age', 'Group']: ['15-24', '25-34', '35-44', '45-54', '55-64']
+Y_Axis['Minutes']: ['125', '75', '74', '150', '110']
+
+gold: This graph compares the most frequent daily users of social media by minutes ( y axis ) with age groups ( x axis ) . 45 - 54 year olds spend the most amount of time on social media out of the 5 age groups , with an average of 150 minutes . 15 - 24 year olds spend the second most amount of time on social media , with an average of 124 minutes .
+gold_template: This graph compares the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] of templateTitle[4] templateTitle[5] by templateYLabel[0] ( y axis ) with templateXLabel[0] templateXLabel[1] ( x axis ) . 45 - 54 year olds spend the templateTitle[0] amount of time on templateTitle[4] templateTitle[5] out of the 5 templateXLabel[0] templateXLabel[1] , with an average of templateYValue[max] templateYLabel[0] . 15 - 24 year olds spend the second templateTitle[0] amount of time on templateTitle[4] templateTitle[5] , with an average of 124 templateYLabel[0] .
+
+generated_template: This chart shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] from templateXLabel[0] templateXValue[0] to templateXValue[last] . \\n From the chart we see that the templateYLabel[0] of templateYLabel[1] templateYLabel[2] were templateYValue[max] , at their highest in templateXValue[idxmax(Y)] . \\n The templateYLabel[1] templateYLabel[2] slowly declined over the next 3 - 4 templateXLabel[0] to templateYValue[min] in templateXValue[idxmin(Y)] .
+generated: This chart shows the Minutes of at the from Age 15-24 to 55-64 .  \\n From the chart we see that the Minutes of were 150 , at their highest in 45-54 .  \\n The Minutes slowly declined over the next 3 - 4 Age to 74 in 35-44 .
+
+Example 52:
+titleEntities: {'Subject': ['Fatal Injuries Pula Steel Factory'], 'Date': []}
+title: Number of Fatal Injuries at the Pula Steel Factory
+X_Axis['Year']: ['2012', '2013', '2014', '2015', '2016']
+Y_Axis['Number', 'of', 'Fatal', 'Injuries']: ['30', '25', '16', '15', '12']
+
+gold: The number of fatal injuries at the Pula Steel Factory showed a decrease over time . Its highest recorded point being in 2012 where there were 30 fatal injuries recorded . As time went on , the number dropped significantly having 13 fatal injuries recorded in 2016 .
+gold_template: The templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] showed a templateNegativeTrend over time . Its highest recorded point being in templateXValue[0] where there were templateYValue[max] templateYLabel[1] templateYLabel[2] recorded . As time went on , the templateYLabel[0] templateNegativeTrend significantly having 13 templateYLabel[1] templateYLabel[2] recorded in templateXValue[last] .
+
+generated_template: This chart shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] from templateXLabel[0] templateXValue[0] to templateXValue[last] . \\n From the chart you will see that the templateYLabel[0] of templateYLabel[2] were templateYValue[max] , at their highest in templateXValue[idxmax(Y)] . \\n The templateYLabel[1] templateYLabel[2] slowly declined over the next 3 - 4 templateXLabel[0] to templateYValue[min] in templateXValue[idxmin(Y)] .
+generated: This chart shows the Number of Fatal Injuries at the Fatal Injuries Pula Steel Factory from Year 2012 to 2016 .  \\n From the chart you will see that the Number of Injuries were 30 , at their highest in 2012 .  \\n The Fatal Injuries slowly declined over the next 3 - 4 Year to 12 in 2016 .
+
+Example 112:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most expensive digital cameras by average price
+X_Axis['Camera', 'brand']: ['Memoto', 'Sigma', 'Cambo', 'Hunten', 'Konica']
+Y_Axis['Average', 'price', 'in']: ['70.1', '62.3', '75.9', '58.6', '53.5']
+
+gold: The chart shows the average price of Digital Cameras by brand \n\\n The chart shows the Cambo brand to be the most expensive with Konica being the cheapest average price . The differential is relatively small .
+gold_template: The chart shows the templateYLabel[0] templateYLabel[1] of templateTitle[2] templateXLabel[0] templateTitle[4] templateXLabel[1] \n\\n The chart shows the templateXValue[2] templateXLabel[1] to be the templateTitle[0] templateTitle[1] with templateXValue[last] being the cheapest templateYLabel[0] templateYLabel[1] . The differential is relatively small .
+
+generated_template: This chart shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] from templateXLabel[0] templateXValue[0] to templateXValue[last] . \\n From the chart we see that the templateYLabel[0] of templateYLabel[1] templateYLabel[2] were templateYValue[max] , at their highest in templateXValue[idxmax(Y)] . \\n The templateYLabel[1] templateYLabel[2] slowly declined over the next 3 - 4 templateXLabel[0] to templateYValue[min] in templateXValue[idxmin(Y)] .
+generated: This chart shows the Average of price at the from Camera Memoto to Konica .  \\n From the chart we see that the Average of price were 75.9 , at their highest in Cambo .  \\n The price slowly declined over the next 3 - 4 Camera to 53.5 in Konica .
+
+Example 151:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most explored glaciers by the number of expeditions
+X_Axis['Glacier']: ['Volta', 'Tasman', 'Akkem', 'Zvezda', 'Mefonna', 'Olav']
+Y_Axis['Number', 'of', 'expeditions']: ['4', '2', '9', '6', '13', '5']
+
+gold: This chart shows the most explored glaciers by number of expeditions . \n From the chart we see that the Akkem and Mefonna glaciers ( with 9 and 13 visits respectively , for a total of 22 ) were visited more often than the remaining 4 glaciers put together ( with a combined total of 17 ) .
+gold_template: This chart shows the templateTitle[0] templateTitle[1] templateXLabel[0] templateTitle[3] templateYLabel[0] of templateYLabel[1] . \n From the chart we see that the templateXValue[2] and templateXValue[4] templateXLabel[0] ( with templateYValue[2] and templateYValue[max] visits respectively , for a total of 22 ) were visited more often than the remaining templateYValue[0] templateXLabel[0] put together ( with a combined total of 17 ) .
+
+generated_template: This chart shows the templateTitle[0] templateTitle[1] templateXLabel[0] according to the templateYLabel[0] of templateYLabel[1] . \n templateXValue[4] has the templateTitle[0] with templateYValue[max] templateYLabel[1] , this is much more than other templateXLabel[0] . \n templateXValue[1] has the fewest templateYLabel[1] with just templateYValue[min] .
+generated: This chart shows the most explored Glacier according to the Number of expeditions .  \n Mefonna has the most with 13 expeditions , this is much more than other Glacier .  \n Tasman has the fewest expeditions with just 2 .
+

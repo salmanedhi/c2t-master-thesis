@@ -1,0 +1,35 @@
+{
+   "title": "U.S. consumers who use marijuana 2017 , by gender",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows that 13 % of U.S. is caused by Men . ",
+      "Only 7 percent is caused by Women of whilst 7 percent is Women . "
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "11": "0"
+      },
+      {
+         "1": "1",
+         "6": "1",
+         "8": "1",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": "7"
+      }
+   ],
+   "gold": "A July 2017 survey of U.S. adults found that approximately 13 percent of American men and seven percent of American women currently smoke marijuana . Impact of Legalizing Cannabis in the U.S . Since Washington and Colorado legalized recreational marijuana in 2012 , several more states have followed suit .\n"
+}

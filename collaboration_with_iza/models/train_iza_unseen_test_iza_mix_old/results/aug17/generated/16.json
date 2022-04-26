@@ -1,0 +1,41 @@
+{
+   "title": "What causes Obesity in Kiribati",
+   "xAxis": "Cause",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentages of What was the Cause of Obesity in Kiribati . ",
+      "From the chart we see that approximately 24.3 percentage of the Cause for Obesity was from Fast_Food , whereas 35 percentage of the Cause came from Lack_of_Exercise of . ",
+      "The highest percentage of the Cause of Obesity came from Genetic with 40.1 percentage ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "16": "0",
+         "26": "2",
+         "28": "2"
+      },
+      {
+         "10": "1",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Cause": "Fast Food",
+         "Percentage": "24.3"
+      },
+      {
+         "Cause": "Genetic",
+         "Percentage": "40.1"
+      },
+      {
+         "Cause": "Lack of Exercise",
+         "Percentage": "35.6"
+      }
+   ],
+   "gold": "This chart indicates three possible causes of obesity in the Kiribati population . It indicates the main cause of obesity was attributed to genetic cause with 40 % of the sample identifying that as the main reason . Only 25 % indicated fast food contributed to the problem .\n"
+}

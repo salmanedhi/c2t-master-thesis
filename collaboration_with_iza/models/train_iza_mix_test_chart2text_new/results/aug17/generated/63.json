@@ -1,0 +1,92 @@
+{
+   "title": "Reach of social media used by UK teens and young adults 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Reach social Platform in the used by was Platform Instagram , who made 80.9 respondents . ",
+      "The most social Platform was Snapchat , with just 0 respondents . ",
+      "In second place was Platform Facebook with 77.3 respondents ; third place went to Platform YouTube with 80.9 respondents ; fourth place went to Platform None with 2.1 respondents and fifth place went to Platform LinkedIn , who made 30 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "10"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "13",
+         "27": "13",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "YouTube",
+         "Share of respondents": "80.9"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents": "77.3"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": "71.9"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": "30"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": "57.5"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents": "76"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": "48.6"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": "25.8"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": "16"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": "22.5"
+      },
+      {
+         "Platform": "Periscope",
+         "Share of respondents": "0"
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents": "1.6"
+      },
+      {
+         "Platform": "Don\u2019t know",
+         "Share of respondents": "0.6"
+      },
+      {
+         "Platform": "None",
+         "Share of respondents": "2.1"
+      }
+   ],
+   "gold": "The statistic illustrates findings of a survey among the residents aged 15 - 25 regarding the use of social media in the United Kingdom ( UK ) in 2019 . During the survey period , it was found that 80.9 percent of respondents that go online were YouTube users .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "EU : used car sales in 2013 , per 1,000 population",
+   "xAxis": "Country",
+   "yAxis": "Number of used car sales per thousand population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of used conducted by car in a sales 2013 . ",
+      "\\\\n From the chart we see that the Portugal Country was the EU used Country in the 2013 with 116 used . ",
+      "The next Country to make the most used was the Belgium Country with 78 used closely followed by UK with 116 used ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "10"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "10",
+         "20": "10"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Number of used car sales per thousand population": "35"
+      },
+      {
+         "Country": "Italy",
+         "Number of used car sales per thousand population": "42"
+      },
+      {
+         "Country": "Portugal",
+         "Number of used car sales per thousand population": "49"
+      },
+      {
+         "Country": "Belgium",
+         "Number of used car sales per thousand population": "78"
+      },
+      {
+         "Country": "France",
+         "Number of used car sales per thousand population": "81"
+      },
+      {
+         "Country": "Germany",
+         "Number of used car sales per thousand population": "88"
+      },
+      {
+         "Country": "Denmark",
+         "Number of used car sales per thousand population": "97"
+      },
+      {
+         "Country": "Austria",
+         "Number of used car sales per thousand population": "98"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of used car sales per thousand population": "102"
+      },
+      {
+         "Country": "Sweden",
+         "Number of used car sales per thousand population": "107"
+      },
+      {
+         "Country": "UK",
+         "Number of used car sales per thousand population": "116"
+      }
+   ],
+   "gold": "This statistic displays the volume of used car sales in selected European countries in 2013 , per thousand population . The United Kingdom ( UK ) is the biggest used car market among the displayed countries , handling approximately eight percent more used cars than Sweden in 2013 .\n"
+}

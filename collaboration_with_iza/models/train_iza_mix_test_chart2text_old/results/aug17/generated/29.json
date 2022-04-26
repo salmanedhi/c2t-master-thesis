@@ -1,0 +1,57 @@
+{
+   "title": "Tour de France : Spanish winners until 2018",
+   "xAxis": "Cyclists",
+   "yAxis": "Number of victories",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of victories made by France in a Spanish winners . ",
+      "\\\\n From the chart we see that the Carlos_Sastre_(2008) Cyclists was the Tour de Cyclists in the winners with 5 victories . ",
+      "The next Cyclists to make the most victories was the \u00d3scar_Pereiro_(2006) Cyclists with 1 victories closely followed by Federico_Mart\u00edn_Bahamontes_(1959) with 1 victories ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "6",
+         "20": "6"
+      }
+   ],
+   "data": [
+      {
+         "Cyclists": "Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995)",
+         "Number of victories": "5"
+      },
+      {
+         "Cyclists": "Alberto Contador (2007 and 2009)",
+         "Number of victories": "2"
+      },
+      {
+         "Cyclists": "Carlos Sastre (2008)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "\u00d3scar Pereiro (2006)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Perico Delgado (1988)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Luis Oca\u00f1a (1973)",
+         "Number of victories": "1"
+      },
+      {
+         "Cyclists": "Federico Mart\u00edn Bahamontes (1959)",
+         "Number of victories": "1"
+      }
+   ],
+   "gold": "This statistic presents the list of Spanish cyclists who ever won the Tour de France until the 2018 edition . Miguel Indur\u00e1in , with five consecutive victories between 1991 and 1995 , was the Spaniard who had won the French competition the most . The last Spaniard to win the Tour was Alberto Contador in 2009 .\n"
+}

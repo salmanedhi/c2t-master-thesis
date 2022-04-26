@@ -1,0 +1,46 @@
+{
+   "title": "Facebook reactions on top shared content 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of reactions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Share of reactions Facebook worldwide in 2017 , sorted 2017 Response . ",
+      "In that year , 41 % of Facebook reactions in the Facebook were Love . ",
+      "Founded in Agordo , Italy the Facebook Group S.p.A. is the Angry 's largest eyewear company ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0"
+      },
+      {
+         "12": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Love",
+         "Share of reactions": "41"
+      },
+      {
+         "Response": "Haha",
+         "Share of reactions": "28"
+      },
+      {
+         "Response": "Wow",
+         "Share of reactions": "15"
+      },
+      {
+         "Response": "Sad",
+         "Share of reactions": "12"
+      },
+      {
+         "Response": "Angry",
+         "Share of reactions": "5"
+      }
+   ],
+   "gold": "This statistic presents the reaction usage in top shared posts on Facebook in September 2017 . During the measured period , Love was the most popular Facebook reaction on top shared posts on the social network .\n"
+}

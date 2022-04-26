@@ -1,0 +1,84 @@
+{
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Average price Area in the properties for was Area Parioli_Flaminio , who made 7817 euros . ",
+      "The most price Area was Prati_Borgo_Mazzini_Delle_Vittorie , with just 3972 euros . ",
+      "In second place was Area Aventino_San_Saba_Caracalla with 6910 euros ; third place went to Area Centro_Storico with 7817 euros ; fourth place went to Area Gregorio_VII_Baldo_degli_Ubaldi with 3972 euros and fifth place went to Area Testaccio_Trastevere , who was 5435 euros ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "11"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "11",
+         "27": "11",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Area": "Centro Storico",
+         "Price in euros per square meter": "7817"
+      },
+      {
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": "6910"
+      },
+      {
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": "5622"
+      },
+      {
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": "5435"
+      },
+      {
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": "5137"
+      },
+      {
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": "4884"
+      },
+      {
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": "4531"
+      },
+      {
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": "4289"
+      },
+      {
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": "4107"
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": "4099"
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": "4000"
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": "3972"
+      }
+   ],
+   "gold": "The statistic shows the average price for houses , apartments and residential real estate for sale in selected areas of the Italian city of Rome as of December 2019 . According to the data , the sale price in the historic city center ( Centro Storico ) amounted to over 7.8 thousand euros per square meter .\n"
+}

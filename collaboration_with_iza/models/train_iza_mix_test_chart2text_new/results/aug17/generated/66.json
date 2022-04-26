@@ -1,0 +1,45 @@
+{
+   "title": "Motorcycle manufacturer Ducati - key figures 2018",
+   "xAxis": "Motorcycle Details",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Motorcycle manufacturer on Ducati in % 1 in 1278.0",
+      "\\\\n From the chart we see that Motorcycle_production_(in_1000_units) manufacturer a total of \u00a3 1278.0 % 1 for the year , \u00a3 120 % more than the closest competitor ( Number_of_employees , which manufacturer \u00a3 1278.0 % ) and over twice as much Revenue_(in_million_euros) and Motorcycle_sales_(in_1000_units) put together ( which manufacturer \u00a3 595.0 and \u00a3 53.0 % respectively , totalling \u00a3 150 million ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "0",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1"
+      }
+   ],
+   "data": [
+      {
+         "Motorcycle Details": "Number of employees",
+         "Unnamed: 1": "1278.0"
+      },
+      {
+         "Motorcycle Details": "Revenue (in million euros)",
+         "Unnamed: 1": "595.0"
+      },
+      {
+         "Motorcycle Details": "Motorcycle production (in 1000 units)",
+         "Unnamed: 1": "53.32"
+      },
+      {
+         "Motorcycle Details": "Motorcycle sales (in 1000 units)",
+         "Unnamed: 1": "53.0"
+      }
+   ],
+   "gold": "This statistic illustrates selected key figures for the motorcycle manufacturer Ducati in the fiscal year of 2018 . The Volkswagen-owned motorcycle manufacturer reported sales of around 53,000 units in 2018 .\n"
+}

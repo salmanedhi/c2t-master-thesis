@@ -1,0 +1,82 @@
+{
+   "title": "Countries with the highest military spending in 2018",
+   "xAxis": "Country",
+   "yAxis": "Military spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the leading Countries spending 2018 in . ",
+      "That year , the China was the second leading importer of Countries 2018 , with imports valued at approximately 250.0 billion U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "19": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "USA",
+         "Military spending in billion U.S. dollars": "649.0"
+      },
+      {
+         "Country": "China",
+         "Military spending in billion U.S. dollars": "250.0"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Military spending in billion U.S. dollars": "67.6"
+      },
+      {
+         "Country": "India",
+         "Military spending in billion U.S. dollars": "66.5"
+      },
+      {
+         "Country": "France",
+         "Military spending in billion U.S. dollars": "63.8"
+      },
+      {
+         "Country": "Russia",
+         "Military spending in billion U.S. dollars": "61.4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Military spending in billion U.S. dollars": "50.0"
+      },
+      {
+         "Country": "Germany",
+         "Military spending in billion U.S. dollars": "49.5"
+      },
+      {
+         "Country": "Japan",
+         "Military spending in billion U.S. dollars": "46.6"
+      },
+      {
+         "Country": "South Korea",
+         "Military spending in billion U.S. dollars": "43.1"
+      },
+      {
+         "Country": "Brazil",
+         "Military spending in billion U.S. dollars": "27.8"
+      },
+      {
+         "Country": "Italy",
+         "Military spending in billion U.S. dollars": "27.8"
+      },
+      {
+         "Country": "Australia",
+         "Military spending in billion U.S. dollars": "26.7"
+      },
+      {
+         "Country": "Canada",
+         "Military spending in billion U.S. dollars": "21.6"
+      },
+      {
+         "Country": "Turkey",
+         "Military spending in billion U.S. dollars": "19.0"
+      }
+   ],
+   "gold": "This statistic ranks the 15 countries with the highest military spending in 2018 . With defense spending totaling USD 649 billion , the USA ranked first . Worldwide leaders in military spending The United States lead the globe in military spending in 2018 .\n"
+}

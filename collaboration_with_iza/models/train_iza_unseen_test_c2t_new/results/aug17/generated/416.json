@@ -1,0 +1,34 @@
+{
+   "title": "2016 U.S. election : Twitter followers of candidates in September 2016",
+   "xAxis": "Twitter account in brackets",
+   "yAxis": "Number of Twitter followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the 2016 U.S. election in some european Twitter \\\\n Donald_Trump_(@realDonaldTrump) is the worst with 11.9 millions followed closely by the Hillary_Clinton_(@HillaryClinton) with just over 20 millions . ",
+      "\\\\n The best Twitter is Hillary_Clinton_(@HillaryClinton) with just 9.3 millions U.S. election . "
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "0",
+         "23": "1"
+      },
+      {
+         "5": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Twitter account in brackets": "Donald Trump (@realDonaldTrump)",
+         "Number of Twitter followers in millions": "11.9"
+      },
+      {
+         "Twitter account in brackets": "Hillary Clinton (@HillaryClinton)",
+         "Number of Twitter followers in millions": "9.3"
+      }
+   ],
+   "gold": "This statistic shows the number of Twitter followers of the 2016 U.S. presidential candidates , as of September , 2016 . As of September , 2016 , Donald Trump had approximately 11.9 million Twitter followers .\n"
+}

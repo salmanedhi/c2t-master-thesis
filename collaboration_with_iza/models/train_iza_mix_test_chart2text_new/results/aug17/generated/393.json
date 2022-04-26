@@ -1,0 +1,106 @@
+{
+   "title": "Most expensive cities for Airbnb accommodation worldwide 2014",
+   "xAxis": "Cities",
+   "yAxis": "Average price per night in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average of price made by Cities . ",
+      "\\n Macao_China has the highest Average of price sitting at 12.8",
+      "\\n Second to Macao_China is New_York_USA at 9.2 price ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Cities": "Boston USA",
+         "Average price per night in U.S. dollars": "274"
+      },
+      {
+         "Cities": "Canc\u00f9n Mexico",
+         "Average price per night in U.S. dollars": "247"
+      },
+      {
+         "Cities": "New York USA",
+         "Average price per night in U.S. dollars": "231"
+      },
+      {
+         "Cities": "Dubai UEA",
+         "Average price per night in U.S. dollars": "226"
+      },
+      {
+         "Cities": "Macao China",
+         "Average price per night in U.S. dollars": "213"
+      },
+      {
+         "Cities": "Aberdeen UK",
+         "Average price per night in U.S. dollars": "209"
+      },
+      {
+         "Cities": "Newcastle UK",
+         "Average price per night in U.S. dollars": "208"
+      },
+      {
+         "Cities": "Monte-Carlo Monaco",
+         "Average price per night in U.S. dollars": "202"
+      },
+      {
+         "Cities": "Punta Cana Dominican Republic",
+         "Average price per night in U.S. dollars": "193"
+      },
+      {
+         "Cities": "Miami USA",
+         "Average price per night in U.S. dollars": "193"
+      },
+      {
+         "Cities": "Birmingham UK",
+         "Average price per night in U.S. dollars": "191"
+      },
+      {
+         "Cities": "Bristol UK",
+         "Average price per night in U.S. dollars": "179"
+      },
+      {
+         "Cities": "San Francisco USA",
+         "Average price per night in U.S. dollars": "178"
+      },
+      {
+         "Cities": "Rio de Janeiro Brazil",
+         "Average price per night in U.S. dollars": "176"
+      },
+      {
+         "Cities": "London UK",
+         "Average price per night in U.S. dollars": "176"
+      },
+      {
+         "Cities": "Z\u00fcrich Switzerland",
+         "Average price per night in U.S. dollars": "172"
+      },
+      {
+         "Cities": "Nassau Bahamas",
+         "Average price per night in U.S. dollars": "171"
+      },
+      {
+         "Cities": "St Moritz Switzerland",
+         "Average price per night in U.S. dollars": "171"
+      },
+      {
+         "Cities": "Sydney Australia",
+         "Average price per night in U.S. dollars": "168"
+      },
+      {
+         "Cities": "Venice Italy",
+         "Average price per night in U.S. dollars": "166"
+      }
+   ],
+   "gold": "This statistic shows the most expensive cities for Airbnb accommodation worldwide as of December 2014 . According to the GoEuro Accommodation Price Index , Boston in the United States was the most expensive city with an average cost of 274 U.S. dollars per night .\n"
+}

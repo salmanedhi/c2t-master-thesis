@@ -1,0 +1,66 @@
+{
+   "title": "Leading uranium consuming countries worldwide 2017",
+   "xAxis": "Country",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The countries with the highest uranium of multiple sclerosis include United_States , France China , and Russia . ",
+      "Multiple sclerosis ( Leading ) is a disease that affects communication in parts of the nervous system and damages the brain and spinal cord . ",
+      "Some of those with Leading eventually become disabled due to the disease , but many can still walk , if not with the aid of a cane or crutches ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "1",
+         "14": "2",
+         "17": "3"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Consumption in thousand metric tons": "19.0"
+      },
+      {
+         "Country": "France",
+         "Consumption in thousand metric tons": "9.5"
+      },
+      {
+         "Country": "China",
+         "Consumption in thousand metric tons": "8.29"
+      },
+      {
+         "Country": "Russia",
+         "Consumption in thousand metric tons": "5.38"
+      },
+      {
+         "Country": "South Korea",
+         "Consumption in thousand metric tons": "4.73"
+      },
+      {
+         "Country": "Ukraine",
+         "Consumption in thousand metric tons": "1.94"
+      },
+      {
+         "Country": "United Kingdom",
+         "Consumption in thousand metric tons": "1.77"
+      },
+      {
+         "Country": "Canada",
+         "Consumption in thousand metric tons": "1.59"
+      },
+      {
+         "Country": "Germany",
+         "Consumption in thousand metric tons": "1.48"
+      },
+      {
+         "Country": "Spain",
+         "Consumption in thousand metric tons": "1.28"
+      }
+   ],
+   "gold": "This statistic shows the leading ten countries worldwide based on uranium consumption in 2017 . In that year , the United States was the largest uranium consumer worldwide , using a total of almost 19,000 metric tons of uranium . Uranium consumption worldwide Uranium is a heavy metal that occurs in many rocks as well as in sea water .\n"
+}

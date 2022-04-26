@@ -1,0 +1,63 @@
+{
+   "title": "Ranking of languages spoken at home in the U.S. 2018",
+   "xAxis": "Language",
+   "yAxis": "Number of speakers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic ranks the ten Ranking U.S. Language , other than English , in U.S. 2018 in , by Number of speakers . ",
+      "The Ranking languages U.S. Language was Spanish with almost 41460427 thousand native speakers , followed by Chinese_(incl._Mandarin_Cantonese) and U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Language": "Spanish",
+         "Number of speakers": "41460427"
+      },
+      {
+         "Language": "Chinese (incl. Mandarin Cantonese)",
+         "Number of speakers": "3471604"
+      },
+      {
+         "Language": "Tagalog (incl. Filipino)",
+         "Number of speakers": "1760468"
+      },
+      {
+         "Language": "Vietnamese",
+         "Number of speakers": "1542473"
+      },
+      {
+         "Language": "Arabic",
+         "Number of speakers": "1259118"
+      },
+      {
+         "Language": "French (incl. Cajun)",
+         "Number of speakers": "1232173"
+      },
+      {
+         "Language": "Korean",
+         "Number of speakers": "1086335"
+      },
+      {
+         "Language": "Russian",
+         "Number of speakers": "919279"
+      },
+      {
+         "Language": "German",
+         "Number of speakers": "889651"
+      },
+      {
+         "Language": "Hindi",
+         "Number of speakers": "874314"
+      }
+   ],
+   "gold": "This graph shows the top 10 spoken languages other than English in the United States . In 2018 , around 41.5 million people in the U.S. spoke Spanish at home . The distribution of the U.S. population by ethnicity can be accessed here .\n"
+}

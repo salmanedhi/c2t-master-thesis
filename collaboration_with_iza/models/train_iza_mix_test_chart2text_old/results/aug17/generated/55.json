@@ -1,0 +1,42 @@
+{
+   "title": "U.S. gasoline motor fuel taxes July 2019",
+   "xAxis": "Tax",
+   "yAxis": "Cents per gallon",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the U.S. gasoline on July in the taxes 2019 on different continents . ",
+      "The most U.S. gasoline was in Total_state_taxes/fees where \u00a3 290 ,000,000 was gasoline . ",
+      "The amount in Other_state_taxes/fees was a little lower at \u00a3 11.32 ,000,000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2"
+      },
+      {
+         "3": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Tax": "State excise tax",
+         "Cents per gallon": "24.85"
+      },
+      {
+         "Tax": "Other state taxes/fees",
+         "Cents per gallon": "11.32"
+      },
+      {
+         "Tax": "Total state taxes/fees",
+         "Cents per gallon": "36.17"
+      },
+      {
+         "Tax": "Total state plus federal excise taxes",
+         "Cents per gallon": "54.57"
+      }
+   ],
+   "gold": "This statistic represents the U.S. gasoline motor fuel taxes as of July 2019 . Consumers in the United States had to pay state and federal gasoline motor fuel taxes of around 54.6 U.S. dollar cents per gallon . In 2018 , the average annual retail price of gasoline in the United States came to around 2.72 U.S. dollars .\n"
+}

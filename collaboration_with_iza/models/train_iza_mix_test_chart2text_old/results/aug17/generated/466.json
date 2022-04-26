@@ -1,0 +1,69 @@
+{
+   "title": "Wealth in the U.S. - UHNW ( super rich ) population in 2014 , by city",
+   "xAxis": "State",
+   "yAxis": "Number of Ultra-High-Net-Worth people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of Ultra-High-Net-Worth conducted by UHNW in a super rich . ",
+      "\\\\n From the chart we see that the Los_Angeles State was the Wealth U.S. State in the rich with 8655 Ultra-High-Net-Worth . ",
+      "The next State to make the most Ultra-High-Net-Worth was the Chicago State with 2885 Ultra-High-Net-Worth closely followed by Seattle with 1095 Ultra-High-Net-Worth ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "State": "New York",
+         "Number of Ultra-High-Net-Worth people": "8655"
+      },
+      {
+         "State": "San Francisco",
+         "Number of Ultra-High-Net-Worth people": "5460"
+      },
+      {
+         "State": "Los Angeles",
+         "Number of Ultra-High-Net-Worth people": "5135"
+      },
+      {
+         "State": "Chicago",
+         "Number of Ultra-High-Net-Worth people": "2885"
+      },
+      {
+         "State": "Washington",
+         "Number of Ultra-High-Net-Worth people": "2730"
+      },
+      {
+         "State": "Houston",
+         "Number of Ultra-High-Net-Worth people": "2545"
+      },
+      {
+         "State": "Dallas",
+         "Number of Ultra-High-Net-Worth people": "2330"
+      },
+      {
+         "State": "Toronto",
+         "Number of Ultra-High-Net-Worth people": "1840"
+      },
+      {
+         "State": "Atlanta",
+         "Number of Ultra-High-Net-Worth people": "1230"
+      },
+      {
+         "State": "Seattle",
+         "Number of Ultra-High-Net-Worth people": "1095"
+      }
+   ],
+   "gold": "This statistic shows the number of the super-rich , or Ultra-High-Net-Worth , persons in the United States in 2014 , sorted by city . New York has the largest concentration of super-rich individuals ; about 8,655 UHNW ( Ultra High Net Worth ) people are living in the metro area .\n"
+}

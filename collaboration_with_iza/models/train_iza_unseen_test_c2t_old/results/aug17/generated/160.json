@@ -1,0 +1,101 @@
+{
+   "title": "Toyota 's market share of new car registrations in the EU 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Toyota 's market in the share competirion . ",
+      "\\\\n From the chart we see that the Aug_19 Month made the Toyota share by some margin , with only 4 . ",
+      "Nov_19 and Dec_19 made a respectable 4.7 and 4 share , with Aug_18 and Sep_19 not far behind , at 4.3 and 5.1 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "0"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "16",
+         "14": "3",
+         "20": "16",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": "4"
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": "4.7"
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": "5.1"
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": "5.1"
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": "4.6"
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": "4.9"
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": "4.6"
+      },
+      {
+         "Month": "May 19",
+         "Market share": "4.7"
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": "4.6"
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": "4.3"
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": "4.4"
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": "5"
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": "4"
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": "4.7"
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": "5.1"
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": "5.5"
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": "4.3"
+      }
+   ],
+   "gold": "The statistic shows Toyota 's share of new car registrations in the EU between August 2018 and December 2019 . In December 2019 , Toyota 's share of new car registrations in the EU dropped slightly but stood around 4 % percent . Toyota-branded vehicles are sold by the Toyota Motor Corporation , which is ranked among the largest automobile manufacturers in the world .\n"
+}

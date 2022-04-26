@@ -1,0 +1,52 @@
+{
+   "title": "Loan-to-deposit ratio in the global bank industry 2011",
+   "xAxis": "Country",
+   "yAxis": "Loan-to-deposit ratio",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows that Banks_worldwide has the highest Loan-to-deposit of ratio with 50/100 being on their Loan-to-deposit . ",
+      "Japan holds 99.5 % of the Loan-to-deposit ratio , followed by Europe with 115.5",
+      "United_States and China both have 60.6 ratio in the Loan-to-deposit global . "
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "0": "3",
+         "2": "3",
+         "11": "4",
+         "13": "4"
+      },
+      {
+         "0": "2",
+         "2": "1",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Banks worldwide",
+         "Loan-to-deposit ratio": "94.4"
+      },
+      {
+         "Country": "China",
+         "Loan-to-deposit ratio": "60.6"
+      },
+      {
+         "Country": "United States",
+         "Loan-to-deposit ratio": "72"
+      },
+      {
+         "Country": "Japan",
+         "Loan-to-deposit ratio": "99.5"
+      },
+      {
+         "Country": "Europe",
+         "Loan-to-deposit ratio": "115.5"
+      }
+   ],
+   "gold": "The statistic shows the loan-to-deposit ratio in the global bank industry as of October 2011 . If the granted loans amount to more than 100 percent in relation to customer deposits at the banks , the deposits are not sufficient for a refinancing of the loans . Thus , the banks depend on other means of refinancing .\n"
+}

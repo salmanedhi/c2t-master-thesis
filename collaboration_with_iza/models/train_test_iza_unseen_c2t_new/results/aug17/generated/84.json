@@ -1,0 +1,49 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unnamed: of 1 US a Airways key in the figures , 2015 Key area . ",
+      "In 2015 , 427533.0 % of American Airlines 1 Key between 18 and 24 years played a Airways key ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "5"
+      }
+   ],
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": "55.0"
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": "6985.0"
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": "1549.0"
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": "197.3"
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": "350627.0"
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": "427533.0"
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": "82.0"
+      }
+   ],
+   "gold": "This statistic represents combined key figures for American Airlines and US Airways ( as of June 2015 ) . American Airlines and US Airways had passenger traffic amounting to around 351 billion revenue passenger kilometers .\n"
+}

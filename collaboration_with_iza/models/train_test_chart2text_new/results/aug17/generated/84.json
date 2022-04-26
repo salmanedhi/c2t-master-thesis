@@ -1,0 +1,57 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Number_of_countries_served and Number_of_daily_departures are the most popular of all the Number_of_passengers_(in_millions) area , receiving 427533.0 % paid Unnamed: in fiscal year 2018/19 . ",
+      "This was followed 2015 US to Number_of_daily_departures during its annual summer opening . ",
+      "In total , paid US to all the Number_of_passengers_(in_millions) area reached over three million ."
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "2": "1",
+         "10": "3"
+      },
+      {
+         "6": "1"
+      },
+      {
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": "55.0"
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": "6985.0"
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": "1549.0"
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": "197.3"
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": "350627.0"
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": "427533.0"
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": "82.0"
+      }
+   ],
+   "gold": "This statistic represents combined key figures for American Airlines and US Airways ( as of June 2015 ) . American Airlines and US Airways had passenger traffic amounting to around 351 billion revenue passenger kilometers .\n"
+}

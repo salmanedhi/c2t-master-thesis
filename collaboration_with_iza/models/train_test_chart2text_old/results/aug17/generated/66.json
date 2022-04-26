@@ -1,0 +1,43 @@
+{
+   "title": "Motorcycle manufacturer Ducati - key figures 2018",
+   "xAxis": "Motorcycle Details",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unnamed: 1 of the Ducati at the Number_of_employees of a Details in the Ducati in 2018 , according to whether it is the Ducati 's first , second third , or fourth Details . ",
+      "It reveals that in 2018 women in the Ducati on Unnamed: were 53.0 years old when they had their first Details . ",
+      "If they had a second Details , on Unnamed: it came a little over two years later , when they were 595.0 years old ."
+   ],
+   "trends": [
+      {
+         "11": "0"
+      },
+      {
+         "12": "3"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Motorcycle Details": "Number of employees",
+         "Unnamed: 1": "1278.0"
+      },
+      {
+         "Motorcycle Details": "Revenue (in million euros)",
+         "Unnamed: 1": "595.0"
+      },
+      {
+         "Motorcycle Details": "Motorcycle production (in 1000 units)",
+         "Unnamed: 1": "53.32"
+      },
+      {
+         "Motorcycle Details": "Motorcycle sales (in 1000 units)",
+         "Unnamed: 1": "53.0"
+      }
+   ],
+   "gold": "This statistic illustrates selected key figures for the motorcycle manufacturer Ducati in the fiscal year of 2018 . The Volkswagen-owned motorcycle manufacturer reported sales of around 53,000 units in 2018 .\n"
+}

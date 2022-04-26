@@ -1,0 +1,85 @@
+{
+   "title": "Most used housewrap brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Most used Brand in terms of the Share of respondents with Pinkwrap_(Owens_Corning) having the Most \u2013 57.4 respondents down to Typar_(Fiberweb) the least used of the group at 0.9 respondents . ",
+      "In between , we have Tyvek_(Dupont) 57.4 , None_of_these 9.6 , Weathermate_(Dow) 2.6 and James_Hardie 6.1 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "9"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "12",
+         "9": "12",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Tyvek (Dupont)",
+         "Share of respondents": "57.4"
+      },
+      {
+         "Brand": "Typar (Fiberweb)",
+         "Share of respondents": "13"
+      },
+      {
+         "Brand": "James Hardie",
+         "Share of respondents": "6.1"
+      },
+      {
+         "Brand": "Weathermate (Dow)",
+         "Share of respondents": "2.6"
+      },
+      {
+         "Brand": "Pinkwrap (Owens Corning)",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Benjamin Obdyke",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Protecto Wrap",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Henry Blueskin",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Poly-Wall",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "DELTA-DRY (Cosella Dorken)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "CertaWrap (CertainTeed)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "GreenGuard (Pactiv)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "None of these",
+         "Share of respondents": "9.6"
+      }
+   ],
+   "gold": "This statistic depicts housewrap brands used the most by U.S. construction firms in 2018 . The survey revealed that 57.4 percent of the respondents used Tyvek ( DuPont ) brand housewrap the most .\n"
+}

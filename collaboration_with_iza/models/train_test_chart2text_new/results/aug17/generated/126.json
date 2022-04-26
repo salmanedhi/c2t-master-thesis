@@ -1,0 +1,72 @@
+{
+   "title": "Cyber attacks on industries worldwide 2017",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Cyber of attacks and industries worldwide in Cyber 2017 . ",
+      "The survey revealed that 26 % of the respondents attacks Energy is the Cyber respondents industries Cyber . ",
+      "Here , a trip that might take 60 minutes in non-congested respondents will take 57 minutes Share during rush hour ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Energy",
+         "Share of respondents": "26"
+      },
+      {
+         "Month": "Healthcare",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Retail and wholesale",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Manufacturing",
+         "Share of respondents": "22"
+      },
+      {
+         "Month": "Infrastructure",
+         "Share of respondents": "19"
+      },
+      {
+         "Month": "Financial institutions",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "Automotive",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Professional services",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Power and utilities",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Marine",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Communications media and technology",
+         "Share of respondents": "13"
+      },
+      {
+         "Month": "Aviation and aerospace",
+         "Share of respondents": "9"
+      }
+   ],
+   "gold": "This statistic presents a ranking of the industries most commonly impacted by cyber attacks worldwide as of September 2017 . During the survey , 26 percent of respondents from the energy sector stated that their company had been victim of cyber attacks in the past 12 months .\n"
+}

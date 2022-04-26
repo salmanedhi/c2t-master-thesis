@@ -1,0 +1,57 @@
+{
+   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Desktop/laptop ownership among U.S. adults 2008 in the U.S. ( ) in 2008 . ",
+      "In 2008 , the ownership among U.S. adults in the U.S. was at 78 % 2019 U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "February 2019",
+         "Share of U.S. adults": "74"
+      },
+      {
+         "Month": "January 2018",
+         "Share of U.S. adults": "73"
+      },
+      {
+         "Month": "November 2016",
+         "Share of U.S. adults": "78"
+      },
+      {
+         "Month": "April 2016",
+         "Share of U.S. adults": "74"
+      },
+      {
+         "Month": "April 2015",
+         "Share of U.S. adults": "73"
+      },
+      {
+         "Month": "January 2012",
+         "Share of U.S. adults": "78"
+      },
+      {
+         "Month": "December 2011",
+         "Share of U.S. adults": "75"
+      },
+      {
+         "Month": "June 2010",
+         "Share of U.S. adults": "78"
+      },
+      {
+         "Month": "January 2008",
+         "Share of U.S. adults": "74"
+      }
+   ],
+   "gold": "The statistic shows the penetration rate of desktop and laptop computers among adults in the United States between 2008 and 2019 . As of February 2019 , 74 percent of Americans owned a desktop or laptop computer .\n"
+}

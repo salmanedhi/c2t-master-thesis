@@ -1,0 +1,45 @@
+{
+   "title": "Loan-to-deposit ratio in the global bank industry 2011",
+   "xAxis": "Country",
+   "yAxis": "Loan-to-deposit ratio",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Loan-to-deposit of global ratio in Loan-to-deposit . ",
+      "We can see that both China and United_States have a very small amount whilst Europe , Japan and Banks_worldwide have a much higher amount . "
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "2",
+         "14": "4",
+         "16": "3",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Banks worldwide",
+         "Loan-to-deposit ratio": "94.4"
+      },
+      {
+         "Country": "China",
+         "Loan-to-deposit ratio": "60.6"
+      },
+      {
+         "Country": "United States",
+         "Loan-to-deposit ratio": "72"
+      },
+      {
+         "Country": "Japan",
+         "Loan-to-deposit ratio": "99.5"
+      },
+      {
+         "Country": "Europe",
+         "Loan-to-deposit ratio": "115.5"
+      }
+   ],
+   "gold": "The statistic shows the loan-to-deposit ratio in the global bank industry as of October 2011 . If the granted loans amount to more than 100 percent in relation to customer deposits at the banks , the deposits are not sufficient for a refinancing of the loans . Thus , the banks depend on other means of refinancing .\n"
+}

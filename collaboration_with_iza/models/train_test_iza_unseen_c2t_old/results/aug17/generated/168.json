@@ -1,0 +1,66 @@
+{
+   "title": "Growth in travel to the most popular luxury travel destinations worldwide in 2014",
+   "xAxis": "Country",
+   "yAxis": "Year-over-year travel growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The countries with the highest travel of multiple sclerosis include Greece , Germany United_Kingdom , and France . ",
+      "Multiple sclerosis ( Growth ) is a disease that affects communication in parts of the nervous system and damages the brain and spinal cord . ",
+      "Some of those with Growth eventually become disabled due to the disease , but many can still walk , if not with the aid of a cane or crutches ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "1",
+         "14": "2",
+         "17": "3"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Greece",
+         "Year-over-year travel growth": "57"
+      },
+      {
+         "Country": "Germany",
+         "Year-over-year travel growth": "31"
+      },
+      {
+         "Country": "United Kingdom",
+         "Year-over-year travel growth": "30"
+      },
+      {
+         "Country": "France",
+         "Year-over-year travel growth": "23"
+      },
+      {
+         "Country": "Spain",
+         "Year-over-year travel growth": "20"
+      },
+      {
+         "Country": "Netherlands",
+         "Year-over-year travel growth": "18"
+      },
+      {
+         "Country": "Mexico",
+         "Year-over-year travel growth": "17"
+      },
+      {
+         "Country": "Canada",
+         "Year-over-year travel growth": "9"
+      },
+      {
+         "Country": "Italy",
+         "Year-over-year travel growth": "6"
+      },
+      {
+         "Country": "South Africa",
+         "Year-over-year travel growth": "-5"
+      }
+   ],
+   "gold": "This statistic shows the growth in travel to the most popular luxury travel destinations worldwide as of August 2014 . Luxury travel to the United Kingdom grew by 30 percent in 2014 compared to the previous year .\n"
+}

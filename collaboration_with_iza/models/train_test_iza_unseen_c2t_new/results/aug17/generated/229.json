@@ -1,0 +1,59 @@
+{
+   "title": "PUBG console and PC player base worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "PUBG is headquartered in the U.S. and is a large retailer operating players club stores around the world . ",
+      "PUBG 's most populous worldwide of June_2018 was home to 50 PUBG players in PUBG as of 2018 , whilst there was just 2 players in December_2017 and May_2017 . ",
+      "The players club business model players clubs offer a more limited range of products than a traditional supermarket and aim to attract shoppers who wish to save money base buying in bulk ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "10": "0",
+         "23": "7",
+         "26": "1",
+         "28": "7"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2018",
+         "Number of players in millions": "50"
+      },
+      {
+         "Month": "December 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "10"
+      },
+      {
+         "Month": "September 2017",
+         "Number of players in millions": "8"
+      },
+      {
+         "Month": "August 2017",
+         "Number of players in millions": "7"
+      },
+      {
+         "Month": "July 2017",
+         "Number of players in millions": "5"
+      },
+      {
+         "Month": "June 2017",
+         "Number of players in millions": "3"
+      },
+      {
+         "Month": "May 2017",
+         "Number of players in millions": "2"
+      }
+   ],
+   "gold": "How many people play PUBG ? PlayerUnknown 's Battlegrounds ( PUBG ) , which is available on console and PC , crossed the 50 million player base mark in June 2018 - an impressive figure considering it was released little over a year earlier . The Battle Royale game developed by Bluehole was made available to the public in March 2017 . One of the biggest games on Steam While it is available on both PlayStation and Xbox One , PUBG 's origins lie in PC and , more specifically , on Steam .\n"
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Number of M & A deals in the U.S. 2019 , by deal value",
+   "xAxis": "Deal value in million U.S. dollars",
+   "yAxis": "Number of deals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Matches from the More_than_1000 Women 's More_than_1000 were the best-viewed & Deal in the Number M A in July2019 , with nearly 12713 million of the Number deals or nearly 5.5 million people watching the final of the tournament . ",
+      "In this final , the Dutch squad lost to defending champions USA . ",
+      "The semi-final , where the Number M A took on Sweden , had a Number deals of 205 million this month ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "6": "0",
+         "20": "9"
+      },
+      {},
+      {
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Deal value in million U.S. dollars": "More than 1000",
+         "Number of deals": "281"
+      },
+      {
+         "Deal value in million U.S. dollars": "500 to 999",
+         "Number of deals": "205"
+      },
+      {
+         "Deal value in million U.S. dollars": "250 to 499.9",
+         "Number of deals": "293"
+      },
+      {
+         "Deal value in million U.S. dollars": "100 to 249.9",
+         "Number of deals": "441"
+      },
+      {
+         "Deal value in million U.S. dollars": "50 to 99.9",
+         "Number of deals": "361"
+      },
+      {
+         "Deal value in million U.S. dollars": "25 to 49.9",
+         "Number of deals": "348"
+      },
+      {
+         "Deal value in million U.S. dollars": "10 to 24.9",
+         "Number of deals": "370"
+      },
+      {
+         "Deal value in million U.S. dollars": "Under 10",
+         "Number of deals": "698"
+      },
+      {
+         "Deal value in million U.S. dollars": "Undisclosed",
+         "Number of deals": "9716"
+      },
+      {
+         "Deal value in million U.S. dollars": "Total",
+         "Number of deals": "12713"
+      }
+   ],
+   "gold": "The statistic presents the number of M & A deals in the United States as of September 2019 , by deal value . In that year , there were 281 M & A transactions valued at more than one billion U.S. dollars in the United States . The overall number of M & A deals in the 12 months ending September 30 , 2019 amounted to 12,713 .\n"
+}

@@ -1,0 +1,40 @@
+{
+   "title": "Quarterly gross mortgage lending in the United Kingdom ( UK ) Q4 2018- Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Mortgages value in billion GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In the third Quarter of 2019 , 60.81 billion of United Kingdom e-commerce website visits were converted into purchases , down from 64.1 billion during preceding Quarter . ",
+      "In the country , gross mortgage Mortgages value amounted to 2.57 billion . ",
+      "Despite mobile commerce catching up in terms of page views and revenue , traditional gross shopping visits via PC still hold the top spot for Mortgages ."
+   ],
+   "trends": [
+      {
+         "7": "2",
+         "21": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Mortgages value in billion GBP": "70.43"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Mortgages value in billion GBP": "64.1"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Mortgages value in billion GBP": "60.81"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Mortgages value in billion GBP": "70.46"
+      }
+   ],
+   "gold": "This statistic illustrates the total quarterly value of gross mortgage lending in the United Kingdom ( UK ) from the fourth quarter of 2018 to the third quarter of 2019 . It can be seen that the value of gross mortgage lending reached an estimated value of approximately 70.4 billion British pounds as of the third quarter of 2019 .\n"
+}

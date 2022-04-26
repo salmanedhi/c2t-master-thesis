@@ -1,0 +1,63 @@
+{
+   "title": "Change of domestic heating oil price in selected countries 2018 to 2019",
+   "xAxis": "Country",
+   "yAxis": "Change in heating oil price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Change of heating E.L. James 's 'Fifty Change of ' selected in countries Spain Canada as of 2018 . ",
+      "The book selected more than -4.4 million heating in France as of 2018 and a total of over 7 million Canada . ",
+      "During a survey in 2016 , romance ranked third in a list of preferred e-book genres in the Italy ."
+   ],
+   "trends": [
+      {
+         "18": "2",
+         "19": "0"
+      },
+      {
+         "5": "6",
+         "9": "3",
+         "18": "0",
+         "20": "0"
+      },
+      {
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Change in heating oil price": "7"
+      },
+      {
+         "Country": "Italy",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "Spain",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "France",
+         "Change in heating oil price": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Change in heating oil price": "0.8"
+      },
+      {
+         "Country": "Japan",
+         "Change in heating oil price": "-0.1"
+      },
+      {
+         "Country": "Germany",
+         "Change in heating oil price": "-4.4"
+      },
+      {
+         "Country": "United States",
+         "Change in heating oil price": "0"
+      }
+   ],
+   "gold": "This statistic shows the change in the price of domestic heating oil per liter in selected countries for the period between December 2018 and December 2019 . In December 2019 , the domestic heating oil price in Germany was some -4.4 percent lower than in December 2018 . Domestic heating oil The price of domestic heating oil per liter has decreased in many countries .\n"
+}

@@ -1,0 +1,35 @@
+{
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Copy of Grey in Shades Grey U.S.",
+      "\\\\n The biggest Copy , shown to be responsible for 29 millions of Copy , is genes . ",
+      "Digital of Digital accounts for 35 millions of Grey and Print is the Copy in nearly 25 millions of Copy ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": "29"
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": "15"
+      }
+   ],
+   "gold": "The statistic presents U.S. sales figures of the 'Fifty Shades of Grey ' trilogy in 2012 , broken down by platform . The book sold 29 million print and 15 million digital copies in 2012 . It topped the 2012 best-seller lists in the categories adult fiction and romance .\n"
+}

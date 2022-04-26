@@ -1,0 +1,45 @@
+{
+   "title": "Rapeseed production volume worldwide by country 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Rapeseed production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Rapeseed of volume Rapeseed in . ",
+      "We can see that both Canada and China have a very small amount whilst Other , India and European_Union have a much higher amount . "
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "2",
+         "14": "4",
+         "16": "3",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Rapeseed production in million metric tons": "19.6"
+      },
+      {
+         "Country": "Canada",
+         "Rapeseed production in million metric tons": "21.1"
+      },
+      {
+         "Country": "China",
+         "Rapeseed production in million metric tons": "12.85"
+      },
+      {
+         "Country": "India",
+         "Rapeseed production in million metric tons": "6.6"
+      },
+      {
+         "Country": "Other",
+         "Rapeseed production in million metric tons": "10.75"
+      }
+   ],
+   "gold": "This statistic provides a forecast of the rapeseed production volume worldwide in 2018/2019 , by country . It was forecasted , that the rapeseed production of Canada would amount to some 21.1 million metric tons . The global production of rapeseed oil is expected to reach nearly 28 million metric tons by that year .\n"
+}

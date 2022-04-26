@@ -1,0 +1,73 @@
+{
+   "title": "Italy : most-followed Italian influencers on Instagram 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of Instagram followers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Italy most-followed Italian in the influencers competirion . ",
+      "\\\\n From the chart we see that the Lorenzo_Ostuni Month made the Italy Instagram by some margin , with only 1863 . ",
+      "Gianluca_Vacchi and Chiara_Ferragni made a respectable 11499 and 12524 Instagram , with Clio_Zamatteo and Giorgia_Gabriele not far behind , at 1863 and 2620 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Chiara Ferragni",
+         "Number of Instagram followers in thousands": "12524"
+      },
+      {
+         "Month": "Gianluca Vacchi",
+         "Number of Instagram followers in thousands": "11499"
+      },
+      {
+         "Month": "Mariano Di Vaio",
+         "Number of Instagram followers in thousands": "6283"
+      },
+      {
+         "Month": "Giorgia Gabriele",
+         "Number of Instagram followers in thousands": "2620"
+      },
+      {
+         "Month": "Lorenzo Ostuni",
+         "Number of Instagram followers in thousands": "2435"
+      },
+      {
+         "Month": "Lodovica Comello",
+         "Number of Instagram followers in thousands": "2294"
+      },
+      {
+         "Month": "St3pny",
+         "Number of Instagram followers in thousands": "1953"
+      },
+      {
+         "Month": "IPantellas",
+         "Number of Instagram followers in thousands": "1955"
+      },
+      {
+         "Month": "Greta",
+         "Number of Instagram followers in thousands": "1877"
+      },
+      {
+         "Month": "Clio Zamatteo",
+         "Number of Instagram followers in thousands": "1863"
+      }
+   ],
+   "gold": "The statistic illustrates the leading Italian influencers ranked by number of Instagram followers in Italy as of 2019 . Influencers ( social influencers ) might include journalists , subject experts , celebrities and other individuals with large followings . They typically have established online presences through multiple channels and large followings on social media platforms such as Facebook and Twitter and are widely considered authorities among their follower base .\n"
+}

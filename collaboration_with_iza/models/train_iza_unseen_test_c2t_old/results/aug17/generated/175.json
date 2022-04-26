@@ -1,0 +1,284 @@
+{
+   "title": "Freedom House Index : internet freedom in selected countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Index points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Freedom House in Freedom House . ",
+      "\\n It demonstrates that Australia is the Freedom , with a Index of 95 points , while Canada is the coldest , with a Index of 10 points ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "13": "0",
+         "17": "2",
+         "26": "64"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Iceland",
+         "Index points": "95"
+      },
+      {
+         "Country": "Estonia",
+         "Index points": "94"
+      },
+      {
+         "Country": "Canada",
+         "Index points": "87"
+      },
+      {
+         "Country": "Germany",
+         "Index points": "80"
+      },
+      {
+         "Country": "Australia",
+         "Index points": "77"
+      },
+      {
+         "Country": "United States",
+         "Index points": "77"
+      },
+      {
+         "Country": "United Kingdom",
+         "Index points": "77"
+      },
+      {
+         "Country": "Armenia",
+         "Index points": "76"
+      },
+      {
+         "Country": "France",
+         "Index points": "76"
+      },
+      {
+         "Country": "Italy",
+         "Index points": "75"
+      },
+      {
+         "Country": "Georgia",
+         "Index points": "75"
+      },
+      {
+         "Country": "Japan",
+         "Index points": "73"
+      },
+      {
+         "Country": "South Africa",
+         "Index points": "72"
+      },
+      {
+         "Country": "Hungary",
+         "Index points": "72"
+      },
+      {
+         "Country": "Argentina",
+         "Index points": "72"
+      },
+      {
+         "Country": "Kenya",
+         "Index points": "68"
+      },
+      {
+         "Country": "Colombia",
+         "Index points": "67"
+      },
+      {
+         "Country": "Philippines",
+         "Index points": "66"
+      },
+      {
+         "Country": "Tunisia",
+         "Index points": "64"
+      },
+      {
+         "Country": "Brazil",
+         "Index points": "64"
+      },
+      {
+         "Country": "Angola",
+         "Index points": "64"
+      },
+      {
+         "Country": "Nigeria",
+         "Index points": "64"
+      },
+      {
+         "Country": "South Korea",
+         "Index points": "64"
+      },
+      {
+         "Country": "Ecuador",
+         "Index points": "61"
+      },
+      {
+         "Country": "Kyrgyzstan",
+         "Index points": "61"
+      },
+      {
+         "Country": "Mexico",
+         "Index points": "60"
+      },
+      {
+         "Country": "Zambia",
+         "Index points": "58"
+      },
+      {
+         "Country": "Malawi",
+         "Index points": "57"
+      },
+      {
+         "Country": "Malaysia",
+         "Index points": "57"
+      },
+      {
+         "Country": "Uganda",
+         "Index points": "56"
+      },
+      {
+         "Country": "Singapore",
+         "Index points": "56"
+      },
+      {
+         "Country": "Ukraine",
+         "Index points": "56"
+      },
+      {
+         "Country": "India",
+         "Index points": "55"
+      },
+      {
+         "Country": "Morocco",
+         "Index points": "54"
+      },
+      {
+         "Country": "Lebanon",
+         "Index points": "52"
+      },
+      {
+         "Country": "Indonesia",
+         "Index points": "51"
+      },
+      {
+         "Country": "Sri Lanka",
+         "Index points": "49"
+      },
+      {
+         "Country": "Libya",
+         "Index points": "49"
+      },
+      {
+         "Country": "The Gambia",
+         "Index points": "48"
+      },
+      {
+         "Country": "Jordan",
+         "Index points": "47"
+      },
+      {
+         "Country": "Bangladesh",
+         "Index points": "44"
+      },
+      {
+         "Country": "Cambodia",
+         "Index points": "43"
+      },
+      {
+         "Country": "Zimbabwe",
+         "Index points": "42"
+      },
+      {
+         "Country": "Rwanda",
+         "Index points": "41"
+      },
+      {
+         "Country": "Azerbaijan",
+         "Index points": "39"
+      },
+      {
+         "Country": "Turkey",
+         "Index points": "37"
+      },
+      {
+         "Country": "Myanmar",
+         "Index points": "36"
+      },
+      {
+         "Country": "Belarus",
+         "Index points": "35"
+      },
+      {
+         "Country": "Thailand",
+         "Index points": "35"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Index points": "32"
+      },
+      {
+         "Country": "Russia",
+         "Index points": "31"
+      },
+      {
+         "Country": "Venezuela",
+         "Index points": "30"
+      },
+      {
+         "Country": "Bahrain",
+         "Index points": "29"
+      },
+      {
+         "Country": "Ethiopia",
+         "Index points": "28"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Index points": "28"
+      },
+      {
+         "Country": "Pakistan",
+         "Index points": "26"
+      },
+      {
+         "Country": "Egypt",
+         "Index points": "26"
+      },
+      {
+         "Country": "Uzbekistan",
+         "Index points": "26"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Index points": "25"
+      },
+      {
+         "Country": "Sudan",
+         "Index points": "25"
+      },
+      {
+         "Country": "Vietnam",
+         "Index points": "24"
+      },
+      {
+         "Country": "Cuba",
+         "Index points": "22"
+      },
+      {
+         "Country": "Syria",
+         "Index points": "17"
+      },
+      {
+         "Country": "Iran",
+         "Index points": "15"
+      },
+      {
+         "Country": "China",
+         "Index points": "10"
+      }
+   ],
+   "gold": "The statistic shows the degree of Internet freedom in selected countries worldwide . According to the Freedom House Index , China occupied the last place in internet freedom with 10 index points in 2019 . Estonia and Iceland were ranked first and second with 95 and 94 out of 100 index points respectively .\n"
+}

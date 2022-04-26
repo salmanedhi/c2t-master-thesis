@@ -1,0 +1,74 @@
+{
+   "title": "Leading social media traffic referral sources H2 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents a ranking of the Leading social H2 media Share in the referral as of 2017 . ",
+      "During the survey period , Facebook was ranked first with a 18.16 million social media traffic of ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of traffic": "18.16"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of traffic": "7.53"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of traffic": "0.74"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of traffic": "0.73"
+      },
+      {
+         "Platform": "YouTube",
+         "Share of traffic": "0.17"
+      },
+      {
+         "Platform": "Flipboard",
+         "Share of traffic": "0.13"
+      },
+      {
+         "Platform": "StumbleUpon",
+         "Share of traffic": "0.1"
+      },
+      {
+         "Platform": "Buzzfeed",
+         "Share of traffic": "0.07"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of traffic": "0.07"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of traffic": "0.05"
+      },
+      {
+         "Platform": "Yummly",
+         "Share of traffic": "0.04"
+      },
+      {
+         "Platform": "Google+",
+         "Share of traffic": "0.03"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of traffic": "0"
+      }
+   ],
+   "gold": "This statistic gives information on the leading sources of internet referral traffic , based on Shareaholic 's global publisher network . In the second half of 2017 , it was found that social network Pinterest generated 7.53 percent of global referral traffic . Facebook was ranked first with a 18.16 percent traffic share .\n"
+}

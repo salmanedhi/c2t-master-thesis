@@ -1,0 +1,45 @@
+{
+   "title": "Market share of leading global payment card manufacturers 2016",
+   "xAxis": "Manufactor",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market share on Market in % share in 15.6",
+      "\\\\n From the chart we see that Perfect_Plastic_(U.S.) share a total of \u00a3 15.6 % share for the year , \u00a3 120 % more than the closest competitor ( Gemalto_(Netherlands) , which share \u00a3 15.6 % ) and over twice as much Oberthur_(France) and Giesecke_&_Devrient_(Germany) put together ( which share \u00a3 9.5 and \u00a3 8.4 % respectively , totalling \u00a3 150 million ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "0",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1"
+      }
+   ],
+   "data": [
+      {
+         "Manufactor": "Gemalto (Netherlands)",
+         "Market share": "15.6"
+      },
+      {
+         "Manufactor": "Oberthur (France)",
+         "Market share": "9.5"
+      },
+      {
+         "Manufactor": "Perfect Plastic (U.S.)",
+         "Market share": "9.1"
+      },
+      {
+         "Manufactor": "Giesecke & Devrient (Germany)",
+         "Market share": "8.4"
+      }
+   ],
+   "gold": "This statistic presents the market share of leading of leading payment card manufacturers worldwide in 2016 . Gemalto , a company headquartered in the Netherlands , led the ranking in 2016 , with a market share of 15.6 percent .\n"
+}

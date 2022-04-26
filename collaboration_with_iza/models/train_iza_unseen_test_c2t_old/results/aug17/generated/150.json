@@ -1,0 +1,75 @@
+{
+   "title": "Luxury destinations with the largest growth in travel worldwide 2016",
+   "xAxis": "Country",
+   "yAxis": "Year-over-year travel growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Luxury destinations in Luxury . ",
+      "It shows Saint_Martin was the Luxury at just 23 degrees and Ecuador was the warmest at 59 degrees . ",
+      "After Saint_Martin , the next Luxury destinations are Kenya at 59 degrees , followed by Jamaica at 18 degrees , Iceland at 56 degrees and then China at 35 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "9",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "9",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Kenya",
+         "Year-over-year travel growth": "59"
+      },
+      {
+         "Country": "Iceland",
+         "Year-over-year travel growth": "56"
+      },
+      {
+         "Country": "Saint Martin",
+         "Year-over-year travel growth": "39"
+      },
+      {
+         "Country": "China",
+         "Year-over-year travel growth": "35"
+      },
+      {
+         "Country": "Ecuador",
+         "Year-over-year travel growth": "34"
+      },
+      {
+         "Country": "Japan",
+         "Year-over-year travel growth": "32"
+      },
+      {
+         "Country": "South Africa",
+         "Year-over-year travel growth": "28"
+      },
+      {
+         "Country": "Tanzania",
+         "Year-over-year travel growth": "27"
+      },
+      {
+         "Country": "Croatia",
+         "Year-over-year travel growth": "25"
+      },
+      {
+         "Country": "Jamaica",
+         "Year-over-year travel growth": "23"
+      }
+   ],
+   "gold": "This statistic shows the luxury travel destinations with the largest growth in travel worldwide as of August 2016 . Luxury travel to Kenya grew by 59 percent in 2016 compared with the previous year . In 2017 , the Caribbean was the leading international destination for a spring vacation according to U.S. respondents .\n"
+}

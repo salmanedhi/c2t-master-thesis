@@ -1,0 +1,45 @@
+{
+   "title": "What do Students choose to study ?",
+   "xAxis": "Deparment",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "50 percentage of Students chose to study the STEM subjects , less than half that number - 20 percentage chose Literature and 20 percentage Medicine . ",
+      "Philosophy has the least numbers chosing it - 10 percentage . "
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "8": "0",
+         "17": "3",
+         "20": "1",
+         "22": "3",
+         "24": "3"
+      },
+      {
+         "0": "2",
+         "8": "2"
+      }
+   ],
+   "data": [
+      {
+         "Deparment": "STEM",
+         "Percentage": "50"
+      },
+      {
+         "Deparment": "Literature",
+         "Percentage": "20"
+      },
+      {
+         "Deparment": "Philosophy",
+         "Percentage": "10"
+      },
+      {
+         "Deparment": "Medicine",
+         "Percentage": "20"
+      }
+   ],
+   "gold": "Most students choose STEM subjects at 50 % whilst Literature and Medicine only attract 20 % , and philosophy is least popular at 10 % .\n"
+}

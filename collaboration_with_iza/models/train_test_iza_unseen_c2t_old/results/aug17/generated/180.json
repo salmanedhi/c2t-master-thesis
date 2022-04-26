@@ -1,0 +1,64 @@
+{
+   "title": "U.S. company data loss prevention methods 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the U.S. ten company in Training_and_awareness_programs loss on prevention methods in the 2017 as forecasted by professional chefs for 2017 . ",
+      "During the survey , 60 % of the respondents stated that Training_and_awareness_programs was a `` hot trend `` for prevention methods in 2017 ."
+   ],
+   "trends": [
+      {
+         "8": "0"
+      },
+      {
+         "4": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Training and awareness programs",
+         "Share of respondents": "60"
+      },
+      {
+         "Response": "Expanded use of encryption",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "Endpoint security solutions",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Identity and access management solutions",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Additional manual procedures and controls",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "Data loss prevention (DLP) solutions",
+         "Share of respondents": "36"
+      },
+      {
+         "Response": "Security intelligence solutions",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Other system control practices",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Security certification or audit",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Strenghtening of perimeter controls",
+         "Share of respondents": "16"
+      }
+   ],
+   "gold": "This statistic presents a ranking of common data loss prevention controls and activities of organizations in the United States in 2017 . During the survey period , it was found that 35 percent of U.S. companies had implemented security intelligence solutions .\n"
+}

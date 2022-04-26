@@ -1,0 +1,71 @@
+{
+   "title": "Share of global fentanyl consumption in 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the percentage of consumption in United_States 2018 , broken down consumption 2018 . ",
+      "That year , there were a total of approximately two percentage consumption in United_States . ",
+      "Almost 20.8 thousand had Spanish 2018 , followed consumption with a Moroccan 2018 with figures that almost reached 770 thousand individuals ."
+   ],
+   "trends": [
+      {
+         "8": "0"
+      },
+      {
+         "13": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Percentage of consumption": "20.8"
+      },
+      {
+         "Country": "Germany",
+         "Percentage of consumption": "17.5"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of consumption": "15.6"
+      },
+      {
+         "Country": "Spain",
+         "Percentage of consumption": "8.2"
+      },
+      {
+         "Country": "Italy",
+         "Percentage of consumption": "4.7"
+      },
+      {
+         "Country": "France",
+         "Percentage of consumption": "4.5"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of consumption": "3.1"
+      },
+      {
+         "Country": "Netherlands",
+         "Percentage of consumption": "3.1"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of consumption": "2.1"
+      },
+      {
+         "Country": "Belgium",
+         "Percentage of consumption": "2"
+      },
+      {
+         "Country": "Other countries",
+         "Percentage of consumption": "18.4"
+      }
+   ],
+   "gold": "This statistic displays the distribution of global fentanyl consumption by region in 2018 . During this year , the United Kingdom consumed approximately 15.6 percent of the world 's fentanyl . This drug can be used as an analgesic and is about 100 times more potent than morphine .\n"
+}

@@ -1,0 +1,55 @@
+{
+   "title": "The warmest cities in South America",
+   "xAxis": "City",
+   "yAxis": "Temperature in C",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The warmest City in South America is Bogota with a Temperature of 16 degrees celcius . ",
+      "The hottest City is Belem with a Temperature of 36 degrees . ",
+      "Second hottest is Montevideo at 28 degrees followed by Lima at 25 degrees celcius ."
+   ],
+   "trends": [
+      {
+         "6": "2",
+         "11": "2"
+      },
+      {
+         "4": "4",
+         "9": "4"
+      },
+      {
+         "3": "3",
+         "9": "1",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "City": "Santiago",
+         "Temperature in C": "20"
+      },
+      {
+         "City": "Lima",
+         "Temperature in C": "25"
+      },
+      {
+         "City": "Bogota",
+         "Temperature in C": "16"
+      },
+      {
+         "City": "Montevideo",
+         "Temperature in C": "29"
+      },
+      {
+         "City": "Belem",
+         "Temperature in C": "36"
+      },
+      {
+         "City": "Cordoba",
+         "Temperature in C": "23"
+      }
+   ],
+   "gold": "This graph shows the warmest cities in South America , measured in degrees celsius . The warmest is Belem at approx 36 degrees , followed by Montevideo at 29 degrees , Lima with 25 degrees , Cordoba at 23 degrees , Santiago at 20 degrees and finally Bogota comes in coldest at approx 16 degrees celsius\n"
+}

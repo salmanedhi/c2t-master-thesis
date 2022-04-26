@@ -1,0 +1,60 @@
+Example 13:
+titleEntities: {'Subject': ['Obesity'], 'Date': []}
+title: What causes Obesity
+X_Axis['type']: ['Fast_Food', 'Genetic', 'Lack_of_Exercises']
+Y_Axis['Percentage']: ['60', '30', '10']
+
+gold: This graph shows what causes obesity or is a factor in someone becoming obese . 60 % Fast food \\n 30 % Genetic \\n 10 % Lack of Exercises
+gold_template: This graph shows templateTitle[0] templateTitle[1] templateTitleSubject[0] or is a factor in someone becoming obese . templateYValue[max] templateScale templateXValue[0] \\n templateYValue[1] templateScale templateXValue[1] \\n templateYValue[min] templateScale templateXValue[last] of templateXValue[last]
+
+generated_template: templateXValue[0] templateTitle[1] templateYValue[max] templateScale of templateTitleSubject[0] , templateXValue[1] predisposition some templateYValue[1] templateScale whilst templateXValue[last] of templateXValue[last] contributes the other templateYValue[min] templateScale
+generated: Fast_Food causes 60 percentage of Obesity , Genetic predisposition some 30 percentage whilst Lack_of_Exercises of contributes the other 10 percentage . 
+
+Example 49:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most frequent daily users of social media
+X_Axis['Age', 'Group']: ['15-24', '25-34', '35-44', '45-54', '55-64']
+Y_Axis['Minutes']: ['125', '75', '74', '150', '110']
+
+gold: This graph compares the most frequent daily users of social media by minutes ( y axis ) with age groups ( x axis ) . 45 - 54 year olds spend the most amount of time on social media out of the 5 age groups , with an average of 150 minutes . 15 - 24 year olds spend the second most amount of time on social media , with an average of 124 minutes .
+gold_template: This graph compares the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] of templateTitle[4] templateTitle[5] by templateYLabel[0] ( y axis ) with templateXLabel[0] templateXLabel[1] ( x axis ) . 45 - 54 year olds spend the templateTitle[0] amount of time on templateTitle[4] templateTitle[5] out of the 5 templateXLabel[0] templateXLabel[1] , with an average of templateYValue[max] templateYLabel[0] . 15 - 24 year olds spend the second templateTitle[0] amount of time on templateTitle[4] templateTitle[5] , with an average of 124 templateYLabel[0] .
+
+generated_template: The statistic illustrates the templateYLabel[0] templateYLabel[1] of templateXLabel[0] templateXLabel[1] templateXLabel[2] in the templateTitleSubject[0] in templateTitleDate[0] . In that year , the templateYLabel[0] templateYLabel[1] of templateYLabel[2] templateTitle[5] templateXValue[0] templateTitle[2] templateXLabel[0] amounted to templateYValue[max] .
+generated: The statistic illustrates the Minutes of Age Group in the .  In that year , the Minutes of media 15-24 daily Age amounted to 150 .
+
+Example 52:
+titleEntities: {'Subject': ['Fatal Injuries Pula Steel Factory'], 'Date': []}
+title: Number of Fatal Injuries at the Pula Steel Factory
+X_Axis['Year']: ['2012', '2013', '2014', '2015', '2016']
+Y_Axis['Number', 'of', 'Fatal', 'Injuries']: ['30', '25', '16', '15', '12']
+
+gold: The number of fatal injuries at the Pula Steel Factory showed a decrease over time . Its highest recorded point being in 2012 where there were 30 fatal injuries recorded . As time went on , the number dropped significantly having 13 fatal injuries recorded in 2016 .
+gold_template: The templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] showed a templateNegativeTrend over time . Its highest recorded point being in templateXValue[0] where there were templateYValue[max] templateYLabel[1] templateYLabel[2] recorded . As time went on , the templateYLabel[0] templateNegativeTrend significantly having 13 templateYLabel[1] templateYLabel[2] recorded in templateXValue[last] .
+
+generated_template: The chart shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] street templateTitleSubject[0] . \\n The highest templateYLabel[0] was templateYValue[max] in templateXValue[idxmax(Y)] which templateNegativeTrend to templateYValue[1] in templateXValue[1] , templateYValue[2] in templateXValue[2] , templateYValue[3] in templateXValue[3] and the lowest figure was 13 in templateXValue[last] .
+generated: The chart shows the Number of Fatal Injuries at the Fatal Injuries Pula Steel Factory street .  \\n The highest Number was 30 in 2012 which fell to 25 in 2013 , 16 in 2014 , 15 in 2015 and the lowest figure was 13 in 2016 .
+
+Example 112:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most expensive digital cameras by average price
+X_Axis['Camera', 'brand']: ['Memoto', 'Sigma', 'Cambo', 'Hunten', 'Konica']
+Y_Axis['Average', 'price', 'in']: ['70.1', '62.3', '75.9', '58.6', '53.5']
+
+gold: The chart shows the average price of Digital Cameras by brand \n\\n The chart shows the Cambo brand to be the most expensive with Konica being the cheapest average price . The differential is relatively small .
+gold_template: The chart shows the templateYLabel[0] templateYLabel[1] of templateTitle[2] templateXLabel[0] templateTitle[4] templateXLabel[1] \n\\n The chart shows the templateXValue[2] templateXLabel[1] to be the templateTitle[0] templateTitle[1] with templateXValue[last] being the cheapest templateYLabel[0] templateYLabel[1] . The differential is relatively small .
+
+generated_template: France 's AREVA was one of the largest builders of templateTitleSubject[0] templateXLabel[0] in the world . The company specialized in templateTitleSubject[0] power and renewable energy . However , after its insolvency , AREVA sold most of its templateXLabel[0] to the French utility , EDF , while templateTitleSubject[0] propulsion and research templateXLabel[0] were sold to Agence des participations de l'État .
+generated: France 's AREVA was one of the largest builders of The Camera in the world .  The company specialized in The power and renewable energy .  However , after its insolvency , AREVA sold most of its Camera to the French utility , EDF while The propulsion and research Camera were sold to Agence des participations de l'État .
+
+Example 151:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most explored glaciers by the number of expeditions
+X_Axis['Glacier']: ['Volta', 'Tasman', 'Akkem', 'Zvezda', 'Mefonna', 'Olav']
+Y_Axis['Number', 'of', 'expeditions']: ['4', '2', '9', '6', '13', '5']
+
+gold: This chart shows the most explored glaciers by number of expeditions . \n From the chart we see that the Akkem and Mefonna glaciers ( with 9 and 13 visits respectively , for a total of 22 ) were visited more often than the remaining 4 glaciers put together ( with a combined total of 17 ) .
+gold_template: This chart shows the templateTitle[0] templateTitle[1] templateXLabel[0] templateTitle[3] templateYLabel[0] of templateYLabel[1] . \n From the chart we see that the templateXValue[2] and templateXValue[4] templateXLabel[0] ( with templateYValue[2] and templateYValue[max] visits respectively , for a total of 22 ) were visited more often than the remaining templateYValue[0] templateXLabel[0] put together ( with a combined total of 17 ) .
+
+generated_template: The chart shows the templateTitle[0] templateTitle[1] templateXLabel[0] in relation to the templateYLabel[0] of templateYLabel[1] conducted . The templateXValue[4] has had the largest templateYLabel[0] of templateYLabel[1] templateTitle[3] far with over 12 while templateXValue[1] has had only templateYValue[min] . templateXValue[2] has had a little over 8 while templateXValue[3] has had templateYValue[3] and templateXValue[last] has seen a little over templateYValue[0] templateYLabel[1] .
+generated: The chart shows the most explored Glacier in relation to the Number of expeditions conducted .  The Mefonna has had the largest Number of expeditions by far with over 12 while Tasman has had only 2 .  Akkem has had a little over 8 while Zvezda has had 6 and Olav has seen a little over 4 expeditions .
+

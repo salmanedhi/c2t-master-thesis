@@ -1,0 +1,83 @@
+{
+   "title": "Most Oscar nominated individuals of all time without a win as of 2020",
+   "xAxis": "List Of Academics",
+   "yAxis": "Number of Academy Awards nominations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most Oscar in . ",
+      "It shows Alex_North was the Most at just 10 degrees and Loren_L._Ryder was the warmest at 16 degrees . ",
+      "After Alex_North , the next Most Oscar are Greg_P._Russell at 16 degrees , followed by Anna_Behlmer at 18 degrees , Roland_Anderson at 15 degrees and then Thomas_Newman at 15 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "9",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "11",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "List Of Academics": "Greg P. Russell",
+         "Number of Academy Awards nominations": "16"
+      },
+      {
+         "List Of Academics": "Roland Anderson",
+         "Number of Academy Awards nominations": "15"
+      },
+      {
+         "List Of Academics": "Alex North",
+         "Number of Academy Awards nominations": "15"
+      },
+      {
+         "List Of Academics": "Thomas Newman",
+         "Number of Academy Awards nominations": "15"
+      },
+      {
+         "List Of Academics": "Loren L. Ryder",
+         "Number of Academy Awards nominations": "14"
+      },
+      {
+         "List Of Academics": "George J. Folsey",
+         "Number of Academy Awards nominations": "13"
+      },
+      {
+         "List Of Academics": "Federico Fellini",
+         "Number of Academy Awards nominations": "12"
+      },
+      {
+         "List Of Academics": "Rick Kline",
+         "Number of Academy Awards nominations": "11"
+      },
+      {
+         "List Of Academics": "Diane Warren",
+         "Number of Academy Awards nominations": "11"
+      },
+      {
+         "List Of Academics": "Walter Lantz",
+         "Number of Academy Awards nominations": "10"
+      },
+      {
+         "List Of Academics": "Walter Scharf",
+         "Number of Academy Awards nominations": "10"
+      },
+      {
+         "List Of Academics": "Anna Behlmer",
+         "Number of Academy Awards nominations": "10"
+      }
+   ],
+   "gold": "Whilst many Academy Award nominees are lucky enough to take home awards for their performances , some actors have received multiple nominations but thus far failed to secure a win . At the top of this ranking is Greg P. Russell , who has 16 nominations to his name , but is yet to win the coveted award . In 2019 , Diane Warren made the list after having received her tenth nomination for her song `` I 'll Fight `` from the documentary 'RBG ' _ , but failed to win an award that year .\n"
+}

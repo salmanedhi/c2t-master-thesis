@@ -1,0 +1,57 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Unnamed: of 1 made by US in a Airways key . ",
+      "\\\\n From the chart we see that the Number_of_aircraft_in_fleet Key was the American Airlines Key in the key with 427533.0 1 . ",
+      "The next Key to make the most 1 was the Number_of_passengers_(in_millions) Key with 197.3 1 closely followed by the Passenger_load_factor_(in_percent) Key with 82.0 1 ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "5"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "6",
+         "22": "6"
+      }
+   ],
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": "55.0"
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": "6985.0"
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": "1549.0"
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": "197.3"
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": "350627.0"
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": "427533.0"
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": "82.0"
+      }
+   ],
+   "gold": "This statistic represents combined key figures for American Airlines and US Airways ( as of June 2015 ) . American Airlines and US Airways had passenger traffic amounting to around 351 billion revenue passenger kilometers .\n"
+}

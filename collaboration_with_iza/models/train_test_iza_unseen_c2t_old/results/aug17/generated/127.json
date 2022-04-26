@@ -1,0 +1,317 @@
+{
+   "title": "Euro to Swiss franc monthly exchange rate 2014 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Exchange rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the monthly Exchange rate ( as of the end of each Month ) of the Euro to the Swiss franc sterling ( EURGBP ) , according to data from the European Central Bank , from 2014 to 2020 . ",
+      "The concrete , or point in time , measure shows the Exchange rate as of the last day of each Month , which is different to the standardized measure ; calculation of average based on observations throughout the period in question . ",
+      "franc fluctuates in uncertainty During the period under observation , the monthly Exchange rate of the Euro to the Swiss franc fluctuated ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Feb '20",
+         "Exchange rate": "1.06"
+      },
+      {
+         "Month": "Jan '20",
+         "Exchange rate": "1.07"
+      },
+      {
+         "Month": "Dec '19",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Nov '19",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Oct '19",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Sep '19",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Aug '19",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Jul '19",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Jun '19",
+         "Exchange rate": "1.11"
+      },
+      {
+         "Month": "May '19",
+         "Exchange rate": "1.12"
+      },
+      {
+         "Month": "Apr '19",
+         "Exchange rate": "1.14"
+      },
+      {
+         "Month": "Mar '19",
+         "Exchange rate": "1.12"
+      },
+      {
+         "Month": "Feb '19",
+         "Exchange rate": "1.13"
+      },
+      {
+         "Month": "Jan '19",
+         "Exchange rate": "1.14"
+      },
+      {
+         "Month": "Dec '18",
+         "Exchange rate": "1.13"
+      },
+      {
+         "Month": "Nov '18",
+         "Exchange rate": "1.13"
+      },
+      {
+         "Month": "Oct '18",
+         "Exchange rate": "1.14"
+      },
+      {
+         "Month": "Sep '18",
+         "Exchange rate": "1.13"
+      },
+      {
+         "Month": "Aug '18",
+         "Exchange rate": "1.13"
+      },
+      {
+         "Month": "Jul '18",
+         "Exchange rate": "1.16"
+      },
+      {
+         "Month": "Jun '18",
+         "Exchange rate": "1.16"
+      },
+      {
+         "Month": "May '18",
+         "Exchange rate": "1.15"
+      },
+      {
+         "Month": "Apr '18",
+         "Exchange rate": "1.2"
+      },
+      {
+         "Month": "Mar '18",
+         "Exchange rate": "1.18"
+      },
+      {
+         "Month": "Feb '18",
+         "Exchange rate": "1.15"
+      },
+      {
+         "Month": "Jan '18",
+         "Exchange rate": "1.16"
+      },
+      {
+         "Month": "Dec '17",
+         "Exchange rate": "1.17"
+      },
+      {
+         "Month": "Nov '17",
+         "Exchange rate": "1.17"
+      },
+      {
+         "Month": "Oct '17",
+         "Exchange rate": "1.16"
+      },
+      {
+         "Month": "Sep '17",
+         "Exchange rate": "1.15"
+      },
+      {
+         "Month": "Aug '17",
+         "Exchange rate": "1.14"
+      },
+      {
+         "Month": "Jul '17",
+         "Exchange rate": "1.14"
+      },
+      {
+         "Month": "Jun '17",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "May '17",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Apr '17",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Mar '17",
+         "Exchange rate": "1.07"
+      },
+      {
+         "Month": "Feb '17",
+         "Exchange rate": "1.06"
+      },
+      {
+         "Month": "Jan '17",
+         "Exchange rate": "1.07"
+      },
+      {
+         "Month": "Dec '16",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Nov '16",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Oct '16",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Sep '16",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Aug '16",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Jul '16",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Jun '16",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "May '16",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Apr '16",
+         "Exchange rate": "1.1"
+      },
+      {
+         "Month": "Mar '16",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Feb '16",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Jan '16",
+         "Exchange rate": "1.11"
+      },
+      {
+         "Month": "Dec '15",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Nov '15",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Oct '15",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Sep '15",
+         "Exchange rate": "1.09"
+      },
+      {
+         "Month": "Aug '15",
+         "Exchange rate": "1.08"
+      },
+      {
+         "Month": "Jul '15",
+         "Exchange rate": "1.06"
+      },
+      {
+         "Month": "Jun '15",
+         "Exchange rate": "1.04"
+      },
+      {
+         "Month": "May '15",
+         "Exchange rate": "1.03"
+      },
+      {
+         "Month": "Apr '15",
+         "Exchange rate": "1.05"
+      },
+      {
+         "Month": "Mar '15",
+         "Exchange rate": "1.05"
+      },
+      {
+         "Month": "Feb '15",
+         "Exchange rate": "1.06"
+      },
+      {
+         "Month": "Jan '15",
+         "Exchange rate": "1.05"
+      },
+      {
+         "Month": "Dec '14",
+         "Exchange rate": "1.2"
+      },
+      {
+         "Month": "Nov '14",
+         "Exchange rate": "1.2"
+      },
+      {
+         "Month": "Oct '14",
+         "Exchange rate": "1.21"
+      },
+      {
+         "Month": "Sep '14",
+         "Exchange rate": "1.21"
+      },
+      {
+         "Month": "Aug '14",
+         "Exchange rate": "1.21"
+      },
+      {
+         "Month": "Jul '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "Jun '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "May '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "Apr '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "Mar '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "Feb '14",
+         "Exchange rate": "1.22"
+      },
+      {
+         "Month": "Jan '14",
+         "Exchange rate": "1.22"
+      }
+   ],
+   "gold": "This statistic displays the monthly exchange rate ( as of the end of each month ) of the euro to the Swiss franc ( EURCHF ) , according to data from the European Central Bank , from January 2014 to February 2020 . The concrete , or point in time , measure shows the exchange rate as of the last day of each month , which is different to the standardized measure ; calculation of average based on observations throughout the period in question . Between the months of December 2016 to December 2017 , the monthly exchange rate of the euro to the Swiss franc noted an increase with some fluctuation .\n"
+}

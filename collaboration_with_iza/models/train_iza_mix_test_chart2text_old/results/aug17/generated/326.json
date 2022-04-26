@@ -1,0 +1,65 @@
+{
+   "title": "Advertising costs of Target in the U.S. 2010 to 2018",
+   "xAxis": "Fiscal year",
+   "yAxis": "Advertising spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Advertising of spending conducted by Target in a U.S. 2010 . ",
+      "\\\\n From the chart we see that the 2016 Fiscal was the Advertising costs Fiscal in the 2010 with 1600 spending . ",
+      "The next Fiscal to make the most spending was the 2015 Fiscal with 1434 spending closely followed by 2010 with 1292 spending ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "4"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "8",
+         "20": "8"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2018",
+         "Advertising spending in million U.S. dollars": "1494"
+      },
+      {
+         "Fiscal year": "2017",
+         "Advertising spending in million U.S. dollars": "1457"
+      },
+      {
+         "Fiscal year": "2016",
+         "Advertising spending in million U.S. dollars": "1465"
+      },
+      {
+         "Fiscal year": "2015",
+         "Advertising spending in million U.S. dollars": "1434"
+      },
+      {
+         "Fiscal year": "2014",
+         "Advertising spending in million U.S. dollars": "1600"
+      },
+      {
+         "Fiscal year": "2013",
+         "Advertising spending in million U.S. dollars": "1548"
+      },
+      {
+         "Fiscal year": "2012",
+         "Advertising spending in million U.S. dollars": "1389"
+      },
+      {
+         "Fiscal year": "2011",
+         "Advertising spending in million U.S. dollars": "1360"
+      },
+      {
+         "Fiscal year": "2010",
+         "Advertising spending in million U.S. dollars": "1292"
+      }
+   ],
+   "gold": "This timeline shows the advertising expenditure of Target in North America from 2010 to 2018 . In 2012 , Target 's ad spending amounted to 1.39 billion U.S. dollars .\n"
+}

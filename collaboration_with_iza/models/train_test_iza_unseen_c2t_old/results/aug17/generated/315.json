@@ -1,0 +1,41 @@
+{
+   "title": "Frequency of American families having dinner together at home 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "During a survey in 2013 , it was found that just 21 % of American adults visited a movie theater one or 0_to_3_nights month , but 53 % stated that they went to the cinema to watch a movie 4_to_5_nights or 6_to_7_nights less . ",
+      "Another survey earlier in the same 6_to_7_nights revealed that visits to the cinema can vary according to generation . ",
+      "On average , 34 % of Gen Xers had seen one movie within the last month , compared to 43 % of those classed as being members of Generation Z ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "22": "0",
+         "26": "2",
+         "39": "1",
+         "41": "2"
+      },
+      {
+         "6": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "0 to 3 nights",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "4 to 5 nights",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "6 to 7 nights",
+         "Share of respondents": "53"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted in 2013 , among adult Americans on the frequency of having dinner at home as a family . In December 2013 , 53 percent of the respondents answered that their family eat dinner together at home on 6 to 7 nights a week .\n"
+}

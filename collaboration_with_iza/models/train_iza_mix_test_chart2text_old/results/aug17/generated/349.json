@@ -1,0 +1,48 @@
+{
+   "title": "Total area of U.S. timberland in 2017 , by region",
+   "xAxis": "Country",
+   "yAxis": "Timberland in thousand acres",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Timberland of U.S. per . ",
+      "Rocky_Mountains has the most at 514425 , South second with 208092 , then All_regions with 514425 and Pacific_Coast North are joint last with 6 U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "5": "4",
+         "7": "3",
+         "10": "3",
+         "13": "4",
+         "15": "4",
+         "17": "1",
+         "19": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Rocky Mountains",
+         "Timberland in thousand acres": "69654"
+      },
+      {
+         "Country": "Pacific Coast",
+         "Timberland in thousand acres": "71784"
+      },
+      {
+         "Country": "North",
+         "Timberland in thousand acres": "164894"
+      },
+      {
+         "Country": "South",
+         "Timberland in thousand acres": "208092"
+      },
+      {
+         "Country": "All regions",
+         "Timberland in thousand acres": "514425"
+      }
+   ],
+   "gold": "This statistic shows the total timberland in the United States as of 2017 , sorted by region . In 2017 , the largest area of timberland in the U.S. was reported for the South with a total of 208,092 acres .\n"
+}

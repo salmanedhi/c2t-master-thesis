@@ -1,0 +1,73 @@
+{
+   "title": "Biggest electricity suppliers in Brussels ( Belgium ) 2019 , by market share",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market of share made by Month in a Brussels Belgium . ",
+      "\\\\n From the chart we see that the EDF_Luminus Month was the Biggest electricity Month in the Belgium with 64.29 share . ",
+      "The next Month to make the most share was the Octa+ Month with 3.09 share closely followed by the Other Month with 0.18 share ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "10",
+         "22": "10"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Engie Electrabel",
+         "Market share": "64.29"
+      },
+      {
+         "Month": "Lampiris",
+         "Market share": "18.54"
+      },
+      {
+         "Month": "EDF Luminus",
+         "Market share": "9.59"
+      },
+      {
+         "Month": "Octa+",
+         "Market share": "3.09"
+      },
+      {
+         "Month": "Mega",
+         "Market share": "2.5"
+      },
+      {
+         "Month": "Eneco",
+         "Market share": "0.92"
+      },
+      {
+         "Month": "Poweo",
+         "Market share": "0.35"
+      },
+      {
+         "Month": "Social suppliers",
+         "Market share": "0.25"
+      },
+      {
+         "Month": "Energie 2030",
+         "Market share": "0.21"
+      },
+      {
+         "Month": "Essent",
+         "Market share": "0.08"
+      },
+      {
+         "Month": "Other",
+         "Market share": "0.18"
+      }
+   ],
+   "gold": "With 60 percent of the market share , Engie Electrabel reached the highest market share of electricity supply in the Brussels-Capital Region . The Belgian daughter of the French multinational Engie was , therefore , leading the market in this region of Belgium in 2019 . Lampiris was the second-largest supplier , holding a market share of 19 percent .\n"
+}

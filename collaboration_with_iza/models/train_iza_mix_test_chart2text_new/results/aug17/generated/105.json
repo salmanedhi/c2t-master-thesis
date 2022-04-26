@@ -1,0 +1,71 @@
+{
+   "title": "Shortest Oscar acceptance speeches 2019",
+   "xAxis": "Actor",
+   "yAxis": "Number of words",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Shortest Oscar Actor in relation to the Number of words conducted . ",
+      "The William_Holden_(1954) has had the largest Number of words speeches far with over 12 while Louie_Psihoyos_(2010) has had only 2 . ",
+      "Alfred_Newman_(1953) has had a little over 8 while Gloria_Graham_(1953) has had 4 and Billy_Willder_(1961) has seen a little over 2 words ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "15": "1",
+         "19": "0"
+      },
+      {
+         "0": "2",
+         "8": "3",
+         "11": "3",
+         "13": "9",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Actor": "Patty Duke (1963)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Louie Psihoyos (2010)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Alfred Newman (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Gloria Graham (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "William Holden (1954)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Alfred Hitchcock (1968)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Joe Pesci (1991)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Dimitri Tiomkin (1953)",
+         "Number of words": "6"
+      },
+      {
+         "Actor": "Delbert Mann (1956)",
+         "Number of words": "8"
+      },
+      {
+         "Actor": "Billy Willder (1961)",
+         "Number of words": "10"
+      }
+   ],
+   "gold": "This statistic presents data on the shortest Academy Awards acceptance speeches of all time as of 2019 . According to the source , the record for the shortest speech is held by Patty Duke , who simply said `` thank you `` when accepting her Best Supporting Actress award in 1963 .\n"
+}

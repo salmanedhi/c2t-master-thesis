@@ -1,0 +1,96 @@
+{
+   "title": "Amtrak 's most punctual routes , by on-time performance ( OTP ) 2017",
+   "xAxis": "Amtrak Routes",
+   "yAxis": "Share of punctual trains",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Amtrak 's in the punctual routes was Amtrak Keystone_New_York-Philadelphia-Harrisburg , who made 95 punctual . ",
+      "The most 's Amtrak was Ethan_Allen_Express_Rutland-Albany-New_York , with just 70 punctual . ",
+      "In second place was Amtrak Capitol_Corridor_Auburn-Sacramento-Emeryville-Oakland-San_Jose with 91 punctual ; third place went to Amtrak Hiawatha_Milwaukee-Chicago with 95 punctual ; fourth place went to Amtrak Vermonter_St.Albans-Burlington-Springfield-New_York-Washington_DC with 70 punctual and fifth place went to Amtrak Empire_Service_New_York-Albany-Syracuse-Rochester-Buffalo-Niagara_Falls , who made 84 punctual ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "14"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "14",
+         "27": "14",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Amtrak Routes": "Hiawatha Milwaukee-Chicago",
+         "Share of punctual trains": "95"
+      },
+      {
+         "Amtrak Routes": "Capitol Corridor Auburn-Sacramento-Emeryville-Oakland-San Jose",
+         "Share of punctual trains": "91"
+      },
+      {
+         "Amtrak Routes": "Keystone New York-Philadelphia-Harrisburg",
+         "Share of punctual trains": "86"
+      },
+      {
+         "Amtrak Routes": "Empire Service New York-Albany-Syracuse-Rochester-Buffalo-Niagara Falls",
+         "Share of punctual trains": "84"
+      },
+      {
+         "Amtrak Routes": "Ethan Allen Express Rutland-Albany-New York",
+         "Share of punctual trains": "81"
+      },
+      {
+         "Amtrak Routes": "Missouri River Runner St. Louis-Jefferson City-Kansas City",
+         "Share of punctual trains": "81"
+      },
+      {
+         "Amtrak Routes": "Pennsylvanian New York-Pittsburgh",
+         "Share of punctual trains": "81"
+      },
+      {
+         "Amtrak Routes": "Heartland Flyer Oklahoma City-Fort Worth",
+         "Share of punctual trains": "78"
+      },
+      {
+         "Amtrak Routes": "Northeast Regional",
+         "Share of punctual trains": "77"
+      },
+      {
+         "Amtrak Routes": "San Joaquins San Francisco Bay Area/ Sacramento - Bakersfield/ Southern California",
+         "Share of punctual trains": "77"
+      },
+      {
+         "Amtrak Routes": "Acela Express",
+         "Share of punctual trains": "76"
+      },
+      {
+         "Amtrak Routes": "Maple Leaf Toronto-Niagara Falls New York",
+         "Share of punctual trains": "75"
+      },
+      {
+         "Amtrak Routes": "Hoosier State Indianapolis-Chicago",
+         "Share of punctual trains": "73"
+      },
+      {
+         "Amtrak Routes": "Downeaster Brunswick-Portland-Boston",
+         "Share of punctual trains": "72"
+      },
+      {
+         "Amtrak Routes": "Vermonter St.Albans-Burlington-Springfield-New York-Washington DC",
+         "Share of punctual trains": "70"
+      }
+   ],
+   "gold": "The statistic depicts Amtrak 's most punctual routes for the 12 months ending September 2017 , ranked by on-time performance . In the last 12 months , Amtrak 's Hiawatha route between Milwaukee and Chicago , was the most punctual route with 95 percent of its trains arriving on time at the end point . Amtrak 's flagship - Acela ExpressThe Acela Express is Amtrak 's most distinctive Northeast Corridor 's rail service , traveling between Washington , DC and Boston with 14 intermediate stops including Baltimore , Philadelphia and New York City 's busiest rail hub , New York Penn Station .\n"
+}

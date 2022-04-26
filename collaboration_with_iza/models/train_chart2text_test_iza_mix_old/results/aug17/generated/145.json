@@ -1,0 +1,46 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of most The ( PACs ) active in the country in , distinguished expeditions Glacier . ",
+      "In , there were by 2 active Tasman most active The in country ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "This chart shows the most explored glaciers by the number of expeditions undertaken during a particular time frame . Volta received 4 visits , Tasman received 2 visits , Akkem received 9 visits , Zvezda received 6 , Mefonna received 13 ( and as such was the most popular ) and Olav received 5 .\n"
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Largest donors of humanitarian aid worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Aid (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Country donors the highest Aid worldwide average 2019 for the period - 2019 . ",
+      "In that period , United_States was the Country donors the humanitarian number of Aid in relation to its U.S.",
+      "There were 6496.3 Aid (in every million of United_States 's U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      },
+      {
+         "2": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Aid (in million U.S. dollars)": "6496.3"
+      },
+      {
+         "Country": "Germany",
+         "Aid (in million U.S. dollars)": "1483.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Aid (in million U.S. dollars)": "1439.3"
+      },
+      {
+         "Country": "European commission",
+         "Aid (in million U.S. dollars)": "1168.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Aid (in million U.S. dollars)": "990.8"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Aid (in million U.S. dollars)": "425.0"
+      },
+      {
+         "Country": "Canada",
+         "Aid (in million U.S. dollars)": "406.2"
+      },
+      {
+         "Country": "Central Emergency Response Fund",
+         "Aid (in million U.S. dollars)": "398.5"
+      },
+      {
+         "Country": "Sweden",
+         "Aid (in million U.S. dollars)": "351.2"
+      },
+      {
+         "Country": "EU Commission - EU facility for refugees in Turkey",
+         "Aid (in million U.S. dollars)": "349.4"
+      }
+   ],
+   "gold": "This statistic shows the top donors of humanitarian aid worldwide in 2019 . In this year , the United States government donated nearly 6.5 billion U.S. dollars in humanitarian aid worldwide .\n"
+}

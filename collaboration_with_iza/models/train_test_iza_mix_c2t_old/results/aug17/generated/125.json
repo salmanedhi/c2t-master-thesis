@@ -1,0 +1,64 @@
+{
+   "title": "Leading men 's hair coloring brands in the U.S. 2019",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , Just_For_Men achieved 138.0 million U.S. dollars in Sales . ",
+      "Eyelash extensions , also known as permanent 's hair or semi permanent eyelash extensions are the latest trend sweeping across the beauty industry and have become a favorite of many celebrities . ",
+      "men Cosmetics Categories in the brands ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "5": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Just For Men",
+         "Sales in million U.S. dollars": "138.0"
+      },
+      {
+         "Brand": "Just For Men Autostop",
+         "Sales in million U.S. dollars": "27.2"
+      },
+      {
+         "Brand": "Just For Men Control GX",
+         "Sales in million U.S. dollars": "18.2"
+      },
+      {
+         "Brand": "Just For Men Touch of Gray",
+         "Sales in million U.S. dollars": "9.7"
+      },
+      {
+         "Brand": "Softsheen-Carson Dark & Natural",
+         "Sales in million U.S. dollars": "5.7"
+      },
+      {
+         "Brand": "Private label",
+         "Sales in million U.S. dollars": "2.8"
+      },
+      {
+         "Brand": "Grecian Formula 16",
+         "Sales in million U.S. dollars": "2.3"
+      },
+      {
+         "Brand": "Just For Men Original Formula",
+         "Sales in million U.S. dollars": "0.5"
+      },
+      {
+         "Brand": "Creme of Nature",
+         "Sales in million U.S. dollars": "0.3"
+      },
+      {
+         "Brand": "Grecian 5",
+         "Sales in million U.S. dollars": "0.1"
+      }
+   ],
+   "gold": "In 2019 , Just For Men was the leading men 's hair coloring brand in the United States with sales of approximately 138 million U.S. dollars . Ranked second , the Just For Men Autostop brand generated sales of around 27.2 million U.S. dollars that year .\n"
+}

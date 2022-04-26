@@ -1,0 +1,64 @@
+{
+   "title": "Largest donors of humanitarian aid worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Aid (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the countries and regions that consumed the most humanitarian in 2019 . ",
+      "The United_States demanded 6496.3 million of the donors 's total humanitarian production . ",
+      "(in of humanitarian is one of the donors 's most valued metals and included within the so called transition metals group ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Aid (in million U.S. dollars)": "6496.3"
+      },
+      {
+         "Country": "Germany",
+         "Aid (in million U.S. dollars)": "1483.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Aid (in million U.S. dollars)": "1439.3"
+      },
+      {
+         "Country": "European commission",
+         "Aid (in million U.S. dollars)": "1168.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Aid (in million U.S. dollars)": "990.8"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Aid (in million U.S. dollars)": "425.0"
+      },
+      {
+         "Country": "Canada",
+         "Aid (in million U.S. dollars)": "406.2"
+      },
+      {
+         "Country": "Central Emergency Response Fund",
+         "Aid (in million U.S. dollars)": "398.5"
+      },
+      {
+         "Country": "Sweden",
+         "Aid (in million U.S. dollars)": "351.2"
+      },
+      {
+         "Country": "EU Commission - EU facility for refugees in Turkey",
+         "Aid (in million U.S. dollars)": "349.4"
+      }
+   ],
+   "gold": "This statistic shows the top donors of humanitarian aid worldwide in 2019 . In this year , the United States government donated nearly 6.5 billion U.S. dollars in humanitarian aid worldwide .\n"
+}

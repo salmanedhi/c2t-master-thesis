@@ -1,0 +1,41 @@
+{
+   "title": "Disabled people in Sweden 2018 , by disability type",
+   "xAxis": "Disability Type",
+   "yAxis": "Number of disabled people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Disability of Sweden in , as a percentage of incidence . ",
+      "The most common Disability is Other_lasting_physical_or_mental_disabilities_that_are_clearly_not_due_to_normal_aging , identified as causing 65191 % , with Significant_and_permanent_intellectual_disability_after_brain_damage_in_adult_age_caused_by_external_violence_or_physical_illness of second at 35 % . ",
+      "Mental_retardation_autism_or_pervasive_developmental_disorders is third , causing 2096 % of Disability ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "0",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Disability Type": "Mental retardation autism or pervasive developmental disorders",
+         "Number of disabled people": "65191"
+      },
+      {
+         "Disability Type": "Other lasting physical or mental disabilities that are clearly not due to normal aging",
+         "Number of disabled people": "6714"
+      },
+      {
+         "Disability Type": "Significant and permanent intellectual disability after brain damage in adult age caused by external violence or physical illness",
+         "Number of disabled people": "2096"
+      }
+   ],
+   "gold": "This statistic shows the number of disabled people in Sweden in 2018 , by type of disability accordingly to the Swedish LSS law . That year , there were over 65 thousand people with intellectual disabilities like e.g . autism in Sweden .\n"
+}

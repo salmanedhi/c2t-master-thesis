@@ -1,0 +1,34 @@
+{
+   "title": "Election 2016 : results for the popular vote",
+   "xAxis": "Candidate",
+   "yAxis": "Number of popular votes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Election 2016 results in some european Candidate \\\\n Hillary_Clinton is the worst with 65853516 % followed closely by the Donald_Trump with just over 20 % . ",
+      "\\\\n The best Candidate is Donald_Trump with just 62984825 % 2016 results . "
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "0",
+         "23": "1"
+      },
+      {
+         "5": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Candidate": "Hillary Clinton",
+         "Number of popular votes": "65853516"
+      },
+      {
+         "Candidate": "Donald Trump",
+         "Number of popular votes": "62984825"
+      }
+   ],
+   "gold": "This graph shows the preliminary results of the popular votes gained by the two leading candidates in the 2016 presidential election in the United States . Despite having won the Electoral College it appears Donald Trump will lose the popular vote with 60.37 million votes to Clinton 's 61.03 million .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "How Young People in Zarqa Spend their Evenings",
+   "xAxis": "Activity",
+   "yAxis": "Percentage of People",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart How Young People Zarqa Spend Evenings People in Young People Zarqa Spend Evenings Spend_Time_With_Family their Young People Zarqa Spend Evenings . ",
+      "12 percentage of Young People Zarqa Spend Evenings People Spend_Time_With_Family their Watching_TV in the Young People Zarqa Spend Evenings , 32 percentage Spend_Time_With_Family their Young People Zarqa Spend Evenings Spend_Time_With_Family , the highest percentage of People Spend_Time_With_Family their Reading_a_Book a being 38 percentage of People , and 18 percentage of People Spend_Time_With_Family their Young People Zarqa Spend Evenings Going_Out ."
+   ],
+   "trends": [
+      {
+         "7": "1"
+      },
+      {
+         "0": "0",
+         "5": "1",
+         "7": "1",
+         "8": "0",
+         "13": "1",
+         "15": "1",
+         "18": "1",
+         "25": "1",
+         "27": "1",
+         "28": "2",
+         "30": "2",
+         "32": "2",
+         "38": "3",
+         "42": "1",
+         "45": "3"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Watching TV",
+         "Percentage of People": "12"
+      },
+      {
+         "Activity": "Spend Time With Family",
+         "Percentage of People": "32"
+      },
+      {
+         "Activity": "Reading a Book",
+         "Percentage of People": "38"
+      },
+      {
+         "Activity": "Going Out",
+         "Percentage of People": "18"
+      }
+   ],
+   "gold": "The young people of Zarqua spend the majority of their evenings reading a book and spending time with their families . On the chart this has been represented as a percentage of young people at a given time . 32 % choose to spend time with family whereas 38 % choose to read .\n"
+}

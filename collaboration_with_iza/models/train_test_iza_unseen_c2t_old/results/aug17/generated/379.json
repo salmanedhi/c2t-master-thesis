@@ -1,0 +1,59 @@
+{
+   "title": "Leading retailers of Latin America 2017 , based on sales",
+   "xAxis": "Company (Country of origin)",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Billion of Cencosud_(Chile) in the retailers in 2017 , America (Country . ",
+      "In 2017 , there were 15.28 recorded floods across the world ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company (Country of origin)": "Cencosud (Chile)",
+         "Billion U.S. dollars": "15.28"
+      },
+      {
+         "Company (Country of origin)": "FEMSA Comercio (Mexico)",
+         "Billion U.S. dollars": "15.28"
+      },
+      {
+         "Company (Country of origin)": "S.A.C.I. Falabella (Chile)",
+         "Billion U.S. dollars": "11.14"
+      },
+      {
+         "Company (Country of origin)": "Organizacion Soriana S.A.B. de C.V. (Mexico)",
+         "Billion U.S. dollars": "8.12"
+      },
+      {
+         "Company (Country of origin)": "El Puerto de Liverpool (Mexico)",
+         "Billion U.S. dollars": "5.74"
+      },
+      {
+         "Company (Country of origin)": "Lojas Americanas (Brazil)",
+         "Billion U.S. dollars": "5.34"
+      },
+      {
+         "Company (Country of origin)": "Grupo Comercial Chedraui (Mexico)",
+         "Billion U.S. dollars": "4.95"
+      },
+      {
+         "Company (Country of origin)": "RaiaDrogasil S.A. (Brazil)",
+         "Billion U.S. dollars": "4.34"
+      },
+      {
+         "Company (Country of origin)": "Magazine Luiza S.A.",
+         "Billion U.S. dollars": "3.74"
+      }
+   ],
+   "gold": "This statistic shows the leading retailers of Latin America in 2017 , based on retail sales . In that year , Cencosud was Latin America 's leading retailer with about 15.28 billion U.S. dollars worth of sales.Retail in Latin AmericaAs in much of Latin America , Brazil 's policymakers have quickly shifted from a focus on excessive inflation towards growth . In the beginning of 2011 , Latin American markets were growing rapidly and experiencing uncomfortably high inflation .\n"
+}

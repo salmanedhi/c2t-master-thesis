@@ -1,0 +1,138 @@
+{
+   "title": "Player expenses ( payroll ) of Toronto FC 2019",
+   "xAxis": "Month",
+   "yAxis": "Payroll in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Player expenses ( Payroll ) of the Toronto 2019 club of Major League Soccer by Player in 2019 . ",
+      "Michael_Bradley received a salary of 6500.0 thousand U.S. dollars in that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Michael Bradley",
+         "Payroll in thousand U.S. dollars": "6500.0"
+      },
+      {
+         "Month": "Jozy Altidore",
+         "Payroll in thousand U.S. dollars": "6332.25"
+      },
+      {
+         "Month": "Alejandro Pozuelo Melero",
+         "Payroll in thousand U.S. dollars": "3800.0"
+      },
+      {
+         "Month": "Jonathan Osorio",
+         "Payroll in thousand U.S. dollars": "776.25"
+      },
+      {
+         "Month": "Chris Mavinga",
+         "Payroll in thousand U.S. dollars": "663.33"
+      },
+      {
+         "Month": "Laurent Ciman",
+         "Payroll in thousand U.S. dollars": "435.63"
+      },
+      {
+         "Month": "Alex Bono",
+         "Payroll in thousand U.S. dollars": "382.0"
+      },
+      {
+         "Month": "Drew Moor",
+         "Payroll in thousand U.S. dollars": "375.0"
+      },
+      {
+         "Month": "Justin Morrow",
+         "Payroll in thousand U.S. dollars": "330.0"
+      },
+      {
+         "Month": "Eriq Zavaleta",
+         "Payroll in thousand U.S. dollars": "296.96"
+      },
+      {
+         "Month": "Auro",
+         "Payroll in thousand U.S. dollars": "276.67"
+      },
+      {
+         "Month": "Marco Delgado",
+         "Payroll in thousand U.S. dollars": "253.0"
+      },
+      {
+         "Month": "Terrence Boyd",
+         "Payroll in thousand U.S. dollars": "213.83"
+      },
+      {
+         "Month": "Nick DeLeon",
+         "Payroll in thousand U.S. dollars": "175.27"
+      },
+      {
+         "Month": "Jay Chapman",
+         "Payroll in thousand U.S. dollars": "138.5"
+      },
+      {
+         "Month": "Jordan Hamilton",
+         "Payroll in thousand U.S. dollars": "137.66"
+      },
+      {
+         "Month": "Griffin Dorsey",
+         "Payroll in thousand U.S. dollars": "134.0"
+      },
+      {
+         "Month": "Ashtone Morgan",
+         "Payroll in thousand U.S. dollars": "133.5"
+      },
+      {
+         "Month": "Ayo Akinola",
+         "Payroll in thousand U.S. dollars": "124.26"
+      },
+      {
+         "Month": "Quentin Westberg",
+         "Payroll in thousand U.S. dollars": "115.25"
+      },
+      {
+         "Month": "Liam Fraser",
+         "Payroll in thousand U.S. dollars": "75.88"
+      },
+      {
+         "Month": "Tsubasa Endoh",
+         "Payroll in thousand U.S. dollars": "74.25"
+      },
+      {
+         "Month": "Caleb Patterson-Sewell",
+         "Payroll in thousand U.S. dollars": "70.88"
+      },
+      {
+         "Month": "Jon Bakero",
+         "Payroll in thousand U.S. dollars": "70.25"
+      },
+      {
+         "Month": "Ryan Telfer",
+         "Payroll in thousand U.S. dollars": "70.25"
+      },
+      {
+         "Month": "Noble Okello",
+         "Payroll in thousand U.S. dollars": "68.06"
+      },
+      {
+         "Month": "Aidan Daniels",
+         "Payroll in thousand U.S. dollars": "57.23"
+      },
+      {
+         "Month": "Julian Dunn",
+         "Payroll in thousand U.S. dollars": "57.23"
+      },
+      {
+         "Month": "Richie Karyea",
+         "Payroll in thousand U.S. dollars": "56.25"
+      }
+   ],
+   "gold": "The statistic shows the player expenses ( payroll ) of Toronto FC of Major League Soccer by player in 2019 . Michael Bradley received a salary of 6.5 million U.S. dollars .\n"
+}

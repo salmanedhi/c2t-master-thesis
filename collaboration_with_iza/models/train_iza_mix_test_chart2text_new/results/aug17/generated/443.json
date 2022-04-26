@@ -1,0 +1,96 @@
+{
+   "title": "Most popular social network sites in Asian countries in 2013",
+   "xAxis": "Country and Platform",
+   "yAxis": "Number of registered users (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most popular Country in the network sites was Country Indonesia_(Facebook) , who made 598.0 registered . ",
+      "The most popular Country was Philippines_(Facebook) , with just 1.6 registered . ",
+      "In second place is Country India_(Facebook) with 63.0 registered ; third place went to Country China_(QZone) with 598.0 registered ; fourth place went to Country Sri_Lanka_(Facebook) with 1.6 registered and fifth place went to Country Japan_(LINE) , who made 36.0 registered ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "14"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "14",
+         "27": "14",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country and Platform": "China (QZone)",
+         "Number of registered users (in millions)": "598.0"
+      },
+      {
+         "Country and Platform": "India (Facebook)",
+         "Number of registered users (in millions)": "63.0"
+      },
+      {
+         "Country and Platform": "Indonesia (Facebook)",
+         "Number of registered users (in millions)": "48.0"
+      },
+      {
+         "Country and Platform": "Japan (LINE)",
+         "Number of registered users (in millions)": "36.0"
+      },
+      {
+         "Country and Platform": "Philippines (Facebook)",
+         "Number of registered users (in millions)": "30.0"
+      },
+      {
+         "Country and Platform": "South Korea (Kakaotalk)",
+         "Number of registered users (in millions)": "19.0"
+      },
+      {
+         "Country and Platform": "Thailand (Facebook)",
+         "Number of registered users (in millions)": "18.0"
+      },
+      {
+         "Country and Platform": "Taiwan (Facebook)",
+         "Number of registered users (in millions)": "13.0"
+      },
+      {
+         "Country and Platform": "Malaysia (Facebook)",
+         "Number of registered users (in millions)": "13.0"
+      },
+      {
+         "Country and Platform": "Vietnam (Facebook)",
+         "Number of registered users (in millions)": "12.0"
+      },
+      {
+         "Country and Platform": "Pakistan (Facebook)",
+         "Number of registered users (in millions)": "8.0"
+      },
+      {
+         "Country and Platform": "Hong Kong (Facebook)",
+         "Number of registered users (in millions)": "3.7"
+      },
+      {
+         "Country and Platform": "Bangladesh (Facebook)",
+         "Number of registered users (in millions)": "3.4"
+      },
+      {
+         "Country and Platform": "Singapore (Facebook)",
+         "Number of registered users (in millions)": "2.7"
+      },
+      {
+         "Country and Platform": "Sri Lanka (Facebook)",
+         "Number of registered users (in millions)": "1.6"
+      }
+   ],
+   "gold": "This statistic shows the most popular social networking sites in selected Asian countries , based on user figures . As of May 2013 , Facebook was the most popular social network in Singapore with 2.7 million registered users .\n"
+}

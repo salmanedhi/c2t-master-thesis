@@ -1,0 +1,69 @@
+{
+   "title": "National debt of selected countries in relation to gross domestic product ( GDP ) 2018",
+   "xAxis": "Country",
+   "yAxis": "National debt in relation to gross domestic product (GDP)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the National debt Country in terms of the National of debt with United_Kingdom having the National \u2013 237.69 debt down to United_States the least debt of the group at 16.49 debt . ",
+      "In between , we have Japan 237.69 , Russia 16.49 , Brazil 91.57 and France 99.31 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "8"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "8",
+         "9": "8",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "National debt in relation to gross domestic product (GDP)": "237.69"
+      },
+      {
+         "Country": "United States",
+         "National debt in relation to gross domestic product (GDP)": "106.22"
+      },
+      {
+         "Country": "France",
+         "National debt in relation to gross domestic product (GDP)": "99.31"
+      },
+      {
+         "Country": "Brazil",
+         "National debt in relation to gross domestic product (GDP)": "91.57"
+      },
+      {
+         "Country": "United Kingdom",
+         "National debt in relation to gross domestic product (GDP)": "85.55"
+      },
+      {
+         "Country": "India",
+         "National debt in relation to gross domestic product (GDP)": "69.04"
+      },
+      {
+         "Country": "Germany",
+         "National debt in relation to gross domestic product (GDP)": "58.58"
+      },
+      {
+         "Country": "China",
+         "National debt in relation to gross domestic product (GDP)": "55.57"
+      },
+      {
+         "Country": "Russia",
+         "National debt in relation to gross domestic product (GDP)": "16.49"
+      }
+   ],
+   "gold": "This statistic shows the national debt of important industrial and emerging countries in 2019 in relation to the gross domestic product ( GDP ) . In 2019 , the national debt of China was at about 55.57 percent of the gross domestic product .\n"
+}

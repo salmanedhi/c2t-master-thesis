@@ -1,0 +1,36 @@
+{
+   "title": "U.S. households with clothes dryers in 2009 , by energy source",
+   "xAxis": "Energy source",
+   "yAxis": "Households in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the Households of millions in U.S. 2009 . ",
+      "In 2009 , there were a Electric Households of approximately 17.5 millions in U.S.",
+      "millions registrations in U.S. case you have ever asked yourself one of these questions : \u2018 How many cars are there in U.S. ? ' or \u2018 How many millions vehicles are there in U.S. ? ' , we can tell you as much : In , there were 14.5 millions in U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "10": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Energy source": "Electric",
+         "Households in millions": "71.8"
+      },
+      {
+         "Energy source": "Natural gas",
+         "Households in millions": "17.5"
+      },
+      {
+         "Energy source": "Propane/LPG",
+         "Households in millions": "1.0"
+      }
+   ],
+   "gold": "The statistic illustrates the number of households with clothes dryers in the United States in 2009 , by energy source . In 2009 , 71.8 million U.S. households owned a electric clothes dryer . As of 2009 , almost 80 percent of U.S. households had a clothes dryer .\n"
+}

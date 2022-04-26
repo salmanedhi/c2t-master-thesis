@@ -1,0 +1,215 @@
+{
+   "title": "UK : monthly moped and motorcycle scooter sales 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total number of UK motorcycle sold in the United Kingdom ( UK ) between 2016 to 2019 . ",
+      "and recorded the highest scooter , which were the Month when the Driver and Vehicle Licensing Agency issued new registration plates for cars and motorcycle . ",
+      "In 2019 , UK sold 1383 motorcycle in the United Kingdom ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Units sold": "1383"
+      },
+      {
+         "Month": "Nov '19",
+         "Units sold": "1820"
+      },
+      {
+         "Month": "Oct '19",
+         "Units sold": "2143"
+      },
+      {
+         "Month": "Sep '19",
+         "Units sold": "2887"
+      },
+      {
+         "Month": "Aug '19",
+         "Units sold": "1872"
+      },
+      {
+         "Month": "Jul '19",
+         "Units sold": "2244"
+      },
+      {
+         "Month": "Jun '19",
+         "Units sold": "2207"
+      },
+      {
+         "Month": "May '19",
+         "Units sold": "2343"
+      },
+      {
+         "Month": "Apr '19",
+         "Units sold": "2205"
+      },
+      {
+         "Month": "Mar '19",
+         "Units sold": "2811"
+      },
+      {
+         "Month": "Feb '19",
+         "Units sold": "1457"
+      },
+      {
+         "Month": "Jan '19",
+         "Units sold": "1714"
+      },
+      {
+         "Month": "Dec '18",
+         "Units sold": "1471"
+      },
+      {
+         "Month": "Nov '18",
+         "Units sold": "2105"
+      },
+      {
+         "Month": "Oct '18",
+         "Units sold": "2110"
+      },
+      {
+         "Month": "Sep '18",
+         "Units sold": "2958"
+      },
+      {
+         "Month": "Aug '18",
+         "Units sold": "2126"
+      },
+      {
+         "Month": "Jul '18",
+         "Units sold": "2238"
+      },
+      {
+         "Month": "Jun '18",
+         "Units sold": "2500"
+      },
+      {
+         "Month": "May '18",
+         "Units sold": "2090"
+      },
+      {
+         "Month": "Apr '18",
+         "Units sold": "1961"
+      },
+      {
+         "Month": "Mar '18",
+         "Units sold": "2715"
+      },
+      {
+         "Month": "Feb '18",
+         "Units sold": "1262"
+      },
+      {
+         "Month": "Jan '18",
+         "Units sold": "1408"
+      },
+      {
+         "Month": "Dec '17",
+         "Units sold": "1976"
+      },
+      {
+         "Month": "Nov '17",
+         "Units sold": "1807"
+      },
+      {
+         "Month": "Oct '17",
+         "Units sold": "2143"
+      },
+      {
+         "Month": "Sep '17",
+         "Units sold": "2947"
+      },
+      {
+         "Month": "Aug '17",
+         "Units sold": "1820"
+      },
+      {
+         "Month": "Jul '17",
+         "Units sold": "2438"
+      },
+      {
+         "Month": "Jun '17",
+         "Units sold": "2512"
+      },
+      {
+         "Month": "May '17",
+         "Units sold": "2423"
+      },
+      {
+         "Month": "Apr '17",
+         "Units sold": "2035"
+      },
+      {
+         "Month": "Mar '17",
+         "Units sold": "2644"
+      },
+      {
+         "Month": "Feb '17",
+         "Units sold": "1415"
+      },
+      {
+         "Month": "Jan '17",
+         "Units sold": "1500"
+      },
+      {
+         "Month": "Dec '16",
+         "Units sold": "3321"
+      },
+      {
+         "Month": "Nov '16",
+         "Units sold": "2579"
+      },
+      {
+         "Month": "Oct '16",
+         "Units sold": "3028"
+      },
+      {
+         "Month": "Sep '16",
+         "Units sold": "4416"
+      },
+      {
+         "Month": "Aug '16",
+         "Units sold": "2687"
+      },
+      {
+         "Month": "Jul '16",
+         "Units sold": "3083"
+      },
+      {
+         "Month": "Jun \u00b416",
+         "Units sold": "3550"
+      },
+      {
+         "Month": "May '16",
+         "Units sold": "2940"
+      },
+      {
+         "Month": "Apr '16",
+         "Units sold": "2917"
+      },
+      {
+         "Month": "Mar '16",
+         "Units sold": "3656"
+      },
+      {
+         "Month": "Feb '16",
+         "Units sold": "1880"
+      },
+      {
+         "Month": "Jan '16",
+         "Units sold": "2015"
+      }
+   ],
+   "gold": "Scooter and moped sales amounted to over 25,000 units in 2019 . March and September recorded the highest sales , which were the months when the Driver and Vehicle Licensing Agency issued new registration plates for cars and motorcycles . In December 2019 , 1,383 scooters and mopeds were sold in the United Kingdom .\n"
+}

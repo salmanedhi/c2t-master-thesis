@@ -1,0 +1,80 @@
+{
+   "title": "Biggest electricity suppliers in Brussels ( Belgium ) 2019 , by market share",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Biggest electricity Month in the Brussels Belgium was Month EDF_Luminus , who made 64.29 share . ",
+      "The most electricity Month was Mega , with just 0.08 share . ",
+      "In second place was Month Lampiris with 18.54 share ; third place went to Month Engie_Electrabel with 64.29 share ; fourth place went to Month Other with 0.18 share and fifth place went to Month Octa+ , who was 3.09 share ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Engie Electrabel",
+         "Market share": "64.29"
+      },
+      {
+         "Month": "Lampiris",
+         "Market share": "18.54"
+      },
+      {
+         "Month": "EDF Luminus",
+         "Market share": "9.59"
+      },
+      {
+         "Month": "Octa+",
+         "Market share": "3.09"
+      },
+      {
+         "Month": "Mega",
+         "Market share": "2.5"
+      },
+      {
+         "Month": "Eneco",
+         "Market share": "0.92"
+      },
+      {
+         "Month": "Poweo",
+         "Market share": "0.35"
+      },
+      {
+         "Month": "Social suppliers",
+         "Market share": "0.25"
+      },
+      {
+         "Month": "Energie 2030",
+         "Market share": "0.21"
+      },
+      {
+         "Month": "Essent",
+         "Market share": "0.08"
+      },
+      {
+         "Month": "Other",
+         "Market share": "0.18"
+      }
+   ],
+   "gold": "With 60 percent of the market share , Engie Electrabel reached the highest market share of electricity supply in the Brussels-Capital Region . The Belgian daughter of the French multinational Engie was , therefore , leading the market in this region of Belgium in 2019 . Lampiris was the second-largest supplier , holding a market share of 19 percent .\n"
+}

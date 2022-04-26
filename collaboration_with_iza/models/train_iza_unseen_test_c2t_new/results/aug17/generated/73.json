@@ -1,0 +1,68 @@
+{
+   "title": "Canada 's chocolate market share by company 2018",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Canada 's Month in the market share was Month Mondelez , who made 18.6 share . ",
+      "The most 's Month was Mars , with just 6.4 share . ",
+      "In second place was Month Hershey with 16.7 share ; third place went to Month Nestl\u00e9 with 18.6 share ; fourth place went to Month All_other with 11.9 share and fifth place went to Month Lindt , who was 11.8 share ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "7",
+         "27": "7",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nestl\u00e9",
+         "Market share": "18.6"
+      },
+      {
+         "Month": "Hershey",
+         "Market share": "16.7"
+      },
+      {
+         "Month": "Mondelez",
+         "Market share": "14.8"
+      },
+      {
+         "Month": "Lindt",
+         "Market share": "11.8"
+      },
+      {
+         "Month": "Mars",
+         "Market share": "11.7"
+      },
+      {
+         "Month": "Ferrero",
+         "Market share": "8.1"
+      },
+      {
+         "Month": "Private label",
+         "Market share": "6.4"
+      },
+      {
+         "Month": "All other",
+         "Market share": "11.9"
+      }
+   ],
+   "gold": "Nestl\u00e9 was the leading chocolate company in Canada in 2018 , holding a share of around 18.6 percent of all chocolate sales in Canada in the 52 weeks ending July 21 , 2018 . Hershey and Mondelez were in second and third place , with market shares of 16.7 and 14.8 percent respectively . The growth of Nestl\u00e9 Nestl\u00e9 is a Swiss food and drink company which was formed through a merger in 1905 .\n"
+}

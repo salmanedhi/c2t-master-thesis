@@ -1,0 +1,55 @@
+{
+   "title": "Music genres most `` liked `` on Facebook by college students",
+   "xAxis": "Music genre",
+   "yAxis": "Number of \"likes\"",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of \"likes\" students selected Music in Facebook `` that are suffering from the Hip_Hop students in . ",
+      "Jazz causes some 106000 \"likes\" in these `` , while Hip_Hop causes around 66380 \"likes\" ( as of ) . ",
+      "Hip_Hop compared to other Music Hip_Hop first emerged in 1976 Sudan and the Democratic Republic of Congo ."
+   ],
+   "trends": [
+      {
+         "20": "0"
+      },
+      {
+         "0": "4",
+         "3": "4",
+         "12": "0",
+         "15": "5"
+      },
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Music genre": "Hip Hop",
+         "Number of \"likes\"": "314540"
+      },
+      {
+         "Music genre": "Country",
+         "Number of \"likes\"": "299700"
+      },
+      {
+         "Music genre": "Rock & Roll",
+         "Number of \"likes\"": "244840"
+      },
+      {
+         "Music genre": "Pop",
+         "Number of \"likes\"": "224140"
+      },
+      {
+         "Music genre": "Jazz",
+         "Number of \"likes\"": "106000"
+      },
+      {
+         "Music genre": "Classical",
+         "Number of \"likes\"": "66380"
+      }
+   ],
+   "gold": "This statistic shows the music genres most `` liked `` by U.S. college students on Facebook as of July 2011 . Country music received 299,700 likes from U.S. college students .\n"
+}

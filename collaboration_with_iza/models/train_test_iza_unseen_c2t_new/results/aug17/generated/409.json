@@ -1,0 +1,51 @@
+{
+   "title": "Market share of streaming devices in the United States 2014",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Market buyers bought more Apple_TV than any other Apple_TV in States 2014 , with the device claiming 43 % of the Market . ",
+      "The top 14 only featured two manufacturers , with Roku and Apple_TV edging out all other manuacturers . ",
+      "Smart Apple_TV sales in United States is an important Market for manufacturers , with 57 million Market users as of ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "8": "0",
+         "17": "0"
+      },
+      {
+         "2": "2",
+         "9": "1",
+         "11": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": "43"
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": "24"
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": "14"
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": "6"
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": "13"
+      }
+   ],
+   "gold": "The statistic shows a breakdown of the U.S. American streaming devices market according to market share in 2014 . Google 's Chromecast held a market share of 14 percent in 2014 .\n"
+}

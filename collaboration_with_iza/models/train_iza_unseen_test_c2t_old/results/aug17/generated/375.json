@@ -1,0 +1,77 @@
+{
+   "title": "Nintendo DS sales worldwide 2005 to 2015",
+   "xAxis": "Fiscal years",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Nintendo DS sales in the worldwide competirion . ",
+      "\\\\n From the chart we see that the FY_'11 Fiscal made the Nintendo million by some margin , with only 0.02 . ",
+      "FY_'14 and FY_'15 made a respectable 0.13 and 0.02 million , with FY_'05 and FY_'12 not far behind , at 5.27 and 5.1 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "0"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "10",
+         "14": "3",
+         "20": "10",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal years": "FY '15",
+         "Sales in million units": "0.02"
+      },
+      {
+         "Fiscal years": "FY '14",
+         "Sales in million units": "0.13"
+      },
+      {
+         "Fiscal years": "FY '13",
+         "Sales in million units": "2.35"
+      },
+      {
+         "Fiscal years": "FY '12",
+         "Sales in million units": "5.1"
+      },
+      {
+         "Fiscal years": "FY '11",
+         "Sales in million units": "17.52"
+      },
+      {
+         "Fiscal years": "FY '10",
+         "Sales in million units": "27.11"
+      },
+      {
+         "Fiscal years": "FY '09",
+         "Sales in million units": "31.18"
+      },
+      {
+         "Fiscal years": "FY '08",
+         "Sales in million units": "30.31"
+      },
+      {
+         "Fiscal years": "FY '07",
+         "Sales in million units": "23.56"
+      },
+      {
+         "Fiscal years": "FY '06",
+         "Sales in million units": "11.46"
+      },
+      {
+         "Fiscal years": "FY '05",
+         "Sales in million units": "5.27"
+      }
+   ],
+   "gold": "This statistic shows the number of Nintendo DS units sold worldwide from 2005 to 2015 ( fiscal years ) . In the 2009/10 financial year , Nintendo sold 27.1 million units of the Nintendo DS .\n"
+}

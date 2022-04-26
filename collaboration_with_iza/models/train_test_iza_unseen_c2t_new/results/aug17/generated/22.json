@@ -1,0 +1,56 @@
+{
+   "title": "Production of titanium dioxide worldwide by country share 2014",
+   "xAxis": "Country",
+   "yAxis": "Percentage of global production",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the Percentage global of all Production 2014 participating in the 2014 titanium dioxide worldwide in Russia . ",
+      "China was the Production 2014 with the oldest Percentage global ( 19 production ) , followed by Australia with 2014 players averaging 17 production old ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "12": "7",
+         "18": "1",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of global production": "18"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of global production": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Percentage of global production": "15"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of global production": "11"
+      },
+      {
+         "Country": "Ukraine",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "India",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "Mozambique",
+         "Percentage of global production": "6"
+      },
+      {
+         "Country": "Others",
+         "Percentage of global production": "19"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of global titanium dioxide ( mineral sands ) production in 2014 , by country . Australia , China , and South Africa were the leading producers with 17 , 18 , and 15 percent , respectively . Titanium dioxide is one of the two core product streams of the mineral sands industry .\n"
+}

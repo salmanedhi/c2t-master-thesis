@@ -1,0 +1,50 @@
+{
+   "title": "Number of Fatal Injuries at the Pula Steel Factory",
+   "xAxis": "Year",
+   "yAxis": "Number of Fatal Injuries",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of Fatal Injuries at the Fatal Injuries Pula Steel Factory over a 4 Year period , between 2012 and 2016 . ",
+      "\\\\n From the chart we can see that in the Year 2012 , there were 27 Fatal Injuries at the Fatal Injuries Pula Steel Factory . ",
+      "This increased in 2013 to 32 Fatal Injuries ."
+   ],
+   "trends": [
+      {
+         "18": "0",
+         "20": "4"
+      },
+      {
+         "11": "0",
+         "15": "0"
+      },
+      {
+         "3": "1",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Number of Fatal Injuries": "27"
+      },
+      {
+         "Year": "2013",
+         "Number of Fatal Injuries": "32"
+      },
+      {
+         "Year": "2014",
+         "Number of Fatal Injuries": "26"
+      },
+      {
+         "Year": "2015",
+         "Number of Fatal Injuries": "22"
+      },
+      {
+         "Year": "2016",
+         "Number of Fatal Injuries": "25"
+      }
+   ],
+   "gold": "We can see from the chart the fatal injuries sustained at the Pula Steel Factory between 2012 and 2016 . The number of fatalities grew from 27 in 2012 to 32 in 2013 . Thereafter , there has been a decline over the years down to 22 in 2015 .\n"
+}

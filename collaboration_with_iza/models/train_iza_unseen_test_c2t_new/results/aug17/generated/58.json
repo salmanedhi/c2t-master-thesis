@@ -1,0 +1,50 @@
+{
+   "title": "Number of U.S. minimum wage workers , by education 2018",
+   "xAxis": "Educational attainment",
+   "yAxis": "Number of workers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of workers thousands at the U.S. from Educational Less_than_a_high_school_diploma to Bachelor's_degree_and_higher . ",
+      "\\\\n From the chart we see that the Number of workers thousands were 606 , at their highest in Some_college_no_degree . ",
+      "\\\\n The workers thousands slowly declined over the next 3 - 4 Educational to 137 in Associate_degree ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "4"
+      },
+      {
+         "13": "2",
+         "19": "2"
+      },
+      {
+         "14": "3",
+         "16": "3"
+      }
+   ],
+   "data": [
+      {
+         "Educational attainment": "Less than a high school diploma",
+         "Number of workers in thousands": "330"
+      },
+      {
+         "Educational attainment": "High school graduates no college",
+         "Number of workers in thousands": "538"
+      },
+      {
+         "Educational attainment": "Some college no degree",
+         "Number of workers in thousands": "606"
+      },
+      {
+         "Educational attainment": "Associate degree",
+         "Number of workers in thousands": "137"
+      },
+      {
+         "Educational attainment": "Bachelor's degree and higher",
+         "Number of workers in thousands": "237"
+      }
+   ],
+   "gold": "This statistic shows the number of workers paid hourly rates at or below the prevailing federal minimum wage in the United States in 2018 , by educational attainment . In 2018 , around 330,000 people without a high school diploma earned the minimum wage or below .\n"
+}

@@ -1,0 +1,138 @@
+{
+   "title": "Price of selected acquisitions by Google 2017",
+   "xAxis": "Company",
+   "yAxis": "Price in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Price of million conducted by Company . ",
+      "\\n Part_of_HTC_mobile_division_and_licenses_(2017) has the highest Price of million sitting at 12.8",
+      "\\n Second to Part_of_HTC_mobile_division_and_licenses_(2017) is DoubleClick_(2008) at 9.2 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Motorola Mobility (2012)",
+         "Price in million U.S. dollars": "12500.0"
+      },
+      {
+         "Company": "Nest Labs (2014)",
+         "Price in million U.S. dollars": "3200.0"
+      },
+      {
+         "Company": "DoubleClick (2008)",
+         "Price in million U.S. dollars": "3100.0"
+      },
+      {
+         "Company": "YouTube (2006)",
+         "Price in million U.S. dollars": "1650.0"
+      },
+      {
+         "Company": "Part of HTC mobile division and licenses (2017)",
+         "Price in million U.S. dollars": "1100.0"
+      },
+      {
+         "Company": "Waze (2013)",
+         "Price in million U.S. dollars": "1100.0"
+      },
+      {
+         "Company": "AdMob (2009)",
+         "Price in million U.S. dollars": "750.0"
+      },
+      {
+         "Company": "ITA Software (2012)",
+         "Price in million U.S. dollars": "700.0"
+      },
+      {
+         "Company": "Postini (2007)",
+         "Price in million U.S. dollars": "625.0"
+      },
+      {
+         "Company": "Apigee (2016)",
+         "Price in million U.S. dollars": "625.0"
+      },
+      {
+         "Company": "DeepMind (2014)",
+         "Price in million U.S. dollars": "500.0"
+      },
+      {
+         "Company": "Skybox Imaging (2014)",
+         "Price in million U.S. dollars": "500.0"
+      },
+      {
+         "Company": "Admeld (2011)",
+         "Price in million U.S. dollars": "391.08"
+      },
+      {
+         "Company": "Bebop (2015)",
+         "Price in million U.S. dollars": "380.2"
+      },
+      {
+         "Company": "Wildfire (2012)",
+         "Price in million U.S. dollars": "350.0"
+      },
+      {
+         "Company": "Slide (2010)",
+         "Price in million U.S. dollars": "182.0"
+      },
+      {
+         "Company": "Widevine Technologies (2010)",
+         "Price in million U.S. dollars": "160.0"
+      },
+      {
+         "Company": "Zagat (2011)",
+         "Price in million U.S. dollars": "151.0"
+      },
+      {
+         "Company": "On2 Technologies (2010)",
+         "Price in million U.S. dollars": "130.0"
+      },
+      {
+         "Company": "Channel Intelligence (2013)",
+         "Price in million U.S. dollars": "125.0"
+      },
+      {
+         "Company": "Divide (2014)",
+         "Price in million U.S. dollars": "120.0"
+      },
+      {
+         "Company": "dMarc Broadcasting (2006)",
+         "Price in million U.S. dollars": "102.0"
+      },
+      {
+         "Company": "Applied Semantics (2003)",
+         "Price in million U.S. dollars": "102.0"
+      },
+      {
+         "Company": "Meebo (2012)",
+         "Price in million U.S. dollars": "100.0"
+      },
+      {
+         "Company": "FeedBurner (2007)",
+         "Price in million U.S. dollars": "100.0"
+      },
+      {
+         "Company": "Invite Media (2010)",
+         "Price in million U.S. dollars": "80.0"
+      },
+      {
+         "Company": "Global IP Solutions (2010)",
+         "Price in million U.S. dollars": "68.2"
+      },
+      {
+         "Company": "Android (2012)",
+         "Price in million U.S. dollars": "50.0"
+      }
+   ],
+   "gold": "This statistic shows a selection of companies Google , Inc. has acquired since 2003 , and their respective price . In June 2013 , Google acquired social traffic app Waze for 1.1 billion U.S. dollars . The internet company 's most expensive acquisition was Motorola Mobility in August 2011 , tallying 12.5 billion U.S. dollars .\n"
+}

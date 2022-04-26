@@ -1,0 +1,52 @@
+{
+   "title": "Main import partners for Japan 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total imports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows that China has the highest Share of Japan total with 50/100 being on their Japan . ",
+      "South_Korea holds 4.2 % of the Japan total , followed by Saudi_Arabia with 4.1",
+      "Australia and United_States both have 4.1 total in the Japan partners . "
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "0": "3",
+         "2": "3",
+         "11": "4",
+         "13": "4"
+      },
+      {
+         "0": "2",
+         "2": "1",
+         "5": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total imports": "24.5"
+      },
+      {
+         "Country": "United States",
+         "Share in total imports": "11"
+      },
+      {
+         "Country": "Australia",
+         "Share in total imports": "5.8"
+      },
+      {
+         "Country": "South Korea",
+         "Share in total imports": "4.2"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Share in total imports": "4.1"
+      }
+   ],
+   "gold": "The statistic shows the main import partners for Japan in 2017 . In 2017 , Japan 's main import partner was China , accounting for 24.5 percent of all imports .\n"
+}

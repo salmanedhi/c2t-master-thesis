@@ -1,0 +1,96 @@
+{
+   "title": "Music song consumption U.S. 2018 , by genre",
+   "xAxis": "Genre",
+   "yAxis": "Share of consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Music song Genre in the U.S. 2018 was Genre Rock , who made 24.7 consumption . ",
+      "The most song Genre was Latin , with just 0.5 consumption . ",
+      "In second place was Genre Pop with 19 consumption ; third place went to Genre Hip-Hop/Rap with 24.7 consumption ; fourth place went to Genre New_Age with 0.5 consumption and fifth place went to Genre R&B , who was 11.2 consumption ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "14"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "14",
+         "27": "14",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Genre": "Hip-Hop/Rap",
+         "Share of consumption": "24.7"
+      },
+      {
+         "Genre": "Pop",
+         "Share of consumption": "19"
+      },
+      {
+         "Genre": "Rock",
+         "Share of consumption": "11.7"
+      },
+      {
+         "Genre": "R&B",
+         "Share of consumption": "11.2"
+      },
+      {
+         "Genre": "Latin",
+         "Share of consumption": "10.8"
+      },
+      {
+         "Genre": "Country",
+         "Share of consumption": "7.9"
+      },
+      {
+         "Genre": "EDM",
+         "Share of consumption": "4.3"
+      },
+      {
+         "Genre": "Religious",
+         "Share of consumption": "2.9"
+      },
+      {
+         "Genre": "Stage & Screen",
+         "Share of consumption": "2.2"
+      },
+      {
+         "Genre": "World",
+         "Share of consumption": "1.6"
+      },
+      {
+         "Genre": "Reggae",
+         "Share of consumption": "1.1"
+      },
+      {
+         "Genre": "Jazz",
+         "Share of consumption": "0.8"
+      },
+      {
+         "Genre": "Classical",
+         "Share of consumption": "0.7"
+      },
+      {
+         "Genre": "Children's",
+         "Share of consumption": "0.6"
+      },
+      {
+         "Genre": "New Age",
+         "Share of consumption": "0.5"
+      }
+   ],
+   "gold": "The statistic above presents the distribution of music song consumption in the United States in 2018 , by genre . In 2018 , rock music song consumption accounted for 11.7 percent of total music consumption .\n"
+}

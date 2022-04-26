@@ -1,0 +1,103 @@
+{
+   "title": "Countries with the largest gross domestic product ( GDP ) per capita 2019",
+   "xAxis": "Country",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the 20 GDP largest the gross GDP per in 2019 . ",
+      "In 2019 , Luxembourg ranked 1st largest a negative GDP per of about 27.6 % capita to the U.S. dollars . ",
+      "GDP rates and the financial crisis Due to relatively stagnant worker wages as well a hesitation from banks to so easily distribute loans to the ordinary citizen , GDP has remained considerably low ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Luxembourg",
+         "GDP per capita in U.S. dollars": "113196.49"
+      },
+      {
+         "Country": "Switzerland",
+         "GDP per capita in U.S. dollars": "83716.81"
+      },
+      {
+         "Country": "Macao SAR",
+         "GDP per capita in U.S. dollars": "81151.93"
+      },
+      {
+         "Country": "Norway",
+         "GDP per capita in U.S. dollars": "77975.43"
+      },
+      {
+         "Country": "Ireland",
+         "GDP per capita in U.S. dollars": "77771.21"
+      },
+      {
+         "Country": "Qatar",
+         "GDP per capita in U.S. dollars": "69687.55"
+      },
+      {
+         "Country": "Iceland",
+         "GDP per capita in U.S. dollars": "67037.34"
+      },
+      {
+         "Country": "United States",
+         "GDP per capita in U.S. dollars": "65111.6"
+      },
+      {
+         "Country": "Singapore",
+         "GDP per capita in U.S. dollars": "63987.07"
+      },
+      {
+         "Country": "Denmark",
+         "GDP per capita in U.S. dollars": "59795.27"
+      },
+      {
+         "Country": "Australia",
+         "GDP per capita in U.S. dollars": "53825.16"
+      },
+      {
+         "Country": "Netherlands",
+         "GDP per capita in U.S. dollars": "52367.85"
+      },
+      {
+         "Country": "Sweden",
+         "GDP per capita in U.S. dollars": "51241.91"
+      },
+      {
+         "Country": "Austria",
+         "GDP per capita in U.S. dollars": "50022.61"
+      },
+      {
+         "Country": "Hong Kong SAR",
+         "GDP per capita in U.S. dollars": "49334.35"
+      },
+      {
+         "Country": "Finland",
+         "GDP per capita in U.S. dollars": "48868.74"
+      },
+      {
+         "Country": "San Marino",
+         "GDP per capita in U.S. dollars": "47279.93"
+      },
+      {
+         "Country": "Germany",
+         "GDP per capita in U.S. dollars": "46563.99"
+      },
+      {
+         "Country": "Canada",
+         "GDP per capita in U.S. dollars": "46212.84"
+      },
+      {
+         "Country": "Belgium",
+         "GDP per capita in U.S. dollars": "45175.59"
+      }
+   ],
+   "gold": "The statistic shows the 20 countries with the largest gross domestic product ( GDP ) per capita in 2019 . In 2019 , Germany ranked 18th with an estimated GDP of about 46,563.99 U.S. dollars per capita . GDP per capita Gross domestic product ( GDP ) is a strong indicator of a country 's economic performance and strength .\n"
+}

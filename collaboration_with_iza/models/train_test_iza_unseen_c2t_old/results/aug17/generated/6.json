@@ -1,0 +1,104 @@
+{
+   "title": "Countries ranked by number of ice hockey players 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Countries ranked by in the number as rated according to the Number players for . ",
+      "In , the Countries ranked Country in the number was considered to be Canada with a Number players of 621026 . ",
+      "Quality of life around the number economic indicator , Number players was created by Arthur Okun ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0",
+         "21": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Number of players": "621026"
+      },
+      {
+         "Country": "United States",
+         "Number of players": "567908"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of players": "121613"
+      },
+      {
+         "Country": "Russia",
+         "Number of players": "112236"
+      },
+      {
+         "Country": "Finland",
+         "Number of players": "64641"
+      },
+      {
+         "Country": "Sweden",
+         "Number of players": "55431"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of players": "27867"
+      },
+      {
+         "Country": "France",
+         "Number of players": "21667"
+      },
+      {
+         "Country": "Germany",
+         "Number of players": "21340"
+      },
+      {
+         "Country": "Japan",
+         "Number of players": "18837"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of players": "11394"
+      },
+      {
+         "Country": "Norway",
+         "Number of players": "10353"
+      },
+      {
+         "Country": "Great Britain",
+         "Number of players": "8162"
+      },
+      {
+         "Country": "Austria",
+         "Number of players": "7670"
+      },
+      {
+         "Country": "Hungary",
+         "Number of players": "7106"
+      },
+      {
+         "Country": "Latvia",
+         "Number of players": "7000"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Number of players": "6915"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of players": "5384"
+      },
+      {
+         "Country": "Italy",
+         "Number of players": "5210"
+      },
+      {
+         "Country": "Belarus",
+         "Number of players": "4580"
+      }
+   ],
+   "gold": "The statistics ranks countries by the number of registered ice hockey players in 2018/19 . In the 2018/19 season , Canada had the most registered ice hockey players with 621 thousand according to the International Ice Hockey Federation .\n"
+}

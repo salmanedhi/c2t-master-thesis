@@ -1,0 +1,241 @@
+{
+   "title": "Reported violent crime rate in the U.S. by state 2018",
+   "xAxis": "State / Territory",
+   "yAxis": "Reported violent crime rate per 100,000 population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Reported violent State in terms of the Reported of violent with Arkansas having the Reported \u2013 995.9 violent down to Alaska the least violent of the group at 112.1 violent . ",
+      "In between , we have District_of_Columbia 995.9 , Maine 112.1 , Tennessee 623.7 and New_Mexico 856.6 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "51"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "51",
+         "9": "51",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "State / Territory": "District of Columbia",
+         "Reported violent crime rate per 100,000 population": "995.9"
+      },
+      {
+         "State / Territory": "Alaska",
+         "Reported violent crime rate per 100,000 population": "885.0"
+      },
+      {
+         "State / Territory": "New Mexico",
+         "Reported violent crime rate per 100,000 population": "856.6"
+      },
+      {
+         "State / Territory": "Tennessee",
+         "Reported violent crime rate per 100,000 population": "623.7"
+      },
+      {
+         "State / Territory": "Arkansas",
+         "Reported violent crime rate per 100,000 population": "543.6"
+      },
+      {
+         "State / Territory": "Nevada",
+         "Reported violent crime rate per 100,000 population": "541.1"
+      },
+      {
+         "State / Territory": "Louisiana",
+         "Reported violent crime rate per 100,000 population": "537.5"
+      },
+      {
+         "State / Territory": "Alabama",
+         "Reported violent crime rate per 100,000 population": "519.6"
+      },
+      {
+         "State / Territory": "Missouri",
+         "Reported violent crime rate per 100,000 population": "502.1"
+      },
+      {
+         "State / Territory": "South Carolina",
+         "Reported violent crime rate per 100,000 population": "488.3"
+      },
+      {
+         "State / Territory": "Arizona",
+         "Reported violent crime rate per 100,000 population": "474.9"
+      },
+      {
+         "State / Territory": "Maryland",
+         "Reported violent crime rate per 100,000 population": "468.7"
+      },
+      {
+         "State / Territory": "Oklahoma",
+         "Reported violent crime rate per 100,000 population": "466.1"
+      },
+      {
+         "State / Territory": "Michigan",
+         "Reported violent crime rate per 100,000 population": "449.4"
+      },
+      {
+         "State / Territory": "California",
+         "Reported violent crime rate per 100,000 population": "447.4"
+      },
+      {
+         "State / Territory": "Kansas",
+         "Reported violent crime rate per 100,000 population": "439.0"
+      },
+      {
+         "State / Territory": "Delaware",
+         "Reported violent crime rate per 100,000 population": "423.6"
+      },
+      {
+         "State / Territory": "Texas",
+         "Reported violent crime rate per 100,000 population": "410.9"
+      },
+      {
+         "State / Territory": "South Dakota",
+         "Reported violent crime rate per 100,000 population": "404.7"
+      },
+      {
+         "State / Territory": "Illinois",
+         "Reported violent crime rate per 100,000 population": "404.1"
+      },
+      {
+         "State / Territory": "Colorado",
+         "Reported violent crime rate per 100,000 population": "397.2"
+      },
+      {
+         "State / Territory": "Florida",
+         "Reported violent crime rate per 100,000 population": "384.9"
+      },
+      {
+         "State / Territory": "Indiana",
+         "Reported violent crime rate per 100,000 population": "382.3"
+      },
+      {
+         "State / Territory": "North Carolina",
+         "Reported violent crime rate per 100,000 population": "377.6"
+      },
+      {
+         "State / Territory": "Montana",
+         "Reported violent crime rate per 100,000 population": "374.1"
+      },
+      {
+         "State / Territory": "New York",
+         "Reported violent crime rate per 100,000 population": "350.5"
+      },
+      {
+         "State / Territory": "Massachusetts",
+         "Reported violent crime rate per 100,000 population": "338.1"
+      },
+      {
+         "State / Territory": "Georgia",
+         "Reported violent crime rate per 100,000 population": "326.6"
+      },
+      {
+         "State / Territory": "Virginia",
+         "Reported violent crime rate per 100,000 population": "311.5"
+      },
+      {
+         "State / Territory": "Pennsylvania",
+         "Reported violent crime rate per 100,000 population": "306.0"
+      },
+      {
+         "State / Territory": "West Virginia",
+         "Reported violent crime rate per 100,000 population": "295.4"
+      },
+      {
+         "State / Territory": "Washington",
+         "Reported violent crime rate per 100,000 population": "289.9"
+      },
+      {
+         "State / Territory": "Oregon",
+         "Reported violent crime rate per 100,000 population": "285.5"
+      },
+      {
+         "State / Territory": "Nebraska",
+         "Reported violent crime rate per 100,000 population": "284.8"
+      },
+      {
+         "State / Territory": "North Dakota",
+         "Reported violent crime rate per 100,000 population": "280.6"
+      },
+      {
+         "State / Territory": "Ohio",
+         "Reported violent crime rate per 100,000 population": "279.9"
+      },
+      {
+         "State / Territory": "Iowa",
+         "Reported violent crime rate per 100,000 population": "250.1"
+      },
+      {
+         "State / Territory": "Hawaii",
+         "Reported violent crime rate per 100,000 population": "248.6"
+      },
+      {
+         "State / Territory": "Wyoming",
+         "Reported violent crime rate per 100,000 population": "237.5"
+      },
+      {
+         "State / Territory": "Mississippi",
+         "Reported violent crime rate per 100,000 population": "234.4"
+      },
+      {
+         "State / Territory": "United States",
+         "Reported violent crime rate per 100,000 population": "233.1"
+      },
+      {
+         "State / Territory": "Idaho",
+         "Reported violent crime rate per 100,000 population": "227.1"
+      },
+      {
+         "State / Territory": "Minnesota",
+         "Reported violent crime rate per 100,000 population": "220.4"
+      },
+      {
+         "State / Territory": "Rhode Island",
+         "Reported violent crime rate per 100,000 population": "219.1"
+      },
+      {
+         "State / Territory": "Wisconsin",
+         "Reported violent crime rate per 100,000 population": "212.2"
+      },
+      {
+         "State / Territory": "Kentucky",
+         "Reported violent crime rate per 100,000 population": "211.9"
+      },
+      {
+         "State / Territory": "New Jersey",
+         "Reported violent crime rate per 100,000 population": "208.1"
+      },
+      {
+         "State / Territory": "Connecticut",
+         "Reported violent crime rate per 100,000 population": "207.4"
+      },
+      {
+         "State / Territory": "Vermont",
+         "Reported violent crime rate per 100,000 population": "200.0"
+      },
+      {
+         "State / Territory": "New Hampshire",
+         "Reported violent crime rate per 100,000 population": "173.2"
+      },
+      {
+         "State / Territory": "Utah",
+         "Reported violent crime rate per 100,000 population": "172.0"
+      },
+      {
+         "State / Territory": "Maine",
+         "Reported violent crime rate per 100,000 population": "112.1"
+      }
+   ],
+   "gold": "In 2018 , the District of Columbia had the highest reported violent crime rate in the United States , with 995.9 violent crimes per 100,000 of the population . Maine had the lowest reported violent crime rate , with 112.1 offenses per 100,000 of the population . Life in the District The District of Columbia has seen a fluctuating population over the past few decades .\n"
+}

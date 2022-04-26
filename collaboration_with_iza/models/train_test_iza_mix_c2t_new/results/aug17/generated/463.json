@@ -1,0 +1,61 @@
+{
+   "title": "Change of domestic heating oil price in selected countries 2018 to 2019",
+   "xAxis": "Country",
+   "yAxis": "Change in heating oil price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , Canada was home to the largest Change of heating any Country with 7 % price . ",
+      "That year , the Italy and Spain were second and third in the list , with over 148 and 5.9 % price respectively . ",
+      "Global overview There were about 677.6 million heating as of 2018 , meaning that Canada was home to more than half of the global heating population ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "4": "1",
+         "6": "2",
+         "19": "2"
+      },
+      {
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Change in heating oil price": "7"
+      },
+      {
+         "Country": "Italy",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "Spain",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "France",
+         "Change in heating oil price": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Change in heating oil price": "0.8"
+      },
+      {
+         "Country": "Japan",
+         "Change in heating oil price": "-0.1"
+      },
+      {
+         "Country": "Germany",
+         "Change in heating oil price": "-4.4"
+      },
+      {
+         "Country": "United States",
+         "Change in heating oil price": "0"
+      }
+   ],
+   "gold": "This statistic shows the change in the price of domestic heating oil per liter in selected countries for the period between December 2018 and December 2019 . In December 2019 , the domestic heating oil price in Germany was some -4.4 percent lower than in December 2018 . Domestic heating oil The price of domestic heating oil per liter has decreased in many countries .\n"
+}

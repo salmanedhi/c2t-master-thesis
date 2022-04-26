@@ -1,0 +1,136 @@
+{
+   "title": "Corruption perception index APAC 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 New_Zealand 's Index score of 87 % score , the highest amount of Corruption perception in the APAC ( UK ) , Singapore and Australia . ",
+      "In the same year , New_Zealand had the highest rate of yearly score in the region , with a rate of 20 % in North_Korea , 87 million people ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "7": "0",
+         "26": "1",
+         "28": "2"
+      },
+      {
+         "5": "0",
+         "24": "26",
+         "26": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "New Zealand",
+         "Index score": "87"
+      },
+      {
+         "Country": "Singapore",
+         "Index score": "85"
+      },
+      {
+         "Country": "Australia",
+         "Index score": "77"
+      },
+      {
+         "Country": "Hong Kong",
+         "Index score": "76"
+      },
+      {
+         "Country": "Japan",
+         "Index score": "73"
+      },
+      {
+         "Country": "Bhutan",
+         "Index score": "68"
+      },
+      {
+         "Country": "Taiwan",
+         "Index score": "63"
+      },
+      {
+         "Country": "South Korea",
+         "Index score": "57"
+      },
+      {
+         "Country": "Malaysia",
+         "Index score": "47"
+      },
+      {
+         "Country": "India",
+         "Index score": "41"
+      },
+      {
+         "Country": "China",
+         "Index score": "39"
+      },
+      {
+         "Country": "Sri Lanka",
+         "Index score": "38"
+      },
+      {
+         "Country": "Indonesia",
+         "Index score": "38"
+      },
+      {
+         "Country": "Mongolia",
+         "Index score": "37"
+      },
+      {
+         "Country": "Philippines",
+         "Index score": "36"
+      },
+      {
+         "Country": "Thailand",
+         "Index score": "36"
+      },
+      {
+         "Country": "Timor-Leste",
+         "Index score": "35"
+      },
+      {
+         "Country": "Vietnam",
+         "Index score": "33"
+      },
+      {
+         "Country": "Pakistan",
+         "Index score": "33"
+      },
+      {
+         "Country": "Nepal",
+         "Index score": "31"
+      },
+      {
+         "Country": "Myanmar",
+         "Index score": "29"
+      },
+      {
+         "Country": "Laos",
+         "Index score": "29"
+      },
+      {
+         "Country": "Papua New Guinea",
+         "Index score": "28"
+      },
+      {
+         "Country": "Bangladesh",
+         "Index score": "26"
+      },
+      {
+         "Country": "Cambodia",
+         "Index score": "20"
+      },
+      {
+         "Country": "Afghanistan",
+         "Index score": "16"
+      },
+      {
+         "Country": "North Korea",
+         "Index score": "14"
+      }
+   ],
+   "gold": "This statistic shows the perceived corruption of the countries in the Asia Pacific region , as calculated by the Corruption Perception Index in 2018 . In that year , New Zealand was perceived as the least corrupt country with an index score of 87 out of 100 .\n"
+}

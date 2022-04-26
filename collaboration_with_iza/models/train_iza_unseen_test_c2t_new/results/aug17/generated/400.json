@@ -1,0 +1,97 @@
+{
+   "title": "Volkswagen 's EU share : new-car registrations in 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market of share made by Month in a share new-car . ",
+      "\\\\n From the chart we see that the Oct_19 Month was the Volkswagen 's Month in the new-car with 12.7 share . ",
+      "The next Month to make the most share was the Sep_19 Month with 9.2 share closely followed by the Aug_18 Month with 12.7 share ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "16"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "16",
+         "22": "16"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": "10.7"
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": "12.3"
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": "12.1"
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": "9.2"
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": "11.9"
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": "11.8"
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": "11.3"
+      },
+      {
+         "Month": "May 19",
+         "Market share": "11"
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": "11.3"
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": "10.5"
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": "11.4"
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": "11.5"
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": "11.5"
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": "11.8"
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": "10.2"
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": "6.6"
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": "12.7"
+      }
+   ],
+   "gold": "In December 2019 , the VW brand 's share of new-car registrations in the European Union stood at around 10.7 percent , 0.8 points less than the share in December 2018 . Many brands see upward trend Despite an increase in December sales for many brands , Volkswagen and other marques lost their market shares . The VW group saw monthly sales increase 21 percent but its market share dropped by 0.1 percent .\n"
+}

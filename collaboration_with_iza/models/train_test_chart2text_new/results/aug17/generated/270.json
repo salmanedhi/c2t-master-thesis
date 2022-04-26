@@ -1,0 +1,132 @@
+{
+   "title": "Number of opticians in selected European countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Number of opticians per 10,000 population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number opticians per of the European 2017 in . ",
+      "A negative opticians per means that a Country contributes more to the European budget than it receives from it , a positive per means the Country contributes less than it receives . ",
+      "In 2017 , Norway contributed the most with approximately 0.0 million population ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": "26",
+         "9": "26"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Number of opticians per 10,000 population": "5.34"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of opticians per 10,000 population": "3.25"
+      },
+      {
+         "Country": "Belgium",
+         "Number of opticians per 10,000 population": "3.1"
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of opticians per 10,000 population": "3.08"
+      },
+      {
+         "Country": "Italy",
+         "Number of opticians per 10,000 population": "2.68"
+      },
+      {
+         "Country": "Germany",
+         "Number of opticians per 10,000 population": "2.59"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of opticians per 10,000 population": "2.47"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of opticians per 10,000 population": "2.42"
+      },
+      {
+         "Country": "Portugal",
+         "Number of opticians per 10,000 population": "2.42"
+      },
+      {
+         "Country": "Cyprus",
+         "Number of opticians per 10,000 population": "2.16"
+      },
+      {
+         "Country": "Croatia",
+         "Number of opticians per 10,000 population": "2.08"
+      },
+      {
+         "Country": "Hungary",
+         "Number of opticians per 10,000 population": "1.83"
+      },
+      {
+         "Country": "Austria",
+         "Number of opticians per 10,000 population": "1.76"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of opticians per 10,000 population": "1.52"
+      },
+      {
+         "Country": "Poland",
+         "Number of opticians per 10,000 population": "1.29"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of opticians per 10,000 population": "1.01"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of opticians per 10,000 population": "1.01"
+      },
+      {
+         "Country": "Greece",
+         "Number of opticians per 10,000 population": "0.91"
+      },
+      {
+         "Country": "Turkey",
+         "Number of opticians per 10,000 population": "0.81"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of opticians per 10,000 population": "0.67"
+      },
+      {
+         "Country": "Denmark",
+         "Number of opticians per 10,000 population": "0.35"
+      },
+      {
+         "Country": "Serbia",
+         "Number of opticians per 10,000 population": "0.34"
+      },
+      {
+         "Country": "Ireland",
+         "Number of opticians per 10,000 population": "0.32"
+      },
+      {
+         "Country": "Latvia",
+         "Number of opticians per 10,000 population": "0.25"
+      },
+      {
+         "Country": "Estonia",
+         "Number of opticians per 10,000 population": "0.23"
+      },
+      {
+         "Country": "Romania",
+         "Number of opticians per 10,000 population": "0.21"
+      },
+      {
+         "Country": "Norway",
+         "Number of opticians per 10,000 population": "0.0"
+      }
+   ],
+   "gold": "This statistic displays the number of opticians per 10,000 population working in selected countries in Europe in 2017 . In this year , France had the highest number of opticians with 5.34 opticians per 10,000 population , this was closely followed by Switzerland with 3.25 opticians per 10,000 population and Belgium with 3.1 opticians per 10,000 population . The source provides the information that the professions of Optometry and Optics in Spain and the Nordic countries are combined in one , as optometrists .\n"
+}

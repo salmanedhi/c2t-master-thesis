@@ -1,0 +1,33 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the amount of Survey regretting on U.S. in millions of respondents per Response in the 2015 . ",
+      "\\\\n From the chart we see that in the 2015 approximately 290 % of respondents were regretting on U.S. in No as the highest in the world . ",
+      "The lowest amount of Survey regretting on U.S. in the world is Yes at approximately 150 % of respondents . "
+   ],
+   "trends": [
+      {},
+      {
+         "21": "1"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "77"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey among adult Americans who have one or more tattoos . The survey was conducted in 2015 , asking the respondents whether they ever regret getting any of their tattoos , or not . 77 percent of respondents stated they do not regret getting any of their tattoos .\n"
+}

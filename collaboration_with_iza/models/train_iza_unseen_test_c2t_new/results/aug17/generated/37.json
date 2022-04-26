@@ -1,0 +1,89 @@
+{
+   "title": "England : most popular sports in 2018 , by monthly participants",
+   "xAxis": "Sport",
+   "yAxis": "Number of participants in thousand",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of participants made by Sport in a sports 2018 . ",
+      "\\\\n From the chart we see that the Gym_session Sport was the England most Sport in the 2018 with 6831.6 participants . ",
+      "The next Sport to make the most participants was the Swimming Sport with 4489.7 participants closely followed by the Rowing_(includes_indoor_rowing) Sport with 639.6 participants ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "14",
+         "22": "14"
+      }
+   ],
+   "data": [
+      {
+         "Sport": "Running",
+         "Number of participants in thousand": "6831.6"
+      },
+      {
+         "Sport": "Fitness class",
+         "Number of participants in thousand": "6505.1"
+      },
+      {
+         "Sport": "Gym session",
+         "Number of participants in thousand": "5692.7"
+      },
+      {
+         "Sport": "Swimming",
+         "Number of participants in thousand": "4489.7"
+      },
+      {
+         "Sport": "Exercise machines",
+         "Number of participants in thousand": "3851.0"
+      },
+      {
+         "Sport": "Climbing or Mountaineering",
+         "Number of participants in thousand": "2584.6"
+      },
+      {
+         "Sport": "Interval sessions",
+         "Number of participants in thousand": "2304.4"
+      },
+      {
+         "Sport": "Football",
+         "Number of participants in thousand": "2095.9"
+      },
+      {
+         "Sport": "Weights session",
+         "Number of participants in thousand": "2036.6"
+      },
+      {
+         "Sport": "Generic fitness training",
+         "Number of participants in thousand": "1890.2"
+      },
+      {
+         "Sport": "Golf",
+         "Number of participants in thousand": "945.7"
+      },
+      {
+         "Sport": "Tennis",
+         "Number of participants in thousand": "840.2"
+      },
+      {
+         "Sport": "Badminton",
+         "Number of participants in thousand": "839.7"
+      },
+      {
+         "Sport": "Boxing (includes boxing fitness classes)",
+         "Number of participants in thousand": "771.6"
+      },
+      {
+         "Sport": "Rowing (includes indoor rowing)",
+         "Number of participants in thousand": "639.6"
+      }
+   ],
+   "gold": "Sports in the United Kingdom ( UK ) is governed by the association UK Sport , which funds and governs various other sport associations , one of which is Sport England , the sports governing body for England . Sport England conducts annual surveys on sports participation throughout England , gathering data on demographics , habits , preferences and more . Running , fitness and gym are most popular When it comes to regular participation , meaning at least twice in the past 28 days of questioning , running is the most popular form of taking part in a sports activity , with approximately 6.8 million people in England running regularly .\n"
+}

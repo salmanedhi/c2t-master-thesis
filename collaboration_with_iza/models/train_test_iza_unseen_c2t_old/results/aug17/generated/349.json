@@ -1,0 +1,42 @@
+{
+   "title": "Total area of U.S. timberland in 2017 , by region",
+   "xAxis": "Country",
+   "yAxis": "Timberland in thousand acres",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S. area timberland 2017 in . ",
+      "In that year , the most important area partner timberland U.S. was Rocky_Mountains , with a Timberland of 514425 thousand in exports ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0",
+         "18": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Rocky Mountains",
+         "Timberland in thousand acres": "69654"
+      },
+      {
+         "Country": "Pacific Coast",
+         "Timberland in thousand acres": "71784"
+      },
+      {
+         "Country": "North",
+         "Timberland in thousand acres": "164894"
+      },
+      {
+         "Country": "South",
+         "Timberland in thousand acres": "208092"
+      },
+      {
+         "Country": "All regions",
+         "Timberland in thousand acres": "514425"
+      }
+   ],
+   "gold": "This statistic shows the total timberland in the United States as of 2017 , sorted by region . In 2017 , the largest area of timberland in the U.S. was reported for the South with a total of 208,092 acres .\n"
+}

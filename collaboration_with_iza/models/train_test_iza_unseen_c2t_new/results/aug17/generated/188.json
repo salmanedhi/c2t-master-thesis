@@ -1,0 +1,41 @@
+{
+   "title": "Distribution of investment fund assets in the U.S. 2018 , by type",
+   "xAxis": "Type Of Fund",
+   "yAxis": "Share of mutual fund assets",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "France 's AREVA was one of the largest builders of U.S. Type in the world . ",
+      "The company specialized in U.S. power and renewable energy . ",
+      "However , after its insolvency , AREVA sold most of its Type to the French utility , EDF while U.S. propulsion and research Type were sold to Agence des participations de l'\u00c9tat ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Type Of Fund": "Domestic equity funds",
+         "Share of mutual fund assets": "41"
+      },
+      {
+         "Type Of Fund": "Bond funds",
+         "Share of mutual fund assets": "22"
+      },
+      {
+         "Type Of Fund": "World equity funds",
+         "Share of mutual fund assets": "15"
+      },
+      {
+         "Type Of Fund": "Money market funds",
+         "Share of mutual fund assets": "14"
+      },
+      {
+         "Type Of Fund": "Hybrid and other funds",
+         "Share of mutual fund assets": "7"
+      }
+   ],
+   "gold": "The statistic presents the distribution of mutual fund and ETF assets in the United States in 2018 , by fund type . Domestic equity funds constituted 41 percent of the mutual fund and ETF assets in the United States in 2018 .\n"
+}

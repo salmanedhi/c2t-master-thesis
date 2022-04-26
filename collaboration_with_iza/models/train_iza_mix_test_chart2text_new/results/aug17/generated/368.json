@@ -1,0 +1,55 @@
+{
+   "title": "Global population by continent 2018",
+   "xAxis": "Country",
+   "yAxis": "Population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Population of the Global population Country in Global . ",
+      "The Global population Country is Europe at 41 degrees , followed by Asia at 4536 degrees , Oceania at 41 degrees , Africa at 1284 degrees and Latin_America_Caribbean at 28 degrees , while the warmest of the displayed Country is North_America at 4536 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "7": "5",
+         "12": "0",
+         "14": "0",
+         "17": "5",
+         "19": "5",
+         "22": "1",
+         "24": "1",
+         "27": "3",
+         "40": "4",
+         "42": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Population in millions": "4536"
+      },
+      {
+         "Country": "Africa",
+         "Population in millions": "1284"
+      },
+      {
+         "Country": "Europe",
+         "Population in millions": "746"
+      },
+      {
+         "Country": "Latin America Caribbean",
+         "Population in millions": "649"
+      },
+      {
+         "Country": "North America",
+         "Population in millions": "365"
+      },
+      {
+         "Country": "Oceania",
+         "Population in millions": "41"
+      }
+   ],
+   "gold": "The statistic shows the global population by continent as of mid-2018 . In mid-2018 , approximately 4.54 billion people lived in Asia . World population and the most populous countries There are approximately 7.3 billion people living in the world today , a figure that shows a dramatic increase since the beginning of the Common Era .\n"
+}

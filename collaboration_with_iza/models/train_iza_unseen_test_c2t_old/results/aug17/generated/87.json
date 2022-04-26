@@ -1,0 +1,39 @@
+{
+   "title": "Market share of leading companies in the coffee market in Germany 2016",
+   "xAxis": "Coffee Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Market share leading in Jacobs_Douwe_Egberts 2016 . ",
+      "It shows that Jacobs_Douwe_Egberts had just over 20 % , Tchibo 10.3 % and the Nestl\u00e9 a similar percentage to Jacobs_Douwe_Egberts ."
+   ],
+   "trends": [
+      {
+         "8": "0"
+      },
+      {
+         "3": "0",
+         "10": "1",
+         "11": "2",
+         "15": "2",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Coffee Company": "Jacobs Douwe Egberts",
+         "Market share": "23.2"
+      },
+      {
+         "Coffee Company": "Tchibo",
+         "Market share": "12"
+      },
+      {
+         "Coffee Company": "Nestl\u00e9",
+         "Market share": "10.3"
+      }
+   ],
+   "gold": "This statistic illustrates the market share of leading companies in the German coffee market in 2016 . In the period of consideration , Tchibo had a market share of 12 percent .\n"
+}

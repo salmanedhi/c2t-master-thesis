@@ -1,0 +1,32 @@
+{
+   "title": "DTH share of TV market in India 2023",
+   "xAxis": "Kind Of Share",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the share Kind in DTH 2023 , ranked India Market share . ",
+      "That year , the Mexican discount-store Share_of_pay_TV_market held 56 % of the retailer Market in the country , followed India the chain of convenience stores Share_of_digital_TV_market , with a 56 % Market share ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "8": "1",
+         "25": "1",
+         "29": "1"
+      }
+   ],
+   "data": [
+      {
+         "Kind Of Share": "Share of pay TV market",
+         "Market share": "39"
+      },
+      {
+         "Kind Of Share": "Share of digital TV market",
+         "Market share": "56"
+      }
+   ],
+   "gold": "The statistics presents a forecast on the market share of direct-to-home ( DTH ) TV in India in 2023 . The source projects that the market share of DTH on the pay TV market amounted to 39 percent .\n"
+}

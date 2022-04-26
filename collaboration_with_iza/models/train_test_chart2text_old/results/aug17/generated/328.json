@@ -1,0 +1,158 @@
+{
+   "title": "National Football League : Price of a hot dog at games by team 2019",
+   "xAxis": "Team",
+   "yAxis": "Concession stand price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph ranks the teams of the National Football League San_Francisco_49ers according to the price of a dog games purchased at a Concession stand in the stadium . ",
+      "A 12 oz . ",
+      "dog games sold hot 7.25 U.S. dollars at Buffalo_Bills by in the 2019 season ."
+   ],
+   "trends": [
+      {
+         "8": "22"
+      },
+      {},
+      {
+         "4": "0",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Team": "Chicago Bears",
+         "Concession stand price in U.S. dollars": "7.25"
+      },
+      {
+         "Team": "Buffalo Bills",
+         "Concession stand price in U.S. dollars": "7.0"
+      },
+      {
+         "Team": "Miami Dolphins",
+         "Concession stand price in U.S. dollars": "6.75"
+      },
+      {
+         "Team": "Oakland Raiders",
+         "Concession stand price in U.S. dollars": "6.5"
+      },
+      {
+         "Team": "Washington Redskins",
+         "Concession stand price in U.S. dollars": "6.5"
+      },
+      {
+         "Team": "Detroit Lions",
+         "Concession stand price in U.S. dollars": "6.25"
+      },
+      {
+         "Team": "Minnesota Vikings",
+         "Concession stand price in U.S. dollars": "6.25"
+      },
+      {
+         "Team": "Los Angeles Rams",
+         "Concession stand price in U.S. dollars": "6.25"
+      },
+      {
+         "Team": "Pittsburgh Steelers",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Cleveland Browns",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Green Bay Packers",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Los Angeles Chargers",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "New York Jets",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Kansas City Chiefs",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "New York Giants",
+         "Concession stand price in U.S. dollars": "6.0"
+      },
+      {
+         "Team": "Philadelphia Eagles",
+         "Concession stand price in U.S. dollars": "5.75"
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Concession stand price in U.S. dollars": "5.5"
+      },
+      {
+         "Team": "Indianapolis Colts",
+         "Concession stand price in U.S. dollars": "5.5"
+      },
+      {
+         "Team": "Denver Broncos",
+         "Concession stand price in U.S. dollars": "5.5"
+      },
+      {
+         "Team": "Dallas Cowboys",
+         "Concession stand price in U.S. dollars": "5.5"
+      },
+      {
+         "Team": "NFL league average",
+         "Concession stand price in U.S. dollars": "5.34"
+      },
+      {
+         "Team": "San Francisco 49ers",
+         "Concession stand price in U.S. dollars": "5.0"
+      },
+      {
+         "Team": "Jacksonville Jaguars",
+         "Concession stand price in U.S. dollars": "5.0"
+      },
+      {
+         "Team": "Houston Texans",
+         "Concession stand price in U.S. dollars": "4.75"
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Concession stand price in U.S. dollars": "4.5"
+      },
+      {
+         "Team": "New England Patriots",
+         "Concession stand price in U.S. dollars": "4.0"
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Concession stand price in U.S. dollars": "4.0"
+      },
+      {
+         "Team": "Seattle Seahawks",
+         "Concession stand price in U.S. dollars": "4.0"
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Concession stand price in U.S. dollars": "4.0"
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Concession stand price in U.S. dollars": "3.0"
+      },
+      {
+         "Team": "Carolina Panthers",
+         "Concession stand price in U.S. dollars": "2.5"
+      },
+      {
+         "Team": "Atlanta Falcons",
+         "Concession stand price in U.S. dollars": "1.5"
+      }
+   ],
+   "gold": "The graph ranks the teams of the National Football League according to the price of a hot dog purchased at a concession stand in the stadium . A hot dog sold for 5.50 U.S. dollars at Dallas Cowboys games in the 2019 season .\n"
+}

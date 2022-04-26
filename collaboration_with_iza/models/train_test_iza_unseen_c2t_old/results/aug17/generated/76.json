@@ -1,0 +1,79 @@
+{
+   "title": "Leading mobile messengers in the U.S. 2019 , by users",
+   "xAxis": "Platform",
+   "yAxis": "Number of monthly unique users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Facebook_Messenger , Snapchat and WhatsApp ranked as the Leading mobile messengers U.S. by Dutch U.S. or 20-to-39-year-olds in 2019 , beating by example , Messenger_by_Google . ",
+      "In 2019 , roughly 90 millions of the Millennial monthly in the U.S. said they used Facebook_Messenger . ",
+      "Snapchat was also mobile , with 45.98 millions indicating they actively used this Platform ."
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "2": "1",
+         "4": "2",
+         "25": "3"
+      },
+      {
+         "16": "0"
+      },
+      {
+         "0": "1",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook Messenger",
+         "Number of monthly unique users in millions": "106.4"
+      },
+      {
+         "Platform": "Snapchat",
+         "Number of monthly unique users in millions": "45.98"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Number of monthly unique users in millions": "25.58"
+      },
+      {
+         "Platform": "Messenger by Google",
+         "Number of monthly unique users in millions": "17.46"
+      },
+      {
+         "Platform": "Discord - Chat for Games",
+         "Number of monthly unique users in millions": "15.01"
+      },
+      {
+         "Platform": "Google Hangouts (main)",
+         "Number of monthly unique users in millions": "14.19"
+      },
+      {
+         "Platform": "GroupMe",
+         "Number of monthly unique users in millions": "10.75"
+      },
+      {
+         "Platform": "Kik",
+         "Number of monthly unique users in millions": "7.72"
+      },
+      {
+         "Platform": "Skype (main)",
+         "Number of monthly unique users in millions": "5.53"
+      },
+      {
+         "Platform": "Telegram",
+         "Number of monthly unique users in millions": "3.47"
+      },
+      {
+         "Platform": "LINE",
+         "Number of monthly unique users in millions": "3.15"
+      },
+      {
+         "Platform": "WeChat",
+         "Number of monthly unique users in millions": "1.48"
+      }
+   ],
+   "gold": "As of September 2019 , Facebook Messenger was the most popular mobile messenger app in the United States with 106.4 million unique U.S. users . Snapchat ranked second with an audience of almost 45.98 million users . As of that period , Facebook Messenger had a 57 percent mobile audience reach in the United States .\n"
+}

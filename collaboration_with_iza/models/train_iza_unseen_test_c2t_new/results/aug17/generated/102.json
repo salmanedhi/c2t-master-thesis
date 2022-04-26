@@ -1,0 +1,105 @@
+{
+   "title": "German soccer Bundesliga clubs average attendance 2018/19",
+   "xAxis": "Soccer Club",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the German soccer in terms of the Average of attendance with Eintracht_Frankfurt having the German \u2013 80820 attendance down to FC_Bayern_M\u00fcnchen the least soccer of the group at 23894 attendance . ",
+      "In between , we have Borussia_Dortmund 80820 , SC_Freiburg 23894 , VfB_Stuttgart 54551 and FC_Schalke_04 60941 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "17"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "17",
+         "9": "17",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Soccer Club": "Borussia Dortmund",
+         "Average attendance": "80820"
+      },
+      {
+         "Soccer Club": "FC Bayern M\u00fcnchen",
+         "Average attendance": "75000"
+      },
+      {
+         "Soccer Club": "FC Schalke 04",
+         "Average attendance": "60941"
+      },
+      {
+         "Soccer Club": "VfB Stuttgart",
+         "Average attendance": "54551"
+      },
+      {
+         "Soccer Club": "Eintracht Frankfurt",
+         "Average attendance": "49765"
+      },
+      {
+         "Soccer Club": "Borussia M\u00f6nchengladbach",
+         "Average attendance": "49668"
+      },
+      {
+         "Soccer Club": "Hertha BSC",
+         "Average attendance": "49259"
+      },
+      {
+         "Soccer Club": "Fortuna D\u00fcsseldorf",
+         "Average attendance": "43857"
+      },
+      {
+         "Soccer Club": "Werder Bremen",
+         "Average attendance": "41415"
+      },
+      {
+         "Soccer Club": "1. FC N\u00fcrnberg",
+         "Average attendance": "40372"
+      },
+      {
+         "Soccer Club": "RB Leipzig",
+         "Average attendance": "38380"
+      },
+      {
+         "Soccer Club": "Hannover 96",
+         "Average attendance": "38365"
+      },
+      {
+         "Soccer Club": "FC Augsburg",
+         "Average attendance": "28623"
+      },
+      {
+         "Soccer Club": "TSG 1899 Hoffenheim",
+         "Average attendance": "28456"
+      },
+      {
+         "Soccer Club": "Bayer 04 Leverkusen",
+         "Average attendance": "27990"
+      },
+      {
+         "Soccer Club": "1. FSV Mainz 05",
+         "Average attendance": "26246"
+      },
+      {
+         "Soccer Club": "VfL Wolfsburg",
+         "Average attendance": "24481"
+      },
+      {
+         "Soccer Club": "SC Freiburg",
+         "Average attendance": "23894"
+      }
+   ],
+   "gold": "Borussia Dortmund had an average of 80,820 spectators attend their home league games during the 2018/19 season , the largest average attendance in the Bundesliga . At the other end of the rankings , Freiburg averaged the lowest attendance with 23,894 fans attending their home matches.Dortmund 's 12th man Borussia Dortmund play their home games at Germany 's largest soccer stadium : Signal Iduna Park . The venue is known by soccer fans worldwide for its south stand ( Die S\u00fcdtrib\u00fcne ) , referred to colloquially as the \u2018 Yellow Wall ' ( Die gelbe Wand ) , due to it being packed on matchdays with almost 25,000 supporters all wearing the club 's famous yellow .\n"
+}

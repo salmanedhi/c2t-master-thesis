@@ -1,0 +1,52 @@
+{
+   "title": "Tire producers - based on global revenue 2018",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Revenue billion of based global revenue Company . ",
+      "You can see that Sumitomo_Rubber_Industries_(Japan) has the lowest Revenue billion , averaging at \u00a3 7 , Continental_(Germany) is a little bit higher coming in at \u00a3 58 . ",
+      "Michelin_(France) is a little higher again , coming in at \u00a3 26 ; Then a bit more of a jump to \u00a3 28 for Bridgestone_(Japan) and the Tire expensive , \u00a3 28 Revenue for Goodyear_(U.S.) global ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "14": "4",
+         "16": "3"
+      },
+      {
+         "0": "1",
+         "11": "1",
+         "22": "0",
+         "24": "0",
+         "31": "0",
+         "34": "2"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Bridgestone (Japan)",
+         "Revenue in billion U.S. dollars": "28"
+      },
+      {
+         "Company": "Michelin (France)",
+         "Revenue in billion U.S. dollars": "26"
+      },
+      {
+         "Company": "Goodyear (U.S.)",
+         "Revenue in billion U.S. dollars": "15"
+      },
+      {
+         "Company": "Continental (Germany)",
+         "Revenue in billion U.S. dollars": "13"
+      },
+      {
+         "Company": "Sumitomo Rubber Industries (Japan)",
+         "Revenue in billion U.S. dollars": "7"
+      }
+   ],
+   "gold": "This statistic shows the world 's largest tire manufacturers in 2018 , based on tire-related revenue . Continental 's revenue from its tire division amounted to around 13 billion U.S. dollars in 2018 . The world 's largest tire makers The ranking of the world 's largest tire manufacturers is dominated by European and Asian manufacturers .\n"
+}

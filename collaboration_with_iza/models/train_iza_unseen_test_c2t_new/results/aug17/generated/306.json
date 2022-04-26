@@ -1,0 +1,97 @@
+{
+   "title": "Social network penetration in the United Kingdom ( UK ) 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of population made by 58 Platform in a United . ",
+      "The Social network Platform is Instagram with just a single population , followed by Facebook with 73 , Youtube with 78 , Viber with 7 , FB_Messenger with 58 , and finally WhatsApp with 78 ."
+   ],
+   "trends": [
+      {
+         "9": "3"
+      },
+      {
+         "5": "4",
+         "14": "1",
+         "16": "1",
+         "18": "0",
+         "20": "0",
+         "22": "15",
+         "24": "15",
+         "26": "3",
+         "28": "3",
+         "32": "2",
+         "34": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Youtube",
+         "Share of population": "78"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of population": "73"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of population": "62"
+      },
+      {
+         "Platform": "FB Messenger",
+         "Share of population": "58"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of population": "49"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of population": "45"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of population": "28"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of population": "25"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of population": "25"
+      },
+      {
+         "Platform": "Skype",
+         "Share of population": "21"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of population": "16"
+      },
+      {
+         "Platform": "Twitch",
+         "Share of population": "12"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of population": "11"
+      },
+      {
+         "Platform": "WeChat",
+         "Share of population": "9"
+      },
+      {
+         "Platform": "TikTok",
+         "Share of population": "8"
+      },
+      {
+         "Platform": "Viber",
+         "Share of population": "7"
+      }
+   ],
+   "gold": "YouTube is the most active social network among internet users in the United Kingdom ( UK ) , with 78 percent of people reporting use of the service . Facebook was very close behind , with a rate of 73 percent . YouTube 's broad audience in the United Kingdom YouTube reaches a broad audience in the UK , making it an attractive partner for advertisers of almost any product .\n"
+}

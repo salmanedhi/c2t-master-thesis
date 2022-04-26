@@ -1,0 +1,73 @@
+{
+   "title": "Most innovative companies in the world in 2019",
+   "xAxis": "Innovative Tech. Companies",
+   "yAxis": "Number of patent grants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most innovative companies in the world competirion . ",
+      "\\\\n From the chart we see that the Intel_Corp Innovative made the Most patent by some margin , with only 2418 . ",
+      "Samsung_Electronics_Co_Ltd and International_Business_Machines_Corp made a respectable 6469 and 9262 patent , with Huawei_Technologies_Co_Ltd and Microsoft_Technology_Licensing_LLC not far behind , at 2418 and 3081 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Innovative Tech. Companies": "International Business Machines Corp",
+         "Number of patent grants": "9262"
+      },
+      {
+         "Innovative Tech. Companies": "Samsung Electronics Co Ltd",
+         "Number of patent grants": "6469"
+      },
+      {
+         "Innovative Tech. Companies": "Canon Inc",
+         "Number of patent grants": "3548"
+      },
+      {
+         "Innovative Tech. Companies": "Microsoft Technology Licensing LLC",
+         "Number of patent grants": "3081"
+      },
+      {
+         "Innovative Tech. Companies": "Intel Corp",
+         "Number of patent grants": "3020"
+      },
+      {
+         "Innovative Tech. Companies": "LG Electronics Inc",
+         "Number of patent grants": "2805"
+      },
+      {
+         "Innovative Tech. Companies": "Apple Inc",
+         "Number of patent grants": "2490"
+      },
+      {
+         "Innovative Tech. Companies": "Ford Global Technologies LLC",
+         "Number of patent grants": "2468"
+      },
+      {
+         "Innovative Tech. Companies": "Amazon Technologies Inc",
+         "Number of patent grants": "2427"
+      },
+      {
+         "Innovative Tech. Companies": "Huawei Technologies Co Ltd",
+         "Number of patent grants": "2418"
+      }
+   ],
+   "gold": "This graph shows the most innovative companies in the world as measured by the number of patent grants that each company successfully applied for at the United States Patent and Trademark Office as of 2019 . In 2019 , IBM was considered the most innovative company in the world with a total of 9,262 patent grants .\n"
+}

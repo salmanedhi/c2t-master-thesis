@@ -1,0 +1,49 @@
+{
+   "title": "Global online shopping frequency 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents in the Global for a Share of Response . ",
+      "\\\\n The highest Share of respondents is Once_every_2_weeks at 31 % , followed by Once_a_week at 20 % . ",
+      "Once_a_month was third highest at 31 % , followed then by Once_every_2_weeks at 24 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "1",
+         "15": "0"
+      },
+      {
+         "0": "2",
+         "5": "2",
+         "11": "1",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Once a week",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Once every 2 weeks",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "Once a month",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Around 3-4 times per quarter",
+         "Share of respondents": "15"
+      },
+      {
+         "Response": "Once every 3 months",
+         "Share of respondents": "10"
+      }
+   ],
+   "gold": "This statistic presents the online shopping frequency according to online shoppers worldwide as of October 2018 . During the survey period , 20 percent of online shoppers worldwide stated that they purchased physical goods online on a weekly basis .\n"
+}

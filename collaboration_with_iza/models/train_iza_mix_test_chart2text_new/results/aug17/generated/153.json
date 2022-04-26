@@ -1,0 +1,69 @@
+{
+   "title": "Most valuable Swedish brands 2019",
+   "xAxis": "Swedish Brand",
+   "yAxis": "Value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Value of million made by Swedish in a brands 2019 . ",
+      "\\\\n From the chart we see that the Volvo Swedish was the Most valuable Swedish in the 2019 with 21531 million . ",
+      "The next Swedish to make the most million was the Nordea Swedish with 5638 million closely followed by the Absolut Swedish with 2404 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Swedish Brand": "IKEA",
+         "Value in million U.S. dollars": "21531"
+      },
+      {
+         "Swedish Brand": "H&M",
+         "Value in million U.S. dollars": "15876"
+      },
+      {
+         "Swedish Brand": "Volvo",
+         "Value in million U.S. dollars": "13772"
+      },
+      {
+         "Swedish Brand": "Nordea",
+         "Value in million U.S. dollars": "5638"
+      },
+      {
+         "Swedish Brand": "Telia",
+         "Value in million U.S. dollars": "4724"
+      },
+      {
+         "Swedish Brand": "Swedbank",
+         "Value in million U.S. dollars": "3513"
+      },
+      {
+         "Swedish Brand": "Svenska Handelsbanken",
+         "Value in million U.S. dollars": "3360"
+      },
+      {
+         "Swedish Brand": "SEB",
+         "Value in million U.S. dollars": "2644"
+      },
+      {
+         "Swedish Brand": "Ericsson",
+         "Value in million U.S. dollars": "2536"
+      },
+      {
+         "Swedish Brand": "Absolut",
+         "Value in million U.S. dollars": "2404"
+      }
+   ],
+   "gold": "As of 2019 , the self-assembly furniture retailer IKEA was the most valuable Swedish brand . The company 's value amounted to over 21 billion U.S. dollars that year . H & M ( short for Hennes & Mauritz ) came second , with a value of nearly 16 billion U.S. dollars .\n"
+}

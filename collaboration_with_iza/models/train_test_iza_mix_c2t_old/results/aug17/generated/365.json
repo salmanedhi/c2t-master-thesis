@@ -1,0 +1,154 @@
+{
+   "title": "Weekly audience market share of TV channels in Sweden February 2020",
+   "xAxis": "Channel Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the Market share of all Sweden teams in 2020 . ",
+      "The svt1 had a Market share of 32.9 % share in 2020 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Channel Name": "svt1",
+         "Market share": "32.9"
+      },
+      {
+         "Channel Name": "TV4",
+         "Market share": "22.2"
+      },
+      {
+         "Channel Name": "Kanal5",
+         "Market share": "6"
+      },
+      {
+         "Channel Name": "svt2",
+         "Market share": "5.3"
+      },
+      {
+         "Channel Name": "TV3",
+         "Market share": "3.2"
+      },
+      {
+         "Channel Name": "Sjuan",
+         "Market share": "3.2"
+      },
+      {
+         "Channel Name": "TV8",
+         "Market share": "2.8"
+      },
+      {
+         "Channel Name": "TV12",
+         "Market share": "2.2"
+      },
+      {
+         "Channel Name": "TV6",
+         "Market share": "2.2"
+      },
+      {
+         "Channel Name": "svtB",
+         "Market share": "1.7"
+      },
+      {
+         "Channel Name": "Kanal 9",
+         "Market share": "1.5"
+      },
+      {
+         "Channel Name": "Kanal 11",
+         "Market share": "1.4"
+      },
+      {
+         "Channel Name": "Discovery",
+         "Market share": "1.3"
+      },
+      {
+         "Channel Name": "TV10",
+         "Market share": "1.2"
+      },
+      {
+         "Channel Name": "Kunskapskanal",
+         "Market share": "1.1"
+      },
+      {
+         "Channel Name": "TLC",
+         "Market share": "0.8"
+      },
+      {
+         "Channel Name": "Investigation Discovery",
+         "Market share": "0.5"
+      },
+      {
+         "Channel Name": "National Geographic",
+         "Market share": "0.4"
+      },
+      {
+         "Channel Name": "TV4 Film",
+         "Market share": "0.4"
+      },
+      {
+         "Channel Name": "Eurosport",
+         "Market share": "0.4"
+      },
+      {
+         "Channel Name": "TV4 Fakta",
+         "Market share": "0.4"
+      },
+      {
+         "Channel Name": "TV4 Guld",
+         "Market share": "0.4"
+      },
+      {
+         "Channel Name": "svt24",
+         "Market share": "0.3"
+      },
+      {
+         "Channel Name": "History",
+         "Market share": "0.3"
+      },
+      {
+         "Channel Name": "Paramount Network",
+         "Market share": "0.3"
+      },
+      {
+         "Channel Name": "FOX",
+         "Market share": "0.3"
+      },
+      {
+         "Channel Name": "Sportkanalen",
+         "Market share": "0.3"
+      },
+      {
+         "Channel Name": "Nickelodeon",
+         "Market share": "0.2"
+      },
+      {
+         "Channel Name": "Boomerang",
+         "Market share": "0.2"
+      },
+      {
+         "Channel Name": "Eurosport 2 Sweden",
+         "Market share": "0.1"
+      },
+      {
+         "Channel Name": "Cartoon Network Sweden",
+         "Market share": "0.1"
+      },
+      {
+         "Channel Name": "Disney Channel",
+         "Market share": "0.1"
+      },
+      {
+         "Channel Name": "Cartoon Network Nordic",
+         "Market share": "0"
+      }
+   ],
+   "gold": "With an audience market share of 32.9 percent , the first channel of the Swedish public service television company Sveriges Television AB \u2013 svt1 \u2013 was the most viewed television channel in Sweden in week seven of 2020 . The private station TV4 ranked second . The results almost reflect the annually ranking of television channels market shares : svt1 and TV4 came first and second , reaching percentages of over 20 percent each in 2019 .\n"
+}

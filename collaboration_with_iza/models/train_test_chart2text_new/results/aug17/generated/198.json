@@ -1,0 +1,48 @@
+{
+   "title": "Main export partners of Iran 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Iran of the total exports as of mid-2019 , 2017 . ",
+      "As of 2017 , about 27.5 % of the total exports was living in Japan . ",
+      "The total world exports amounted to 7.69 billion people on the planet ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "5",
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Share in total exports": "5.3"
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": "5.7"
+      },
+      {
+         "Country": "Turkey",
+         "Share in total exports": "11.1"
+      },
+      {
+         "Country": "South Korea",
+         "Share in total exports": "11.4"
+      },
+      {
+         "Country": "India",
+         "Share in total exports": "15.1"
+      },
+      {
+         "Country": "China",
+         "Share in total exports": "27.5"
+      }
+   ],
+   "gold": "This statistic shows Iran 's main export partners in 2017 , sorted by their share in total exports . In 2017 , Iran 's main export partner was China with a share of 27.5 percent in all exports .\n"
+}

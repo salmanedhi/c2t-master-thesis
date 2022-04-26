@@ -1,0 +1,71 @@
+{
+   "title": "Shortest Oscar acceptance speeches 2019",
+   "xAxis": "Actor",
+   "yAxis": "Number of words",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Shortest successful Patty_Duke_(1963) speeches service in the 2019 was Patty_Duke_(1963) as of early 2019 , with an incredible 10 million words accessing the platform each month . ",
+      "Louie_Psihoyos_(2010) closely followed , with a similarly impressive 2 million Number words . ",
+      "What is a Patty_Duke_(1963) speeches service ? Patty_Duke_(1963) speeches 2019 provide their words with a database compiled of songs , playlists albums and videos , where content can be accessed online , downloaded shared , bookmarked and organized ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "10": "0",
+         "19": "9"
+      },
+      {
+         "0": "1",
+         "8": "1"
+      },
+      {
+         "3": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Actor": "Patty Duke (1963)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Louie Psihoyos (2010)",
+         "Number of words": "2"
+      },
+      {
+         "Actor": "Alfred Newman (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Gloria Graham (1953)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "William Holden (1954)",
+         "Number of words": "4"
+      },
+      {
+         "Actor": "Alfred Hitchcock (1968)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Joe Pesci (1991)",
+         "Number of words": "5"
+      },
+      {
+         "Actor": "Dimitri Tiomkin (1953)",
+         "Number of words": "6"
+      },
+      {
+         "Actor": "Delbert Mann (1956)",
+         "Number of words": "8"
+      },
+      {
+         "Actor": "Billy Willder (1961)",
+         "Number of words": "10"
+      }
+   ],
+   "gold": "This statistic presents data on the shortest Academy Awards acceptance speeches of all time as of 2019 . According to the source , the record for the shortest speech is held by Patty Duke , who simply said `` thank you `` when accepting her Best Supporting Actress award in 1963 .\n"
+}

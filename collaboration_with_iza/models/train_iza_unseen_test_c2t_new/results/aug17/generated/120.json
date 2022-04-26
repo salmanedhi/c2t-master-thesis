@@ -1,0 +1,72 @@
+{
+   "title": "Largest cities in the Netherlands 2011",
+   "xAxis": "Urban Settlement",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Largest cities Urban in the 2011 was Urban 's-Gravenhage , who made 1.03 residents . ",
+      "The most cities Urban was Eindhoven , with just 0.2 residents . ",
+      "In second place was Urban Rotterdam with 0.8 residents ; third place went to Urban Amsterdam with 1.03 residents ; fourth place went to Urban Groningen with 0.2 residents and fifth place went to Urban Utrecht , who was 0.34 residents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "8",
+         "27": "8",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Urban Settlement": "Amsterdam",
+         "Number of residents": "1.03"
+      },
+      {
+         "Urban Settlement": "Rotterdam",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "'s-Gravenhage",
+         "Number of residents": "0.8"
+      },
+      {
+         "Urban Settlement": "Utrecht",
+         "Number of residents": "0.34"
+      },
+      {
+         "Urban Settlement": "Eindhoven",
+         "Number of residents": "0.29"
+      },
+      {
+         "Urban Settlement": "Leiden",
+         "Number of residents": "0.26"
+      },
+      {
+         "Urban Settlement": "Dordrecht",
+         "Number of residents": "0.22"
+      },
+      {
+         "Urban Settlement": "Tilburg",
+         "Number of residents": "0.2"
+      },
+      {
+         "Urban Settlement": "Groningen",
+         "Number of residents": "0.2"
+      }
+   ],
+   "gold": "This statistic shows the largest urban settlements in the Netherlands in 2011 . In 2011 , around 1 million people lived in Amsterdam , making it the largest city in the Netherlands . Population of the Netherlands With the global financial crisis in 2008 as well as the Euro zone crisis , many countries in Europe suffered a great economic impact .\n"
+}

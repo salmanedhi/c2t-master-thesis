@@ -1,0 +1,42 @@
+{
+   "title": "Disabled people in Sweden 2018 , by disability type",
+   "xAxis": "Disability Type",
+   "yAxis": "Number of disabled people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Disabled Sweden is less pronounced in Other_lasting_physical_or_mental_disabilities_that_are_clearly_not_due_to_normal_aging when compared to the Significant_and_permanent_intellectual_disability_after_brain_damage_in_adult_age_caused_by_external_violence_or_physical_illness and Mental_retardation_autism_or_pervasive_developmental_disorders . ",
+      "Mental_retardation_autism_or_pervasive_developmental_disorders shows a Sweden of 65191 % , the Significant_and_permanent_intellectual_disability_after_brain_damage_in_adult_age_caused_by_external_violence_or_physical_illness 2096 % , and Other_lasting_physical_or_mental_disabilities_that_are_clearly_not_due_to_normal_aging is at 2096 % ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "12": "2",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "5": "0",
+         "9": "2",
+         "10": "2",
+         "14": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Disability Type": "Mental retardation autism or pervasive developmental disorders",
+         "Number of disabled people": "65191"
+      },
+      {
+         "Disability Type": "Other lasting physical or mental disabilities that are clearly not due to normal aging",
+         "Number of disabled people": "6714"
+      },
+      {
+         "Disability Type": "Significant and permanent intellectual disability after brain damage in adult age caused by external violence or physical illness",
+         "Number of disabled people": "2096"
+      }
+   ],
+   "gold": "This statistic shows the number of disabled people in Sweden in 2018 , by type of disability accordingly to the Swedish LSS law . That year , there were over 65 thousand people with intellectual disabilities like e.g . autism in Sweden .\n"
+}

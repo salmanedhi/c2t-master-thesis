@@ -1,0 +1,133 @@
+{
+   "title": "Readership of Vogue magazine in the United Kingdom ( UK ) 2003 to 2016",
+   "xAxis": "Bi-Annually ",
+   "yAxis": "AIR in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Readership trend of Vogue magazine in the United Kingdom from first half 2003 to second half 2016 . ",
+      "In second half , the magazine was read by an average 1.11 thousand readers per issue ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Bi-Annually ": "H2 16",
+         "AIR in millions": "1.07"
+      },
+      {
+         "Bi-Annually ": "H1 16",
+         "AIR in millions": "1.11"
+      },
+      {
+         "Bi-Annually ": "H2 15",
+         "AIR in millions": "1.33"
+      },
+      {
+         "Bi-Annually ": "H1 15",
+         "AIR in millions": "1.2"
+      },
+      {
+         "Bi-Annually ": "H2 14",
+         "AIR in millions": "1.21"
+      },
+      {
+         "Bi-Annually ": "H1 14",
+         "AIR in millions": "1.15"
+      },
+      {
+         "Bi-Annually ": "H2 13",
+         "AIR in millions": "1.24"
+      },
+      {
+         "Bi-Annually ": "H1 13",
+         "AIR in millions": "1.4"
+      },
+      {
+         "Bi-Annually ": "H2 12",
+         "AIR in millions": "1.33"
+      },
+      {
+         "Bi-Annually ": "H1 12",
+         "AIR in millions": "1.14"
+      },
+      {
+         "Bi-Annually ": "H2 11",
+         "AIR in millions": "1.3"
+      },
+      {
+         "Bi-Annually ": "H1 11",
+         "AIR in millions": "1.31"
+      },
+      {
+         "Bi-Annually ": "H2 10",
+         "AIR in millions": "1.32"
+      },
+      {
+         "Bi-Annually ": "H1 10",
+         "AIR in millions": "1.1"
+      },
+      {
+         "Bi-Annually ": "H2 09",
+         "AIR in millions": "1.31"
+      },
+      {
+         "Bi-Annually ": "H1 09",
+         "AIR in millions": "1.34"
+      },
+      {
+         "Bi-Annually ": "H2 08",
+         "AIR in millions": "1.24"
+      },
+      {
+         "Bi-Annually ": "H1 08",
+         "AIR in millions": "1.18"
+      },
+      {
+         "Bi-Annually ": "H2 07",
+         "AIR in millions": "1.25"
+      },
+      {
+         "Bi-Annually ": "H1 07",
+         "AIR in millions": "1.21"
+      },
+      {
+         "Bi-Annually ": "H2 06",
+         "AIR in millions": "1.26"
+      },
+      {
+         "Bi-Annually ": "H1 06",
+         "AIR in millions": "1.01"
+      },
+      {
+         "Bi-Annually ": "H2 05",
+         "AIR in millions": "1.04"
+      },
+      {
+         "Bi-Annually ": "H1 05",
+         "AIR in millions": "1.12"
+      },
+      {
+         "Bi-Annually ": "H2 04",
+         "AIR in millions": "1.03"
+      },
+      {
+         "Bi-Annually ": "H1 04",
+         "AIR in millions": "1.04"
+      },
+      {
+         "Bi-Annually ": "H2 03",
+         "AIR in millions": "1.06"
+      },
+      {
+         "Bi-Annually ": "H1 03",
+         "AIR in millions": "1.18"
+      }
+   ],
+   "gold": "This statistic displays the readership trend of Vogue magazine in the United Kingdom from first half 2003 to second half 2016 . In second half 2015 , the magazine was read by an average 1.3 million readers per issue .\n"
+}

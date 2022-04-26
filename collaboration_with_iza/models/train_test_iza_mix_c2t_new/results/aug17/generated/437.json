@@ -1,0 +1,48 @@
+{
+   "title": "Top 5 origin countries of refugees admitted to Canada in 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of refugees admitted",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number refugees of admitted per 5 in the Afghanistan in 2016 , Country . ",
+      "A 5 is defined as one person living alone , or a group of admitted ( not necessarily related ) living at the same address who share cooking facilities and share a living room or sitting room or dining area . ",
+      "Syria had the highest Number , at 33266 admitted per 5 , with 5 in Congo being the smallest at an Number of 1354 admitted per 5 ."
+   ],
+   "trends": [
+      {
+         "12": "4"
+      },
+      {},
+      {
+         "0": "0",
+         "7": "0",
+         "15": "3",
+         "23": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Syria",
+         "Number of refugees admitted": "33266"
+      },
+      {
+         "Country": "Eritrea",
+         "Number of refugees admitted": "3934"
+      },
+      {
+         "Country": "Iraq",
+         "Number of refugees admitted": "1650"
+      },
+      {
+         "Country": "Congo",
+         "Number of refugees admitted": "1644"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of refugees admitted": "1354"
+      }
+   ],
+   "gold": "This statistic shows the top five origin counties of refugees that were admitted to Canada in 2016 . Syria topped the list in 2016 with 33,266 refugees from the country admitted into Canada .\n"
+}

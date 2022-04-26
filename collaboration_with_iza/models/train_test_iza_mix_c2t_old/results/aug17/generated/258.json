@@ -1,0 +1,64 @@
+{
+   "title": "Leading insurance brokers worldwide 2018 , by revenue",
+   "xAxis": "Month",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading insurance brokers in the Leading ( ) in 2018 , revenue total billion of Revenue . ",
+      "The Marsh_&_McLennan_Cos._Inc._(U.S.) insurance brand was the top selling insurance brand in 2018 , generating Revenue of approximately 16.84 billion British pounds . ",
+      "The most expensive country in which to purchase cigarettes in Europe is the Leading ( ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "17": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Marsh & McLennan Cos. Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "16.84"
+      },
+      {
+         "Month": "Aon PLC (UK)",
+         "Revenue in billion U.S. dollars": "10.72"
+      },
+      {
+         "Month": "Willis Towers Watson PLC (UK)",
+         "Revenue in billion U.S. dollars": "8.41"
+      },
+      {
+         "Month": "Arthur J. Gallagher & Co. (U.S.)",
+         "Revenue in billion U.S. dollars": "5.11"
+      },
+      {
+         "Month": "Hub International Ltd. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.15"
+      },
+      {
+         "Month": "BB&T Insurance Holdings Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.02"
+      },
+      {
+         "Month": "Brown & Brown Inc. (U.S.)",
+         "Revenue in billion U.S. dollars": "2.01"
+      },
+      {
+         "Month": "Lockton Cos. LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.71"
+      },
+      {
+         "Month": "USI Insurance Services LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.67"
+      },
+      {
+         "Month": "Acrisure LLC (U.S.)",
+         "Revenue in billion U.S. dollars": "1.38"
+      }
+   ],
+   "gold": "The statistic presents the leading insurance brokers worldwide in 2018 , by revenue . With revenue amounting to over 16 billion U.S. dollars in 2018 , Marsh & McLennan Cos. Inc. topped the list of leading global insurance brokers globally . Insurance brokers \u2013 additional information An insurance broker ( or insurance agent ) is an insurance specialist offering consulting services both to individuals and commercial businesses .\n"
+}

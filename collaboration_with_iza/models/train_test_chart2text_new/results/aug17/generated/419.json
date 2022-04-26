@@ -1,0 +1,89 @@
+{
+   "title": "Global cheese consumption by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , EU was the leading Global cheese outside of Italy with almost 9458 thousand Global residing in the South American Country . ",
+      "This Global community represented a fifth of all Global residing outside the Country . ",
+      "Moreover , the second and third biggest groups lived in European Country : United_States hosted 5744 thousand Global , while Russia 1217 thousand ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "14": "0"
+      },
+      {},
+      {
+         "13": "1",
+         "15": "1",
+         "20": "2",
+         "21": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "EU",
+         "Consumption in thousand metric tons": "9458"
+      },
+      {
+         "Country": "United States",
+         "Consumption in thousand metric tons": "5744"
+      },
+      {
+         "Country": "Russia",
+         "Consumption in thousand metric tons": "1217"
+      },
+      {
+         "Country": "Brazil",
+         "Consumption in thousand metric tons": "805"
+      },
+      {
+         "Country": "Mexico",
+         "Consumption in thousand metric tons": "548"
+      },
+      {
+         "Country": "Canada",
+         "Consumption in thousand metric tons": "542"
+      },
+      {
+         "Country": "China",
+         "Consumption in thousand metric tons": "396"
+      },
+      {
+         "Country": "Argentina",
+         "Consumption in thousand metric tons": "380"
+      },
+      {
+         "Country": "Japan",
+         "Consumption in thousand metric tons": "354"
+      },
+      {
+         "Country": "Australia",
+         "Consumption in thousand metric tons": "305"
+      },
+      {
+         "Country": "Ukraine",
+         "Consumption in thousand metric tons": "208"
+      },
+      {
+         "Country": "South Korea",
+         "Consumption in thousand metric tons": "166"
+      },
+      {
+         "Country": "Belarus",
+         "Consumption in thousand metric tons": "73"
+      },
+      {
+         "Country": "New Zealand",
+         "Consumption in thousand metric tons": "38"
+      },
+      {
+         "Country": "Taiwan",
+         "Consumption in thousand metric tons": "30"
+      }
+   ],
+   "gold": "This statistic shows the annual consumption of cheese worldwide in 2019 , by selected country . The European Union 's consumption of cheese amounted to some 94.6 million metric tons in 2019 .\n"
+}

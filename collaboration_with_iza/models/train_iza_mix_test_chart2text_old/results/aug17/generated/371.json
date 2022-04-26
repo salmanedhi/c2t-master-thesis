@@ -1,0 +1,61 @@
+{
+   "title": "Profit of leading mutual property/casualty insurance companies 2018",
+   "xAxis": "Insurance Companies",
+   "yAxis": "Profit in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Profit of million conducted by mutual in a property/casualty insurance . ",
+      "\\\\n From the chart we see that the Erie_Insurance_Group Insurance was the Profit leading Insurance in the insurance with 8788.4 million . ",
+      "The next Insurance to make the most million was the Nationwide Insurance with 512.6 million closely followed by Farmers_Insurance_Exchange with -70.5 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "7",
+         "20": "7"
+      }
+   ],
+   "data": [
+      {
+         "Insurance Companies": "State Farm Insurance Cos.",
+         "Profit in million U.S. dollars": "8788.4"
+      },
+      {
+         "Insurance Companies": "Auto-Owners Insurance",
+         "Profit in million U.S. dollars": "754.5"
+      },
+      {
+         "Insurance Companies": "Erie Insurance Group",
+         "Profit in million U.S. dollars": "686.3"
+      },
+      {
+         "Insurance Companies": "Nationwide",
+         "Profit in million U.S. dollars": "512.6"
+      },
+      {
+         "Insurance Companies": "Sentry Insurance Group",
+         "Profit in million U.S. dollars": "250.6"
+      },
+      {
+         "Insurance Companies": "Country Financial",
+         "Profit in million U.S. dollars": "215.2"
+      },
+      {
+         "Insurance Companies": "Amica Mutual Insurance",
+         "Profit in million U.S. dollars": "147.1"
+      },
+      {
+         "Insurance Companies": "Farmers Insurance Exchange",
+         "Profit in million U.S. dollars": "-70.5"
+      }
+   ],
+   "gold": "This statistic displays the profits of leading mutual property and casualty insurance companies in the United States in 2018 . In that year , the profits of Nationwide amounted to approximately 512.6 million U.S. dollars .\n"
+}

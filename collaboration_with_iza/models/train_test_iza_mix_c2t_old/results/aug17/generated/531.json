@@ -1,0 +1,58 @@
+{
+   "title": "Number of Fatal Injuries at the Pula Steel Factory",
+   "xAxis": "Year",
+   "yAxis": "Number of Fatal Injuries",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of Fatal Injuries at the Fatal Injuries Pula Steel Factory from 2012 to 2016 . ",
+      "\\\\n In 2012 the Fatal Injuries Pula Steel Factory saw 27 Injuries , in 2013 there were 32 Injuries , 2014 saw at least 26 Injuries , 22 Injuries in 2015 and 25 in 2016 . ",
+      "2013 had the highest Number of Injuries whilst 2015 had the lowest ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "4"
+      },
+      {
+         "2": "0",
+         "6": "0",
+         "10": "1",
+         "13": "1",
+         "16": "2",
+         "20": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "30": "4"
+      },
+      {
+         "0": "1",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Number of Fatal Injuries": "27"
+      },
+      {
+         "Year": "2013",
+         "Number of Fatal Injuries": "32"
+      },
+      {
+         "Year": "2014",
+         "Number of Fatal Injuries": "26"
+      },
+      {
+         "Year": "2015",
+         "Number of Fatal Injuries": "22"
+      },
+      {
+         "Year": "2016",
+         "Number of Fatal Injuries": "25"
+      }
+   ],
+   "gold": "This shows the fluctuation of fatal injuries over a 5 year period . It indicates a downward trend in fatalities between 2013 and 2015 although this came to an end in 2016 . The most fatalities were recorded in 2013 .\n"
+}

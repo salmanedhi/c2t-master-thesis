@@ -1,0 +1,47 @@
+{
+   "title": "Most valuable telecommunications brands in the UK in 2018",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "UK , one of the leading aircraft manufacturers , collected more than 18744 million U.S. dollars from the Asia-Pacific Brand in 2018 . ",
+      "UK UK UK is part of the multinational UK SE . ",
+      "With its headquarters in Toulouse , France the division supplies airlines from all over the world with commercial aircraft ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Vodafone",
+         "Brand value in million U.S. dollars": "18744"
+      },
+      {
+         "Brand": "BT",
+         "Brand value in million U.S. dollars": "11494"
+      },
+      {
+         "Brand": "Sky",
+         "Brand value in million U.S. dollars": "10162"
+      },
+      {
+         "Brand": "O2",
+         "Brand value in million U.S. dollars": "8637"
+      },
+      {
+         "Brand": "3",
+         "Brand value in million U.S. dollars": "7347"
+      },
+      {
+         "Brand": "EE",
+         "Brand value in million U.S. dollars": "4686"
+      }
+   ],
+   "gold": "This statistic displays a ranking of the most valuable telecommunications brands in the United Kingdom ( UK ) as of 2018 . Vodafone ranked first with a brand value of 18.7 billion U.S. dollars . O2 had a brand value of 8.6 billion U.S. dollars .\n"
+}

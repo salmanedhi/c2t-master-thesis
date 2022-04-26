@@ -1,0 +1,46 @@
+{
+   "title": "Follower count distribution on Twitter 2014",
+   "xAxis": "Number of followers",
+   "yAxis": "Percentage of Twitter users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage of Twitter users of Twitter worldwide in 2014 , Number followers . ",
+      "In that year , 93.68 percentage of Twitter 's count Twitter users came from 1-100 . ",
+      "Founded in 1961 Agordo , Italy the Twitter Group S.p.A. is the 401-500 's largest eyewear company ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "0"
+      },
+      {
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Number of followers": "1-100",
+         "Percentage of Twitter users": "93.68"
+      },
+      {
+         "Number of followers": "101-200",
+         "Percentage of Twitter users": "2.75"
+      },
+      {
+         "Number of followers": "201-300",
+         "Percentage of Twitter users": "1.04"
+      },
+      {
+         "Number of followers": "301-400",
+         "Percentage of Twitter users": "0.57"
+      },
+      {
+         "Number of followers": "401-500",
+         "Percentage of Twitter users": "0.36"
+      }
+   ],
+   "gold": "This statistic gives information on the follower count distribution on Twitter . As of April 2014 , 93.68 percent of Twitter users had between 1 and 100 followers on the microblogging site .\n"
+}

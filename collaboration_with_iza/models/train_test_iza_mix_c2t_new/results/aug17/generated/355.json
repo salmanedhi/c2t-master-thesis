@@ -1,0 +1,63 @@
+{
+   "title": "Delay rate of the most punctual trains in Europe 2016",
+   "xAxis": "Railway Stations",
+   "yAxis": "Rate of delay",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2016 , singer Lille_Europe_(Eurostar) was the most-followed of all trains Railway coming from Luxembourg . ",
+      "This according to data provided by Railway . ",
+      "The artist , born in the Grand Duchy to a French father and Danish mother , had around 790,000 delay ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Railway Stations": "Lille Europe (Eurostar)",
+         "Rate of delay": "0"
+      },
+      {
+         "Railway Stations": "Ashford International (Eurostar)",
+         "Rate of delay": "0"
+      },
+      {
+         "Railway Stations": "Reims (SNCF)",
+         "Rate of delay": "0.89"
+      },
+      {
+         "Railway Stations": "Limoges (SNCF)",
+         "Rate of delay": "1.09"
+      },
+      {
+         "Railway Stations": "Brest (SNCF)",
+         "Rate of delay": "1.14"
+      },
+      {
+         "Railway Stations": "Dijon (SNCF)",
+         "Rate of delay": "1.16"
+      },
+      {
+         "Railway Stations": "Lille (SNCF)",
+         "Rate of delay": "1.21"
+      },
+      {
+         "Railway Stations": "Anger Saint-Laud (SNCF)",
+         "Rate of delay": "1.26"
+      },
+      {
+         "Railway Stations": "Laval (SNCF)",
+         "Rate of delay": "1.29"
+      },
+      {
+         "Railway Stations": "Ebbsfleet (Eurostar)",
+         "Rate of delay": "1.32"
+      }
+   ],
+   "gold": "The Eurostar high-speed train brings passengers from one side of the Channel , which separates the United Kingdom from Continental Europe , to the other . Much to the pleasure of the passengers heading to or departing from the Lille Railway station , this train registered a rate of delay ( of more than half an hour ) of 0 percent , making it one of the most punctual European trains in 2016 . Eurostar has a high perception in the UK Usually , the high volume of passengers combined with the long distances covered by this train , could signify a decrease in the quality of the service provided .\n"
+}

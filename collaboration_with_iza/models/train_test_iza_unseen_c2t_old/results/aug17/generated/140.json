@@ -1,0 +1,69 @@
+{
+   "title": "Etsy : global gross merchandise volume Q4 2019",
+   "xAxis": "Quarter",
+   "yAxis": "GMS in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 2019 million in the global gross merchandise volume Q4 in the Etsy U.S. 2019 to . ",
+      "The data are seasonally adjusted at annual rates . ",
+      "merchandise volume Q4 describe the relationship between compensation per hour and productivity , or real output per hour , and can be used as an indicator of inflationary pressure on producers ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "GMS in million U.S. dollars": "1655.72"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "GMS in million U.S. dollars": "1200.37"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "GMS in million U.S. dollars": "1094.83"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "GMS in million U.S. dollars": "1024.03"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "GMS in million U.S. dollars": "1246.47"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "GMS in million U.S. dollars": "922.51"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "GMS in million U.S. dollars": "901.69"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "GMS in million U.S. dollars": "861.08"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "GMS in million U.S. dollars": "1019.45"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "GMS in million U.S. dollars": "766.35"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "GMS in million U.S. dollars": "748.76"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "GMS in million U.S. dollars": "719.04"
+      }
+   ],
+   "gold": "This statistic shows the global gross merchandise sales of Etsy Inc. as of the fourth quarter of 2019 . During that period , the C2C e-commerce company generated GMS of 1.66 billion U.S. dollars , up from 1.25 billion U.S. dollars in the corresponding quarter of the previous year . This represents a 32.8 percent year-on-year growth .\n"
+}

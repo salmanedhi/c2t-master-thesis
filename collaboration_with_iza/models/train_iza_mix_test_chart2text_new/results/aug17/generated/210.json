@@ -1,0 +1,46 @@
+{
+   "title": "Number of internet users in selected regions in Asia-Pacific 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number internet on Asia in millions users in 1000 . ",
+      "\\\\n From the chart we see that Southeast_Asia internet a total of \u00a3 1000 millions internet for the year , \u00a3 120 millions more than the closest competitor ( East_Asia , which internet \u00a3 1000 millions ) and over twice as much South_Asia and Oceania put together ( which internet \u00a3 803 and \u00a3 29 millions respectively , totalling \u00a3 150 millions ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "0",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1",
+         "55": "3"
+      }
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Number of internet users in millions": "1000"
+      },
+      {
+         "Region": "South Asia",
+         "Number of internet users in millions": "803"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Number of internet users in millions": "415"
+      },
+      {
+         "Region": "Oceania",
+         "Number of internet users in millions": "29"
+      }
+   ],
+   "gold": "The above statistic shows the number of internet users in the Asia-Pacific regions as of January 2019 . During that time , it was discovered that the internet population in East Asia amounted to one billion internet users .\n"
+}

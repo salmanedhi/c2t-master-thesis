@@ -1,0 +1,41 @@
+{
+   "title": "Share of U.S. male/female adults following Major League Baseball ( MLB ) 2014",
+   "xAxis": "Sex",
+   "yAxis": "Answered yes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Sex of male/female in Major League Baseball , as a percentage of incidence . ",
+      "The most common Sex is Female , identified as causing 47 percent , with All_adults of second at 35 % . ",
+      "Male is third , causing 27 % of Sex ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "0",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Answered yes": "47"
+      },
+      {
+         "Sex": "Female",
+         "Answered yes": "27"
+      },
+      {
+         "Sex": "All adults",
+         "Answered yes": "37"
+      }
+   ],
+   "gold": "The statistic depicts the the share of the surveyed respondents that follow Major League Baseball . 47 percent of the male respondents said that they do follow Major League Baseball .\n"
+}

@@ -1,0 +1,69 @@
+{
+   "title": "Largest cities in the United Kingdom 2011",
+   "xAxis": "City names within UK",
+   "yAxis": "Residents in million",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Residents of million conducted by United in a Kingdom 2011 . ",
+      "\\\\n From the chart we see that the Glasgow City was the Largest cities City in the 2011 with 8.25 million . ",
+      "The next City to make the most million was the Liverpool City with 0.55 million closely followed by Leicester with 0.44 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "City names within UK": "London",
+         "Residents in million": "8.25"
+      },
+      {
+         "City names within UK": "Birmingham",
+         "Residents in million": "1.09"
+      },
+      {
+         "City names within UK": "Glasgow",
+         "Residents in million": "0.59"
+      },
+      {
+         "City names within UK": "Liverpool",
+         "Residents in million": "0.55"
+      },
+      {
+         "City names within UK": "Bristol",
+         "Residents in million": "0.54"
+      },
+      {
+         "City names within UK": "Sheffield",
+         "Residents in million": "0.52"
+      },
+      {
+         "City names within UK": "Manchester",
+         "Residents in million": "0.51"
+      },
+      {
+         "City names within UK": "Leeds",
+         "Residents in million": "0.47"
+      },
+      {
+         "City names within UK": "Edinburgh",
+         "Residents in million": "0.46"
+      },
+      {
+         "City names within UK": "Leicester",
+         "Residents in million": "0.44"
+      }
+   ],
+   "gold": "This statistic shows the ten largest cities in the United Kingdom in 2011 . In 2011 , around 8.3 million people lived in London , making it the largest city in the United Kingdom .\n"
+}

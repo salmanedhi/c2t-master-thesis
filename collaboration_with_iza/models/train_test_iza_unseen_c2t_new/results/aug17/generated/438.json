@@ -1,0 +1,46 @@
+{
+   "title": "Value of the U.S. tableware market 2012 , by category",
+   "xAxis": "Category",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the total billion of the Market 2012 value of the English U.S. worldwide by Category in the period from 2012 to . ",
+      "Market value of the U.S. in Cookware have a total billion of 3.3 billion US dollars in that timeframe ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Category": "Cookware",
+         "Market value in billion U.S. dollars": "3.3"
+      },
+      {
+         "Category": "Pantry/kitchen",
+         "Market value in billion U.S. dollars": "2.2"
+      },
+      {
+         "Category": "Beverage/stemware",
+         "Market value in billion U.S. dollars": "2.1"
+      },
+      {
+         "Category": "Dinnerware",
+         "Market value in billion U.S. dollars": "1.9"
+      },
+      {
+         "Category": "Cutlery",
+         "Market value in billion U.S. dollars": "1.8"
+      },
+      {
+         "Category": "Flatware",
+         "Market value in billion U.S. dollars": "0.9"
+      }
+   ],
+   "gold": "This statistic depicts the value of the U.S. tableware market in 2012 . In 2012 , cookware generated about 3.3 billion U.S. dollars for the U.S. tabletop market . The total market value of the U.S. tabletop market was about 12.2 billion U.S. dollars .\n"
+}

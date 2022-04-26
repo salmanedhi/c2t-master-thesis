@@ -1,0 +1,35 @@
+{
+   "title": "2016 U.S. election : Twitter followers of candidates in September 2016",
+   "xAxis": "Twitter account in brackets",
+   "yAxis": "Number of Twitter followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic indicates the Number of Donald_Trump_(@realDonaldTrump) and Hillary_Clinton_(@HillaryClinton) in households Twitter September in 2016 . ",
+      "There were around 11.9 millions Donald_Trump_(@realDonaldTrump) in Twitter September households in 2016 , compared to approximately 9.3 millions Hillary_Clinton_(@HillaryClinton) ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "8": "1"
+      },
+      {
+         "3": "0",
+         "5": "0",
+         "15": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Twitter account in brackets": "Donald Trump (@realDonaldTrump)",
+         "Number of Twitter followers in millions": "11.9"
+      },
+      {
+         "Twitter account in brackets": "Hillary Clinton (@HillaryClinton)",
+         "Number of Twitter followers in millions": "9.3"
+      }
+   ],
+   "gold": "This statistic shows the number of Twitter followers of the 2016 U.S. presidential candidates , as of September , 2016 . As of September , 2016 , Donald Trump had approximately 11.9 million Twitter followers .\n"
+}

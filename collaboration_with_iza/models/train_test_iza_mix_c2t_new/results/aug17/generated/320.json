@@ -1,0 +1,69 @@
+{
+   "title": "Leading French YouTube comedy channels as of June 2018 , by number of subscribers",
+   "xAxis": "Youtube Channel",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , the ranking of French popular Youtube Channel based on Number subscribers is dominated by music and children 's content . ",
+      "Norman - Norman was ranked second with 10792 thousands Channel subscribers in the preceding 30 days . ",
+      "Le_rire_jaune entertainment Channel Cyprien was ranked first with over 12151 thousands subscribers ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "2": "1",
+         "7": "1"
+      },
+      {
+         "0": "4",
+         "3": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Youtube Channel": "Cyprien",
+         "Number of subscribers in thousands": "12151"
+      },
+      {
+         "Youtube Channel": "Norman",
+         "Number of subscribers in thousands": "10792"
+      },
+      {
+         "Youtube Channel": "Squeezie",
+         "Number of subscribers in thousands": "10719"
+      },
+      {
+         "Youtube Channel": "R\u00e9mi Gaillard",
+         "Number of subscribers in thousands": "6648"
+      },
+      {
+         "Youtube Channel": "Le rire jaune",
+         "Number of subscribers in thousands": "4345"
+      },
+      {
+         "Youtube Channel": "Natoo",
+         "Number of subscribers in thousands": "4324"
+      },
+      {
+         "Youtube Channel": "Mister V",
+         "Number of subscribers in thousands": "4305"
+      },
+      {
+         "Youtube Channel": "Amixem",
+         "Number of subscribers in thousands": "4085"
+      },
+      {
+         "Youtube Channel": "Seb",
+         "Number of subscribers in thousands": "3666"
+      },
+      {
+         "Youtube Channel": "Andy",
+         "Number of subscribers in thousands": "3409"
+      }
+   ],
+   "gold": "As of June 2018 , the most popular YouTube comedy channel was that of Cyprien , accounting for more than 12 million subscribers . In second and third places came Norman fait des vid\u00e9os ( 9.5 million ) and R\u00e9mi Gaillard ( 6.4 million ) . Moreover , in a ranking of the most popular YouTube channels in France in general , Cyprien and Norman fait des vid\u00e9os also ranked as first youtubers the same year .\n"
+}

@@ -1,0 +1,40 @@
+{
+   "title": "Median Salary of Women Per Year",
+   "xAxis": "Year",
+   "yAxis": "Salary 1000",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Salary 1000 of the most popular user-generated Salary Women Per Year Year . ",
+      "As of , chat app Salary Women Per Year permitted users create and sell their on Salary Women Per Year chat Year in the app 's digital marketplace . ",
+      "As of , the Salary 1000 of the 2000 Year were 55 million 1000 ( approximately 215,200 U.S. dollars ) each ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "0",
+         "13": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Salary 1000": "40"
+      },
+      {
+         "Year": "2005",
+         "Salary 1000": "45"
+      },
+      {
+         "Year": "2010",
+         "Salary 1000": "50"
+      },
+      {
+         "Year": "2015",
+         "Salary 1000": "55"
+      }
+   ],
+   "gold": "2015 saw women median pay rise to 53 k , from 50 k in 2010 . 2005 it was at 45 k from 40 k in 2000 , so you can see it has been rising steadily\n"
+}

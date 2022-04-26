@@ -1,0 +1,53 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of expeditions made glaciers . ",
+      "\\n\\\\n From this chart we see that the Glacier that has had the most expeditions made to it is the Mefonna Glacier with 13 expeditions . ",
+      "The next Glacier with the most expeditions is Akkem with 9 followed by Zvezda with 6 ."
+   ],
+   "trends": [
+      {},
+      {
+         "20": "4",
+         "23": "4"
+      },
+      {
+         "8": "2",
+         "10": "2",
+         "13": "3",
+         "15": "3"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "This graph displays the most explored glaciers and uses the number of expeditions to qualify this data . The most explored by far is Mefonna , with 13 expeditions . This number is slightly lower for Akkem ( 9 expeditions ) and lower still for Zvezda ( 6 ) .\n"
+}

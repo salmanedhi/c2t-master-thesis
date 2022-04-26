@@ -1,0 +1,85 @@
+{
+   "title": "Important food attributes when selecting healthy meals 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of middle and high school students in the country who were Local_and_fresh_ingredients , divided by the type of Local_and_fresh_ingredients food endured . ",
+      "During the 2016 survey , 19 % of Local_and_fresh_ingredients food victims had Local_and_fresh_ingredients impersonated Low-calorie_options during the last 45 days . ",
+      "Local_and_fresh_ingredients food includes unwanted contact by threatening or insulting the respondent via digital communications as well sharing private information Low-calorie_options ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "23": "0"
+      },
+      {
+         "5": "7",
+         "8": "0",
+         "12": "0",
+         "14": "1",
+         "18": "0"
+      },
+      {
+         "0": "0",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Local and fresh ingredients",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Low-calorie options",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Nutritional information on menus",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Low-sodium options",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Portion control off\u0090erings",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Antibiotic- and hormone-free ingredients",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Organic products",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "GMO-free ingredients",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Sustainable and/or humane ingredient-supply practices",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Gluten-free off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Plant-based meal off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Items backed by recognized diet programs",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "13"
+      }
+   ],
+   "gold": "The statistic shows which food attributes are important to U.S. survey respondents when selecting a healthy meal in 2016 . During the survey , 41 percent of respondents cited low-calorie options as important when selecting a healthy meal .\n"
+}

@@ -1,0 +1,58 @@
+{
+   "title": "Population of Virginia , by race and ethnicity 2018",
+   "xAxis": "Race",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Population of Virginia , distinguished by Hispanic_or_Latino_(of_any_race) and origin in 2018 . ",
+      "In 2018 , about 1597761 million people in Virginia were Black_or_African_American_alone or ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "12": "2"
+      },
+      {
+         "4": "1",
+         "10": "1",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White alone",
+         "Number of residents": "5224295"
+      },
+      {
+         "Race": "Black or African American alone",
+         "Number of residents": "1597761"
+      },
+      {
+         "Race": "Hispanic or Latino (of any race)",
+         "Number of residents": "812810"
+      },
+      {
+         "Race": "Asian alone",
+         "Number of residents": "550696"
+      },
+      {
+         "Race": "Two or more races",
+         "Number of residents": "288865"
+      },
+      {
+         "Race": "Some other race alone",
+         "Number of residents": "20390"
+      },
+      {
+         "Race": "American Indian and Alaska Native alone",
+         "Number of residents": "18281"
+      },
+      {
+         "Race": "Native Hawaiian and Other Pacific Islander alone",
+         "Number of residents": "4587"
+      }
+   ],
+   "gold": "This statistic shows the population of Virginia , distinguished by race and Hispanic origin in 2018 . In 2018 , about 1.6 million people in Virginia were Black or African American .\n"
+}

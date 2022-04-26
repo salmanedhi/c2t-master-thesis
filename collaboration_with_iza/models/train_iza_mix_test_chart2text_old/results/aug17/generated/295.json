@@ -1,0 +1,107 @@
+{
+   "title": "Portugal : national football players with most goals scored of all time as of 2019",
+   "xAxis": "Player",
+   "yAxis": "Goals scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Portugal national football in the Goals of scored . ",
+      "\\n The Portugal national Player was Pauleta , with only 11 scored . ",
+      "Followed players Cristiano_Ronaldo , with 88 scored , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "17"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Player": "Cristiano Ronaldo",
+         "Goals scored": "88"
+      },
+      {
+         "Player": "Pauleta",
+         "Goals scored": "47"
+      },
+      {
+         "Player": "Eusebio",
+         "Goals scored": "41"
+      },
+      {
+         "Player": "Luis Figo",
+         "Goals scored": "32"
+      },
+      {
+         "Player": "Nuno Gomes",
+         "Goals scored": "29"
+      },
+      {
+         "Player": "Helder Postiga",
+         "Goals scored": "27"
+      },
+      {
+         "Player": "Rui Costa",
+         "Goals scored": "26"
+      },
+      {
+         "Player": "Joao Vieira Pinto",
+         "Goals scored": "23"
+      },
+      {
+         "Player": "Nani",
+         "Goals scored": "24"
+      },
+      {
+         "Player": "Simao",
+         "Goals scored": "22"
+      },
+      {
+         "Player": "Nene",
+         "Goals scored": "21"
+      },
+      {
+         "Player": "Hugo Almeida",
+         "Goals scored": "19"
+      },
+      {
+         "Player": "Jordao",
+         "Goals scored": "15"
+      },
+      {
+         "Player": "Jose Torres",
+         "Goals scored": "14"
+      },
+      {
+         "Player": "Fernando Peyroteo",
+         "Goals scored": "14"
+      },
+      {
+         "Player": "Fernando Gomes",
+         "Goals scored": "13"
+      },
+      {
+         "Player": "Sergio Conceicao",
+         "Goals scored": "12"
+      },
+      {
+         "Player": "Jose Aguas",
+         "Goals scored": "11"
+      },
+      {
+         "Player": "Lucas da Fonseca 'Matateu'",
+         "Goals scored": "11"
+      },
+      {
+         "Player": "Bruno Alves",
+         "Goals scored": "11"
+      }
+   ],
+   "gold": "Christiano Ronaldo has been playing for the Portuguese national football team since 2003 and scored 88 goals for the team . As the top scorer of the national team and the star of the top tier clubs Manchester United , Real Madrid and Juventus , Ronaldo is without any doubt among the most renowned football players in the world . Portugal 's national football team out in quarter finals during last World Cup During the Fifa World Cup in 2018 , Portugal 's national team failed before the quarter finals , losing a match against Uruguay .\n"
+}

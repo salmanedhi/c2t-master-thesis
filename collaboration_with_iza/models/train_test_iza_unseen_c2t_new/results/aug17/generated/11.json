@@ -1,0 +1,70 @@
+{
+   "title": "Most reputable companies worldwide 2018",
+   "xAxis": "Brands",
+   "yAxis": "Index score on a 0 to 100 scale",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , Rolex 's Brands score earned the multinational company the accolade of the Most reputable Microsoft Brands . ",
+      "Rolex was followed by financial services company LEGO , and Google Group , which specializes in electrical equiment , automation and robotics among others . ",
+      "Both companies had a Brands score of over 77.7 % 100 scale in 2018 ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "18": "9"
+      },
+      {
+         "0": "0",
+         "7": "1",
+         "10": "2"
+      },
+      {
+         "8": "2"
+      }
+   ],
+   "data": [
+      {
+         "Brands": "Rolex",
+         "Index score on a 0 to 100 scale": "79.3"
+      },
+      {
+         "Brands": "LEGO",
+         "Index score on a 0 to 100 scale": "77.9"
+      },
+      {
+         "Brands": "Google",
+         "Index score on a 0 to 100 scale": "77.7"
+      },
+      {
+         "Brands": "Canon",
+         "Index score on a 0 to 100 scale": "77.4"
+      },
+      {
+         "Brands": "The Walt Disney Company",
+         "Index score on a 0 to 100 scale": "77.4"
+      },
+      {
+         "Brands": "Sony",
+         "Index score on a 0 to 100 scale": "77.3"
+      },
+      {
+         "Brands": "Adidas",
+         "Index score on a 0 to 100 scale": "76.6"
+      },
+      {
+         "Brands": "Bosch",
+         "Index score on a 0 to 100 scale": "76.4"
+      },
+      {
+         "Brands": "BMW Group",
+         "Index score on a 0 to 100 scale": "76.1"
+      },
+      {
+         "Brands": "Microsoft",
+         "Index score on a 0 to 100 scale": "75.8"
+      }
+   ],
+   "gold": "The graph shows the most reputable companies worldwide as first quarter of 2018 . The source found that Rolex was the most reputable company , followed by LEGO and Google . Most reputable companies worldwide \u2013 additional information Based on dimensions such as performance , leadership , products and services , innovation , to mention a few , the Reputation Institute created a framework to measure the reputation performance of global companies .\n"
+}

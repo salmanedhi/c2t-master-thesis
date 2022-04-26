@@ -1,0 +1,45 @@
+{
+   "title": "Rapeseed production volume worldwide by country 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Rapeseed production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018/2019 , European_Union was the leading producer of Rapeseed oranges in the Rapeseed ( EU28 ) , with over 3.7 million of Rapeseed oranges produced . ",
+      "The Spanish volume was more than two times the volume of Canada , the second largest producer of oranges . ",
+      "The other three producers in the EU produced less than one million during this year ."
+   ],
+   "trends": [
+      {
+         "3": "0"
+      },
+      {
+         "11": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Rapeseed production in million metric tons": "19.6"
+      },
+      {
+         "Country": "Canada",
+         "Rapeseed production in million metric tons": "21.1"
+      },
+      {
+         "Country": "China",
+         "Rapeseed production in million metric tons": "12.85"
+      },
+      {
+         "Country": "India",
+         "Rapeseed production in million metric tons": "6.6"
+      },
+      {
+         "Country": "Other",
+         "Rapeseed production in million metric tons": "10.75"
+      }
+   ],
+   "gold": "This statistic provides a forecast of the rapeseed production volume worldwide in 2018/2019 , by country . It was forecasted , that the rapeseed production of Canada would amount to some 21.1 million metric tons . The global production of rapeseed oil is expected to reach nearly 28 million metric tons by that year .\n"
+}

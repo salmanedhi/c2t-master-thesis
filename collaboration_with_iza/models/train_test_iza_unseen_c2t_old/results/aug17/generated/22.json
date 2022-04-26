@@ -1,0 +1,63 @@
+{
+   "title": "Production of titanium dioxide worldwide by country share 2014",
+   "xAxis": "Country",
+   "yAxis": "Percentage of global production",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic indicates the Percentage of global E.L. James 's 'Fifty Production of ' country in share South_Africa China as of 2014 . ",
+      "The book country more than 6 percentage global in Canada as of 2014 and a total of over 19 percentage China . ",
+      "During a survey in 2016 , romance ranked third in a list of preferred e-book genres in the Australia ."
+   ],
+   "trends": [
+      {
+         "18": "2",
+         "19": "0"
+      },
+      {
+         "5": "6",
+         "9": "3",
+         "18": "7",
+         "20": "0"
+      },
+      {
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of global production": "18"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of global production": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Percentage of global production": "15"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of global production": "11"
+      },
+      {
+         "Country": "Ukraine",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "India",
+         "Percentage of global production": "7"
+      },
+      {
+         "Country": "Mozambique",
+         "Percentage of global production": "6"
+      },
+      {
+         "Country": "Others",
+         "Percentage of global production": "19"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of global titanium dioxide ( mineral sands ) production in 2014 , by country . Australia , China , and South Africa were the leading producers with 17 , 18 , and 15 percent , respectively . Titanium dioxide is one of the two core product streams of the mineral sands industry .\n"
+}

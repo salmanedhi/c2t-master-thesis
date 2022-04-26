@@ -1,0 +1,64 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most popular Snack in the savoury snack was Hula_Hoops , who made 42 respondents . ",
+      "The most popular Snack was McCoys , with just 22 respondents . ",
+      "In second place was Snack Doritos with 32 respondents ; third place went to Snack Walkers with 42 respondents ; fourth place went to Snack KP_nuts with 22 respondents and fifth place went to Snack Pringles , who made 26 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": "42"
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": "32"
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": "25"
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": "24"
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": "22"
+      }
+   ],
+   "gold": "This statistic displays the leading crisp and savory snack brands in the United Kingdom ( UK ) , ranked by most purchased . According to the survey conducted in November 2013 , the leading six products were all crisps . Walkers ranked highest with 42 percent of respondents purchasing their crisps at the time of survey , followed by Doritos at 32 percent .\n"
+}

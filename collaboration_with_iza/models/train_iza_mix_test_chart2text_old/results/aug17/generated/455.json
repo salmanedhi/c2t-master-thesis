@@ -1,0 +1,204 @@
+{
+   "title": "Facebook : number of monthly active users worldwide 2008 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Facebook number monthly in the active users , ranking by Number of users . ",
+      "Q2_'19 are the Facebook number and have the most users ( around 2498 users ) , whilst Q4_'18 are the most number with around 100 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "12": "0",
+         "17": "4",
+         "24": "44"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Number of users in millions": "2498"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of users in millions": "2449"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of users in millions": "2414"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of users in millions": "2375"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of users in millions": "2320"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of users in millions": "2271"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of users in millions": "2234"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of users in millions": "2196"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of users in millions": "2129"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of users in millions": "2072"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of users in millions": "2006"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of users in millions": "1936"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Number of users in millions": "1860"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of users in millions": "1788"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of users in millions": "1712"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of users in millions": "1654"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of users in millions": "1591"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of users in millions": "1545"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of users in millions": "1490"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Number of users in millions": "1441"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Number of users in millions": "1393"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Number of users in millions": "1350"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Number of users in millions": "1317"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Number of users in millions": "1276"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Number of users in millions": "1228"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Number of users in millions": "1189"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Number of users in millions": "1155"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Number of users in millions": "1110"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Number of users in millions": "1056"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Number of users in millions": "1007"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Number of users in millions": "955"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Number of users in millions": "901"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Number of users in millions": "845"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Number of users in millions": "800"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Number of users in millions": "739"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Number of users in millions": "680"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Number of users in millions": "608"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Number of users in millions": "550"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Number of users in millions": "482"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "Number of users in millions": "431"
+      },
+      {
+         "Quarter": "Q4 '09",
+         "Number of users in millions": "360"
+      },
+      {
+         "Quarter": "Q3 '09",
+         "Number of users in millions": "305"
+      },
+      {
+         "Quarter": "Q2 '09",
+         "Number of users in millions": "242"
+      },
+      {
+         "Quarter": "Q1 '09",
+         "Number of users in millions": "197"
+      },
+      {
+         "Quarter": "Q3 '08",
+         "Number of users in millions": "100"
+      }
+   ],
+   "gold": "How many users does Facebook have ? With almost 2.5 billion monthly active users as of the fourth quarter of 2019 , Facebook is the biggest social network worldwide . In the third quarter of 2012 , the number of active Facebook users surpassed one billion , making it the first social network ever to do so . Active users are those which have logged in to Facebook during the last 30 days .\n"
+}

@@ -1,0 +1,41 @@
+{
+   "title": "U.S. households with clothes dryers in 2009 , by energy source",
+   "xAxis": "Energy source",
+   "yAxis": "Households in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Energy of with in U.S. , as a millions of incidence . ",
+      "The most common Energy is Natural_gas , identified as causing 71.8 millions , with Propane/LPG of second at 35 millions . ",
+      "Electric is third , causing 1.0 millions of Energy ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "0",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Energy source": "Electric",
+         "Households in millions": "71.8"
+      },
+      {
+         "Energy source": "Natural gas",
+         "Households in millions": "17.5"
+      },
+      {
+         "Energy source": "Propane/LPG",
+         "Households in millions": "1.0"
+      }
+   ],
+   "gold": "The statistic illustrates the number of households with clothes dryers in the United States in 2009 , by energy source . In 2009 , 71.8 million U.S. households owned a electric clothes dryer . As of 2009 , almost 80 percent of U.S. households had a clothes dryer .\n"
+}

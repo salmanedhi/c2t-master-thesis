@@ -1,0 +1,57 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents conducted by crisps in a savoury snack . ",
+      "\\\\n From the chart we see that the Hula_Hoops Snack was the Most popular Snack in the snack with 42 respondents . ",
+      "The next Snack to make the most respondents was the Pringles Snack with 26 respondents closely followed by KP_nuts with 22 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "6",
+         "20": "6"
+      }
+   ],
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": "42"
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": "32"
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": "25"
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": "24"
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": "22"
+      }
+   ],
+   "gold": "This statistic displays the leading crisp and savory snack brands in the United Kingdom ( UK ) , ranked by most purchased . According to the survey conducted in November 2013 , the leading six products were all crisps . Walkers ranked highest with 42 percent of respondents purchasing their crisps at the time of survey , followed by Doritos at 32 percent .\n"
+}

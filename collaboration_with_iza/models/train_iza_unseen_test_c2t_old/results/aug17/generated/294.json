@@ -1,0 +1,56 @@
+{
+   "title": "Total S.A. 's proved reserves by region 2018",
+   "xAxis": "Country",
+   "yAxis": "Proved reserves in million barrels oil equivalent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Total S.A. 's proved the of reserves they 've had . ",
+      "\\n It shows Europe_&_Central_Asia has had 4431 reserves , Middle_East_&_North_Africa has had the Total at 843 reserves , Americas has had 1937 , Africa has had 1668 , Asia_Pacific has had the most reserves at 12050 and Total has had 12050 reserves ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "4",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "5",
+         "37": "5",
+         "40": "5"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Europe & Central Asia",
+         "Proved reserves in million barrels oil equivalent": "4431"
+      },
+      {
+         "Country": "Middle East & North Africa",
+         "Proved reserves in million barrels oil equivalent": "3171"
+      },
+      {
+         "Country": "Americas",
+         "Proved reserves in million barrels oil equivalent": "1937"
+      },
+      {
+         "Country": "Africa",
+         "Proved reserves in million barrels oil equivalent": "1668"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Proved reserves in million barrels oil equivalent": "843"
+      },
+      {
+         "Country": "Total",
+         "Proved reserves in million barrels oil equivalent": "12050"
+      }
+   ],
+   "gold": "This statistic shows Total S.A. 's proved reserves by geographical region in 2018 , measured in million barrels of oil equivalent . In the Americas , there was a total of approximately 1.94 billion barrels of oil equivalent in 2018 . Total S.A. is one of the world 's largest oil and gas companies .\n"
+}

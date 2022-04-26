@@ -1,0 +1,77 @@
+{
+   "title": "Cyber attacks on industries worldwide 2017",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents conducted by industries in a worldwide 2017 . ",
+      "\\\\n From the chart we see that the Retail_and_wholesale Month was the Cyber attacks Month in the 2017 with 26 respondents . ",
+      "The next Month to make the most respondents was the Manufacturing Month with 22 respondents closely followed by Aviation_and_aerospace with 9 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "11",
+         "20": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Energy",
+         "Share of respondents": "26"
+      },
+      {
+         "Month": "Healthcare",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Retail and wholesale",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "Manufacturing",
+         "Share of respondents": "22"
+      },
+      {
+         "Month": "Infrastructure",
+         "Share of respondents": "19"
+      },
+      {
+         "Month": "Financial institutions",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "Automotive",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Professional services",
+         "Share of respondents": "15"
+      },
+      {
+         "Month": "Power and utilities",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Marine",
+         "Share of respondents": "14"
+      },
+      {
+         "Month": "Communications media and technology",
+         "Share of respondents": "13"
+      },
+      {
+         "Month": "Aviation and aerospace",
+         "Share of respondents": "9"
+      }
+   ],
+   "gold": "This statistic presents a ranking of the industries most commonly impacted by cyber attacks worldwide as of September 2017 . During the survey , 26 percent of respondents from the energy sector stated that their company had been victim of cyber attacks in the past 12 months .\n"
+}

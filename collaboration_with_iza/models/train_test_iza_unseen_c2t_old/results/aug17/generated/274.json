@@ -1,0 +1,101 @@
+{
+   "title": "Prime office rental prices in Dublin Q1 2015-Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Cost per square meter in euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic displays the rental costs per square meter of Prime office spaces in Dublin , Russia from the first Quarter 2015 to the second Quarter 2019 . ",
+      "It can be seen that the price of Prime office properties in Dublin fluctuated , reaching the lowest price in the third Quarter of 2016 at 0 euros per square meter per year . ",
+      "As of the second Quarter of 2019 , rental costs per square meter of Prime office spaces in Dublin amounted to 673 ."
+   ],
+   "trends": [
+      {},
+      {
+         "26": "12"
+      },
+      {
+         "21": "14"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '15",
+         "Cost per square meter in euros": "538"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Cost per square meter in euros": "552"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Cost per square meter in euros": "592"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q1 '18 ",
+         "Cost per square meter in euros": "0"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Cost per square meter in euros": "0"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Cost per square meter in euros": "673"
+      }
+   ],
+   "gold": "The statistic displays the rental costs per square meter of prime office spaces in Dublin , Ireland , from the first quarter of 2015 to the third quarter of 2019 . It can be seen that the price of prime office properties in Dublin grew over time , reaching 673 euros per square meter per year as of the 3rd quarter of 2017 and remaining constant up until the third quarter 2019 .\n"
+}

@@ -1,0 +1,148 @@
+{
+   "title": "MLB : World Series championships won by team 1903 to 2019",
+   "xAxis": "Team",
+   "yAxis": "Number of World Series won",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic ranks the won of the National Basketball Association according to the Number World Series . ",
+      "The Number World Series , which thrives to calculate the World for taking a family to a Baltimore_Orioles game , of the Los_Angeles_Dodgers was 5 won in 2015 . ",
+      "The Baltimore_Orioles is at 3 won ."
+   ],
+   "trends": [
+      {},
+      {
+         "17": "10",
+         "22": "6",
+         "24": "6"
+      },
+      {
+         "1": "10",
+         "4": "10"
+      }
+   ],
+   "data": [
+      {
+         "Team": "New York Yankees",
+         "Number of World Series won": "27"
+      },
+      {
+         "Team": "St. Louis Cardinals",
+         "Number of World Series won": "11"
+      },
+      {
+         "Team": "Boston Red Sox",
+         "Number of World Series won": "9"
+      },
+      {
+         "Team": "New York Giants",
+         "Number of World Series won": "5"
+      },
+      {
+         "Team": "Philadelphia Athletics",
+         "Number of World Series won": "5"
+      },
+      {
+         "Team": "Pittsburgh Pirates",
+         "Number of World Series won": "5"
+      },
+      {
+         "Team": "Los Angeles Dodgers",
+         "Number of World Series won": "5"
+      },
+      {
+         "Team": "Cincinnati Reds",
+         "Number of World Series won": "5"
+      },
+      {
+         "Team": "Detroit Tigers",
+         "Number of World Series won": "4"
+      },
+      {
+         "Team": "Oakland Athletics",
+         "Number of World Series won": "4"
+      },
+      {
+         "Team": "Baltimore Orioles",
+         "Number of World Series won": "3"
+      },
+      {
+         "Team": "Chicago White Sox",
+         "Number of World Series won": "3"
+      },
+      {
+         "Team": "San Francisco Giants",
+         "Number of World Series won": "3"
+      },
+      {
+         "Team": "Chicago Cubs",
+         "Number of World Series won": "3"
+      },
+      {
+         "Team": "Cleveland Indians",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Florida Marlins",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Minnesota Twins",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "New York Mets",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Philadelphia Phillies",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Toronto Blue Jays",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Kansas City Royals",
+         "Number of World Series won": "2"
+      },
+      {
+         "Team": "Houston Astros",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Anaheim Angels",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Arizona Diamondbacks",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Atlanta Braves",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Boston Braves",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Brooklyn Dodgers",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Milwaukee Braves",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Washington Senators",
+         "Number of World Series won": "1"
+      },
+      {
+         "Team": "Washington Nationals",
+         "Number of World Series won": "1"
+      }
+   ],
+   "gold": "The New York Yankees are one of the most recognisable and valuable sports brands on the planet , no doubt in part due to their success on the baseball field . The New York franchise has won the World Series championships a record 27 times , with their closest rivals in terms of titles , the St. Louis Cardinals , having lifted the trophy 11 times . However , the Yankees fans have been starved of success in recent years as the team 's last World Series title came back in 2009 .\n"
+}

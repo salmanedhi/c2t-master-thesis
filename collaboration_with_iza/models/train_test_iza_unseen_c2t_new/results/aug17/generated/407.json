@@ -1,0 +1,74 @@
+{
+   "title": "Impact of online harassment and abuse on female victims 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the results of a survey among Impact adult online . ",
+      "The survey was fielded A_feeling_of_apprehension_when_thinking_about_using_the_internet_or_social_media by Harris Interactive in 2017 , asking the respondents where they usually abuse their victims and/or 2017 . ",
+      "Some 58 % of Impact adults indicated that they buy their shampoo/conditioner A_feeling_of_apprehension_when_thinking_about_using_the_internet_or_social_media ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3"
+      },
+      {
+         "1": "3",
+         "12": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "A feeling of powerlessness in my ability to respond to abuse or harassment online",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Not being able to sleep well",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Lower self-esteem or a loss of self confidence",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "A feeling of apprehension when thinking about using the internet or social media",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "Less able to focus on everyday tasks",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Experiencing panic attacks anxiety or stress",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "A feeling of isolation or a need to withdraw into yourself",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "A feeling of apprehension when receiving emails or social media notifications",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "Experiencing mood swings",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Not being able to accomplish what you usually would on a typical day",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Being unable to concentrate for long periods of time",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Less able to make day-to-day decisions",
+         "Share of respondents": "36"
+      }
+   ],
+   "gold": "This statistic presents data on the psychological impact of women experiencing online abuse or harassment worldwide . During the July 2017 survey period , 66 percent of survey respondents who have experienced online abuse stated that they felt a feeling of powerlessness in their ability to respond to abuse or harassment online . A total of 63 percent of online harassment victims also reported to not being able to sleep well .\n"
+}

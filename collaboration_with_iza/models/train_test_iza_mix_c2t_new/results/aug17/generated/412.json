@@ -1,0 +1,119 @@
+{
+   "title": "MFIs gross lending to non-financial small and medium enterprises in the UK 2017 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Gross lending in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Gross of lending million in the UK ( ) from 2017 to 2019 . ",
+      "The Gross of lending million GBP amounted to approximately 5572 million GBP in 2019 , the Gross of UK . ",
+      "UK Gross \u2013 additional information UK was created in and , since then , the Gross of available UK has been consistently increasing over the years ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "18"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sep '19",
+         "Gross lending in million GBP": "4623"
+      },
+      {
+         "Month": "Aug '19",
+         "Gross lending in million GBP": "4286"
+      },
+      {
+         "Month": "Jul '19",
+         "Gross lending in million GBP": "4976"
+      },
+      {
+         "Month": "Jun '19",
+         "Gross lending in million GBP": "4639"
+      },
+      {
+         "Month": "May '19",
+         "Gross lending in million GBP": "4617"
+      },
+      {
+         "Month": "Apr '19",
+         "Gross lending in million GBP": "4466"
+      },
+      {
+         "Month": "Mar '19",
+         "Gross lending in million GBP": "4620"
+      },
+      {
+         "Month": "Feb '19",
+         "Gross lending in million GBP": "4871"
+      },
+      {
+         "Month": "Jan '19",
+         "Gross lending in million GBP": "4616"
+      },
+      {
+         "Month": "Dec '18",
+         "Gross lending in million GBP": "4900"
+      },
+      {
+         "Month": "Nov '18",
+         "Gross lending in million GBP": "4782"
+      },
+      {
+         "Month": "Oct '18",
+         "Gross lending in million GBP": "4836"
+      },
+      {
+         "Month": "Sep '18",
+         "Gross lending in million GBP": "4651"
+      },
+      {
+         "Month": "Aug '18",
+         "Gross lending in million GBP": "4267"
+      },
+      {
+         "Month": "Jul '18",
+         "Gross lending in million GBP": "5160"
+      },
+      {
+         "Month": "Jun '18",
+         "Gross lending in million GBP": "5280"
+      },
+      {
+         "Month": "May '18",
+         "Gross lending in million GBP": "4967"
+      },
+      {
+         "Month": "Apr '18",
+         "Gross lending in million GBP": "4768"
+      },
+      {
+         "Month": "Mar '18",
+         "Gross lending in million GBP": "5572"
+      },
+      {
+         "Month": "Feb '18",
+         "Gross lending in million GBP": "4503"
+      },
+      {
+         "Month": "Jan '18",
+         "Gross lending in million GBP": "4013"
+      },
+      {
+         "Month": "Dec '17",
+         "Gross lending in million GBP": "4802"
+      },
+      {
+         "Month": "Nov '17",
+         "Gross lending in million GBP": "4516"
+      },
+      {
+         "Month": "Oct '17",
+         "Gross lending in million GBP": "4874"
+      }
+   ],
+   "gold": "This statistic illustrates monthly figures of gross lending by monetary financial institutions ( MFIs ) to small and medium enterprises ( SMEs ) in the United Kingdom ( UK ) from October 2017 to September 2019 . It can be seen that the monthly value of gross lending fluctuated during this time period , reaching a value of over 4.6 billion British pounds as of September 2019 . The largest value of gross lending by MFIs to SMEs during this period was found in March 2018 , when gross lending reaching a value of almost 5.6 Billion British pounds was recorded .\n"
+}

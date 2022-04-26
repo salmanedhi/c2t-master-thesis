@@ -1,0 +1,41 @@
+{
+   "title": "The most expensive digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "France 's AREVA was one of the largest builders of The Camera in the world . ",
+      "The company specialized in The power and renewable energy . ",
+      "However , after its insolvency , AREVA sold most of its Camera to the French utility , EDF while The propulsion and research Camera were sold to Agence des participations de l'\u00c9tat ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "This chart shows the most expensive digital camera brand by average price . Cambo was most expensive at \u00a3 75 on average , compared to Memoto ( 70 \u00a3 ) , Sigma ( 62 \u00a3 ) , Hunten ( \u00a3 58 ) and Konica ( \u00a3 52 ) .\n"
+}

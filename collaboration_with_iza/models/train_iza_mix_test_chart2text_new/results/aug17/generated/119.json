@@ -1,0 +1,46 @@
+{
+   "title": "Average brand value major sports leagues ( NFL , MLB , NBA & NHL ) 2013",
+   "xAxis": "American Sports Leagues",
+   "yAxis": "Brand value (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average brand on NFL in million (in in 285.4",
+      "\\\\n From the chart we see that National_Basketball_Association brand a total of \u00a3 285.4 million value for the year , \u00a3 120 million more than the closest competitor ( National_Football_League , which brand \u00a3 285.4 million ) and over twice as much Major_League_Baseball and National_Hockey_League put together ( which brand \u00a3 147.0 and \u00a3 52.0 million respectively , totalling \u00a3 150 million ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "0",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1",
+         "55": "3"
+      }
+   ],
+   "data": [
+      {
+         "American Sports Leagues": "National Football League",
+         "Brand value (in million U.S. dollars)": "285.4"
+      },
+      {
+         "American Sports Leagues": "Major League Baseball",
+         "Brand value (in million U.S. dollars)": "147.0"
+      },
+      {
+         "American Sports Leagues": "National Basketball Association",
+         "Brand value (in million U.S. dollars)": "91.1"
+      },
+      {
+         "American Sports Leagues": "National Hockey League",
+         "Brand value (in million U.S. dollars)": "52.0"
+      }
+   ],
+   "gold": "The statistic compares the average brand value of North American sports leagues in 2013 . The average brand value of teams of the National Football League was at 285.4 million U.S. dollars . A brand is defined here as the trademark and associated intellectual property .\n"
+}

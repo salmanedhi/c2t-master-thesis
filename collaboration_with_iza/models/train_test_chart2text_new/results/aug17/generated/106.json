@@ -1,0 +1,43 @@
+{
+   "title": "Total number of households in the Netherlands 2019 , by type",
+   "xAxis": "Type Of Household",
+   "yAxis": "Number of households",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , close to half of all households ad in the number was generated through Total_private_households Type . ",
+      "About a third of the households came from households One-person_households that year . ",
+      "Multi-person_households_with_children Type in the United StatesIn 2019 , households Type in the number generated a total households of about 107 million Netherlands dollars ."
+   ],
+   "trends": [
+      {
+         "17": "0"
+      },
+      {
+         "9": "1"
+      },
+      {
+         "0": "2"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Household": "Total private households",
+         "Number of households": "7924691"
+      },
+      {
+         "Type Of Household": "One-person households",
+         "Number of households": "3037622"
+      },
+      {
+         "Type Of Household": "Multi-person households with children",
+         "Number of households": "2604772"
+      },
+      {
+         "Type Of Household": "Multi-person households without children",
+         "Number of households": "2282297"
+      }
+   ],
+   "gold": "This statistic shows the total number of households in the Netherlands in 2019 , by type . The majority of the households ( approximately three million ) are composed of single men and women . Roughly 2.3 million households are formed by couples without children , whereas approximately 2.6 million households are multi-person households with one or more children .\n"
+}

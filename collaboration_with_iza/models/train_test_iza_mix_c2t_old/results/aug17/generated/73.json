@@ -1,0 +1,60 @@
+{
+   "title": "Canada 's chocolate market share by company 2018",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Market share of Canada 's chocolate in the Canada ( ) in 2018 . ",
+      "In this year Nestl\u00e9 was found to generate the Market share of 's chocolate at 18.6 % share . ",
+      "This was followed by Sainsbury 's with a chocolate generation of approximately 16.7 % share and Mondelez with 14.8 % share of 's chocolate generated ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "15": "0"
+      },
+      {
+         "12": "1",
+         "16": "2",
+         "18": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nestl\u00e9",
+         "Market share": "18.6"
+      },
+      {
+         "Month": "Hershey",
+         "Market share": "16.7"
+      },
+      {
+         "Month": "Mondelez",
+         "Market share": "14.8"
+      },
+      {
+         "Month": "Lindt",
+         "Market share": "11.8"
+      },
+      {
+         "Month": "Mars",
+         "Market share": "11.7"
+      },
+      {
+         "Month": "Ferrero",
+         "Market share": "8.1"
+      },
+      {
+         "Month": "Private label",
+         "Market share": "6.4"
+      },
+      {
+         "Month": "All other",
+         "Market share": "11.9"
+      }
+   ],
+   "gold": "Nestl\u00e9 was the leading chocolate company in Canada in 2018 , holding a share of around 18.6 percent of all chocolate sales in Canada in the 52 weeks ending July 21 , 2018 . Hershey and Mondelez were in second and third place , with market shares of 16.7 and 14.8 percent respectively . The growth of Nestl\u00e9 Nestl\u00e9 is a Swiss food and drink company which was formed through a merger in 1905 .\n"
+}

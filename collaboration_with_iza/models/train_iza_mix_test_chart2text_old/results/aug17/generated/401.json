@@ -1,0 +1,184 @@
+{
+   "title": "Major foreign holders of U.S. treasury securities 2019",
+   "xAxis": "Country",
+   "yAxis": "Securities in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Major foreign holders U.S. the Securities of billion that occured . ",
+      "The Country with the Major Securities of billion is China_Mainland with only 30.5 followed by Japan with 1154.9 , All_Other with 414.6 , Brazil with 281.9 , United_Kingdom with 332.6 and the most popular being Ireland with 1154.9 billion ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "36",
+         "15": "0",
+         "17": "0",
+         "19": "37",
+         "21": "37",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Securities in billion U.S. dollars": "1154.9"
+      },
+      {
+         "Country": "China Mainland",
+         "Securities in billion U.S. dollars": "1069.9"
+      },
+      {
+         "Country": "United Kingdom",
+         "Securities in billion U.S. dollars": "332.6"
+      },
+      {
+         "Country": "Brazil",
+         "Securities in billion U.S. dollars": "281.9"
+      },
+      {
+         "Country": "Ireland",
+         "Securities in billion U.S. dollars": "281.8"
+      },
+      {
+         "Country": "Luxembourg",
+         "Securities in billion U.S. dollars": "254.6"
+      },
+      {
+         "Country": "Switzerland",
+         "Securities in billion U.S. dollars": "237.5"
+      },
+      {
+         "Country": "Cayman Islands",
+         "Securities in billion U.S. dollars": "230.5"
+      },
+      {
+         "Country": "Hong Kong",
+         "Securities in billion U.S. dollars": "223.3"
+      },
+      {
+         "Country": "Belgium",
+         "Securities in billion U.S. dollars": "210.2"
+      },
+      {
+         "Country": "Taiwan",
+         "Securities in billion U.S. dollars": "193.1"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Securities in billion U.S. dollars": "179.8"
+      },
+      {
+         "Country": "India",
+         "Securities in billion U.S. dollars": "162.0"
+      },
+      {
+         "Country": "Singapore",
+         "Securities in billion U.S. dollars": "147.9"
+      },
+      {
+         "Country": "France",
+         "Securities in billion U.S. dollars": "127.5"
+      },
+      {
+         "Country": "Korea",
+         "Securities in billion U.S. dollars": "122.0"
+      },
+      {
+         "Country": "Canada",
+         "Securities in billion U.S. dollars": "110.9"
+      },
+      {
+         "Country": "Thailand",
+         "Securities in billion U.S. dollars": "90.5"
+      },
+      {
+         "Country": "Norway",
+         "Securities in billion U.S. dollars": "90.1"
+      },
+      {
+         "Country": "Germany",
+         "Securities in billion U.S. dollars": "78.3"
+      },
+      {
+         "Country": "Bermuda",
+         "Securities in billion U.S. dollars": "71.3"
+      },
+      {
+         "Country": "Netherlands",
+         "Securities in billion U.S. dollars": "50.1"
+      },
+      {
+         "Country": "Sweden",
+         "Securities in billion U.S. dollars": "48.7"
+      },
+      {
+         "Country": "Mexico",
+         "Securities in billion U.S. dollars": "45.4"
+      },
+      {
+         "Country": "Italy",
+         "Securities in billion U.S. dollars": "45.3"
+      },
+      {
+         "Country": "Spain",
+         "Securities in billion U.S. dollars": "44.6"
+      },
+      {
+         "Country": "Kuwait",
+         "Securities in billion U.S. dollars": "43.3"
+      },
+      {
+         "Country": "Israel",
+         "Securities in billion U.S. dollars": "43.1"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Securities in billion U.S. dollars": "40.7"
+      },
+      {
+         "Country": "Poland",
+         "Securities in billion U.S. dollars": "38.8"
+      },
+      {
+         "Country": "Australia",
+         "Securities in billion U.S. dollars": "38.2"
+      },
+      {
+         "Country": "Philippines",
+         "Securities in billion U.S. dollars": "34.8"
+      },
+      {
+         "Country": "Iraq",
+         "Securities in billion U.S. dollars": "32.9"
+      },
+      {
+         "Country": "Indonesia",
+         "Securities in billion U.S. dollars": "32.2"
+      },
+      {
+         "Country": "Colombia",
+         "Securities in billion U.S. dollars": "31.6"
+      },
+      {
+         "Country": "Chile",
+         "Securities in billion U.S. dollars": "30.8"
+      },
+      {
+         "Country": "Vietnam",
+         "Securities in billion U.S. dollars": "30.5"
+      },
+      {
+         "Country": "All Other",
+         "Securities in billion U.S. dollars": "414.6"
+      }
+   ],
+   "gold": "This statistic shows major foreign holders of US treasury debt as of December 2019 . At this time , Japan held treasury securities totaling about 1.15 trillion U.S. dollars . Foreign holders of United States treasury debt According to the Federal Reserve and U.S. Department of the Treasury , foreign countries held a total of 6.69 trillion U.S. dollars in U.S. treasury securities as of December 2019 .\n"
+}

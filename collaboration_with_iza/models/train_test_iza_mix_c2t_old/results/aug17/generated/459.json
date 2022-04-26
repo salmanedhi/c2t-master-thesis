@@ -1,0 +1,164 @@
+{
+   "title": "Wholesale price of iceberg lettuce in the United Kingdom ( UK ) 2015 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in GBP per head",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Price of GBP applications in the Wholesale United Kingdom Store from 2015 to 2019 . ",
+      "The Price of GBP per in the Wholesale United Kingdom Store was most recently placed at 0.79 % per , after surpassing 0.38 % per in 2013 . ",
+      "Wholesale United Kingdom was originally launched in 2008 under the name Android Market ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "21": "17"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in GBP per head": "0.79"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in GBP per head": "0.56"
+      },
+      {
+         "Month": "Sep '19",
+         "Price in GBP per head": "0.53"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in GBP per head": "0.43"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in GBP per head": "0.39"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "May '19",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Nov '18",
+         "Price in GBP per head": "0.47"
+      },
+      {
+         "Month": "Oct '18",
+         "Price in GBP per head": "0.47"
+      },
+      {
+         "Month": "Sep '18",
+         "Price in GBP per head": "0.75"
+      },
+      {
+         "Month": "Aug '18",
+         "Price in GBP per head": "0.69"
+      },
+      {
+         "Month": "Jul '18",
+         "Price in GBP per head": "0.63"
+      },
+      {
+         "Month": "Jun '18",
+         "Price in GBP per head": "0.41"
+      },
+      {
+         "Month": "May '18",
+         "Price in GBP per head": "0.48"
+      },
+      {
+         "Month": "Feb '18",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Nov '17",
+         "Price in GBP per head": "0.41"
+      },
+      {
+         "Month": "Oct '17",
+         "Price in GBP per head": "0.36"
+      },
+      {
+         "Month": "Sep '17",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "Aug '17",
+         "Price in GBP per head": "0.34"
+      },
+      {
+         "Month": "Jul '17",
+         "Price in GBP per head": "0.36"
+      },
+      {
+         "Month": "Jun '17",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "May '17",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Oct '16",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Sep '16",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "Aug '16",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Jul '16",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Jun '16",
+         "Price in GBP per head": "0.37"
+      },
+      {
+         "Month": "May '16",
+         "Price in GBP per head": "0.44"
+      },
+      {
+         "Month": "Nov '15",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Oct '15",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Sep '15",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Aug '15",
+         "Price in GBP per head": "0.32"
+      },
+      {
+         "Month": "Jul '15",
+         "Price in GBP per head": "0.29"
+      },
+      {
+         "Month": "Jun '15",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "May '15",
+         "Price in GBP per head": "0.34"
+      }
+   ],
+   "gold": "This statistic displays the wholesale price of iceberg lettuce in the United Kingdom ( UK ) from 2015 to 2019 . The wholesale price of iceberg lettuce was valued at 0.79 British pounds per head in November 2019 , an increase compared to the price a year earlier .\n"
+}

@@ -1,0 +1,151 @@
+{
+   "title": "Major domestic appliances : revenue in the United Kingdom ( UK ) 2012 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Major domestic in United Kingdom . ",
+      "It shows Q1_2019 was the Major at just 0 degrees and Q3_2018 was the warmest at 1228 degrees . ",
+      "After Q1_2019 , the next Major domestic are Q3_2019 at 1119 degrees , followed by Q3_2012 at 18 degrees , Q2_2019 at 1018 degrees and then Q4_2018 at 1228 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "20",
+         "11": "4",
+         "16": "3"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "28",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2019",
+         "Revenue in million GBP": "1119"
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Revenue in million GBP": "1018"
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Revenue in million GBP": "1107"
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Revenue in million GBP": "1228"
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Revenue in million GBP": "1188"
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Revenue in million GBP": "1007"
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Revenue in million GBP": "1073"
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Revenue in million GBP": "1186"
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Revenue in million GBP": "1208"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Revenue in million GBP": "1059"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Revenue in million GBP": "1107"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Revenue in million GBP": "1192"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Revenue in million GBP": "1107"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Revenue in million GBP": "1040"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Revenue in million GBP": "1097"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Revenue in million GBP": "1202"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Revenue in million GBP": "985"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Revenue in million GBP": "966"
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Revenue in million GBP": "1052"
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Revenue in million GBP": "1045"
+      },
+      {
+         "Quarter": "Q3 2014",
+         "Revenue in million GBP": "0"
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Revenue in million GBP": "919"
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Revenue in million GBP": "1020"
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Revenue in million GBP": "1027"
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Revenue in million GBP": "944"
+      },
+      {
+         "Quarter": "Q2 2013",
+         "Revenue in million GBP": "873"
+      },
+      {
+         "Quarter": "Q1 2013",
+         "Revenue in million GBP": "946"
+      },
+      {
+         "Quarter": "Q4 2012",
+         "Revenue in million GBP": "1000"
+      },
+      {
+         "Quarter": "Q3 2012",
+         "Revenue in million GBP": "942"
+      }
+   ],
+   "gold": "Revenue derived from the sales of major domestic appliances in the United Kingdom reached 1.119 billion British pounds in the third quarter of 2019 . This is 5.8 percent less than the 1.188 billion British pounds generated in Q3 2018 . Share of households with dishwashers , washers and dryers Dishwashers , washing machines and dryers are three of the major appliances in this category .\n"
+}

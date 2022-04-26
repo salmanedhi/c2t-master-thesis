@@ -1,0 +1,201 @@
+{
+   "title": "Lexus car sales in the United Kingdom ( UK ) 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Lexus car Month in terms of the Units of sold with Aug_19 having the Lexus \u2013 3852 sold down to Nov_19 the least car of the group at 180 sold . ",
+      "In between , we have Dec_19 745 , Jul_16 774 , Sep_19 3852 and Oct_19 1098 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "3",
+         "24": "1",
+         "32": "22"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "41",
+         "9": "41",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": "745"
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": "1044"
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": "1098"
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": "3852"
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": "424"
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": "1118"
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": "1199"
+      },
+      {
+         "Month": "May 19",
+         "Units sold": "943"
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": "884"
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": "3137"
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": "262"
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": "1007"
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": "420"
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": "663"
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": "674"
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": "2686"
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": "270"
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": "784"
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": "1306"
+      },
+      {
+         "Month": "May 18",
+         "Units sold": "851"
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": "678"
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": "3006"
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": "180"
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": "887"
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": "772"
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": "775"
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": "725"
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": "2908"
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": "205"
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": "843"
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": "1161"
+      },
+      {
+         "Month": "May 17",
+         "Units sold": "715"
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": "672"
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": "2888"
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": "206"
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": "800"
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": "750"
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": "931"
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": "812"
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": "2998"
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": "234"
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": "774"
+      }
+   ],
+   "gold": "This statistic shows the monthly amount of cars sold by Lexus in the United Kingdom ( UK ) between July 2016 and December 2019 . Peaks in registration numbers were recorded in March and September of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . In September 2019 , 3,852 new Lexus cars were sold in the UK\n"
+}

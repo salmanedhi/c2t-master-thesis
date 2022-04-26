@@ -1,0 +1,32 @@
+{
+   "title": "Election 2016 : results for the popular vote",
+   "xAxis": "Candidate",
+   "yAxis": "Number of popular votes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Election 2016 results , expressed in percent three different countries . ",
+      "The Donald_Trump and Hillary_Clinton have similar Election 2016 gaps at around 20 % whilst Donald_Trump is doing a little better at 62984825 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "3": "0",
+         "14": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Candidate": "Hillary Clinton",
+         "Number of popular votes": "65853516"
+      },
+      {
+         "Candidate": "Donald Trump",
+         "Number of popular votes": "62984825"
+      }
+   ],
+   "gold": "This graph shows the preliminary results of the popular votes gained by the two leading candidates in the 2016 presidential election in the United States . Despite having won the Electoral College it appears Donald Trump will lose the popular vote with 60.37 million votes to Clinton 's 61.03 million .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Number of Carnival Corporation ships worldwide in 2019 , by brand",
+   "xAxis": "Country",
+   "yAxis": "Number of ships",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number Carnival Country in the ships worldwide was Country Holland_America_Line , who made 27 ships . ",
+      "The most Carnival Country was AIDA_Cruises_(\u201cAIDA\u201d) , with just 3 ships . ",
+      "In second place was Country Princess_Cruises_(\u201cPrincess\u201d) with 18 ships ; third place went to Country Carnival_Cruise_Lines with 27 ships ; fourth place went to Country Cunard with 3 ships and fifth place went to Country Costa ( 14 ships ) ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "7"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "8",
+         "27": "8",
+         "35": "3",
+         "37": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Carnival Cruise Lines",
+         "Number of ships": "27"
+      },
+      {
+         "Country": "Princess Cruises (\u201cPrincess\u201d)",
+         "Number of ships": "18"
+      },
+      {
+         "Country": "Holland America Line",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "Costa",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "AIDA Cruises (\u201cAIDA\u201d)",
+         "Number of ships": "14"
+      },
+      {
+         "Country": "P&O Cruises (United Kingdom)",
+         "Number of ships": "6"
+      },
+      {
+         "Country": "Seabourn",
+         "Number of ships": "5"
+      },
+      {
+         "Country": "P&O Cruises Australia",
+         "Number of ships": "3"
+      },
+      {
+         "Country": "Cunard",
+         "Number of ships": "3"
+      }
+   ],
+   "gold": "This statistic shows the number of Carnival Corporation ships worldwide as of November 2019 , by brand . There were 14 Costa ships within the Carnival Corporation cruise line group in 2019 .\n"
+}

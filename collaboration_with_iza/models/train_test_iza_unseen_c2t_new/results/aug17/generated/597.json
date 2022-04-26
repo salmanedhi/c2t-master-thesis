@@ -1,0 +1,41 @@
+{
+   "title": "The most affordable digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "France 's AREVA was one of the largest builders of The Camera in the world . ",
+      "The company specialized in The power and renewable energy . ",
+      "However , after its insolvency , AREVA sold most of its Camera to the French utility , EDF while The propulsion and research Camera were sold to Agence des participations de l'\u00c9tat ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "The graph shows that Memoto has an average price of \u00a3 70 . The Sigma is priced slightly lower at around \u00a3 62 but the Cambo is more expensive at around \u00a3 76 . The Hunten is a cheaper camera at around \u00a3 58 and the Konica is the cheapest at \u00a3 54 .\n"
+}

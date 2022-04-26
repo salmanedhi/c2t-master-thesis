@@ -1,0 +1,64 @@
+{
+   "title": "Luxury vehicles : United States premium vehicle market share 2018",
+   "xAxis": "Marque (owner)",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Luxury vehicles Marque in the States premium was Marque Lexus_(Toyota) , who made 15.8 share . ",
+      "The most vehicles Marque was Tesla_(Tesla_Inc.) , with just 7.74 share . ",
+      "In second place was Marque BMW_(BMW) with 15.55 share ; third place went to Marque Mercedes-Benz_(Daimler) with 15.8 share ; fourth place went to Marque Cadillac_(GM) with 7.74 share and fifth place went to Marque Audi_(VW) , who was 11.17 share ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Marque (owner)": "Mercedes-Benz (Daimler)",
+         "Market share": "15.8"
+      },
+      {
+         "Marque (owner)": "BMW (BMW)",
+         "Market share": "15.55"
+      },
+      {
+         "Marque (owner)": "Lexus (Toyota)",
+         "Market share": "14.92"
+      },
+      {
+         "Marque (owner)": "Audi (VW)",
+         "Market share": "11.17"
+      },
+      {
+         "Marque (owner)": "Tesla (Tesla Inc.)",
+         "Market share": "9.12"
+      },
+      {
+         "Marque (owner)": "Acura (Honda)",
+         "Market share": "7.95"
+      },
+      {
+         "Marque (owner)": "Cadillac (GM)",
+         "Market share": "7.74"
+      }
+   ],
+   "gold": "This graph illustrates the market share of luxury car brands in the United States in 2018 , when Mercedes-Benz reached a market share of almost 16 percent . U.S. luxury car market share in 2018 , by key marque There is something majestic about luxury vehicles . From the glass panel roofs and the LED headlights to the leather-trimmed seats and powerful engines , these automobiles are built with the finest of materials , giving each driver the feeling of uniqueness .\n"
+}

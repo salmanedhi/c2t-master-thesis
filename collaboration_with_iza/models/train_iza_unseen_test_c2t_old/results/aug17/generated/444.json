@@ -1,0 +1,43 @@
+{
+   "title": "South Africa : digital population as of January 2020",
+   "xAxis": "Digital Population",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the South Africa on South Africa in the January 2020 on different continents . ",
+      "The most South Africa was in Active_mobile_social_media_users where \u00a3 36.54 millions was Africa . ",
+      "The amount in Active_mobile_internet_users was a little lower at \u00a3 34.93 ,000,000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3",
+         "9": "0"
+      },
+      {
+         "3": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Digital Population": "Active internet users",
+         "Number of users in millions": "36.54"
+      },
+      {
+         "Digital Population": "Active mobile internet users",
+         "Number of users in millions": "34.93"
+      },
+      {
+         "Digital Population": "Active social media users",
+         "Number of users in millions": "22.0"
+      },
+      {
+         "Digital Population": "Active mobile social media users",
+         "Number of users in millions": "21.56"
+      }
+   ],
+   "gold": "This statistic presents the digital population in South Africa as of January 2020 . During this period of time , it was found that South Africa had 36.54 million internet users , of which 34.93 million were mobile internet users .\n"
+}

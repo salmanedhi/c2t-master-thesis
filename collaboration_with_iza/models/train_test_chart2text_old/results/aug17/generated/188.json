@@ -1,0 +1,46 @@
+{
+   "title": "Distribution of investment fund assets in the U.S. 2018 , by type",
+   "xAxis": "Type Of Fund",
+   "yAxis": "Share of mutual fund assets",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of mutual fund of U.S. worldwide in 2018 , Type Fund . ",
+      "In that year , 41 % of U.S. 's investment mutual fund came from Domestic_equity_funds . ",
+      "Founded in 1961 Agordo , Italy the U.S. Group S.p.A. is the Hybrid_and_other_funds 's largest eyewear company ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "0"
+      },
+      {
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Fund": "Domestic equity funds",
+         "Share of mutual fund assets": "41"
+      },
+      {
+         "Type Of Fund": "Bond funds",
+         "Share of mutual fund assets": "22"
+      },
+      {
+         "Type Of Fund": "World equity funds",
+         "Share of mutual fund assets": "15"
+      },
+      {
+         "Type Of Fund": "Money market funds",
+         "Share of mutual fund assets": "14"
+      },
+      {
+         "Type Of Fund": "Hybrid and other funds",
+         "Share of mutual fund assets": "7"
+      }
+   ],
+   "gold": "The statistic presents the distribution of mutual fund and ETF assets in the United States in 2018 , by fund type . Domestic equity funds constituted 41 percent of the mutual fund and ETF assets in the United States in 2018 .\n"
+}

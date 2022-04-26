@@ -1,0 +1,73 @@
+{
+   "title": "Average annual CEO compensation worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Compensation in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Average annual Country in terms of the Compensation of million with Canada having the Average \u2013 14.25 million down to Switzerland the least annual of the group at 4.62 million . ",
+      "In between , we have United_States 14.25 , Singapore 4.62 , United_Kingdom 7.95 and Netherlands 8.24 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "9"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "9",
+         "9": "9",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Compensation in million U.S. dollars": "14.25"
+      },
+      {
+         "Country": "Switzerland",
+         "Compensation in million U.S. dollars": "8.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Compensation in million U.S. dollars": "8.24"
+      },
+      {
+         "Country": "United Kingdom",
+         "Compensation in million U.S. dollars": "7.95"
+      },
+      {
+         "Country": "Canada",
+         "Compensation in million U.S. dollars": "6.49"
+      },
+      {
+         "Country": "Germany",
+         "Compensation in million U.S. dollars": "6.17"
+      },
+      {
+         "Country": "Australia",
+         "Compensation in million U.S. dollars": "4.96"
+      },
+      {
+         "Country": "Spain",
+         "Compensation in million U.S. dollars": "4.89"
+      },
+      {
+         "Country": "Hong Kong",
+         "Compensation in million U.S. dollars": "4.88"
+      },
+      {
+         "Country": "Singapore",
+         "Compensation in million U.S. dollars": "4.62"
+      }
+   ],
+   "gold": "This statistic shows the average annual compensation of CEOs around the world in 2017 by country . In 2017 , the average annual income of CEOs in the United States was 14.25 million U.S. dollars which is about 5 million U.S. dollars more than the average annual income of CEOs in Switzerland .\n"
+}

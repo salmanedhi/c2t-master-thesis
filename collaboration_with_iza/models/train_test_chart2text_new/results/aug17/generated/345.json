@@ -1,0 +1,44 @@
+{
+   "title": "Follower count distribution on Twitter 2014",
+   "xAxis": "Number of followers",
+   "yAxis": "Percentage of Twitter users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage of Twitter in the Twitter diagnosed count distribution A 1-100 in 2014 , sorted 2014 Number . ",
+      "In that year , 1-100 had an Percentage Twitter of 93.68 percentage , the highest among the referenced Twitter Number ."
+   ],
+   "trends": [
+      {
+         "14": "0"
+      },
+      {
+         "4": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Number of followers": "1-100",
+         "Percentage of Twitter users": "93.68"
+      },
+      {
+         "Number of followers": "101-200",
+         "Percentage of Twitter users": "2.75"
+      },
+      {
+         "Number of followers": "201-300",
+         "Percentage of Twitter users": "1.04"
+      },
+      {
+         "Number of followers": "301-400",
+         "Percentage of Twitter users": "0.57"
+      },
+      {
+         "Number of followers": "401-500",
+         "Percentage of Twitter users": "0.36"
+      }
+   ],
+   "gold": "This statistic gives information on the follower count distribution on Twitter . As of April 2014 , 93.68 percent of Twitter users had between 1 and 100 followers on the microblogging site .\n"
+}

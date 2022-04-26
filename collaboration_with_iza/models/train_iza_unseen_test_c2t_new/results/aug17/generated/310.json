@@ -1,0 +1,42 @@
+{
+   "title": "Number of registered automobiles in Hawaii 2016",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number Hawaii is less pronounced in Private_and_commercial_(including_taxicabs) when compared to the Total and Publicly_owned . ",
+      "Publicly_owned shows a Hawaii of 516544 million , the Total 516544 million , and Private_and_commercial_(including_taxicabs) is at 7995 million ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "12": "2",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "5": "2",
+         "9": "2",
+         "10": "2",
+         "14": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Ownership Type": "Publicly owned",
+         "Number of registered automobiles": "7995"
+      },
+      {
+         "Ownership Type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "508549"
+      },
+      {
+         "Ownership Type": "Total",
+         "Number of registered automobiles": "516544"
+      }
+   ],
+   "gold": "The statistic represents the total number of registered automobiles in Hawaii in 2016 . In that year , Hawaii had approximately 508,549 private and commercial automobiles ( including taxicabs ) registered .\n"
+}

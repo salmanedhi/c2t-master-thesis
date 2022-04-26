@@ -1,0 +1,32 @@
+{
+   "title": "Number of Steam DAU and MAU 2018",
+   "xAxis": "Mobile Engagement",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Number Steam DAU , expressed in millions three different countries . ",
+      "The MAU and DAU have similar Number Steam gaps at around 20 millions whilst MAU is doing a little better at 47 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "3": "0",
+         "14": "1",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Mobile Engagement": "DAU",
+         "Number of users in millions": "47"
+      },
+      {
+         "Mobile Engagement": "MAU",
+         "Number of users in millions": "90"
+      }
+   ],
+   "gold": "The statistic shows the number of daily and monthly active users of Steam worldwide in 2018 . Steam 's owner , Valve , reported that the online video games distribution platform had 90 million monthly active users in 2018 .\n"
+}

@@ -1,0 +1,91 @@
+{
+   "title": "Market share of the leading exporters of major weapons 2014 to 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of international arms exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Market share in Market . ",
+      "It shows France was the Market at just 1 degrees and China was the warmest at 36 degrees . ",
+      "After France , the next Market share are United_States at 36 degrees , followed by Turkey at 18 degrees , Russia at 21 degrees and then Germany at 6.4 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "12",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "13",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of international arms exports": "36"
+      },
+      {
+         "Country": "Russia",
+         "Share of international arms exports": "21"
+      },
+      {
+         "Country": "France",
+         "Share of international arms exports": "6.8"
+      },
+      {
+         "Country": "Germany",
+         "Share of international arms exports": "6.4"
+      },
+      {
+         "Country": "China",
+         "Share of international arms exports": "5.2"
+      },
+      {
+         "Country": "UK",
+         "Share of international arms exports": "4.2"
+      },
+      {
+         "Country": "Spain",
+         "Share of international arms exports": "3.2"
+      },
+      {
+         "Country": "Israel",
+         "Share of international arms exports": "3.1"
+      },
+      {
+         "Country": "Italy",
+         "Share of international arms exports": "2.3"
+      },
+      {
+         "Country": "Netherlands",
+         "Share of international arms exports": "2.1"
+      },
+      {
+         "Country": "South Korea",
+         "Share of international arms exports": "1.8"
+      },
+      {
+         "Country": "Ukraine",
+         "Share of international arms exports": "1.3"
+      },
+      {
+         "Country": "Switzerland",
+         "Share of international arms exports": "1"
+      },
+      {
+         "Country": "Turkey",
+         "Share of international arms exports": "1"
+      }
+   ],
+   "gold": "This statistic shows the market share of the largest suppliers of major weapons between 2014 and 2018 . The United States had a market share of 36 percent in international arms exports between 2014 and 2016 .\n"
+}

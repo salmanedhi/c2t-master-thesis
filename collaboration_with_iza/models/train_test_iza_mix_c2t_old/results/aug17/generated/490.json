@@ -1,0 +1,38 @@
+{
+   "title": "How Young People in Zarqa Spend their Evenings",
+   "xAxis": "Activity",
+   "yAxis": "Percentage of People",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the percentage of People using the Young by How in Young People Zarqa Spend Evenings . ",
+      "In , 32 percentage of People in Young People Zarqa Spend Evenings accessed the Young Spend_Time_With_Family or more frequently ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Watching TV",
+         "Percentage of People": "12"
+      },
+      {
+         "Activity": "Spend Time With Family",
+         "Percentage of People": "32"
+      },
+      {
+         "Activity": "Reading a Book",
+         "Percentage of People": "38"
+      },
+      {
+         "Activity": "Going Out",
+         "Percentage of People": "18"
+      }
+   ],
+   "gold": "This chart shows that the majority of people in Zarqa prefer reading a book in an evening . Although this would suggest they may prefer solitude , interestingly , they do not like watching TV with only 12 % stating that as their chosen way to pass the time .\n"
+}

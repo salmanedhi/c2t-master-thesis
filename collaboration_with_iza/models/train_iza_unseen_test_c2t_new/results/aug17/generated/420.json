@@ -1,0 +1,80 @@
+{
+   "title": "Global rum market : leading brands based on sales volume 2018",
+   "xAxis": "Alcohol ",
+   "yAxis": "Million 9 liter cases",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Global rum Alcohol in the leading brands was Alcohol Captain_Morgan , who made 20.1 9 . ",
+      "The most rum Alcohol was Havana_Club , with just 1.0 9 . ",
+      "In second place was Alcohol Bacardi with 17.1 9 ; third place went to Alcohol Tanduay with 20.1 9 ; fourth place went to Alcohol Negrita with 1.0 9 and fifth place went to Alcohol McDowell's_No._1_Celebration , who was 11.2 9 ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Alcohol ": "Tanduay",
+         "Million 9 liter cases": "20.1"
+      },
+      {
+         "Alcohol ": "Bacardi",
+         "Million 9 liter cases": "17.1"
+      },
+      {
+         "Alcohol ": "Captain Morgan",
+         "Million 9 liter cases": "11.7"
+      },
+      {
+         "Alcohol ": "McDowell's No. 1 Celebration",
+         "Million 9 liter cases": "11.2"
+      },
+      {
+         "Alcohol ": "Havana Club",
+         "Million 9 liter cases": "4.6"
+      },
+      {
+         "Alcohol ": "Barcel\u00f3",
+         "Million 9 liter cases": "2.2"
+      },
+      {
+         "Alcohol ": "Bozkov",
+         "Million 9 liter cases": "1.7"
+      },
+      {
+         "Alcohol ": "Old Port",
+         "Million 9 liter cases": "1.3"
+      },
+      {
+         "Alcohol ": "Appleton Estate",
+         "Million 9 liter cases": "1.1"
+      },
+      {
+         "Alcohol ": "Montilla",
+         "Million 9 liter cases": "1.0"
+      },
+      {
+         "Alcohol ": "Negrita",
+         "Million 9 liter cases": "1.0"
+      }
+   ],
+   "gold": "This statistic presents the leading rum brands worldwide in 2018 , based on sales volume . Bacardi was the second largest global rum brand that year , with a sales volume of about 17.1 million-9 liter cases . Global Spirits Industry The term `` spirits `` refers to an alcoholic beverage that has been distilled , contains no added sugar , and has at least 20 percent alcohol by volume .\n"
+}

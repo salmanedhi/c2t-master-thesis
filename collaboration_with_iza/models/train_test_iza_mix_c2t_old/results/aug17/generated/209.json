@@ -1,0 +1,50 @@
+{
+   "title": "Global online shopping frequency 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the distribution of online beliefs in Once_every_2_weeks 2018 . ",
+      "Approximately 36 % of people claimed that they were a Around_3-4_times_per_quarter denomination , with the majority of those belonging to the Once_every_2_weeks of . ",
+      "On the Around_3-4_times_per_quarter hand , over half of the respondent group said that they did n't identify themselves as having a Once_every_3_months ."
+   ],
+   "trends": [
+      {
+         "9": "1"
+      },
+      {
+         "10": "3",
+         "21": "1",
+         "23": "1"
+      },
+      {
+         "2": "3",
+         "21": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Once a week",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Once every 2 weeks",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "Once a month",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Around 3-4 times per quarter",
+         "Share of respondents": "15"
+      },
+      {
+         "Response": "Once every 3 months",
+         "Share of respondents": "10"
+      }
+   ],
+   "gold": "This statistic presents the online shopping frequency according to online shoppers worldwide as of October 2018 . During the survey period , 20 percent of online shoppers worldwide stated that they purchased physical goods online on a weekly basis .\n"
+}

@@ -1,0 +1,65 @@
+{
+   "title": "College majors with the highest unemployment rates in the U.S. 2012",
+   "xAxis": "College Mayor",
+   "yAxis": "Share of unemployed U.S. students",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the students popular Miscellaneous_Computer Mayor in the U.S. in 2012 . ",
+      "In that year , International_Business was the College unemployment Mayor Miscellaneous_Computer unemployment in the highest at 12.3 million students ."
+   ],
+   "trends": [
+      {
+         "6": "2"
+      },
+      {
+         "4": "0",
+         "10": "2",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "College Mayor": "International Business",
+         "Share of unemployed U.S. students": "12.3"
+      },
+      {
+         "College Mayor": "Computer and Information Systems",
+         "Share of unemployed U.S. students": "12.1"
+      },
+      {
+         "College Mayor": "Miscellaneous Computer",
+         "Share of unemployed U.S. students": "11.3"
+      },
+      {
+         "College Mayor": "Anthropology and Archeology",
+         "Share of unemployed U.S. students": "10.9"
+      },
+      {
+         "College Mayor": "Political Science and Government",
+         "Share of unemployed U.S. students": "10.9"
+      },
+      {
+         "College Mayor": "Architecture",
+         "Share of unemployed U.S. students": "10.3"
+      },
+      {
+         "College Mayor": "Philosophy and Religious Studies",
+         "Share of unemployed U.S. students": "10.3"
+      },
+      {
+         "College Mayor": "Fine Arts",
+         "Share of unemployed U.S. students": "10.2"
+      },
+      {
+         "College Mayor": "Commercial Art and Graphic Design",
+         "Share of unemployed U.S. students": "9.9"
+      },
+      {
+         "College Mayor": "Economics",
+         "Share of unemployed U.S. students": "9.8"
+      }
+   ],
+   "gold": "This statistic shows college majors with the highest unemployment rates in the United States between 2009 and 2012 . The rate of unemployment for students with an international business major stood at 12.3 percent in 2012 .\n"
+}

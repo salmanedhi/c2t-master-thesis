@@ -1,0 +1,49 @@
+{
+   "title": "Store numbers of leading supermarkets in the United Kingdom ( UK ) 2018",
+   "xAxis": "Supermarket",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Store numbers leading in the supermarkets in 2018 , Kingdom UK Number of stores . ",
+      "In 2018 , Tesco couples had a Store leading income of 70,852 stores ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Supermarket": "Tesco",
+         "Number of stores": "2653"
+      },
+      {
+         "Supermarket": "Sainsbury's",
+         "Number of stores": "1412"
+      },
+      {
+         "Supermarket": "Aldi",
+         "Number of stores": "750"
+      },
+      {
+         "Supermarket": "Lidl",
+         "Number of stores": "700"
+      },
+      {
+         "Supermarket": "Asda",
+         "Number of stores": "646"
+      },
+      {
+         "Supermarket": "Morrisons",
+         "Number of stores": "491"
+      },
+      {
+         "Supermarket": "Waitrose",
+         "Number of stores": "353"
+      }
+   ],
+   "gold": "This statistic shows the number of stores for seven of the leading supermarkets in the United Kingdom ( UK ) as of February 2018 . Tesco had by far the highest number of stores in the United Kingdom , with a total of 2,653 . This was almost double the amount of Sainbury 's who had the second highest number of stores open .\n"
+}

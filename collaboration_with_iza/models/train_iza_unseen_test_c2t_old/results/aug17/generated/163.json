@@ -1,0 +1,59 @@
+{
+   "title": "Global opinion on governmental internet censorship 2014 , by region",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents made by the governmental . ",
+      "\\\\n In the internet , the Global respondents were made by Middle_East/Africa , with 78 respondents . ",
+      "\\\\n The Global opinion governmental were LATAM and APAC ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "2",
+         "14": "1"
+      },
+      {
+         "6": "1",
+         "8": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "LATAM",
+         "Share of respondents": "78"
+      },
+      {
+         "Response": "Middle East/Africa",
+         "Share of respondents": "69"
+      },
+      {
+         "Response": "BRIC",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "APAC",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "North America",
+         "Share of respondents": "60"
+      },
+      {
+         "Response": "G-8 Countries",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Europe",
+         "Share of respondents": "54"
+      }
+   ],
+   "gold": "This statistic presents the share of global internet users who are concerned about governments censoring the internet as of November 2014 , sorted by region . During the survey period it was found that 54 percent of internet users in Europe felt concerned about their governments censoring the internet . Overall , 64 percent of global internet users agreed with the statement .\n"
+}

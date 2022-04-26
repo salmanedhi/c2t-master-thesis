@@ -1,0 +1,57 @@
+{
+   "title": "Global market share held by PC vendors 2019",
+   "xAxis": "Brand",
+   "yAxis": "Share of shipments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of shipments made by Brand in a held by . ",
+      "\\\\n From the chart we see that the Dell Brand was the Global market Brand in the by with 24.1 shipments . ",
+      "The next Brand to make the most shipments was the Apple Brand with 7 shipments closely followed by the Others Brand with 18.7 shipments ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "6",
+         "22": "6"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Lenovo",
+         "Share of shipments": "24.1"
+      },
+      {
+         "Brand": "HP Inc",
+         "Share of shipments": "22.2"
+      },
+      {
+         "Brand": "Dell",
+         "Share of shipments": "16.8"
+      },
+      {
+         "Brand": "Apple",
+         "Share of shipments": "7"
+      },
+      {
+         "Brand": "Acer",
+         "Share of shipments": "5.7"
+      },
+      {
+         "Brand": "Asus",
+         "Share of shipments": "5.5"
+      },
+      {
+         "Brand": "Others",
+         "Share of shipments": "18.7"
+      }
+   ],
+   "gold": "The overall market leader in the global personal computer market in 2019 was Lenovo with a market share of 24.1 percent with Hewlett Packard a close second with a 22.2 percent share . In terms of unit sales , Lenovo had almost 63 million shipments , while HP had around 58 million shipments . With the overall technology sector moving into a direction centered more on software and services , the PC hardware market has declined over the past years .\n"
+}

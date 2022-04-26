@@ -1,0 +1,40 @@
+{
+   "title": "How do Young People Spend their Evenings",
+   "xAxis": "type",
+   "yAxis": "Percentage of People",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Percentage of People the Young People Spend Evenings Four type Evenings in . ",
+      "Reading_a_Book People 10 members of staff in . ",
+      "The `` Young People Spend Evenings Four `` - additional information The `` Young People Spend Evenings Four `` are the four global leaders in type and ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "2": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "type": "Watching TV",
+         "Percentage of People": "40"
+      },
+      {
+         "type": "Spend Time With Family",
+         "Percentage of People": "20"
+      },
+      {
+         "type": "Reading a Book",
+         "Percentage of People": "10"
+      },
+      {
+         "type": "Going Out",
+         "Percentage of People": "30"
+      }
+   ],
+   "gold": "Watching TV is how 40 % young people spend their evenings , 30 % go out , 20 % spend time with family and 10 % read a book\n"
+}

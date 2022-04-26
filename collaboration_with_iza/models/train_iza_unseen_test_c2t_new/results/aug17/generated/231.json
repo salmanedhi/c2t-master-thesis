@@ -1,0 +1,76 @@
+{
+   "title": "Most popular celebrities on Facebook from South Korea 2019 , ranked by number of fans",
+   "xAxis": "Facebook Celebrity",
+   "yAxis": "Number of fans on Facebook in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most popular Facebook in the Facebook from was Facebook BIGBANG , who made 17.3 fans . ",
+      "The most popular Facebook was BTS , with just 6.14 fans . ",
+      "In second place was Facebook PSY with 10.9 fans ; third place went to Facebook Lee_Minho with 17.3 fans ; fourth place went to Facebook DJ_SODA with 6.14 fans and fifth place went to Facebook 2NE1 , who was 9.08 fans ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Facebook Celebrity": "Lee Minho",
+         "Number of fans on Facebook in millions": "17.3"
+      },
+      {
+         "Facebook Celebrity": "PSY",
+         "Number of fans on Facebook in millions": "10.9"
+      },
+      {
+         "Facebook Celebrity": "BIGBANG",
+         "Number of fans on Facebook in millions": "10.8"
+      },
+      {
+         "Facebook Celebrity": "2NE1",
+         "Number of fans on Facebook in millions": "9.08"
+      },
+      {
+         "Facebook Celebrity": "BTS",
+         "Number of fans on Facebook in millions": "8.31"
+      },
+      {
+         "Facebook Celebrity": "Super Junior",
+         "Number of fans on Facebook in millions": "7.86"
+      },
+      {
+         "Facebook Celebrity": "EXO",
+         "Number of fans on Facebook in millions": "7.8"
+      },
+      {
+         "Facebook Celebrity": "Girl's Generation",
+         "Number of fans on Facebook in millions": "7.24"
+      },
+      {
+         "Facebook Celebrity": "G-DRAGON",
+         "Number of fans on Facebook in millions": "7.08"
+      },
+      {
+         "Facebook Celebrity": "DJ SODA",
+         "Number of fans on Facebook in millions": "6.14"
+      }
+   ],
+   "gold": "Lee Min-ho was ranked the most popular South Korean celebrity on Facebook , with around 17.3 million fans as of April 2019 . Min-ho is a South Korean actor and singer , initially gaining attention in 2009 with his role as Gu Jun-pyo in \u2018 Boys Over Flowers ' _ . It comes as no surprise that the actor has so many fans , with the South Korean film industry booming not only locally , but on a global scale as well .\n"
+}

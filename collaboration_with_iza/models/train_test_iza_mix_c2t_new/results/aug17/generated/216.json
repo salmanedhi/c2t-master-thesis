@@ -1,0 +1,49 @@
+{
+   "title": "Germany : enterprises in the non-financial business economy 2016 , by employment size",
+   "xAxis": "Status",
+   "yAxis": "Number of enterprises",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2016 , From_0_to_9_persons_employed was the Germany Status home to the most Germany enterprises in the whole of Germany , with 2022140 . ",
+      "From_10_to_19_persons_employed and From_20_to_49_persons_employed ranked in second and third places , with 249416 and 123860 enterprises respectively . ",
+      "At that time , there were Germany enterprises located in five of Germany 's ten Status ."
+   ],
+   "trends": [
+      {
+         "4": "4",
+         "22": "4"
+      },
+      {
+         "0": "3",
+         "2": "2",
+         "11": "3",
+         "13": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Status": "250 persons employed or more",
+         "Number of enterprises": "11762"
+      },
+      {
+         "Status": "From 50 to 249 persons employed",
+         "Number of enterprises": "60505"
+      },
+      {
+         "Status": "From 20 to 49 persons employed",
+         "Number of enterprises": "123860"
+      },
+      {
+         "Status": "From 10 to 19 persons employed",
+         "Number of enterprises": "249416"
+      },
+      {
+         "Status": "From 0 to 9 persons employed",
+         "Number of enterprises": "2022140"
+      }
+   ],
+   "gold": "This statistic shows the total number of enterprises in the non-financial business economy in Germany in 2016 , by size class of employment . In 2016 , there were 11,762 enterprises with 250 employees or more in Germany .\n"
+}

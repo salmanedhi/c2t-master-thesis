@@ -1,0 +1,74 @@
+{
+   "title": "Major floods in the U.S. from 1900 to 2016 , by number of people affected",
+   "xAxis": "Date, Location",
+   "yAxis": "Number of people affected",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 1900 , U.S. boasted some of the most expensive residential real estate from in the country . ",
+      "A ranking of the priciest Date, of the Jun_24_-_Aug_23_1993_Oklahoma_Minnesota_Wisconsin U.S. residential from showed that home buyers could expect to pay on Major almost 11000148 thousand people affected in the Date, Jun_9_-_Jun_30_2008_Illinois_Iowa_Kansas ( historical Jun_24_-_Aug_23_1993_Oklahoma_Minnesota_Wisconsin center ) . ",
+      "In U.S. , renting a dwelling also comes at a cost ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "10",
+         "23": "0",
+         "32": "0",
+         "35": "10"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Date, Location": "Jun 9 - Jun 30 2008 Illinois Iowa Kansas",
+         "Number of people affected": "11000148"
+      },
+      {
+         "Date, Location": "Aug 9 - Aug 16 2016 Louisiana Mississippi MissouriIllinois Indiana",
+         "Number of people affected": "330000"
+      },
+      {
+         "Date, Location": "Jan 15 - Jan 21 1996 Nevada Arizona New Mexico",
+         "Number of people affected": "200000"
+      },
+      {
+         "Date, Location": "Jun 30 - Jul 23 2002 New Braunfels Bandera",
+         "Number of people affected": "144000"
+      },
+      {
+         "Date, Location": "Jan 1 - Feb 07 1997 Nevada Idaho California",
+         "Number of people affected": "125000"
+      },
+      {
+         "Date, Location": "Feb 19 1980 South California",
+         "Number of people affected": "106000"
+      },
+      {
+         "Date, Location": "Aug 11 - Aug 13 2014 Midwest Northeast Mid-Atlantic",
+         "Number of people affected": "102000"
+      },
+      {
+         "Date, Location": "May 8 1995 South Dakota",
+         "Number of people affected": "75000"
+      },
+      {
+         "Date, Location": "Jun 25 - Jul 1 2006 Maryland Pennsylvania",
+         "Number of people affected": "65000"
+      },
+      {
+         "Date, Location": "Apr 17 - May 7 1997 Grand Forks Fargo",
+         "Number of people affected": "50400"
+      },
+      {
+         "Date, Location": "Jun 24 - Aug 23 1993 Oklahoma Minnesota Wisconsin",
+         "Number of people affected": "31000"
+      },
+      {
+         "Date, Location": "Dec 29 2008 - Jan 16 2009 Orting Chehalus",
+         "Number of people affected": "30000"
+      }
+   ],
+   "gold": "The statistic shows the major floods that have occurred in the United States from 1900 to 2016 , that affected the most people . Approximately 11 million people were affected by the flood that took place in June 2008 in the United States .\n"
+}

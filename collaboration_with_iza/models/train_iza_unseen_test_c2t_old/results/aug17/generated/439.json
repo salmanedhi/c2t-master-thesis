@@ -1,0 +1,83 @@
+{
+   "title": "Internet activities of U.S. users 2017",
+   "xAxis": "Activity",
+   "yAxis": "Share of internet users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Internet activities in U.S.",
+      "It shows Using_online_social_networks was the Internet at just 11 degrees and Shopping_making_reservations_or_using_other_consumer_services_online was the warmest at 90.8 internet . ",
+      "After Using_online_social_networks , the next Internet activities are Using_email at 90.8 degrees , followed by Interacting_with_household_equipment_via_internet at 18 degrees , Using_text_messaging_or_instant_messaging at 90.2 degrees and then Watching_video_online at 69.5 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "11",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "11",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Using email",
+         "Share of internet users": "90.8"
+      },
+      {
+         "Activity": "Using text messaging or instant messaging",
+         "Share of internet users": "90.2"
+      },
+      {
+         "Activity": "Using online social networks",
+         "Share of internet users": "74.4"
+      },
+      {
+         "Activity": "Watching video online",
+         "Share of internet users": "69.5"
+      },
+      {
+         "Activity": "Shopping making reservations or using other consumer services online",
+         "Share of internet users": "68.5"
+      },
+      {
+         "Activity": "Using online financial services (banking investing paying bills etc.)",
+         "Share of internet users": "65.9"
+      },
+      {
+         "Activity": "Streaming or downloading music radio podcasts etc.",
+         "Share of internet users": "52.6"
+      },
+      {
+         "Activity": "Participating in online video calls or conferences",
+         "Share of internet users": "46.6"
+      },
+      {
+         "Activity": "Working remotely via internet",
+         "Share of internet users": "22.6"
+      },
+      {
+         "Activity": "Searching for a job online",
+         "Share of internet users": "20.8"
+      },
+      {
+         "Activity": "Taking classes or participating in job training online",
+         "Share of internet users": "19.1"
+      },
+      {
+         "Activity": "Interacting with household equipment via internet",
+         "Share of internet users": "11"
+      }
+   ],
+   "gold": "This ranking gives information on the most popular online activities of adult internet users in the United States as of November 2017 . During the survey period , it was found that 74.4 percent of the online adult population accessed social networks .\n"
+}

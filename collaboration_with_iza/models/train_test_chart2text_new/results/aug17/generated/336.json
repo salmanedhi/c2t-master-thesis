@@ -1,0 +1,83 @@
+{
+   "title": "Average annual passenger numbers in UK airports as of 2013",
+   "xAxis": "Location",
+   "yAxis": "in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the millions of the annual passenger UK Location in 2013 . ",
+      "The survey was conducted among 15 to 20 millions in 2013 ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Location": "London Heathrow",
+         "in millions": "70"
+      },
+      {
+         "Location": "London Gatwick",
+         "in millions": "34"
+      },
+      {
+         "Location": "Manchester Airport",
+         "in millions": "20"
+      },
+      {
+         "Location": "London Stansted",
+         "in millions": "17"
+      },
+      {
+         "Location": "London Luton",
+         "in millions": "10"
+      },
+      {
+         "Location": "Birmingham Airport",
+         "in millions": "9"
+      },
+      {
+         "Location": "Edinburgh Airport",
+         "in millions": "9"
+      },
+      {
+         "Location": "Glasgow Airport",
+         "in millions": "7"
+      },
+      {
+         "Location": "Bristol Airport",
+         "in millions": "6"
+      },
+      {
+         "Location": "Newcastle Airport",
+         "in millions": "4"
+      },
+      {
+         "Location": "Belfast Airport",
+         "in millions": "4"
+      },
+      {
+         "Location": "Liverpool Airport",
+         "in millions": "4"
+      },
+      {
+         "Location": "London City",
+         "in millions": "3"
+      },
+      {
+         "Location": "Leeds Airport",
+         "in millions": "3"
+      },
+      {
+         "Location": "Aberdeen Airport",
+         "in millions": "3"
+      },
+      {
+         "Location": "Cardiff Airport",
+         "in millions": "1"
+      }
+   ],
+   "gold": "This statistic shows average annual passenger numbers in United Kingdom ( UK ) airports as of 2013 . With a yearly average of 70 million passengers London Heathrow was the most frequented UK airport , followed by London Gatwick with 34 million passengers and Manchester Airport with 20 million .\n"
+}

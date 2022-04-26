@@ -1,0 +1,89 @@
+{
+   "title": "Most popular entertainment apps in the U.S. 2019 , by audience",
+   "xAxis": "List Of Apps",
+   "yAxis": "Monthly users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Monthly of users made by List in a apps U.S.",
+      "\\\\n From the chart we see that the Netflix_(main) List was the Most popular List in the U.S. with 163.76 users . ",
+      "The next List to make the most users was the Apple_Music List with 44.5 users closely followed by the Redbox List with 12.72 users ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "14",
+         "22": "14"
+      }
+   ],
+   "data": [
+      {
+         "List Of Apps": "YouTube (main)",
+         "Monthly users in millions": "163.76"
+      },
+      {
+         "List Of Apps": "IMDb (main)",
+         "Monthly users in millions": "51.01"
+      },
+      {
+         "List Of Apps": "Netflix (main)",
+         "Monthly users in millions": "46.55"
+      },
+      {
+         "List Of Apps": "Apple Music",
+         "Monthly users in millions": "44.5"
+      },
+      {
+         "List Of Apps": "Spotify",
+         "Monthly users in millions": "44.21"
+      },
+      {
+         "List Of Apps": "Pandora Radio",
+         "Monthly users in millions": "31.47"
+      },
+      {
+         "List Of Apps": "Hulu",
+         "Monthly users in millions": "26.49"
+      },
+      {
+         "List Of Apps": "iHeartRadio",
+         "Monthly users in millions": "25.9"
+      },
+      {
+         "List Of Apps": "Google Play Music",
+         "Monthly users in millions": "21.78"
+      },
+      {
+         "List Of Apps": "Amazon Prime Video",
+         "Monthly users in millions": "19.64"
+      },
+      {
+         "List Of Apps": "Amazon Music",
+         "Monthly users in millions": "16.46"
+      },
+      {
+         "List Of Apps": "SoundCloud",
+         "Monthly users in millions": "15.32"
+      },
+      {
+         "List Of Apps": "Vimeo (main)",
+         "Monthly users in millions": "15.06"
+      },
+      {
+         "List Of Apps": "Shazam",
+         "Monthly users in millions": "13.12"
+      },
+      {
+         "List Of Apps": "Redbox",
+         "Monthly users in millions": "12.72"
+      }
+   ],
+   "gold": "In September 2019 , over 163.76 million mobile users accessed the YouTube app , making it the most popular mobile music and video apps in the United States . Netflix had a monthly mobile U.S. app audience of 45.66 million users .\n"
+}

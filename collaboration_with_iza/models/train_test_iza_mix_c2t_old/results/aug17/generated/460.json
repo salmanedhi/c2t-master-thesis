@@ -1,0 +1,42 @@
+{
+   "title": "Bombardier - Revenues by segment 2018",
+   "xAxis": "Segment",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , it was found that Malaysians would consume an estimated 8.91 dollars of Transportation Segment U.S. person . ",
+      "This puts Revenues amongst the top global consumers of Transportation Segment worldwide . ",
+      "Segment production has been proven to have adverse effects on the environment and global climate , and scientists have recommended drastically reducing the amount of mean consumed ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "15": "0"
+      },
+      {
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Segment": "Transportation",
+         "Billion U.S. dollars": "8.91"
+      },
+      {
+         "Segment": "Business Aircraft",
+         "Billion U.S. dollars": "4.99"
+      },
+      {
+         "Segment": "Aerostructures and Engineering Services",
+         "Billion U.S. dollars": "1.95"
+      },
+      {
+         "Segment": "Commercial Aircraft",
+         "Billion U.S. dollars": "1.76"
+      }
+   ],
+   "gold": "This statistic gives a breakdown of Bombardier 's revenue in the fiscal year of 2018 , by segment . The Montreal-headquartered company had revenues of approximately five billion U.S. dollars in its business aircraft segment .\n"
+}

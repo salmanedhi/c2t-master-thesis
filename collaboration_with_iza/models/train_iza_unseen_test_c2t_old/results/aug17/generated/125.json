@@ -1,0 +1,73 @@
+{
+   "title": "Leading men 's hair coloring brands in the U.S. 2019",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Leading men 's in the hair competirion . ",
+      "\\\\n From the chart we see that the Softsheen-Carson_Dark_&_Natural Brand made the Leading million by some margin , with only 0.1",
+      "Just_For_Men_Autostop and Just_For_Men made a respectable 27.2 and 138.0 million , with Grecian_5 and Just_For_Men_Touch_of_Gray not far behind , at 0.1 and 9.7 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Just For Men",
+         "Sales in million U.S. dollars": "138.0"
+      },
+      {
+         "Brand": "Just For Men Autostop",
+         "Sales in million U.S. dollars": "27.2"
+      },
+      {
+         "Brand": "Just For Men Control GX",
+         "Sales in million U.S. dollars": "18.2"
+      },
+      {
+         "Brand": "Just For Men Touch of Gray",
+         "Sales in million U.S. dollars": "9.7"
+      },
+      {
+         "Brand": "Softsheen-Carson Dark & Natural",
+         "Sales in million U.S. dollars": "5.7"
+      },
+      {
+         "Brand": "Private label",
+         "Sales in million U.S. dollars": "2.8"
+      },
+      {
+         "Brand": "Grecian Formula 16",
+         "Sales in million U.S. dollars": "2.3"
+      },
+      {
+         "Brand": "Just For Men Original Formula",
+         "Sales in million U.S. dollars": "0.5"
+      },
+      {
+         "Brand": "Creme of Nature",
+         "Sales in million U.S. dollars": "0.3"
+      },
+      {
+         "Brand": "Grecian 5",
+         "Sales in million U.S. dollars": "0.1"
+      }
+   ],
+   "gold": "In 2019 , Just For Men was the leading men 's hair coloring brand in the United States with sales of approximately 138 million U.S. dollars . Ranked second , the Just For Men Autostop brand generated sales of around 27.2 million U.S. dollars that year .\n"
+}

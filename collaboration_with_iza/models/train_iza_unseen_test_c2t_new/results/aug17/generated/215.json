@@ -1,0 +1,149 @@
+{
+   "title": "Player expenses ( payroll ) of Colorado Rapids ( MLS ) 2019",
+   "xAxis": "Player Name",
+   "yAxis": "Payroll in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Player expenses in terms of the Payroll of thousand with Daniel_Wilson having the Player \u2013 2475.0 thousand down to Kei_Kamara the least expenses of the group at 57.23 thousand . ",
+      "In between , we have Tim_Howard 2475.0 , Niki_Jackson 57.23 , Tommy_Smith 640.0 and Kellyn_Acosta 665.0 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "28"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "28",
+         "9": "28",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Player Name": "Tim Howard",
+         "Payroll in thousand U.S. dollars": "2475.0"
+      },
+      {
+         "Player Name": "Kei Kamara",
+         "Payroll in thousand U.S. dollars": "750.0"
+      },
+      {
+         "Player Name": "Kellyn Acosta",
+         "Payroll in thousand U.S. dollars": "665.0"
+      },
+      {
+         "Player Name": "Tommy Smith",
+         "Payroll in thousand U.S. dollars": "640.0"
+      },
+      {
+         "Player Name": "Daniel Wilson",
+         "Payroll in thousand U.S. dollars": "540.0"
+      },
+      {
+         "Player Name": "Jack Price",
+         "Payroll in thousand U.S. dollars": "437.5"
+      },
+      {
+         "Player Name": "Nana Adjei-Boateng",
+         "Payroll in thousand U.S. dollars": "391.25"
+      },
+      {
+         "Player Name": "Diego Rubio Kostner",
+         "Payroll in thousand U.S. dollars": "353.75"
+      },
+      {
+         "Player Name": "Nicolas Mezquida",
+         "Payroll in thousand U.S. dollars": "320.0"
+      },
+      {
+         "Player Name": "Sam Nicholson",
+         "Payroll in thousand U.S. dollars": "313.0"
+      },
+      {
+         "Player Name": "Johan Blomberg",
+         "Payroll in thousand U.S. dollars": "250.96"
+      },
+      {
+         "Player Name": "Axel Sjoberg",
+         "Payroll in thousand U.S. dollars": "180.0"
+      },
+      {
+         "Player Name": "Keegan Rosenberry",
+         "Payroll in thousand U.S. dollars": "164.95"
+      },
+      {
+         "Player Name": "Lalas Abubakar",
+         "Payroll in thousand U.S. dollars": "144.94"
+      },
+      {
+         "Player Name": "Clint Irwin",
+         "Payroll in thousand U.S. dollars": "138.81"
+      },
+      {
+         "Player Name": "Jonathan Lewis",
+         "Payroll in thousand U.S. dollars": "121.0"
+      },
+      {
+         "Player Name": "Dillon Serna",
+         "Payroll in thousand U.S. dollars": "120.0"
+      },
+      {
+         "Player Name": "Matt Hundley",
+         "Payroll in thousand U.S. dollars": "98.0"
+      },
+      {
+         "Player Name": "Andre Shinyashiki",
+         "Payroll in thousand U.S. dollars": "95.0"
+      },
+      {
+         "Player Name": "Kortne Ford",
+         "Payroll in thousand U.S. dollars": "85.0"
+      },
+      {
+         "Player Name": "Cole Bassett",
+         "Payroll in thousand U.S. dollars": "84.0"
+      },
+      {
+         "Player Name": "Sam Vines",
+         "Payroll in thousand U.S. dollars": "81.25"
+      },
+      {
+         "Player Name": "Sebastian Anderson",
+         "Payroll in thousand U.S. dollars": "80.92"
+      },
+      {
+         "Player Name": "Deklan Wynne",
+         "Payroll in thousand U.S. dollars": "74.25"
+      },
+      {
+         "Player Name": "Andre Rawls",
+         "Payroll in thousand U.S. dollars": "72.36"
+      },
+      {
+         "Player Name": "Kofi Opare",
+         "Payroll in thousand U.S. dollars": "70.25"
+      },
+      {
+         "Player Name": "Sam Raben",
+         "Payroll in thousand U.S. dollars": "70.25"
+      },
+      {
+         "Player Name": "Abdul Rwatubyaye",
+         "Payroll in thousand U.S. dollars": "62.63"
+      },
+      {
+         "Player Name": "Niki Jackson",
+         "Payroll in thousand U.S. dollars": "57.23"
+      }
+   ],
+   "gold": "The statistic shows the player expenses ( payroll ) of the Colorado Rapids of Major League Soccer by player in 2019 . Tim Howard received a salary of 2.48 million U.S. dollars .\n"
+}

@@ -1,0 +1,64 @@
+{
+   "title": "Leading French YouTube comedy channels as of June 2018 , by number of subscribers",
+   "xAxis": "Youtube Channel",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Leading French YouTube comedy in the French ( ) , ranked by the Number of subscribers who have dined in them the channels 4305 months , as of a survey published in 2018 . ",
+      "Cyprien was among the leading brands with 12151 thousands of respondents having French in the channels June ."
+   ],
+   "trends": [
+      {
+         "29": "6"
+      },
+      {
+         "0": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Youtube Channel": "Cyprien",
+         "Number of subscribers in thousands": "12151"
+      },
+      {
+         "Youtube Channel": "Norman",
+         "Number of subscribers in thousands": "10792"
+      },
+      {
+         "Youtube Channel": "Squeezie",
+         "Number of subscribers in thousands": "10719"
+      },
+      {
+         "Youtube Channel": "R\u00e9mi Gaillard",
+         "Number of subscribers in thousands": "6648"
+      },
+      {
+         "Youtube Channel": "Le rire jaune",
+         "Number of subscribers in thousands": "4345"
+      },
+      {
+         "Youtube Channel": "Natoo",
+         "Number of subscribers in thousands": "4324"
+      },
+      {
+         "Youtube Channel": "Mister V",
+         "Number of subscribers in thousands": "4305"
+      },
+      {
+         "Youtube Channel": "Amixem",
+         "Number of subscribers in thousands": "4085"
+      },
+      {
+         "Youtube Channel": "Seb",
+         "Number of subscribers in thousands": "3666"
+      },
+      {
+         "Youtube Channel": "Andy",
+         "Number of subscribers in thousands": "3409"
+      }
+   ],
+   "gold": "As of June 2018 , the most popular YouTube comedy channel was that of Cyprien , accounting for more than 12 million subscribers . In second and third places came Norman fait des vid\u00e9os ( 9.5 million ) and R\u00e9mi Gaillard ( 6.4 million ) . Moreover , in a ranking of the most popular YouTube channels in France in general , Cyprien and Norman fait des vid\u00e9os also ranked as first youtubers the same year .\n"
+}

@@ -1,0 +1,48 @@
+{
+   "title": "Money spent on higher education in Asia in 2010",
+   "xAxis": "Continent",
+   "yAxis": "Million Pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Money in million of Pounds that was spent on higher education in different Continent in 200 . ",
+      "\\n\\\\n Asia spent the most Money on higher education in 200 with around 320 million Pounds being spent . ",
+      "North_America then spent the next highest amount with 200 million Pounds and Europe spent half that with 100 million Pounds being spent ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {
+         "1": "2",
+         "10": "0",
+         "13": "2"
+      },
+      {
+         "0": "0",
+         "8": "0",
+         "12": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Continent": "North America",
+         "Million Pounds": "200"
+      },
+      {
+         "Continent": "Europe",
+         "Million Pounds": "100"
+      },
+      {
+         "Continent": "Asia",
+         "Million Pounds": "320"
+      },
+      {
+         "Continent": "Africa",
+         "Million Pounds": "50"
+      }
+   ],
+   "gold": "The chart compares money spent in millions of pounds on different continents During 2010 , Africa spent only \u00a3 50 million , being the least and Asia spent \u00a3 310 million , being the most\n"
+}

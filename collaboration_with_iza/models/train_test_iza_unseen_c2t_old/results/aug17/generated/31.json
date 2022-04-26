@@ -1,0 +1,64 @@
+{
+   "title": "Facebook : most popular game MAU 2019",
+   "xAxis": "Facebook games",
+   "yAxis": "Monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , it was found that 5 millions of MAU Android millions who had installed Subway_Surfers were also active users millions . ",
+      "According to App Ape , MAU Texas_Holdem_Poker app audiences in the game showed the highest active users millions ."
+   ],
+   "trends": [
+      {
+         "8": "4",
+         "17": "4"
+      },
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Facebook games": "Texas Holdem Poker",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "8 Ball Pool",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Candy Crush Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Farm Heroes Saga",
+         "Monthly active users in millions": "10"
+      },
+      {
+         "Facebook games": "Subway Surfers",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Clash of Clans",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Dragon City",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Hay Day",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Trivia Crack",
+         "Monthly active users in millions": "5"
+      },
+      {
+         "Facebook games": "Coin Master",
+         "Monthly active users in millions": "5"
+      }
+   ],
+   "gold": "This statistic lists the most popular Facebook games , based on monthly active users . As of August 2019 , Candy Crush Saga had approximately ten million monthly active users on Facebook . Fifth-ranked Subway Surfers had five million MAU in the same period .\n"
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Main import partners for Japan 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total imports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the percentage of worldwide internet Japan total imports between 2017 and , by originating partners . ",
+      "During that period of time , 24.5 % of for app total imports originated from IP addresses in the China . ",
+      "The China were also the Country most targeted by for attacks , suffering from over 238.6 million attacks during the China ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total imports": "24.5"
+      },
+      {
+         "Country": "United States",
+         "Share in total imports": "11"
+      },
+      {
+         "Country": "Australia",
+         "Share in total imports": "5.8"
+      },
+      {
+         "Country": "South Korea",
+         "Share in total imports": "4.2"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Share in total imports": "4.1"
+      }
+   ],
+   "gold": "The statistic shows the main import partners for Japan in 2017 . In 2017 , Japan 's main import partner was China , accounting for 24.5 percent of all imports .\n"
+}

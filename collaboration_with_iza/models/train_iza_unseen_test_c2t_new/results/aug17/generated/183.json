@@ -1,0 +1,76 @@
+{
+   "title": "Most popular online dating apps in the U.S. 2019 , by audience size",
+   "xAxis": "Dating App",
+   "yAxis": "Audience size in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most popular Dating in the dating apps was Dating POF_(main) , who made 7.86 size . ",
+      "The most popular Dating was OkCupid_(main) , with just 0.85 size . ",
+      "In second place was Dating Bumble with 5.03 size ; third place went to Dating tinder with 7.86 size ; fourth place went to Dating Ashley_Madison with 0.85 size and fifth place went to Dating Match.com_(main) , who was 1.95 size ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Dating App": "tinder",
+         "Audience size in millions": "7.86"
+      },
+      {
+         "Dating App": "Bumble",
+         "Audience size in millions": "5.03"
+      },
+      {
+         "Dating App": "POF (main)",
+         "Audience size in millions": "4.28"
+      },
+      {
+         "Dating App": "Match.com (main)",
+         "Audience size in millions": "1.95"
+      },
+      {
+         "Dating App": "OkCupid (main)",
+         "Audience size in millions": "1.79"
+      },
+      {
+         "Dating App": "Grindr",
+         "Audience size in millions": "1.64"
+      },
+      {
+         "Dating App": "Hinge",
+         "Audience size in millions": "1.21"
+      },
+      {
+         "Dating App": "Zoosk",
+         "Audience size in millions": "0.91"
+      },
+      {
+         "Dating App": "MeetMe",
+         "Audience size in millions": "0.91"
+      },
+      {
+         "Dating App": "Ashley Madison",
+         "Audience size in millions": "0.85"
+      }
+   ],
+   "gold": "As of September 2019 , Tinder reported in an U.S. mobile audience reach of 7.86 million users , making the app the most popular online dating app in the United States . Second-ranked Bumble had 5.03 million U.S. mobile users .\n"
+}

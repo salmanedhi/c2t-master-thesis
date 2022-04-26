@@ -1,0 +1,126 @@
+{
+   "title": "Formula 1 drivers by number of podium finishes up to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of podium finishes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of podium made by Month . ",
+      "\\n Kimi_R\u00e4ikk\u00f6nen has the highest Number of podium sitting at 12.8",
+      "\\n Second to Kimi_R\u00e4ikk\u00f6nen is Sebastian_Vettel at 9.2 podium ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Michael Schumacher",
+         "Number of podium finishes": "155"
+      },
+      {
+         "Month": "Lewis Hamilton",
+         "Number of podium finishes": "151"
+      },
+      {
+         "Month": "Sebastian Vettel",
+         "Number of podium finishes": "120"
+      },
+      {
+         "Month": "Alain Prost",
+         "Number of podium finishes": "106"
+      },
+      {
+         "Month": "Kimi R\u00e4ikk\u00f6nen",
+         "Number of podium finishes": "103"
+      },
+      {
+         "Month": "Fernando Alonso",
+         "Number of podium finishes": "97"
+      },
+      {
+         "Month": "Ayrton Senna",
+         "Number of podium finishes": "80"
+      },
+      {
+         "Month": "Rubens Barrichello",
+         "Number of podium finishes": "68"
+      },
+      {
+         "Month": "David Coulthard",
+         "Number of podium finishes": "62"
+      },
+      {
+         "Month": "Nelson Piquet",
+         "Number of podium finishes": "60"
+      },
+      {
+         "Month": "Nigel Mansell",
+         "Number of podium finishes": "59"
+      },
+      {
+         "Month": "Nico Rosberg",
+         "Number of podium finishes": "57"
+      },
+      {
+         "Month": "Niki Lauda",
+         "Number of podium finishes": "54"
+      },
+      {
+         "Month": "Mika H\u00e4kkinen",
+         "Number of podium finishes": "51"
+      },
+      {
+         "Month": "Jenson Button",
+         "Number of podium finishes": "50"
+      },
+      {
+         "Month": "Gerhard Berger",
+         "Number of podium finishes": "48"
+      },
+      {
+         "Month": "Valtteri Bottas",
+         "Number of podium finishes": "45"
+      },
+      {
+         "Month": "Carlos Reutemann",
+         "Number of podium finishes": "45"
+      },
+      {
+         "Month": "Jackie Stewart",
+         "Number of podium finishes": "43"
+      },
+      {
+         "Month": "Damon Hill",
+         "Number of podium finishes": "42"
+      },
+      {
+         "Month": "Mark Webber",
+         "Number of podium finishes": "42"
+      },
+      {
+         "Month": "Felipe Massa",
+         "Number of podium finishes": "41"
+      },
+      {
+         "Month": "Riccardo Patrese",
+         "Number of podium finishes": "37"
+      },
+      {
+         "Month": "Emerson Fittipaldi",
+         "Number of podium finishes": "35"
+      },
+      {
+         "Month": "Graham Hill",
+         "Number of podium finishes": "35"
+      }
+   ],
+   "gold": "The graph shows the top 50 Formula 1 drivers with the most podium finishes from 1950 to 2019 . Michael Schumacher had 155 podium finishes throughout his career .\n"
+}

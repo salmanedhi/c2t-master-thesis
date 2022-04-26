@@ -1,0 +1,77 @@
+{
+   "title": "Tesla 's revenue 2008 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Revenue of million conducted by revenue in a 2008 2019 . ",
+      "\\\\n From the chart we see that the 2017 Fiscal was the Tesla 's Fiscal in the 2019 with 24578.0 million . ",
+      "The next Fiscal to make the most million was the 2016 Fiscal with 7000.13 million closely followed by 2008 with 14.74 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "11",
+         "20": "11"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Revenue in million U.S. dollars": "24578.0"
+      },
+      {
+         "Fiscal year": "2018",
+         "Revenue in million U.S. dollars": "21461.27"
+      },
+      {
+         "Fiscal year": "2017",
+         "Revenue in million U.S. dollars": "11758.75"
+      },
+      {
+         "Fiscal year": "2016",
+         "Revenue in million U.S. dollars": "7000.13"
+      },
+      {
+         "Fiscal year": "2015",
+         "Revenue in million U.S. dollars": "4046.03"
+      },
+      {
+         "Fiscal year": "2014",
+         "Revenue in million U.S. dollars": "3198.36"
+      },
+      {
+         "Fiscal year": "2013",
+         "Revenue in million U.S. dollars": "2013.5"
+      },
+      {
+         "Fiscal year": "2012",
+         "Revenue in million U.S. dollars": "413.26"
+      },
+      {
+         "Fiscal year": "2011",
+         "Revenue in million U.S. dollars": "204.24"
+      },
+      {
+         "Fiscal year": "2010",
+         "Revenue in million U.S. dollars": "116.74"
+      },
+      {
+         "Fiscal year": "2009",
+         "Revenue in million U.S. dollars": "111.94"
+      },
+      {
+         "Fiscal year": "2008",
+         "Revenue in million U.S. dollars": "14.74"
+      }
+   ],
+   "gold": "Tesla 's revenue grew to almost 24.6 billion U.S. dollars in the fiscal year of 2019 , a three billion increase from the previous year . The United States is Tesla 's largest sales markets . Revenue rises on model additions Almost 20 billion U.S. dollars of Tesla 's revenue is generated from its automotive segment , which includes the design , manufacturing , and sales of vehicles .\n"
+}

@@ -1,0 +1,106 @@
+{
+   "title": "Leading passenger car models in Sweden 2018",
+   "xAxis": "Vehicle Models",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Units of sold made by Vehicle . ",
+      "\\n Volvo_XC60 has the highest Units of sold sitting at 12.8",
+      "\\n Second to Volvo_XC60 is Volvo_S/V60 at 9.2 sold ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Vehicle Models": "Volvo S/V90",
+         "Units sold": "24346"
+      },
+      {
+         "Vehicle Models": "VW Golf",
+         "Units sold": "17095"
+      },
+      {
+         "Vehicle Models": "Volvo S/V60",
+         "Units sold": "16412"
+      },
+      {
+         "Vehicle Models": "VW Passat",
+         "Units sold": "13650"
+      },
+      {
+         "Vehicle Models": "Volvo XC60",
+         "Units sold": "13293"
+      },
+      {
+         "Vehicle Models": "VW Tiguan",
+         "Units sold": "9821"
+      },
+      {
+         "Vehicle Models": "Volvo V40N",
+         "Units sold": "7151"
+      },
+      {
+         "Vehicle Models": "Nissan Qashqai",
+         "Units sold": "6344"
+      },
+      {
+         "Vehicle Models": "Volvo XC40",
+         "Units sold": "6175"
+      },
+      {
+         "Vehicle Models": "Fiat Ducato",
+         "Units sold": "5938"
+      },
+      {
+         "Vehicle Models": "Kia Niro",
+         "Units sold": "5405"
+      },
+      {
+         "Vehicle Models": "Toyota Auris",
+         "Units sold": "5387"
+      },
+      {
+         "Vehicle Models": "Skoda Octavia",
+         "Units sold": "5348"
+      },
+      {
+         "Vehicle Models": "Mercedes E-Class",
+         "Units sold": "5302"
+      },
+      {
+         "Vehicle Models": "Toyota Yaris",
+         "Units sold": "5274"
+      },
+      {
+         "Vehicle Models": "BMW 5-Series",
+         "Units sold": "5016"
+      },
+      {
+         "Vehicle Models": "Kia Cee'd",
+         "Units sold": "4792"
+      },
+      {
+         "Vehicle Models": "Renault Clio",
+         "Units sold": "4766"
+      },
+      {
+         "Vehicle Models": "VW Polo",
+         "Units sold": "4590"
+      },
+      {
+         "Vehicle Models": "Audi A6",
+         "Units sold": "4561"
+      }
+   ],
+   "gold": "Volvo S/V90 was the most sold car model in Sweden in 2018 , at over 24 thousand units . In second place came Volkswagen ( VW ) Golf , with a sales amount of roughly 17 thousand that year . Closely behind ranked again a Volvo model \u2013 Volvo S/V60 .\n"
+}

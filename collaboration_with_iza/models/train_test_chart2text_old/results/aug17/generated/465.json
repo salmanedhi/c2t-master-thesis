@@ -1,0 +1,43 @@
+{
+   "title": "Main import partners for Japan 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total imports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the percentage of worldwide total to Japan in 2017 , sorted 2017 Country . ",
+      "It was found that 4.1 % of global Japan total were from Saudi_Arabia , whereas approximately one quarter of total to the search platform came from the China ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "12": "4",
+         "27": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total imports": "24.5"
+      },
+      {
+         "Country": "United States",
+         "Share in total imports": "11"
+      },
+      {
+         "Country": "Australia",
+         "Share in total imports": "5.8"
+      },
+      {
+         "Country": "South Korea",
+         "Share in total imports": "4.2"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Share in total imports": "4.1"
+      }
+   ],
+   "gold": "The statistic shows the main import partners for Japan in 2017 . In 2017 , Japan 's main import partner was China , accounting for 24.5 percent of all imports .\n"
+}

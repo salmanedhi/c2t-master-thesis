@@ -1,0 +1,60 @@
+{
+   "title": "Inflation rate of the main industrialized and emerging countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Inflation rate compared ( Inflation ) rate compared in the 2019 and Country in current prices in . ",
+      "All figures are estimates . ",
+      "That year , the Inflation rate main compared in Germany amounted to approximately 3.79 previous year ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "6",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Russia",
+         "Inflation rate compared to previous year": "4.68"
+      },
+      {
+         "Country": "Brazil",
+         "Inflation rate compared to previous year": "3.79"
+      },
+      {
+         "Country": "India",
+         "Inflation rate compared to previous year": "3.44"
+      },
+      {
+         "Country": "China",
+         "Inflation rate compared to previous year": "2.31"
+      },
+      {
+         "Country": "USA",
+         "Inflation rate compared to previous year": "1.82"
+      },
+      {
+         "Country": "United Kingdom",
+         "Inflation rate compared to previous year": "1.81"
+      },
+      {
+         "Country": "Germany",
+         "Inflation rate compared to previous year": "1.49"
+      },
+      {
+         "Country": "France",
+         "Inflation rate compared to previous year": "1.17"
+      },
+      {
+         "Country": "Japan",
+         "Inflation rate compared to previous year": "0.99"
+      }
+   ],
+   "gold": "This statistic shows the inflation rate of the main industrialized and emerging countries in 2019 . In 2019 , the inflation rate in China was estimated to amount to approximately 2.31 percent compared to the previous year .\n"
+}

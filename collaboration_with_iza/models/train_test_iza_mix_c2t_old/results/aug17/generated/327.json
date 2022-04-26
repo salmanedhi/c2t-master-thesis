@@ -1,0 +1,53 @@
+{
+   "title": "MoviePass subscribers in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "How many people play MoviePass ? Having burst onto the scene in September_2017 , MoviePass has since become a 2019 phenomenon , amassing almost 3000 thousands subscribers across the globe as of April_2019 . ",
+      "How did MoviePass become so big ? The reasons why MoviePass has become such a global hit are clear to see . ",
+      "Not only is the game free , but it is also available on most gaming platforms ."
+   ],
+   "trends": [
+      {
+         "12": "4",
+         "24": "1",
+         "32": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": "225"
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": "3000"
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": "2000"
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": "1500"
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": "500"
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": "150"
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": "20"
+      }
+   ],
+   "gold": "As of April 2019 , it was estimated that MoviePass had just 225 thousand subscribers in the United States , a significant drop from the three million recorded in June 2018 . MoviePass is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about MoviePass 's floundering subscriber base , the company is once again in the spotlight . What is MoviePass ? MoviePass is a subscription-based movie ticketing service , designed to allow subscribers to buy a select amount of movie tickets each month for a single fee .\n"
+}

@@ -1,0 +1,76 @@
+{
+   "title": "Leading states based on motorcycle registrations - U.S. 2017",
+   "xAxis": "State",
+   "yAxis": "Motorcycle registrations in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Leading states State in the motorcycle registrations was State Ohio , who made 842543 registrations . ",
+      "The most states State was Pennsylvania , with just 258487 registrations . ",
+      "In second place was State Florida with 586267 registrations ; third place went to State California with 842543 registrations ; fourth place went to State Michigan with 258487 registrations and fifth place went to State New_York , who was 392178 registrations ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Motorcycle registrations in thousands": "842543"
+      },
+      {
+         "State": "Florida",
+         "Motorcycle registrations in thousands": "586267"
+      },
+      {
+         "State": "Ohio",
+         "Motorcycle registrations in thousands": "410187"
+      },
+      {
+         "State": "New York",
+         "Motorcycle registrations in thousands": "392178"
+      },
+      {
+         "State": "Pennsylvania",
+         "Motorcycle registrations in thousands": "377158"
+      },
+      {
+         "State": "Texas",
+         "Motorcycle registrations in thousands": "364690"
+      },
+      {
+         "State": "Illinois",
+         "Motorcycle registrations in thousands": "333943"
+      },
+      {
+         "State": "Wisconsin",
+         "Motorcycle registrations in thousands": "324670"
+      },
+      {
+         "State": "Montana",
+         "Motorcycle registrations in thousands": "306655"
+      },
+      {
+         "State": "Michigan",
+         "Motorcycle registrations in thousands": "258487"
+      }
+   ],
+   "gold": "This statistic represents the leading U.S. states based on motorcycle registrations in 2017 . With some 842,000 motorcycle registrations , California was ranked first that year . The total number of motorcycle registrations was more than 8.7 million units in 2017 .\n"
+}

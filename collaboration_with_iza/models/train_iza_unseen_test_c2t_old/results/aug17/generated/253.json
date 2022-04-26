@@ -1,0 +1,73 @@
+{
+   "title": "The world 's fastest growing retailers in 2018 , based on retail revenue CAGR",
+   "xAxis": "Retailers ",
+   "yAxis": "FY 2013-2018 retail revenue CAGR",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the world 's fastest in the growing competirion . ",
+      "\\\\n From the chart we see that the A101_Yeni_Ma\u011fazac\u0131l\u0131k_A.S Retailers made the world 2013-2018 by some margin , with only 23.8",
+      "Wayfair_Inc. and Reliance_Industries_Limited/Reliance_Retail made a respectable 49.2 and 55.8 2013-2018 , with Dollar_Tree_Inc. and JD.com_Inc. not far behind , at 23.8 and 44.1 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Retailers ": "Reliance Industries Limited/Reliance Retail",
+         "FY 2013-2018 retail revenue CAGR": "55.8"
+      },
+      {
+         "Retailers ": "Wayfair Inc.",
+         "FY 2013-2018 retail revenue CAGR": "49.2"
+      },
+      {
+         "Retailers ": "Vipshop Holdings Limited",
+         "FY 2013-2018 retail revenue CAGR": "47.8"
+      },
+      {
+         "Retailers ": "JD.com Inc.",
+         "FY 2013-2018 retail revenue CAGR": "44.1"
+      },
+      {
+         "Retailers ": "A101 Yeni Ma\u011fazac\u0131l\u0131k A.S",
+         "FY 2013-2018 retail revenue CAGR": "43.6"
+      },
+      {
+         "Retailers ": "Action Nederland BV",
+         "FY 2013-2018 retail revenue CAGR": "29.6"
+      },
+      {
+         "Retailers ": "JD Sports Fashion Plc",
+         "FY 2013-2018 retail revenue CAGR": "28"
+      },
+      {
+         "Retailers ": "Zalando SE",
+         "FY 2013-2018 retail revenue CAGR": "25"
+      },
+      {
+         "Retailers ": "Albertsons Companies Inc.",
+         "FY 2013-2018 retail revenue CAGR": "24.7"
+      },
+      {
+         "Retailers ": "Dollar Tree Inc.",
+         "FY 2013-2018 retail revenue CAGR": "23.8"
+      }
+   ],
+   "gold": "This statistic shows the world 's fastest growing retailers in 2018 , based on retail revenue compound annual growth rate from FY 2013 to 2018 . Reliance Industries Limited/Reliance Retail was the world 's fastest growing retailer in that period , with a retail revenue CAGR of 55.8 percent . The company had retail revenues of 18.5 billion U.S. dollars that year .\n"
+}

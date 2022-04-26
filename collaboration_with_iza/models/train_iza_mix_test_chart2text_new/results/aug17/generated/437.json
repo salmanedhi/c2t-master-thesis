@@ -1,0 +1,45 @@
+{
+   "title": "Top 5 origin countries of refugees admitted to Canada in 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of refugees admitted",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of Canada origin refugees in Canada . ",
+      "We can see that both Eritrea and Iraq have a very small amount whilst Afghanistan , Congo and Syria have a much higher amount . "
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "2",
+         "14": "4",
+         "16": "3",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Syria",
+         "Number of refugees admitted": "33266"
+      },
+      {
+         "Country": "Eritrea",
+         "Number of refugees admitted": "3934"
+      },
+      {
+         "Country": "Iraq",
+         "Number of refugees admitted": "1650"
+      },
+      {
+         "Country": "Congo",
+         "Number of refugees admitted": "1644"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of refugees admitted": "1354"
+      }
+   ],
+   "gold": "This statistic shows the top five origin counties of refugees that were admitted to Canada in 2016 . Syria topped the list in 2016 with 33,266 refugees from the country admitted into Canada .\n"
+}

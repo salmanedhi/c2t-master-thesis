@@ -1,0 +1,192 @@
+{
+   "title": "Wholesale price of cherry tomatoes in the United Kingdom ( UK ) 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in GBP per kilogram",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Wholesale price cherry tomatoes the Price of GBP that occured . ",
+      "The Month with the Wholesale Price of GBP is Oct_'19 with only 0.84 followed by Nov_'19 with 2.34 , Apr_'15 with 2.91 , Jul_'19 with 1.67 , Aug_'19 with 1.8 and the most popular being Jun_'19 with 3.68 GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "15",
+         "15": "0",
+         "17": "0",
+         "19": "39",
+         "21": "39",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "22"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in GBP per kilogram": "2.34"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in GBP per kilogram": "2.61"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in GBP per kilogram": "1.8"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in GBP per kilogram": "1.67"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in GBP per kilogram": "1.54"
+      },
+      {
+         "Month": "May '19",
+         "Price in GBP per kilogram": "1.65"
+      },
+      {
+         "Month": "Nov '18",
+         "Price in GBP per kilogram": "0.93"
+      },
+      {
+         "Month": "Oct '18",
+         "Price in GBP per kilogram": "1.24"
+      },
+      {
+         "Month": "Sep '18",
+         "Price in GBP per kilogram": "1.55"
+      },
+      {
+         "Month": "Aug '18",
+         "Price in GBP per kilogram": "1.0"
+      },
+      {
+         "Month": "Jul '18",
+         "Price in GBP per kilogram": "1.15"
+      },
+      {
+         "Month": "Jun '18",
+         "Price in GBP per kilogram": "1.43"
+      },
+      {
+         "Month": "May '18",
+         "Price in GBP per kilogram": "2.09"
+      },
+      {
+         "Month": "Apr '18",
+         "Price in GBP per kilogram": "3.24"
+      },
+      {
+         "Month": "Dec '17",
+         "Price in GBP per kilogram": "1.05"
+      },
+      {
+         "Month": "Nov '17",
+         "Price in GBP per kilogram": "0.84"
+      },
+      {
+         "Month": "Oct '17",
+         "Price in GBP per kilogram": "2.49"
+      },
+      {
+         "Month": "Sep '17",
+         "Price in GBP per kilogram": "2.19"
+      },
+      {
+         "Month": "Aug '17",
+         "Price in GBP per kilogram": "2.31"
+      },
+      {
+         "Month": "Jul '17",
+         "Price in GBP per kilogram": "1.92"
+      },
+      {
+         "Month": "Jun '17",
+         "Price in GBP per kilogram": "2.31"
+      },
+      {
+         "Month": "May '17",
+         "Price in GBP per kilogram": "2.97"
+      },
+      {
+         "Month": "Apr '17",
+         "Price in GBP per kilogram": "3.68"
+      },
+      {
+         "Month": "Dec '16",
+         "Price in GBP per kilogram": "1.9"
+      },
+      {
+         "Month": "Nov '16",
+         "Price in GBP per kilogram": "2.43"
+      },
+      {
+         "Month": "Oct '16",
+         "Price in GBP per kilogram": "2.3"
+      },
+      {
+         "Month": "Sep '16",
+         "Price in GBP per kilogram": "2.39"
+      },
+      {
+         "Month": "Aug '16",
+         "Price in GBP per kilogram": "2.26"
+      },
+      {
+         "Month": "Jul '16",
+         "Price in GBP per kilogram": "2.13"
+      },
+      {
+         "Month": "Jun '16",
+         "Price in GBP per kilogram": "1.65"
+      },
+      {
+         "Month": "May '16",
+         "Price in GBP per kilogram": "2.15"
+      },
+      {
+         "Month": "Apr '16",
+         "Price in GBP per kilogram": "2.17"
+      },
+      {
+         "Month": "Nov '15",
+         "Price in GBP per kilogram": "2.31"
+      },
+      {
+         "Month": "Oct '15",
+         "Price in GBP per kilogram": "2.81"
+      },
+      {
+         "Month": "Sep '15",
+         "Price in GBP per kilogram": "2.11"
+      },
+      {
+         "Month": "Aug '15",
+         "Price in GBP per kilogram": "1.84"
+      },
+      {
+         "Month": "Jul '15",
+         "Price in GBP per kilogram": "2.04"
+      },
+      {
+         "Month": "Jun '15",
+         "Price in GBP per kilogram": "2.02"
+      },
+      {
+         "Month": "May '15",
+         "Price in GBP per kilogram": "2.57"
+      },
+      {
+         "Month": "Apr '15",
+         "Price in GBP per kilogram": "2.91"
+      }
+   ],
+   "gold": "This statistic displays the wholesale price of cherry tomatoes in the United Kingdom ( UK ) from 2015 to 2019 . The wholesale price of cherry tomatoes was valued at 2.34 British pounds per kilogram in November 2019 , an increase compared to a year before .\n"
+}

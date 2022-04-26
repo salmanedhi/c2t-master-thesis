@@ -1,0 +1,68 @@
+{
+   "title": "Share of the global agricultural machinery market , by region 2015",
+   "xAxis": "Country",
+   "yAxis": "Share of market",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share global Country machinery the Share of market that occured . ",
+      "The Country with the Share of market is NAFTA with only 3 followed by European_Union with 26 , Rest_of_World with 10 , South_America with 8 , China with 15 and the most popular being India with 26 market ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "12": "7",
+         "15": "0",
+         "17": "0",
+         "19": "8",
+         "21": "8",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Share of market": "26"
+      },
+      {
+         "Country": "NAFTA",
+         "Share of market": "22"
+      },
+      {
+         "Country": "China",
+         "Share of market": "15"
+      },
+      {
+         "Country": "South America",
+         "Share of market": "8"
+      },
+      {
+         "Country": "India",
+         "Share of market": "6"
+      },
+      {
+         "Country": "Commonwealth of Independent States",
+         "Share of market": "6"
+      },
+      {
+         "Country": "Japan",
+         "Share of market": "4"
+      },
+      {
+         "Country": "Turkey",
+         "Share of market": "3"
+      },
+      {
+         "Country": "Rest of World",
+         "Share of market": "10"
+      }
+   ],
+   "gold": "This statistic shows the share of the global farming machinery market in 2015 , by region . The European Union and NAFTA accounted for 48 percent of the agricultural machinery market in this year , though China in third place is one of the fastest growing markets .\n"
+}

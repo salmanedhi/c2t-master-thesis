@@ -1,0 +1,33 @@
+{
+   "title": "Cat litter : market volume worldwide 2015",
+   "xAxis": "Regions Of The World",
+   "yAxis": "Market volume in thousand tonnes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Market of volume thousand of US_and_Canada and Europe in the 2015 litter , as of Cat 2015 . ",
+      "US_and_Canada has a distinctive lead on Europe with about 20 thousand on volume ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "11": "1"
+      },
+      {
+         "0": "0",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Regions Of The World": "US and Canada",
+         "Market volume in thousand tonnes": "2172"
+      },
+      {
+         "Regions Of The World": "Europe",
+         "Market volume in thousand tonnes": "1909"
+      }
+   ],
+   "gold": "This statistic shows the market volume of the cat litter market in North America and Europe in 2015 . The United States and Canada was the largest market in terms of volume measured at 2,172 tonnes .\n"
+}

@@ -1,0 +1,102 @@
+{
+   "title": "Daily online video usage in selected countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Share of respondents usage selected countries 2018 as of 2018 , Country . ",
+      "During the survey , it was found that 50 % of U.S. respondents watched countries video content on any device . ",
+      "Saudi_Arabia was ranked first with a 64 million countries video penetration among the countries population ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "8"
+      },
+      {
+         "0": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "Share of respondents": "64"
+      },
+      {
+         "Country": "Turkey",
+         "Share of respondents": "64"
+      },
+      {
+         "Country": "Brazil",
+         "Share of respondents": "62"
+      },
+      {
+         "Country": "New Zealand",
+         "Share of respondents": "61"
+      },
+      {
+         "Country": "Australia",
+         "Share of respondents": "60"
+      },
+      {
+         "Country": "Mexico",
+         "Share of respondents": "56"
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": "53"
+      },
+      {
+         "Country": "Canada",
+         "Share of respondents": "50"
+      },
+      {
+         "Country": "United States",
+         "Share of respondents": "50"
+      },
+      {
+         "Country": "South Korea",
+         "Share of respondents": "44"
+      },
+      {
+         "Country": "France",
+         "Share of respondents": "42"
+      },
+      {
+         "Country": "Philippines",
+         "Share of respondents": "34"
+      },
+      {
+         "Country": "India",
+         "Share of respondents": "33"
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": "32"
+      },
+      {
+         "Country": "Japan",
+         "Share of respondents": "32"
+      },
+      {
+         "Country": "China",
+         "Share of respondents": "30"
+      },
+      {
+         "Country": "Indonesia",
+         "Share of respondents": "21"
+      },
+      {
+         "Country": "South Africa",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "Nigeria",
+         "Share of respondents": "16"
+      }
+   ],
+   "gold": "This statistic gives information on the share of internet users in selected countries who watch online videos every day as of January 2018 . During the survey , it was found that 50 percent of U.S. internet users watched online video content on a daily basis . Additionally , more than half of the internet users in Mexico watched online videos every day .\n"
+}

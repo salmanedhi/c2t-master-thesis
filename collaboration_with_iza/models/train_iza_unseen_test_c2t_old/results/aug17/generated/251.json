@@ -1,0 +1,73 @@
+{
+   "title": "Leading convention centers in Canada as of June 2017 , by size",
+   "xAxis": "Buildings",
+   "yAxis": "Exhibition space in thousand square feet",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Leading convention centers in the Canada competirion . ",
+      "\\\\n From the chart we see that the Evraz_Place Buildings made the Leading space by some margin , with only 311.5",
+      "The_Toronto_Congress_Centre and Enercare_Centre made a respectable 1000.0 and space , with Vancouver_Convention_Centre and Metro_Toronto_Convention_Centre not far behind , at 311.5 and 460.0 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Buildings": "Enercare Centre",
+         "Exhibition space in thousand square feet": "1000.0"
+      },
+      {
+         "Buildings": "The Toronto Congress Centre",
+         "Exhibition space in thousand square feet": "1000.0"
+      },
+      {
+         "Buildings": "The International Centre Toronto",
+         "Exhibition space in thousand square feet": "500.0"
+      },
+      {
+         "Buildings": "Metro Toronto Convention Centre",
+         "Exhibition space in thousand square feet": "460.0"
+      },
+      {
+         "Buildings": "Evraz Place",
+         "Exhibition space in thousand square feet": "452.0"
+      },
+      {
+         "Buildings": "Olympic Park",
+         "Exhibition space in thousand square feet": "410.0"
+      },
+      {
+         "Buildings": "Northlands",
+         "Exhibition space in thousand square feet": "401.0"
+      },
+      {
+         "Buildings": "Calgary Stampede Park",
+         "Exhibition space in thousand square feet": "400.0"
+      },
+      {
+         "Buildings": "Place Bonaventure",
+         "Exhibition space in thousand square feet": "315.0"
+      },
+      {
+         "Buildings": "Vancouver Convention Centre",
+         "Exhibition space in thousand square feet": "311.5"
+      }
+   ],
+   "gold": "This statistic shows the leading convention centers in Canada as of June 2017 , by size . The Enercare Centre and The Toronto Congress Centre were the largest convention centers in Canada at one million square feet each .\n"
+}

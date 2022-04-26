@@ -1,0 +1,155 @@
+{
+   "title": "GDP growth in EU countries compared to same quarter previous year 1st quarter 2019",
+   "xAxis": "Country",
+   "yAxis": "Change compared to the same quarter of the previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the GDP growth in EU . ",
+      "It shows Hungary was the GDP at just -0.1 degrees and Bulgaria was the warmest at 1.8 degrees . ",
+      "After Hungary , the next GDP growth are Croatia at 1.8 degrees , followed by Latvia at 18 degrees , Poland at 1.5 degrees and then Romania at 1.3 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "29",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "29",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Croatia",
+         "Change compared to the same quarter of the previous year": "1.8"
+      },
+      {
+         "Country": "Poland",
+         "Change compared to the same quarter of the previous year": "1.5"
+      },
+      {
+         "Country": "Hungary",
+         "Change compared to the same quarter of the previous year": "1.5"
+      },
+      {
+         "Country": "Romania",
+         "Change compared to the same quarter of the previous year": "1.3"
+      },
+      {
+         "Country": "Bulgaria",
+         "Change compared to the same quarter of the previous year": "1.2"
+      },
+      {
+         "Country": "Lithuania",
+         "Change compared to the same quarter of the previous year": "1"
+      },
+      {
+         "Country": "Slowakia",
+         "Change compared to the same quarter of the previous year": "0.9"
+      },
+      {
+         "Country": "Cyprus",
+         "Change compared to the same quarter of the previous year": "0.9"
+      },
+      {
+         "Country": "Slovenia",
+         "Change compared to the same quarter of the previous year": "0.8"
+      },
+      {
+         "Country": "Spain",
+         "Change compared to the same quarter of the previous year": "0.7"
+      },
+      {
+         "Country": "Sweden",
+         "Change compared to the same quarter of the previous year": "0.6"
+      },
+      {
+         "Country": "Czech Republic",
+         "Change compared to the same quarter of the previous year": "0.6"
+      },
+      {
+         "Country": "EU",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "Estonia",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "United Kingdom",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "Portugal",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "Malta",
+         "Change compared to the same quarter of the previous year": "0.5"
+      },
+      {
+         "Country": "Euro area",
+         "Change compared to the same quarter of the previous year": "0.4"
+      },
+      {
+         "Country": "Germany",
+         "Change compared to the same quarter of the previous year": "0.4"
+      },
+      {
+         "Country": "Austria",
+         "Change compared to the same quarter of the previous year": "0.4"
+      },
+      {
+         "Country": "Belgium",
+         "Change compared to the same quarter of the previous year": "0.3"
+      },
+      {
+         "Country": "Luxembourg",
+         "Change compared to the same quarter of the previous year": "0.3"
+      },
+      {
+         "Country": "France",
+         "Change compared to the same quarter of the previous year": "0.3"
+      },
+      {
+         "Country": "Denmark",
+         "Change compared to the same quarter of the previous year": "0.2"
+      },
+      {
+         "Country": "Greece",
+         "Change compared to the same quarter of the previous year": "0.2"
+      },
+      {
+         "Country": "Finland",
+         "Change compared to the same quarter of the previous year": "0.2"
+      },
+      {
+         "Country": "Ireland",
+         "Change compared to the same quarter of the previous year": "0.1"
+      },
+      {
+         "Country": "Italy",
+         "Change compared to the same quarter of the previous year": "0.1"
+      },
+      {
+         "Country": "Latvia",
+         "Change compared to the same quarter of the previous year": "-0.1"
+      }
+   ],
+   "gold": "The statistic shows the growth of the real gross domestic product ( GDP ) in the EU member states in the first quarter 2019 compared to the same quarter of the previous year . GDP is the total value of all goods and services produced in a country in a year . It is considered to be a very important indicator of the economic strength of a country and a positive change in it is a sign of economic growth .\n"
+}

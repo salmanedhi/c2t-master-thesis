@@ -1,0 +1,66 @@
+{
+   "title": "Italy : most-followed Italian fashion brands on Instagram 2018",
+   "xAxis": "Brand Name",
+   "yAxis": "Number of Instagram followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , Gucci was the Italy most-followed Brand Name at 21.0 Instagram . ",
+      "Currently in its seventh generation , it was first followers in and had been popular with Italian consumers from the beginning . ",
+      "Two years after its introduction on the market , the Gucci Mk1 had already reached the peak of the most followers supermini Brand ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "11": "0"
+      },
+      {},
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand Name": "Gucci",
+         "Number of Instagram followers in millions": "21.0"
+      },
+      {
+         "Brand Name": "Dolce & Gabbana",
+         "Number of Instagram followers in millions": "15.8"
+      },
+      {
+         "Brand Name": "Prada",
+         "Number of Instagram followers in millions": "14.6"
+      },
+      {
+         "Brand Name": "Versace",
+         "Number of Instagram followers in millions": "11.3"
+      },
+      {
+         "Brand Name": "Valentino",
+         "Number of Instagram followers in millions": "9.8"
+      },
+      {
+         "Brand Name": "Giorgio Armani",
+         "Number of Instagram followers in millions": "9.9"
+      },
+      {
+         "Brand Name": "Fendi",
+         "Number of Instagram followers in millions": "8.5"
+      },
+      {
+         "Brand Name": "Moschino",
+         "Number of Instagram followers in millions": "5.8"
+      },
+      {
+         "Brand Name": "Miu Miu",
+         "Number of Instagram followers in millions": "4.9"
+      },
+      {
+         "Brand Name": "Roberto Cavalli Official",
+         "Number of Instagram followers in millions": "4.4"
+      }
+   ],
+   "gold": "The statistic illustrates the leading Italian fashion brands ranked by number of Instagram followers as of February 2018 . During the survey period in February 2018 , it was reported that Gucci ranked first with 21 million followers .\n"
+}

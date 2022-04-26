@@ -1,0 +1,61 @@
+{
+   "title": "`` Game of Thrones `` deadliest seasons 2019 , by number of deaths",
+   "xAxis": "Season",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of deaths conducted by Thrones in a `` deadliest . ",
+      "\\\\n From the chart we see that the Season_3 Season was the `` Game Season in the deadliest with 3523 deaths . ",
+      "The next Season to make the most deaths was the Season_4 Season with 182 deaths closely followed by Season_8 with 3523 deaths ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "7"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "7",
+         "20": "7"
+      }
+   ],
+   "data": [
+      {
+         "Season": "Season 1",
+         "Number of deaths": "59"
+      },
+      {
+         "Season": "Season 2",
+         "Number of deaths": "130"
+      },
+      {
+         "Season": "Season 3",
+         "Number of deaths": "87"
+      },
+      {
+         "Season": "Season 4",
+         "Number of deaths": "182"
+      },
+      {
+         "Season": "Season 5",
+         "Number of deaths": "246"
+      },
+      {
+         "Season": "Season 6",
+         "Number of deaths": "540"
+      },
+      {
+         "Season": "Season 7",
+         "Number of deaths": "1096"
+      },
+      {
+         "Season": "Season 8",
+         "Number of deaths": "3523"
+      }
+   ],
+   "gold": "Season 8 of HBO 's \u2018 Game of Thrones ' was its deadliest season of all time , with a total of around 3,523 deaths compared to just 59 in the first season . Season 8 , the show 's final season , accounted for significantly more deaths than the first seven seasons combined.The deadliest location in the Game of Thrones series was \u2018 Winterfell ' _ , which hosted one of the show 's final battles . Game of Thrones \u2018 Game of Thrones ' is arguably one of the most successful television shows of all time , with millions of viewers from around the world tuning in to view each of its eight seasons and dozens of Primetime Emmy Awards recognizing its success .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Average player salary in the Scottish Premiership 2019/20 , by team",
+   "xAxis": "Team Name",
+   "yAxis": "Average player salary in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Average player salary of the Team in St_Mirren Professional Baseball in 2019 . ",
+      "The Celtic had an Average player salary of 1119.46 thousand U.S. dollars for the 2019 season ."
+   ],
+   "trends": [
+      {
+         "11": "9"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Team Name": "Celtic",
+         "Average player salary in thousand U.S. dollars": "1119.46"
+      },
+      {
+         "Team Name": "Rangers",
+         "Average player salary in thousand U.S. dollars": "812.21"
+      },
+      {
+         "Team Name": "Aberdeen",
+         "Average player salary in thousand U.S. dollars": "175.58"
+      },
+      {
+         "Team Name": "Hearts",
+         "Average player salary in thousand U.S. dollars": "172.43"
+      },
+      {
+         "Team Name": "Hibernian",
+         "Average player salary in thousand U.S. dollars": "149.63"
+      },
+      {
+         "Team Name": "Kilmarnock",
+         "Average player salary in thousand U.S. dollars": "85.51"
+      },
+      {
+         "Team Name": "St Johnstone",
+         "Average player salary in thousand U.S. dollars": "78.36"
+      },
+      {
+         "Team Name": "Motherwell",
+         "Average player salary in thousand U.S. dollars": "74.13"
+      },
+      {
+         "Team Name": "Ross County",
+         "Average player salary in thousand U.S. dollars": "69.47"
+      },
+      {
+         "Team Name": "St Mirren",
+         "Average player salary in thousand U.S. dollars": "60.78"
+      },
+      {
+         "Team Name": "Livingston",
+         "Average player salary in thousand U.S. dollars": "53.88"
+      },
+      {
+         "Team Name": "Hamilton",
+         "Average player salary in thousand U.S. dollars": "51.44"
+      }
+   ],
+   "gold": "In the 2019/2020 season , Celtic was the highest paying club in Scottish Premiership . The average annual player salary in that season was 1.12 million U.S. dollars , while in Hamilton , the lowest paying club in the Scottish Premiership , it was 51.44 thousand U.S. dollars . 12 clubs consistently play in the Scottish Premiership .\n"
+}

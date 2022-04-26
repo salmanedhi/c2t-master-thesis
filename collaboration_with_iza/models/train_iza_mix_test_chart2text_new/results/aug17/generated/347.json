@@ -1,0 +1,110 @@
+{
+   "title": "Most popular social media apps in the U.S. 2019 , by reach",
+   "xAxis": "Platform",
+   "yAxis": "Mobile reach",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Mobile of reach made by Platform . ",
+      "\\n Pinterest has the highest Mobile of reach sitting at 12.8",
+      "\\n Second to Pinterest is Facebook_Messenger at 9.2 reach ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook (main)",
+         "Mobile reach": "90.9"
+      },
+      {
+         "Platform": "Instagram (main)",
+         "Mobile reach": "64.92"
+      },
+      {
+         "Platform": "Facebook Messenger",
+         "Mobile reach": "56.97"
+      },
+      {
+         "Platform": "Twitter (main)",
+         "Mobile reach": "43.62"
+      },
+      {
+         "Platform": "Pinterest",
+         "Mobile reach": "35.81"
+      },
+      {
+         "Platform": "Reddit",
+         "Mobile reach": "25.63"
+      },
+      {
+         "Platform": "Snapchat",
+         "Mobile reach": "24.62"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Mobile reach": "13.69"
+      },
+      {
+         "Platform": "Messenger by Google",
+         "Mobile reach": "9.35"
+      },
+      {
+         "Platform": "Tumblr",
+         "Mobile reach": "8.96"
+      },
+      {
+         "Platform": "Discord - Chat for Games",
+         "Mobile reach": "8.03"
+      },
+      {
+         "Platform": "Google Hangouts (main)",
+         "Mobile reach": "7.59"
+      },
+      {
+         "Platform": "GroupMe",
+         "Mobile reach": "5.75"
+      },
+      {
+         "Platform": "Kik",
+         "Mobile reach": "4.13"
+      },
+      {
+         "Platform": "TikTok (main)",
+         "Mobile reach": "3.34"
+      },
+      {
+         "Platform": "Skype (main)",
+         "Mobile reach": "2.96"
+      },
+      {
+         "Platform": "TikTok",
+         "Mobile reach": "2.01"
+      },
+      {
+         "Platform": "Telegram",
+         "Mobile reach": "1.85"
+      },
+      {
+         "Platform": "LINE",
+         "Mobile reach": "1.68"
+      },
+      {
+         "Platform": "Google+",
+         "Mobile reach": "1.4"
+      },
+      {
+         "Platform": "WeChat",
+         "Mobile reach": "0.79"
+      }
+   ],
+   "gold": "Facebook is by far the most popular mobile social networking app in the United States \u2013 in September 2019 , 90.9 percent of U.S. mobile users accessed the mobile app . The company 's other mobile social media properties Facebook Messenger and Instagram were ranked second and third with 64.92 and almost 57 percent audience reach respectively . Mobile social media Accessing social media is one of the leading mobile activities in the United States .\n"
+}

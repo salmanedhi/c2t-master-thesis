@@ -1,0 +1,93 @@
+{
+   "title": "U.S. exports - top trading partners 2018",
+   "xAxis": "Country",
+   "yAxis": "Export value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the U.S. exports Country in terms of the Export of value with United_Kingdom having the U.S. \u2013 298.7 value down to Mexico the least exports of the group at 30.2 value . ",
+      "In between , we have Canada 298.7 , Taiwan 30.2 , Japan 75.0 and China 120.3 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "14"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "14",
+         "9": "14",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Export value in billion U.S. dollars": "298.7"
+      },
+      {
+         "Country": "Mexico",
+         "Export value in billion U.S. dollars": "265.0"
+      },
+      {
+         "Country": "China",
+         "Export value in billion U.S. dollars": "120.3"
+      },
+      {
+         "Country": "Japan",
+         "Export value in billion U.S. dollars": "75.0"
+      },
+      {
+         "Country": "United Kingdom",
+         "Export value in billion U.S. dollars": "66.2"
+      },
+      {
+         "Country": "Germany",
+         "Export value in billion U.S. dollars": "57.7"
+      },
+      {
+         "Country": "Korea South",
+         "Export value in billion U.S. dollars": "56.3"
+      },
+      {
+         "Country": "Netherlands",
+         "Export value in billion U.S. dollars": "49.4"
+      },
+      {
+         "Country": "Brazil",
+         "Export value in billion U.S. dollars": "39.5"
+      },
+      {
+         "Country": "Hong Kong",
+         "Export value in billion U.S. dollars": "37.5"
+      },
+      {
+         "Country": "France",
+         "Export value in billion U.S. dollars": "36.3"
+      },
+      {
+         "Country": "Singapore",
+         "Export value in billion U.S. dollars": "33.1"
+      },
+      {
+         "Country": "India",
+         "Export value in billion U.S. dollars": "33.1"
+      },
+      {
+         "Country": "Belgium",
+         "Export value in billion U.S. dollars": "31.4"
+      },
+      {
+         "Country": "Taiwan",
+         "Export value in billion U.S. dollars": "30.2"
+      }
+   ],
+   "gold": "This graph shows the largest trading partners for the United States in 2018 , by value of exported trade goods . In 2018 , the United States exported trade goods worth about 39.5 billion U.S. dollars to Brazil .\n"
+}

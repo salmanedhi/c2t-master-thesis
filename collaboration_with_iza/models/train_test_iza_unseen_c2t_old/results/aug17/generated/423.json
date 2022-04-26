@@ -1,0 +1,49 @@
+{
+   "title": "Kickstarter : distribution of unsuccessfully funded projects 2019",
+   "xAxis": "Percent funded",
+   "yAxis": "Number of projects",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of successfully funded projects on the crowdfunding platform Kickstarter as of 2 , 2018 . ",
+      "It shows the Number of total successfully funded projects by funds funded . ",
+      "As of that time , the Number of successfully funded projects at Kickstarter which funded 0 81-99 one percent funded dollars amounted to 3409 projects ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "15": "5",
+         "16": "0",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Percent funded": "81-99",
+         "Number of projects": "3409"
+      },
+      {
+         "Percent funded": "61-80",
+         "Number of projects": "4866"
+      },
+      {
+         "Percent funded": "41-60",
+         "Number of projects": "12075"
+      },
+      {
+         "Percent funded": "21-40",
+         "Number of projects": "29177"
+      },
+      {
+         "Percent funded": "1-20",
+         "Number of projects": "186808"
+      },
+      {
+         "Percent funded": "0",
+         "Number of projects": "55488"
+      }
+   ],
+   "gold": "The total number of unsuccessfully funded projects on the U.S. crowdfunding platform Kickstarter amounted to 291,825 up to December 11 , 2019 . The number of projects that were 0 percent funded was 55,488 up to this point . Crowdfunding failure Putting yourself , your ideas and your projects out into the world and subjecting them to the possibility of public scrutiny is not the easiest pill to swallow for a lot of people , and failure can be hard to accept .\n"
+}

@@ -1,0 +1,75 @@
+{
+   "title": "Most used housewrap brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Most used housewrap brands U.S. in the 2018 as of 2018 . ",
+      "During the survey , 6.1 % of U.S. stated James_Hardie and as a favorite housewrap Brand ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "9": "2",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Tyvek (Dupont)",
+         "Share of respondents": "57.4"
+      },
+      {
+         "Brand": "Typar (Fiberweb)",
+         "Share of respondents": "13"
+      },
+      {
+         "Brand": "James Hardie",
+         "Share of respondents": "6.1"
+      },
+      {
+         "Brand": "Weathermate (Dow)",
+         "Share of respondents": "2.6"
+      },
+      {
+         "Brand": "Pinkwrap (Owens Corning)",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Benjamin Obdyke",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Protecto Wrap",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Henry Blueskin",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "Poly-Wall",
+         "Share of respondents": "1.7"
+      },
+      {
+         "Brand": "DELTA-DRY (Cosella Dorken)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "CertaWrap (CertainTeed)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "GreenGuard (Pactiv)",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "None of these",
+         "Share of respondents": "9.6"
+      }
+   ],
+   "gold": "This statistic depicts housewrap brands used the most by U.S. construction firms in 2018 . The survey revealed that 57.4 percent of the respondents used Tyvek ( DuPont ) brand housewrap the most .\n"
+}

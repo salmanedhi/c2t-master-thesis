@@ -1,0 +1,72 @@
+{
+   "title": "Top cotton exporting countries 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Exports in thousand bales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Exports of the Top cotton Country in Top . ",
+      "\\n The Top cotton Country is Australia at 131 degrees , followed by United_States at 3214 degrees , Uzbekistan at 131 degrees , Brazil at 1309 degrees , India at 762 and the warmest of the displayed Country is Benin at 3214 thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2",
+         "8": "9",
+         "13": "0",
+         "15": "0",
+         "18": "9",
+         "20": "9",
+         "23": "1",
+         "25": "1",
+         "28": "3",
+         "30": "3",
+         "39": "4",
+         "41": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Exports in thousand bales": "3214"
+      },
+      {
+         "Country": "Brazil",
+         "Exports in thousand bales": "1309"
+      },
+      {
+         "Country": "Australia",
+         "Exports in thousand bales": "791"
+      },
+      {
+         "Country": "India",
+         "Exports in thousand bales": "762"
+      },
+      {
+         "Country": "Benin",
+         "Exports in thousand bales": "305"
+      },
+      {
+         "Country": "Greece",
+         "Exports in thousand bales": "294"
+      },
+      {
+         "Country": "Mali",
+         "Exports in thousand bales": "288"
+      },
+      {
+         "Country": "Burkina",
+         "Exports in thousand bales": "205"
+      },
+      {
+         "Country": "Cote dchr Ivoire",
+         "Exports in thousand bales": "195"
+      },
+      {
+         "Country": "Uzbekistan",
+         "Exports in thousand bales": "131"
+      }
+   ],
+   "gold": "The United States was the leading exporter of cotton worldwide in 2018/2019 . In that time period , the U.S. cotton industry had an export volume of 3.21 million metric tons . Cotton products Cotton is one of the most versatile and widely used materials .\n"
+}

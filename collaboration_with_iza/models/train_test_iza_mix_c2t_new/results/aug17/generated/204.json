@@ -1,0 +1,38 @@
+{
+   "title": "Netflix content watching worldwide by device 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of time spent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the four most popular Netflix content watching as of 2017 , sorted by Share of worldwide Netflix time . ",
+      "During that month , Television accounted for 70 % of worldwide Netflix time ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Television",
+         "Share of time spent": "70"
+      },
+      {
+         "Platform": "PC/laptop",
+         "Share of time spent": "15"
+      },
+      {
+         "Platform": "Mobile",
+         "Share of time spent": "10"
+      },
+      {
+         "Platform": "Tablet",
+         "Share of time spent": "5"
+      }
+   ],
+   "gold": "The figure shows the share of time spent watching Netflix worldwide in 2017 , by device . According to the source , 70 percent of content streamed on Netflix worldwide in 2017 was via a connected TV .\n"
+}

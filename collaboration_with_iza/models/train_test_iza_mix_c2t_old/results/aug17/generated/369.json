@@ -1,0 +1,79 @@
+{
+   "title": "Number of Blockchain wallet users globally 2016 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This timeline displays the Number of Blockchain users millions to social network Blockchain . ",
+      "As of the second Quarter of 2019 , Blockchain had an average of 44.69 millions Blockchain via users . ",
+      "These accounted for 59 millions of all Blockchain millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Number of users in millions": "44.69"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of users in millions": "42.31"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of users in millions": "40.09"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of users in millions": "34.66"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of users in millions": "31.91"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of users in millions": "28.89"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of users in millions": "25.76"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of users in millions": "23.95"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of users in millions": "21.51"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of users in millions": "17.26"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of users in millions": "14.97"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of users in millions": "12.89"
+      },
+      {
+         "Quarter": "Q4' 16",
+         "Number of users in millions": "10.98"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of users in millions": "8.95"
+      }
+   ],
+   "gold": "The number of Blockchain wallets has been growing since the creation of the Bitcoin virtual currency in 2009 , reaching over 44 million Blockchain wallet users at the end of December 2019 . Blockchain is the technology that made Bitcoin popular and is a critical part of most cryptocurrencies . A `` block `` in this case refers to a record of the owners of all bitcoins , as well as the previous owners .\n"
+}

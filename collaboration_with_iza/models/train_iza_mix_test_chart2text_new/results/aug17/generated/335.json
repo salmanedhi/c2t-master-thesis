@@ -1,0 +1,75 @@
+{
+   "title": "Largest cities in Finland 2018",
+   "xAxis": "City",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Largest cities City in Finland by Number . ",
+      "The Largest cities City with an average Number of 84403 \u00b0 inhabitants is Tampere , followed by Helsinki at 648042 \u00b0 , Pori at 84403 \u00b0 inhabitants , then Espoo at 283632 \u00b0 inhabitants . ",
+      "Oulu is the warmest City shown with an average Number of 648042 \u00b0 inhabitants , closely followed by Vantaa at 228166 \u00b0 inhabitants ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9",
+         "13": "2",
+         "17": "0",
+         "19": "0",
+         "22": "9",
+         "24": "9",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "0",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "City": "Helsinki",
+         "Number of inhabitants": "648042"
+      },
+      {
+         "City": "Espoo",
+         "Number of inhabitants": "283632"
+      },
+      {
+         "City": "Tampere",
+         "Number of inhabitants": "235239"
+      },
+      {
+         "City": "Vantaa",
+         "Number of inhabitants": "228166"
+      },
+      {
+         "City": "Oulu",
+         "Number of inhabitants": "203567"
+      },
+      {
+         "City": "Turku",
+         "Number of inhabitants": "191331"
+      },
+      {
+         "City": "Jyv\u00e4skyl\u00e4",
+         "Number of inhabitants": "141305"
+      },
+      {
+         "City": "Lahti",
+         "Number of inhabitants": "119951"
+      },
+      {
+         "City": "Kuopio",
+         "Number of inhabitants": "118664"
+      },
+      {
+         "City": "Pori",
+         "Number of inhabitants": "84403"
+      }
+   ],
+   "gold": "This statistic shows the ten largest cities in Finland as of December 2018 . The largest city in Finland is Helsinki with roughly 648 thousand citizens . Helsinki is the capital of Finland and is located in the south .\n"
+}

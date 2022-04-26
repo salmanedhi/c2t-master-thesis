@@ -1,0 +1,59 @@
+{
+   "title": "Total S.A. 's proved reserves by region 2018",
+   "xAxis": "Country",
+   "yAxis": "Proved reserves in million barrels oil equivalent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Total S.A. 's in S.A. by Proved . ",
+      "The Total S.A. Country with an Proved of 843 \u00b0 reserves is Americas , followed by Europe_&_Central_Asia at 4431 \u00b0 reserves , Total at 12050 \u00b0 reserves , then Middle_East_&_North_Africa at 3171 \u00b0 reserves . ",
+      "Asia_Pacific is the warmest Country shown with an average Proved of 12050 \u00b0 reserves , closely followed by Africa at 1668 \u00b0 reserves ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "12": "2",
+         "16": "0",
+         "18": "0",
+         "22": "5",
+         "24": "5",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "5",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Europe & Central Asia",
+         "Proved reserves in million barrels oil equivalent": "4431"
+      },
+      {
+         "Country": "Middle East & North Africa",
+         "Proved reserves in million barrels oil equivalent": "3171"
+      },
+      {
+         "Country": "Americas",
+         "Proved reserves in million barrels oil equivalent": "1937"
+      },
+      {
+         "Country": "Africa",
+         "Proved reserves in million barrels oil equivalent": "1668"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Proved reserves in million barrels oil equivalent": "843"
+      },
+      {
+         "Country": "Total",
+         "Proved reserves in million barrels oil equivalent": "12050"
+      }
+   ],
+   "gold": "This statistic shows Total S.A. 's proved reserves by geographical region in 2018 , measured in million barrels of oil equivalent . In the Americas , there was a total of approximately 1.94 billion barrels of oil equivalent in 2018 . Total S.A. is one of the world 's largest oil and gas companies .\n"
+}

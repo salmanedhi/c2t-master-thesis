@@ -1,0 +1,82 @@
+{
+   "title": "Leading trends in appetizers on restaurant menus in the U.S. in 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents data on the popularity of the versions of the Flatbread_appetizers read in the restaurant as of 2016 . ",
+      "During the survey , 67 % of the respondents stated they most often read the Fresh/house-made_sausage of the Flatbread_appetizers . ",
+      "During the same survey , 32 % of respondents stated that they had never read the Flatbread_appetizers , whilst 16 % stated that they read the Flatbread_appetizers every day ."
+   ],
+   "trends": [
+      {
+         "12": "10"
+      },
+      {
+         "4": "0",
+         "15": "0",
+         "18": "10"
+      },
+      {
+         "16": "10",
+         "26": "10"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Fresh/house-made sausage",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "House-cured meats/charcuterie",
+         "Share of respondents": "59"
+      },
+      {
+         "Response": "Vegetarian appetizers",
+         "Share of respondents": "59"
+      },
+      {
+         "Response": "Ethnic/street food-inspired appetizers (e.g. tempura taquitos kabobs)",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Seafood charcuterie",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Amuse-bouche/bite-size hors d'oeuvre",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Ethnic dips (e.g. hummus tabbouleh baba ganoush tzatziki)",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Poke/ceviche",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Bone marrow",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Jerky (e.g. beef fish turkey boar bison)",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Flatbread appetizers",
+         "Share of respondents": "30"
+      },
+      {
+         "Response": "Oysters",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "Sliders/mini-burgers",
+         "Share of respondents": "24"
+      }
+   ],
+   "gold": "This statistic shows the leading trends in appetizers on restaurant menus in the United States as forecasted by professional chefs for 2016 . During the survey , 59 percent of the respondents stated that house-cured meats/charcuterie was a `` hot trend `` for restaurant menus in 2016 .\n"
+}

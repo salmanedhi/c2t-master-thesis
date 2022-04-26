@@ -1,0 +1,185 @@
+{
+   "title": "Wholesale price of red peppers in the United Kingdom ( UK ) 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in British pounds per kilogram",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Wholesale price Month in terms of the Price of British with Jul_'19 having the Wholesale \u2013 2.03 British down to Oct_'19 the least price of the group at 0.41 British . ",
+      "In between , we have Nov_'19 0.59 , Apr_'15 1.49 , Aug_'19 1.03 and Sep_'19 0.8 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "7",
+         "24": "1",
+         "32": "31"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "37",
+         "9": "37",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in British pounds per kilogram": "0.59"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in British pounds per kilogram": "0.73"
+      },
+      {
+         "Month": "Sep '19",
+         "Price in British pounds per kilogram": "0.8"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in British pounds per kilogram": "1.03"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in British pounds per kilogram": "1.27"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in British pounds per kilogram": "1.91"
+      },
+      {
+         "Month": "May '19",
+         "Price in British pounds per kilogram": "1.73"
+      },
+      {
+         "Month": "Apr '19",
+         "Price in British pounds per kilogram": "2.03"
+      },
+      {
+         "Month": "Nov '18",
+         "Price in British pounds per kilogram": "0.66"
+      },
+      {
+         "Month": "Oct '18",
+         "Price in British pounds per kilogram": "0.61"
+      },
+      {
+         "Month": "Sep '18",
+         "Price in British pounds per kilogram": "0.85"
+      },
+      {
+         "Month": "Aug '18",
+         "Price in British pounds per kilogram": "0.7"
+      },
+      {
+         "Month": "Jul '18",
+         "Price in British pounds per kilogram": "0.83"
+      },
+      {
+         "Month": "Jun '18",
+         "Price in British pounds per kilogram": "1.22"
+      },
+      {
+         "Month": "May '18",
+         "Price in British pounds per kilogram": "1.03"
+      },
+      {
+         "Month": "Apr '18",
+         "Price in British pounds per kilogram": "0.65"
+      },
+      {
+         "Month": "Dec '17",
+         "Price in British pounds per kilogram": "0.6"
+      },
+      {
+         "Month": "Nov '17",
+         "Price in British pounds per kilogram": "0.73"
+      },
+      {
+         "Month": "Oct '17",
+         "Price in British pounds per kilogram": "1.09"
+      },
+      {
+         "Month": "Sep '17",
+         "Price in British pounds per kilogram": "1.15"
+      },
+      {
+         "Month": "Aug '17",
+         "Price in British pounds per kilogram": "0.76"
+      },
+      {
+         "Month": "Jul '17",
+         "Price in British pounds per kilogram": "0.89"
+      },
+      {
+         "Month": "Jun '17",
+         "Price in British pounds per kilogram": "1.59"
+      },
+      {
+         "Month": "May '17",
+         "Price in British pounds per kilogram": "1.3"
+      },
+      {
+         "Month": "Apr '17",
+         "Price in British pounds per kilogram": "1.09"
+      },
+      {
+         "Month": "Dec '16",
+         "Price in British pounds per kilogram": "0.89"
+      },
+      {
+         "Month": "Nov '16",
+         "Price in British pounds per kilogram": "0.66"
+      },
+      {
+         "Month": "Sep '16",
+         "Price in British pounds per kilogram": "0.55"
+      },
+      {
+         "Month": "Aug '16",
+         "Price in British pounds per kilogram": "0.86"
+      },
+      {
+         "Month": "Jul '16",
+         "Price in British pounds per kilogram": "1.3"
+      },
+      {
+         "Month": "Jun '16",
+         "Price in British pounds per kilogram": "1.2"
+      },
+      {
+         "Month": "Nov '15",
+         "Price in British pounds per kilogram": "0.41"
+      },
+      {
+         "Month": "Sep '15",
+         "Price in British pounds per kilogram": "0.6"
+      },
+      {
+         "Month": "Aug '15",
+         "Price in British pounds per kilogram": "0.64"
+      },
+      {
+         "Month": "Jul '15",
+         "Price in British pounds per kilogram": "0.65"
+      },
+      {
+         "Month": "Jun '15",
+         "Price in British pounds per kilogram": "0.83"
+      },
+      {
+         "Month": "May '15",
+         "Price in British pounds per kilogram": "0.85"
+      },
+      {
+         "Month": "Apr '15",
+         "Price in British pounds per kilogram": "1.49"
+      }
+   ],
+   "gold": "This statistic displays the wholesale price of red peppers in the United Kingdom ( UK ) from 2015 to 2019 . The wholesale price of red peppers was valued at 0.59 British pounds per kilogram in November 2019 .\n"
+}

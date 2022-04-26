@@ -1,0 +1,58 @@
+{
+   "title": "Value of ayurvedic and herbal products from India 2014 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Export value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Export of value million at the India from FY_2019 to FY_2015 . ",
+      "\\\\n In FY_2019 the India saw 446.13 million , in FY_2018 there were 456.12 million , FY_2017 saw at least 401.68 million , 354.68 million in FY_2015 and 354.68 in FY_2015 . ",
+      "FY_2018 had the highest Export of million whilst FY_2016 had the lowest ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "4"
+      },
+      {
+         "2": "0",
+         "6": "0",
+         "10": "1",
+         "13": "1",
+         "16": "2",
+         "20": "2",
+         "23": "4",
+         "26": "4",
+         "28": "4",
+         "30": "4"
+      },
+      {
+         "0": "1",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Export value in million U.S. dollars": "446.13"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Export value in million U.S. dollars": "456.12"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Export value in million U.S. dollars": "401.68"
+      },
+      {
+         "Fiscal Year": "FY 2016",
+         "Export value in million U.S. dollars": "364.0"
+      },
+      {
+         "Fiscal Year": "FY 2015",
+         "Export value in million U.S. dollars": "354.68"
+      }
+   ],
+   "gold": "The export value of ayurvedic and herbal products amounted to about 446 million U.S. dollars from India in fiscal year 2019 . There was a consistent increase in the value of these exports since fiscal year 2015 . Agricultural and allied sectors , of which ayurvedic and herbal products are part of , contributed to about 8.6 percent of the country 's exports .\n"
+}

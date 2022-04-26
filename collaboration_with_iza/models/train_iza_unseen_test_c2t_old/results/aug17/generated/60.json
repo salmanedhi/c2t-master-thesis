@@ -1,0 +1,151 @@
+{
+   "title": "UEFA Champions League most appearances by club 2019",
+   "xAxis": "Football Club",
+   "yAxis": "Appearances by club",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the UEFA Champions in UEFA Champions League . ",
+      "It shows AFC_Ajax was the UEFA at just 21 degrees and FC_Dynamo_Kyiv was the warmest at 49 degrees . ",
+      "After AFC_Ajax , the next UEFA Champions are Real_Madrid at 49 degrees , followed by Sporting_Clube_de_Portugal at 18 degrees , SL_Benfica at 38 degrees and then FC_Bayern_M\u00fcnchen at 35 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "27",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "28",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Football Club": "Real Madrid",
+         "Appearances by club": "49"
+      },
+      {
+         "Football Club": "SL Benfica",
+         "Appearances by club": "38"
+      },
+      {
+         "Football Club": "AFC Ajax",
+         "Appearances by club": "35"
+      },
+      {
+         "Football Club": "FC Bayern M\u00fcnchen",
+         "Appearances by club": "35"
+      },
+      {
+         "Football Club": "FC Dynamo Kyiv",
+         "Appearances by club": "35"
+      },
+      {
+         "Football Club": "RSC Anderlecht",
+         "Appearances by club": "34"
+      },
+      {
+         "Football Club": "Juventus",
+         "Appearances by club": "33"
+      },
+      {
+         "Football Club": "Celtic FC",
+         "Appearances by club": "33"
+      },
+      {
+         "Football Club": "FC Porto",
+         "Appearances by club": "33"
+      },
+      {
+         "Football Club": "Olympiacos FC",
+         "Appearances by club": "31"
+      },
+      {
+         "Football Club": "Rangers FC",
+         "Appearances by club": "30"
+      },
+      {
+         "Football Club": "FC Barcelona",
+         "Appearances by club": "29"
+      },
+      {
+         "Football Club": "Manchester United FC",
+         "Appearances by club": "28"
+      },
+      {
+         "Football Club": "AC Milan",
+         "Appearances by club": "28"
+      },
+      {
+         "Football Club": "Panathinaikos FC",
+         "Appearances by club": "28"
+      },
+      {
+         "Football Club": "Linfield FC",
+         "Appearances by club": "28"
+      },
+      {
+         "Football Club": "AC Sparta Praha",
+         "Appearances by club": "27"
+      },
+      {
+         "Football Club": "PSV Eindhoven",
+         "Appearances by club": "27"
+      },
+      {
+         "Football Club": "FC Steaua Bucuresti",
+         "Appearances by club": "26"
+      },
+      {
+         "Football Club": "Fenerbahce SK",
+         "Appearances by club": "26"
+      },
+      {
+         "Football Club": "Galatasaray AS",
+         "Appearances by club": "25"
+      },
+      {
+         "Football Club": "PFC CSKA Sofia",
+         "Appearances by club": "25"
+      },
+      {
+         "Football Club": "FK Crvena zvezda",
+         "Appearances by club": "24"
+      },
+      {
+         "Football Club": "Rosenborg BK",
+         "Appearances by club": "24"
+      },
+      {
+         "Football Club": "Liverpool FC",
+         "Appearances by club": "23"
+      },
+      {
+         "Football Club": "FK Partizan",
+         "Appearances by club": "22"
+      },
+      {
+         "Football Club": "AS Jeunesse Esch",
+         "Appearances by club": "22"
+      },
+      {
+         "Football Club": "Arsenal FC",
+         "Appearances by club": "21"
+      },
+      {
+         "Football Club": "Sporting Clube de Portugal",
+         "Appearances by club": "21"
+      }
+   ],
+   "gold": "Real Madrid is the football club in Europe with the most appearances in the UEFA Champions League , taking part in the tournament 49 times with 431 matches played since 1955 . The club also shares the record for final match appearances alongside AC Milan and Juventus , of which every club made it to the finals six times so far . However , Real Madrid won the most Champions League titles by far , trailing with 13 titles , followed by AC Milan with 7 titles .\n"
+}

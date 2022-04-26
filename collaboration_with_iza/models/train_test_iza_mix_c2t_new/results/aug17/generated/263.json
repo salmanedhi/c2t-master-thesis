@@ -1,0 +1,55 @@
+{
+   "title": "Number of Overwatch players worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , photo sharing platform Overwatch reported 40 millions Number Overwatch players worldwide , up from 35 millions global players in October_2017 . ",
+      "Overwatch is a feature of the app allowing players post photo and video sequences that disappear 24 hours after being posted . ",
+      "Overwatch usageInstagram has over 40 millions monthly Overwatch players and is one of the most popular social networks worldwide ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "18": "1",
+         "23": "1"
+      },
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "May 2018",
+         "Number of players in millions": "40"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "35"
+      },
+      {
+         "Month": "April 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "January 2017",
+         "Number of players in millions": "25"
+      },
+      {
+         "Month": "October 2016",
+         "Number of players in millions": "20"
+      },
+      {
+         "Month": "August 2016",
+         "Number of players in millions": "15"
+      },
+      {
+         "Month": "May 2016",
+         "Number of players in millions": "7"
+      }
+   ],
+   "gold": "How many people play Overwatch ? Overwatch , a team-based first-person shooter video game , launched in May 2016 and already a week later it was reported to have had seven million players . As of May 2018 , Overwatch had 40 million players worldwide . Overwatch 's eSports success While the number of gamers playing Overwatch has increased dramatically , so has the appeal of the game as an eSport .\n"
+}

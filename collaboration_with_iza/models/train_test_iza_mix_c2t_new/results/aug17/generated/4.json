@@ -1,0 +1,111 @@
+{
+   "title": "Box office revenue of the most successful Christmas movies",
+   "xAxis": "Christmas movies ",
+   "yAxis": "Box office revenue in U.S. million dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of , Home_Alone(1990) was the revenue Dr._Seuss'_The_Grinch_(2018) in the Christmas with most office . ",
+      "Over that year , they had the Box movies in the world was Dr._Seuss'_The_Grinch_(2018) , with approximately 285.76 million U.S.",
+      "In , How_the_Grinch_StoleChristmas_(2000) Home_Alone(1990) was the Box office , with an Box office of around 270.52 million U.S. ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "8": "1"
+      },
+      {
+         "13": "1",
+         "17": "0"
+      },
+      {
+         "2": "2",
+         "3": "0",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Christmas movies ": "Home Alone(1990)",
+         "Box office revenue in U.S. million dollars": "285.76"
+      },
+      {
+         "Christmas movies ": "Dr. Seuss' The Grinch (2018)",
+         "Box office revenue in U.S. million dollars": "270.52"
+      },
+      {
+         "Christmas movies ": "How the Grinch StoleChristmas (2000)",
+         "Box office revenue in U.S. million dollars": "260.04"
+      },
+      {
+         "Christmas movies ": "The Polar Express(2004)",
+         "Box office revenue in U.S. million dollars": "157.22"
+      },
+      {
+         "Christmas movies ": "Elf(2003)",
+         "Box office revenue in U.S. million dollars": "173.84"
+      },
+      {
+         "Christmas movies ": "Home Alone 2: Lost in New York(1992)",
+         "Box office revenue in U.S. million dollars": "173.59"
+      },
+      {
+         "Christmas movies ": "The Santa Clause(1994)",
+         "Box office revenue in U.S. million dollars": "144.83"
+      },
+      {
+         "Christmas movies ": "The Santa Clause 2(2002)",
+         "Box office revenue in U.S. million dollars": "139.24"
+      },
+      {
+         "Christmas movies ": "A Christmas Carol(2009)",
+         "Box office revenue in U.S. million dollars": "137.86"
+      },
+      {
+         "Christmas movies ": "Four Christmases(2008)",
+         "Box office revenue in U.S. million dollars": "120.15"
+      },
+      {
+         "Christmas movies ": "Daddy's Home 2(2017)",
+         "Box office revenue in U.S. million dollars": "104.03"
+      },
+      {
+         "Christmas movies ": "The Santa Clause 3:The Escape Clause (2006)",
+         "Box office revenue in U.S. million dollars": "84.5"
+      },
+      {
+         "Christmas movies ": "Tim Burton's NightmareBefore Christmas (1993)",
+         "Box office revenue in U.S. million dollars": "75.08"
+      },
+      {
+         "Christmas movies ": "Christmas with the Kranks(2004)",
+         "Box office revenue in U.S. million dollars": "73.78"
+      },
+      {
+         "Christmas movies ": "A Bad Moms Christmas(2017)",
+         "Box office revenue in U.S. million dollars": "72.11"
+      },
+      {
+         "Christmas movies ": "Fred Claus(2007)",
+         "Box office revenue in U.S. million dollars": "72.01"
+      },
+      {
+         "Christmas movies ": "Christmas Vacation(1996)",
+         "Box office revenue in U.S. million dollars": "71.32"
+      },
+      {
+         "Christmas movies ": "The Best Man Holiday(2013)",
+         "Box office revenue in U.S. million dollars": "70.53"
+      },
+      {
+         "Christmas movies ": "Jingle All the Way(1996)",
+         "Box office revenue in U.S. million dollars": "60.59"
+      },
+      {
+         "Christmas movies ": "Scrooged(1988)",
+         "Box office revenue in U.S. million dollars": "60.33"
+      }
+   ],
+   "gold": "This statistic presents the 20 most successful Christmas movies at the North American box office . The most successful Christmas movie is Home Alone , with a lifetime gross of over 285.7 million U.S. dollars . The 2018 version of the Grinch was in second place , earning more than 270 million U.S. dollars at the domestic box office .\n"
+}

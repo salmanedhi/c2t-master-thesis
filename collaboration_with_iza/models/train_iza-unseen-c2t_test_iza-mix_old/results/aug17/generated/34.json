@@ -1,0 +1,42 @@
+{
+   "title": "The most frequent daily users of social media",
+   "xAxis": "Age Group",
+   "yAxis": "Minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Minutes of in the users diagnosed frequent daily A , sorted media Age Group , as of . ",
+      "In that year , 74 % of all Americans diagnosed frequent daily A were between 0 and 4 15-24 of Age ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age Group": "15-24",
+         "Minutes": "125"
+      },
+      {
+         "Age Group": "25-34",
+         "Minutes": "75"
+      },
+      {
+         "Age Group": "35-44",
+         "Minutes": "74"
+      },
+      {
+         "Age Group": "45-54",
+         "Minutes": "150"
+      },
+      {
+         "Age Group": "55-64",
+         "Minutes": "110"
+      }
+   ],
+   "gold": "This bar graph shows the most frequent daily users of social media by various age groups by time in minutes . The highest was the age bracket 45 - 54 at 150 minutes . Followed by the 15 - 24 age bracket which has a total of 124 minutes .\n"
+}

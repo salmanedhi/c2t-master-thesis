@@ -1,0 +1,77 @@
+{
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , Centro_Storico was the most populated Area in the Rome , with 7817 million euros . ",
+      "That was over 800,000 euros more than runner-up Aventino_San_Saba_Caracalla , the Area in which also the capital Amsterdam is located . ",
+      "That year , Amsterdam 's population alone made up 863,000 of Aventino_San_Saba_Caracalla 's nearly 6910 million euros ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "15": "0"
+      },
+      {
+         "8": "1"
+      },
+      {
+         "11": "1",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Area": "Centro Storico",
+         "Price in euros per square meter": "7817"
+      },
+      {
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": "6910"
+      },
+      {
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": "5622"
+      },
+      {
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": "5435"
+      },
+      {
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": "5137"
+      },
+      {
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": "4884"
+      },
+      {
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": "4531"
+      },
+      {
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": "4289"
+      },
+      {
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": "4107"
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": "4099"
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": "4000"
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": "3972"
+      }
+   ],
+   "gold": "The statistic shows the average price for houses , apartments and residential real estate for sale in selected areas of the Italian city of Rome as of December 2019 . According to the data , the sale price in the historic city center ( Centro Storico ) amounted to over 7.8 thousand euros per square meter .\n"
+}

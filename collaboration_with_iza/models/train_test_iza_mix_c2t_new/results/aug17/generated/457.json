@@ -1,0 +1,69 @@
+{
+   "title": "Global cumulative installed capacity of wind power by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Cumulative installed capacity in megawatts",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , China had 14490 of the highest wind power cumulative installed as a percentage of its Global among the select Country globally . ",
+      "China capacity energy-related installed Cumulative of Global totaled 216870 million within this period . ",
+      "Comparatively , Canada capacity cumulative of their Global was just 14490 % ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "7"
+      },
+      {
+         "0": "0",
+         "8": "0"
+      },
+      {
+         "2": "8"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Cumulative installed capacity in megawatts": "216870"
+      },
+      {
+         "Country": "United States",
+         "Cumulative installed capacity in megawatts": "96363"
+      },
+      {
+         "Country": "Germany",
+         "Cumulative installed capacity in megawatts": "59313"
+      },
+      {
+         "Country": "India",
+         "Cumulative installed capacity in megawatts": "35017"
+      },
+      {
+         "Country": "Spain",
+         "Cumulative installed capacity in megawatts": "23494"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cumulative installed capacity in megawatts": "20743"
+      },
+      {
+         "Country": "France",
+         "Cumulative installed capacity in megawatts": "15313"
+      },
+      {
+         "Country": "Brazil",
+         "Cumulative installed capacity in megawatts": "14490"
+      },
+      {
+         "Country": "Canada",
+         "Cumulative installed capacity in megawatts": "12816"
+      },
+      {
+         "Country": "Rest of the world",
+         "Cumulative installed capacity in megawatts": "102138"
+      }
+   ],
+   "gold": "China is by far the largest installer of wind power capacity in the world , more than doubling the second-ranked United States . As of 2018 , China had cumulatively installed over 216.87 gigawatts of wind energy , in comparison to 96.4 gigawatts of wind energy installed in the United States . Worldwide , cumulative capacity of installed wind energy reached 596.6 gigawatts in 2018 , a generous increase over the last decades .\n"
+}

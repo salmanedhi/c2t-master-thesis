@@ -1,0 +1,108 @@
+{
+   "title": "Countries with highest direct investment position received from the U.S. 2018",
+   "xAxis": "Country",
+   "yAxis": "Direct investments in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , Netherlands was ranked first among the Country with the most investments billion . ",
+      "Netherlands had 866.33 billion investments , more than double the amount of third-ranked Luxembourg with just over 713.83 billion investments . ",
+      "Overall , all BRIC markets had more than 100 billion investments , accounting for four of the eight Country with more than 100 billion investments ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "0": "0",
+         "2": "0",
+         "14": "2",
+         "18": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Netherlands",
+         "Direct investments in billion U.S. dollars": "866.33"
+      },
+      {
+         "Country": "United Kingdom",
+         "Direct investments in billion U.S. dollars": "757.78"
+      },
+      {
+         "Country": "Luxembourg",
+         "Direct investments in billion U.S. dollars": "713.83"
+      },
+      {
+         "Country": "Ireland",
+         "Direct investments in billion U.S. dollars": "442.17"
+      },
+      {
+         "Country": "Canada",
+         "Direct investments in billion U.S. dollars": "401.87"
+      },
+      {
+         "Country": "Switzerland",
+         "Direct investments in billion U.S. dollars": "278.04"
+      },
+      {
+         "Country": "Bermuda",
+         "Direct investments in billion U.S. dollars": "249.39"
+      },
+      {
+         "Country": "Singapore",
+         "Direct investments in billion U.S. dollars": "218.84"
+      },
+      {
+         "Country": "Australia",
+         "Direct investments in billion U.S. dollars": "162.98"
+      },
+      {
+         "Country": "Germany",
+         "Direct investments in billion U.S. dollars": "140.33"
+      },
+      {
+         "Country": "Japan",
+         "Direct investments in billion U.S. dollars": "125.49"
+      },
+      {
+         "Country": "China",
+         "Direct investments in billion U.S. dollars": "116.52"
+      },
+      {
+         "Country": "Mexico",
+         "Direct investments in billion U.S. dollars": "114.88"
+      },
+      {
+         "Country": "France",
+         "Direct investments in billion U.S. dollars": "86.86"
+      },
+      {
+         "Country": "Hong Kong",
+         "Direct investments in billion U.S. dollars": "82.55"
+      },
+      {
+         "Country": "Brazil",
+         "Direct investments in billion U.S. dollars": "70.88"
+      },
+      {
+         "Country": "Belgium",
+         "Direct investments in billion U.S. dollars": "64.05"
+      },
+      {
+         "Country": "India",
+         "Direct investments in billion U.S. dollars": "45.98"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Direct investments in billion U.S. dollars": "41.53"
+      },
+      {
+         "Country": "Sweden",
+         "Direct investments in billion U.S. dollars": "39.31"
+      }
+   ],
+   "gold": "The Netherlands received the most direct investment from the United States in 2018 , an amount exceeding 866 billion U.S. dollars . This measurement was based on a historical-cost basis , meaning that the original cost of investment has been adjusted for inflation . What is foreign direct investment ? Foreign direct investment ( FDI ) is the amount that foreign speculators invests in firms in another country .\n"
+}

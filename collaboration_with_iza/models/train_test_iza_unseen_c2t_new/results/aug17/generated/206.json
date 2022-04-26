@@ -1,0 +1,148 @@
+{
+   "title": "Average ticket price for an NHL game by team 2014/15",
+   "xAxis": "Team Name",
+   "yAxis": "Ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph ranks the Name of NHL St._Louis_Blues according to the U.S. NHL a Ticket price purchased at a Name in the stadium . ",
+      "The smallest Ticket price ( 20 ounces ) offered team the League_average costs 72.63 dollars ."
+   ],
+   "trends": [
+      {
+         "7": "18"
+      },
+      {
+         "11": "14",
+         "13": "9"
+      }
+   ],
+   "data": [
+      {
+         "Team Name": "Toronto Maple Leafs",
+         "Ticket price in U.S. dollars": "113.66"
+      },
+      {
+         "Team Name": "Boston Bruins",
+         "Ticket price in U.S. dollars": "88.7"
+      },
+      {
+         "Team Name": "Vancouver Canucks",
+         "Ticket price in U.S. dollars": "84.87"
+      },
+      {
+         "Team Name": "Winnipeg Jets",
+         "Ticket price in U.S. dollars": "79.28"
+      },
+      {
+         "Team Name": "Chicago Blackhawks",
+         "Ticket price in U.S. dollars": "78.8"
+      },
+      {
+         "Team Name": "New York Rangers",
+         "Ticket price in U.S. dollars": "77.87"
+      },
+      {
+         "Team Name": "Philadelphia Flyers",
+         "Ticket price in U.S. dollars": "74.65"
+      },
+      {
+         "Team Name": "Montreal Canadiens",
+         "Ticket price in U.S. dollars": "73.67"
+      },
+      {
+         "Team Name": "Pittsburgh Penguins",
+         "Ticket price in U.S. dollars": "73.59"
+      },
+      {
+         "Team Name": "Edmonton Oilers",
+         "Ticket price in U.S. dollars": "72.63"
+      },
+      {
+         "Team Name": "Washington Capitals",
+         "Ticket price in U.S. dollars": "70.98"
+      },
+      {
+         "Team Name": "Minnesota Wild",
+         "Ticket price in U.S. dollars": "67.06"
+      },
+      {
+         "Team Name": "Los Angeles Kings",
+         "Ticket price in U.S. dollars": "66.25"
+      },
+      {
+         "Team Name": "Calgary Flames",
+         "Ticket price in U.S. dollars": "63.07"
+      },
+      {
+         "Team Name": "League average",
+         "Ticket price in U.S. dollars": "62.18"
+      },
+      {
+         "Team Name": "Nashville Predators",
+         "Ticket price in U.S. dollars": "62.16"
+      },
+      {
+         "Team Name": "Carolina Hurricanes",
+         "Ticket price in U.S. dollars": "61.04"
+      },
+      {
+         "Team Name": "San Jose Sharks",
+         "Ticket price in U.S. dollars": "54.68"
+      },
+      {
+         "Team Name": "St. Louis Blues",
+         "Ticket price in U.S. dollars": "53.33"
+      },
+      {
+         "Team Name": "Ottawa Senators",
+         "Ticket price in U.S. dollars": "51.76"
+      },
+      {
+         "Team Name": "Buffalo Sabres",
+         "Ticket price in U.S. dollars": "49.72"
+      },
+      {
+         "Team Name": "New York Islanders",
+         "Ticket price in U.S. dollars": "49.21"
+      },
+      {
+         "Team Name": "Detroit Red Wings",
+         "Ticket price in U.S. dollars": "49.16"
+      },
+      {
+         "Team Name": "Columbus Blue Jackets",
+         "Ticket price in U.S. dollars": "48.9"
+      },
+      {
+         "Team Name": "New Jersey Devils",
+         "Ticket price in U.S. dollars": "47.71"
+      },
+      {
+         "Team Name": "Colorado Avalanche",
+         "Ticket price in U.S. dollars": "47.56"
+      },
+      {
+         "Team Name": "Anaheim Ducks",
+         "Ticket price in U.S. dollars": "45.1"
+      },
+      {
+         "Team Name": "Tampa Bay Lightning",
+         "Ticket price in U.S. dollars": "44.5"
+      },
+      {
+         "Team Name": "Dallas Stars",
+         "Ticket price in U.S. dollars": "37.28"
+      },
+      {
+         "Team Name": "Florida Panthers",
+         "Ticket price in U.S. dollars": "33.39"
+      },
+      {
+         "Team Name": "Phoenix Coyotes",
+         "Ticket price in U.S. dollars": "0"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price of all National Hockey League teams in 2014/15 . The average ticket price for a Nashville Predators home game was 62.16 U.S. dollars .\n"
+}

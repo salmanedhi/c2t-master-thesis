@@ -1,0 +1,104 @@
+{
+   "title": "Countries with the highest population decline rate 2017",
+   "xAxis": "Country",
+   "yAxis": "Population decline compared to the previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 20 Country with the highest population decline rate in 2017 . ",
+      "Estimated 0.25 out of year died in the compared previous of year in Cook_Islands 2017 . ",
+      "population decline population rate are often used as an indicator of the health and well-being of a nation ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "19",
+         "15": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Cook Islands",
+         "Population decline compared to the previous year": "2.79"
+      },
+      {
+         "Country": "Puerto Rico",
+         "Population decline compared to the previous year": "1.74"
+      },
+      {
+         "Country": "American Samoa",
+         "Population decline compared to the previous year": "1.3"
+      },
+      {
+         "Country": "Lebanon",
+         "Population decline compared to the previous year": "1.1"
+      },
+      {
+         "Country": "Saint Pierre and Miquelon",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Latvia",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Lithuania",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Moldova",
+         "Population decline compared to the previous year": "1.05"
+      },
+      {
+         "Country": "Bulgaria",
+         "Population decline compared to the previous year": "0.61"
+      },
+      {
+         "Country": "Estonia",
+         "Population decline compared to the previous year": "0.57"
+      },
+      {
+         "Country": "Federated States of Micronesia",
+         "Population decline compared to the previous year": "0.52"
+      },
+      {
+         "Country": "Northern Mariana Islands",
+         "Population decline compared to the previous year": "0.51"
+      },
+      {
+         "Country": "Croatia",
+         "Population decline compared to the previous year": "0.5"
+      },
+      {
+         "Country": "Serbia",
+         "Population decline compared to the previous year": "0.46"
+      },
+      {
+         "Country": "Ukraine",
+         "Population decline compared to the previous year": "0.41"
+      },
+      {
+         "Country": "Romania",
+         "Population decline compared to the previous year": "0.33"
+      },
+      {
+         "Country": "Slovenia",
+         "Population decline compared to the previous year": "0.31"
+      },
+      {
+         "Country": "Cuba",
+         "Population decline compared to the previous year": "0.29"
+      },
+      {
+         "Country": "Montenegro",
+         "Population decline compared to the previous year": "0.28"
+      },
+      {
+         "Country": "Virgin Islands",
+         "Population decline compared to the previous year": "0.25"
+      }
+   ],
+   "gold": "This statistic shows the 20 countries with the highest population decline rate in 2017 . In the Cook Islands , the population decreased by about 2.8 percent compared to the previous year , making it the country with the highest population decline rate in 2017 . The population decline of Syria Due to the conflicts and instability in Syria in 2014 , thousands of people have fled have fled the country to cross into surrounding countries such as Turkey .\n"
+}

@@ -1,0 +1,104 @@
+{
+   "title": "Premier League clubs by cheapest seasons ticket 2019/20",
+   "xAxis": "Club",
+   "yAxis": "Season ticket price in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Season Cup Finals are the culimination of the National Club League season in which the winners of the Eastern and Western Conferences compete for the oldest professional sports trophy in North America . ",
+      "The West_Ham_United have price the Season Cup a record 891.0 times since . ",
+      "However , their most recent title came way back in the 1992 - 93 season ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "9": "19"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Club": "West Ham United",
+         "Season ticket price in GBP": "320.0"
+      },
+      {
+         "Club": "Manchester City",
+         "Season ticket price in GBP": "325.0"
+      },
+      {
+         "Club": "Aston Villa",
+         "Season ticket price in GBP": "350.0"
+      },
+      {
+         "Club": "Leicester City",
+         "Season ticket price in GBP": "365.0"
+      },
+      {
+         "Club": "Burnley",
+         "Season ticket price in GBP": "390.0"
+      },
+      {
+         "Club": "Southampton",
+         "Season ticket price in GBP": "399.0"
+      },
+      {
+         "Club": "Sheffield United",
+         "Season ticket price in GBP": "402.5"
+      },
+      {
+         "Club": "Newcastle United",
+         "Season ticket price in GBP": "417.0"
+      },
+      {
+         "Club": "Everton",
+         "Season ticket price in GBP": "420.0"
+      },
+      {
+         "Club": "Wolves",
+         "Season ticket price in GBP": "493.0"
+      },
+      {
+         "Club": "Watford",
+         "Season ticket price in GBP": "496.0"
+      },
+      {
+         "Club": "Manchester United",
+         "Season ticket price in GBP": "532.0"
+      },
+      {
+         "Club": "Brighton",
+         "Season ticket price in GBP": "535.0"
+      },
+      {
+         "Club": "Bournemouth",
+         "Season ticket price in GBP": "550.0"
+      },
+      {
+         "Club": "Norwich City",
+         "Season ticket price in GBP": "569.5"
+      },
+      {
+         "Club": "Chelsea",
+         "Season ticket price in GBP": "595.0"
+      },
+      {
+         "Club": "Crystal Palace",
+         "Season ticket price in GBP": "600.0"
+      },
+      {
+         "Club": "Liverpool",
+         "Season ticket price in GBP": "685.0"
+      },
+      {
+         "Club": "Tottenham",
+         "Season ticket price in GBP": "795.0"
+      },
+      {
+         "Club": "Arsenal",
+         "Season ticket price in GBP": "891.0"
+      }
+   ],
+   "gold": "For the 2019/20 Premier League season , West Ham United sells the least expensive seasonal ticket at 320 British pounds , followed by Manchester City for 325 British pounds . Every team 's seasonal cards ranged in pricing , some more than others , as for example Tottenham 's cheapest season ticket cost 795 British pounds , their most expensive season ticket would cost 1,995 British pounds , which is still over 200 British pounds less than the previous season , yet still represents the most expensive season ticket pricing in the Premier League . Match-day tickets When it comes to match-day ticket prices , clubs show a slightly lower range .\n"
+}

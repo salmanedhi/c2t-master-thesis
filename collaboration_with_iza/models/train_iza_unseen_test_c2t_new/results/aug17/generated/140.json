@@ -1,0 +1,84 @@
+{
+   "title": "Etsy : global gross merchandise volume Q4 2019",
+   "xAxis": "Quarter",
+   "yAxis": "GMS in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Etsy global Quarter in the merchandise volume was Quarter Q2_'19 , who made 1655.72 million . ",
+      "The most global Quarter was Q4_'18 , with just 719.04 million . ",
+      "In second place was Quarter Q3_'19 with 1200.37 million ; third place went to Quarter Q4_'19 with 1655.72 million ; fourth place went to Quarter Q1_'17 with 719.04 million and fifth place went to Quarter Q1_'19 , who was 1024.03 million ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "11"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "11",
+         "27": "11",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "GMS in million U.S. dollars": "1655.72"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "GMS in million U.S. dollars": "1200.37"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "GMS in million U.S. dollars": "1094.83"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "GMS in million U.S. dollars": "1024.03"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "GMS in million U.S. dollars": "1246.47"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "GMS in million U.S. dollars": "922.51"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "GMS in million U.S. dollars": "901.69"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "GMS in million U.S. dollars": "861.08"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "GMS in million U.S. dollars": "1019.45"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "GMS in million U.S. dollars": "766.35"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "GMS in million U.S. dollars": "748.76"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "GMS in million U.S. dollars": "719.04"
+      }
+   ],
+   "gold": "This statistic shows the global gross merchandise sales of Etsy Inc. as of the fourth quarter of 2019 . During that period , the C2C e-commerce company generated GMS of 1.66 billion U.S. dollars , up from 1.25 billion U.S. dollars in the corresponding quarter of the previous year . This represents a 32.8 percent year-on-year growth .\n"
+}

@@ -1,0 +1,34 @@
+{
+   "title": "DTH share of TV market in India 2023",
+   "xAxis": "Kind Of Share",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Market share of Kind share in the TV in 2023 . ",
+      "In 2023 , Share_of_digital_TV_market machines hold a Market share of 39 % of the Kind share retail sales in the TV . ",
+      "In 2023 , the retail sales of Share_of_digital_TV_market machines amounted to 1.4 million units in the TV ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "10": "0"
+      },
+      {
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Kind Of Share": "Share of pay TV market",
+         "Market share": "39"
+      },
+      {
+         "Kind Of Share": "Share of digital TV market",
+         "Market share": "56"
+      }
+   ],
+   "gold": "The statistics presents a forecast on the market share of direct-to-home ( DTH ) TV in India in 2023 . The source projects that the market share of DTH on the pay TV market amounted to 39 percent .\n"
+}

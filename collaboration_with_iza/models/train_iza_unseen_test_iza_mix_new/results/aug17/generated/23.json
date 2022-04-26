@@ -1,0 +1,43 @@
+{
+   "title": "Women representation in law firms",
+   "xAxis": "Sector",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of Women represented in law Sector in Women . ",
+      "We can see that there are less Women than men working in Law_Firms , and an equal amount of men and Women in Financial_Groups . ",
+      "However there are a higher percentage of Women working in Tech and Insurance ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3",
+         "23": "0"
+      },
+      {
+         "10": "1",
+         "12": "2"
+      }
+   ],
+   "data": [
+      {
+         "Sector": "Financial Groups",
+         "Percentage": "50"
+      },
+      {
+         "Sector": "Tech",
+         "Percentage": "62"
+      },
+      {
+         "Sector": "Insurance",
+         "Percentage": "65"
+      },
+      {
+         "Sector": "Law Firms",
+         "Percentage": "35"
+      }
+   ],
+   "gold": "The chart compares the percentage of female representation across different sectors . Whilst insurance and tech sectors are leading the charge at over 60 % , law firms are farther behind around 35 % .\n"
+}

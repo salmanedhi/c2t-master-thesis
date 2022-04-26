@@ -1,0 +1,50 @@
+{
+   "title": "Total number of households in the Netherlands 2019 , by type",
+   "xAxis": "Type Of Household",
+   "yAxis": "Number of households",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Type of the households number in the fiscal year of 2019 . ",
+      "The total Type received sum up to about 3.5 million households and consist of Total_private_households and Multi-person_households_with_children Total_private_households , One-person_households Total_private_households and Multi-person_households_without_children Total_private_households . ",
+      "Total_private_households totaled up to 7924691 % households in 2019 , which is approximately 8.1 % of GDP , whereas Multi-person_households_with_children Total_private_households totaled to 2282297 % households , about 1.1 % of GDP ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "17": "2",
+         "18": "0",
+         "20": "1",
+         "21": "0",
+         "23": "3",
+         "24": "0"
+      },
+      {
+         "0": "0",
+         "4": "0",
+         "20": "2",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Household": "Total private households",
+         "Number of households": "7924691"
+      },
+      {
+         "Type Of Household": "One-person households",
+         "Number of households": "3037622"
+      },
+      {
+         "Type Of Household": "Multi-person households with children",
+         "Number of households": "2604772"
+      },
+      {
+         "Type Of Household": "Multi-person households without children",
+         "Number of households": "2282297"
+      }
+   ],
+   "gold": "This statistic shows the total number of households in the Netherlands in 2019 , by type . The majority of the households ( approximately three million ) are composed of single men and women . Roughly 2.3 million households are formed by couples without children , whereas approximately 2.6 million households are multi-person households with one or more children .\n"
+}

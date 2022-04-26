@@ -1,0 +1,35 @@
+{
+   "title": "Percentage of U.S. social networks who suffer from FOMO as of June 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the U.S. of social in FOMO . ",
+      "\\\\n The biggest Response , shown to be responsible for 56 % of cases , is genes . ",
+      "Don't_suffer_from_FOMO of Don't_suffer_from_FOMO accounts for 35 % of social and Suffer_from_FOMO is the Response in nearly 25 % of cases ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Suffer from FOMO",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Don't suffer from FOMO",
+         "Share of respondents": "44"
+      }
+   ],
+   "gold": "This statistic provides information on the share of U.S. social networkers who are afraid of missing something such as an event , news or important status updates if they do n't keep an eye on their social networks . During a survey in June 2013 , it was found that 56 percent of U.S. social network users suffered from the fear of missing out , also known as FOMO .\n"
+}

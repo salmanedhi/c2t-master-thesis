@@ -1,0 +1,133 @@
+{
+   "title": "Zynga games monthly active users Q4 2012 - Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Average monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the membership figures of social network Q4 Q3 from the fourth Quarter of to the fourth Quarter of 2012 . ",
+      "During the second Quarter of 2012 , the business professionals social network had 253 millions Average ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "26"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Average monthly active users in millions": "67"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Average monthly active users in millions": "70"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Average monthly active users in millions": "72"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Average monthly active users in millions": "76"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Average monthly active users in millions": "78"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Average monthly active users in millions": "78"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Average monthly active users in millions": "82"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Average monthly active users in millions": "86"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Average monthly active users in millions": "80"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Average monthly active users in millions": "80"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Average monthly active users in millions": "72"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Average monthly active users in millions": "63"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Average monthly active users in millions": "66"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Average monthly active users in millions": "61"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Average monthly active users in millions": "68"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Average monthly active users in millions": "68"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Average monthly active users in millions": "75"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Average monthly active users in millions": "83"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Average monthly active users in millions": "100"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Average monthly active users in millions": "108"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Average monthly active users in millions": "103"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Average monthly active users in millions": "121"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Average monthly active users in millions": "119"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Average monthly active users in millions": "112"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Average monthly active users in millions": "133"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Average monthly active users in millions": "187"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Average monthly active users in millions": "253"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Average monthly active users in millions": "298"
+      }
+   ],
+   "gold": "This statistic contains data on Zynga 's monthly active users . In the third quarter of 2019 , the social network game developer based in San Franscisco , California , reached an average of 67 million monthly active users . At the same time , Zynga reported daily active user numbers reaching 20 million .\n"
+}

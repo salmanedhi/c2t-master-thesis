@@ -1,0 +1,69 @@
+{
+   "title": "Twitter : number of monetizable daily active U.S. users 2017 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of monetizable daily active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Quarter millions monetizable in the number monetizable daily active U.S. in the Twitter daily 2017 to 2019 . ",
+      "The data are seasonally adjusted at annual rates . ",
+      "daily active U.S. describe the relationship between compensation per hour and productivity , or real output per hour , and can be used as an indicator of inflationary pressure on producers ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Number of monetizable daily active users in millions": "31"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of monetizable daily active users in millions": "30"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of monetizable daily active users in millions": "29"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of monetizable daily active users in millions": "28"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of monetizable daily active users in millions": "27"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of monetizable daily active users in millions": "26"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of monetizable daily active users in millions": "26"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of monetizable daily active users in millions": "26"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of monetizable daily active users in millions": "25"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of monetizable daily active users in millions": "26"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of monetizable daily active users in millions": "25"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of monetizable daily active users in millions": "26"
+      }
+   ],
+   "gold": "This statistic shows a timeline with the amount of monetizable daily active Twitter users in the United States as of the fourth quarter of 2019 . In the last reported quarter , the number of mDAU in the U.S. amounted to 31 million users . Total monthly active Twitter users in the United States amounted to 68 million .\n"
+}

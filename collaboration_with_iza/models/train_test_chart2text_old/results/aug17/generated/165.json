@@ -1,0 +1,33 @@
+{
+   "title": "Election 2016 : results for the popular vote",
+   "xAxis": "Candidate",
+   "yAxis": "Number of popular votes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Number of popular votes of Hillary_Clinton and Donald_Trump in the 2016 , as of Election vote . ",
+      "Hillary_Clinton has a distinctive lead on Donald_Trump with about 20 million votes on popular ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "11": "1"
+      },
+      {
+         "0": "0",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Candidate": "Hillary Clinton",
+         "Number of popular votes": "65853516"
+      },
+      {
+         "Candidate": "Donald Trump",
+         "Number of popular votes": "62984825"
+      }
+   ],
+   "gold": "This graph shows the preliminary results of the popular votes gained by the two leading candidates in the 2016 presidential election in the United States . Despite having won the Electoral College it appears Donald Trump will lose the popular vote with 60.37 million votes to Clinton 's 61.03 million .\n"
+}

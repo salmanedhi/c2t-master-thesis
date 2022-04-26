@@ -1,0 +1,91 @@
+{
+   "title": "Most popular entertainment apps in the U.S. 2019 , by reach",
+   "xAxis": "Entertainment Apps",
+   "yAxis": "Mobile reach",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , the Amazon_Music of EDM festival YouTube_(main) had the most reach of all Entertainment Amazon_Music coming entertainment U.S.",
+      "It outperformed other Amazon_Music entertainment the country , reaching more than half of 87.7 % . ",
+      "YouTube_(main) archives most live performances of A-list who ever performed at the music festival on Entertainment , which might explain the popularity of the Amazon_Music ."
+   ],
+   "trends": [
+      {
+         "5": "10",
+         "9": "0",
+         "17": "10"
+      },
+      {
+         "3": "10",
+         "13": "0"
+      },
+      {
+         "0": "0",
+         "24": "10"
+      }
+   ],
+   "data": [
+      {
+         "Entertainment Apps": "YouTube (main)",
+         "Mobile reach": "87.7"
+      },
+      {
+         "Entertainment Apps": "IMDb (main)",
+         "Mobile reach": "27.3"
+      },
+      {
+         "Entertainment Apps": "Netflix (main)",
+         "Mobile reach": "24.9"
+      },
+      {
+         "Entertainment Apps": "Apple Music",
+         "Mobile reach": "23.8"
+      },
+      {
+         "Entertainment Apps": "Spotify",
+         "Mobile reach": "23.7"
+      },
+      {
+         "Entertainment Apps": "Pandora Radio",
+         "Mobile reach": "16.9"
+      },
+      {
+         "Entertainment Apps": "Hulu",
+         "Mobile reach": "14.2"
+      },
+      {
+         "Entertainment Apps": "iHeartRadio",
+         "Mobile reach": "13.9"
+      },
+      {
+         "Entertainment Apps": "Google Play Music",
+         "Mobile reach": "11.7"
+      },
+      {
+         "Entertainment Apps": "Amazon Prime Video",
+         "Mobile reach": "10.5"
+      },
+      {
+         "Entertainment Apps": "Amazon Music",
+         "Mobile reach": "8.8"
+      },
+      {
+         "Entertainment Apps": "SoundCloud",
+         "Mobile reach": "8.2"
+      },
+      {
+         "Entertainment Apps": "Vimeo (main)",
+         "Mobile reach": "8.1"
+      },
+      {
+         "Entertainment Apps": "Shazam",
+         "Mobile reach": "7"
+      },
+      {
+         "Entertainment Apps": "Fandango (main)",
+         "Mobile reach": "6.8"
+      }
+   ],
+   "gold": "In September 2019 , 87.7 percent of mobile users accessed the YouTube app , making it the most popular mobile music and video apps in the United States . Spotify had a mobile U.S. audience reach of 23.7 percent among mobile U.S. audiences .\n"
+}

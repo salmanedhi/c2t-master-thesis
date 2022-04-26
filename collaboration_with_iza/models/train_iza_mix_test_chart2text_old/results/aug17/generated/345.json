@@ -1,0 +1,43 @@
+{
+   "title": "Follower count distribution on Twitter 2014",
+   "xAxis": "Number of followers",
+   "yAxis": "Percentage of Twitter users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Percentage Twitter of distribution Twitter 2014 followers . ",
+      "You can see that 401-500 has the lowest Percentage Twitter , averaging at \u00a3 0.36 , 301-400 is a little bit higher coming in at \u00a3 58 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "14": "4",
+         "16": "3"
+      }
+   ],
+   "data": [
+      {
+         "Number of followers": "1-100",
+         "Percentage of Twitter users": "93.68"
+      },
+      {
+         "Number of followers": "101-200",
+         "Percentage of Twitter users": "2.75"
+      },
+      {
+         "Number of followers": "201-300",
+         "Percentage of Twitter users": "1.04"
+      },
+      {
+         "Number of followers": "301-400",
+         "Percentage of Twitter users": "0.57"
+      },
+      {
+         "Number of followers": "401-500",
+         "Percentage of Twitter users": "0.36"
+      }
+   ],
+   "gold": "This statistic gives information on the follower count distribution on Twitter . As of April 2014 , 93.68 percent of Twitter users had between 1 and 100 followers on the microblogging site .\n"
+}

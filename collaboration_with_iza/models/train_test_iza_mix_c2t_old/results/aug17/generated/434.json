@@ -1,0 +1,72 @@
+{
+   "title": "Average distance travelled for commuting purposes , by mode England 2018",
+   "xAxis": "Commuter Mode",
+   "yAxis": "Average miles per person per year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows a ranking of Average Commuter and travelled for in England by mode England in 2018 . ",
+      "Of the for listed by the source , Car/van_(driver) had the largest Average of miles ( 788 % ) closely followed by Surface_Rail Marken-Discount miles ( 225 % ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "16": "0",
+         "22": "1",
+         "26": "1"
+      }
+   ],
+   "data": [
+      {
+         "Commuter Mode": "Car/van (driver)",
+         "Average miles per person per year": "788"
+      },
+      {
+         "Commuter Mode": "Surface Rail",
+         "Average miles per person per year": "225"
+      },
+      {
+         "Commuter Mode": "Car/van (passenger)",
+         "Average miles per person per year": "84"
+      },
+      {
+         "Commuter Mode": "London Underground",
+         "Average miles per person per year": "54"
+      },
+      {
+         "Commuter Mode": "Other local bus",
+         "Average miles per person per year": "37"
+      },
+      {
+         "Commuter Mode": "Bicycle",
+         "Average miles per person per year": "20"
+      },
+      {
+         "Commuter Mode": "Bus in London",
+         "Average miles per person per year": "17"
+      },
+      {
+         "Commuter Mode": "Other public transport",
+         "Average miles per person per year": "15"
+      },
+      {
+         "Commuter Mode": "Walk",
+         "Average miles per person per year": "15"
+      },
+      {
+         "Commuter Mode": "Motorcycle",
+         "Average miles per person per year": "10"
+      },
+      {
+         "Commuter Mode": "Taxi/minicab",
+         "Average miles per person per year": "6"
+      },
+      {
+         "Commuter Mode": "Other private transport",
+         "Average miles per person per year": "6"
+      }
+   ],
+   "gold": "Cars and vans were the most popular mode of transport for commuting purposes in England . In 2018 , car and van drivers travelled an average of 788 miles per year , nearly three and a half times the distance travelled by those using surface rail as a means of commuting . In Great Britain overall , the car was used by more than two thirds of commuters , by far the majority of those travelling to work .\n"
+}

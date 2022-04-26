@@ -1,0 +1,60 @@
+Example 13:
+titleEntities: {'Subject': ['Obesity'], 'Date': []}
+title: What causes Obesity
+X_Axis['type']: ['Fast_Food', 'Genetic', 'Lack_of_Exercises']
+Y_Axis['Percentage']: ['60', '30', '10']
+
+gold: This graph shows what causes obesity or is a factor in someone becoming obese . 60 % Fast food \\n 30 % Genetic \\n 10 % Lack of Exercises
+gold_template: This graph shows templateTitle[0] templateTitle[1] templateTitleSubject[0] or is a factor in someone becoming obese . templateYValue[max] templateScale templateXValue[0] \\n templateYValue[1] templateScale templateXValue[1] \\n templateYValue[min] templateScale templateXValue[last] of templateXValue[last]
+
+generated_template: This chart displays templateTitle[1] of templateTitleSubject[0] . The highest templateScale of templateTitleSubject[0] cases would be because of templateXValue[0] at templateYValue[max] templateScale , followed by templateXValue[1] reasons at templateYValue[1] templateScale and then templateXValue[last] of exercise at templateYValue[min] templateScale .
+generated: This chart displays causes of Obesity .  The highest percentage of Obesity cases would be because of Fast_Food at 60 percentage , followed by Genetic reasons at 30 percentage and then Lack_of_Exercises of exercise at 10 percentage .
+
+Example 49:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most frequent daily users of social media
+X_Axis['Age', 'Group']: ['15-24', '25-34', '35-44', '45-54', '55-64']
+Y_Axis['Minutes']: ['125', '75', '74', '150', '110']
+
+gold: This graph compares the most frequent daily users of social media by minutes ( y axis ) with age groups ( x axis ) . 45 - 54 year olds spend the most amount of time on social media out of the 5 age groups , with an average of 150 minutes . 15 - 24 year olds spend the second most amount of time on social media , with an average of 124 minutes .
+gold_template: This graph compares the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] of templateTitle[4] templateTitle[5] by templateYLabel[0] ( y axis ) with templateXLabel[0] groups ( x axis ) . 45 - 54 year olds spend the templateTitle[0] amount of time on templateTitle[4] templateTitle[5] out of the 5 templateXLabel[0] groups , with an average of templateYValue[max] templateYLabel[0] . 15 - 24 year olds spend the second templateTitle[0] amount of time on templateTitle[4] templateTitle[5] , with an average of 124 templateYLabel[0] .
+
+generated_template: This chart shows the templateTitle[0] templateTitle[1] templateTitle[2] in templateYLabel[0] on templateTitleSubject[0] in templateTitleSubject[1] templateTitle[7] templateXLabel[0] templateXLabel[1] . From the chart , we see that people around 15 - 24 spend 124 templateYLabel[0] templateTitleSubject[0] on templateTitleSubject[0] , followed templateTitle[7] people around 25 - 34 spend around 72 templateYLabel[0] . People in the templateXLabel[0] templateXLabel[1] 35 - 44 are the lowest amount of people that spend 70 templateYLabel[0] on templateTitleSubject[0] .
+generated: This chart shows the most frequent daily in Minutes on The in media Age Group .  From the chart , we see that people around 15 - 24 spend 124 Minutes The on , followed media people around 25 - 34 spend around 72 Minutes .  People in the Age Group 35 - 44 are the lowest amount of people that spend 70 Minutes on The .
+
+Example 52:
+titleEntities: {'Subject': ['Fatal Injuries Pula Steel Factory'], 'Date': []}
+title: Number of Fatal Injuries at the Pula Steel Factory
+X_Axis['Year']: ['2012', '2013', '2014', '2015', '2016']
+Y_Axis['Number', 'of', 'Fatal', 'Injuries']: ['30', '25', '16', '15', '12']
+
+gold: The number of fatal injuries at the Pula Steel Factory showed a decrease over time . Its highest recorded point being in 2012 where there were 30 fatal injuries recorded . As time went on , the number dropped significantly having 13 fatal injuries recorded in 2016 .
+gold_template: The templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] showed a templateNegativeTrend over time . Its highest recorded point being in templateXValue[0] where there were templateYValue[max] templateYLabel[1] templateYLabel[2] recorded . As time went on , the templateYLabel[0] templateNegativeTrend significantly having 13 templateYLabel[1] templateYLabel[2] recorded in templateXValue[last] .
+
+generated_template: This chart represents the templateYLabel[0] of templateYLabel[1] templateYLabel[2] at the templateTitleSubject[0] across 5 years from templateXValue[0] - templateXValue[last] . \\n There is a downward trend in the templateYLabel[0] of fatalities , templateNegativeTrend from templateYValue[max] in templateXValue[idxmax(Y)] to templateYValue[min] in templateXValue[idxmin(Y)] .
+generated: This chart represents the Number of Fatal Injuries at the Fatal Injuries Pula Steel Factory across 5 years from 2012 - 2016 .  \\n There is a downward trend in the Number of fatalities , dropping from 30 in 2012 to 12 in 2016 .
+
+Example 112:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most expensive digital cameras by average price
+X_Axis['Camera', 'brand']: ['Memoto', 'Sigma', 'Cambo', 'Hunten', 'Konica']
+Y_Axis['Average', 'price', 'in']: ['70.1', '62.3', '75.9', '58.6', '53.5']
+
+gold: The chart shows the average price of Digital Cameras by brand \n\\n The chart shows the Cambo brand to be the most expensive with Konica being the cheapest average price . The differential is relatively small .
+gold_template: The chart shows the templateYLabel[0] templateYLabel[1] of templateTitle[2] templateTitle[3] templateTitle[4] templateXLabel[1] \n\\n The chart shows the templateXValue[2] templateXLabel[1] to be the templateTitle[0] templateTitle[1] with templateXValue[last] being the cheapest templateYLabel[0] templateYLabel[1] . The differential is relatively small .
+
+generated_template: The graph illustrates the five templateTitle[0] templateTitle[1] templateTitle[2] templateXLabel[0] brands , represented templateTitle[4] their templateYLabel[0] templateYLabel[1] in pounds sterling . The templateTitle[0] templateTitle[1] of these templateXLabel[0] is templateXValue[last] with an templateYLabel[0] templateYLabel[1] of templateYValue[min] pounds . This is followed templateTitle[4] templateXValue[3] ( 58 pounds ) templateXValue[1] ( templateYValue[1] pounds ) and templateXValue[0] at templateYValue[0] pounds .
+generated: The graph illustrates the five most expensive digital Camera brands , represented by their Average price in pounds sterling .  The most expensive of these Camera is Konica with an Average price of 53.5 pounds .  This is followed by Hunten ( 58 pounds ) Sigma ( 62.3 pounds ) and Memoto at 70.1 pounds .
+
+Example 151:
+titleEntities: {'Subject': ['The'], 'Date': []}
+title: The most explored glaciers by the number of expeditions
+X_Axis['Glacier']: ['Volta', 'Tasman', 'Akkem', 'Zvezda', 'Mefonna', 'Olav']
+Y_Axis['Number', 'of', 'expeditions']: ['4', '2', '9', '6', '13', '5']
+
+gold: This chart shows the most explored glaciers by number of expeditions . \n From the chart we see that the Akkem and Mefonna glaciers ( with 9 and 13 visits respectively , for a total of 22 ) were visited more often than the remaining 4 glaciers put together ( with a combined total of 17 ) .
+gold_template: This chart shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateYLabel[0] of templateYLabel[1] . \n From the chart we see that the templateXValue[2] and templateXValue[4] templateTitle[2] ( with templateYValue[2] and templateYValue[max] visits respectively , for a total of 22 ) were visited more often than the remaining templateYValue[0] templateTitle[2] put together ( with a combined total of 17 ) .
+
+generated_template: The templateTitle[0] templateTitle[1] templateXLabel[0] was templateXValue[1] with just templateYValue[min] templateYLabel[1] whilst 14 templateYLabel[1] took place in templateXValue[4] , the most templateTitle[1] templateXLabel[0] in the cohort . Most templateTitle[2] experienced templateYValue[3] or fewer templateYLabel[1] with only templateXValue[4] and templateXValue[2] receiving more .
+generated: The most explored Glacier was Tasman with just 2 expeditions whilst 14 expeditions took place in Mefonna , the most explored Glacier in the cohort .  Most glaciers experienced 6 or fewer expeditions with only Mefonna and Akkem receiving more .
+

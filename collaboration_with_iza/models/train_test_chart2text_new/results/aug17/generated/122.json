@@ -1,0 +1,34 @@
+{
+   "title": "U.S. tart cherry production 2018 , by state",
+   "xAxis": "State",
+   "yAxis": "Production in million pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Production of 2018 million pounds in the cherry in 2018 , by State . ",
+      "In 2018 , about 10.9 Utah were pounds in the cherry ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "State": "Michigan",
+         "Production in million pounds": "201.0"
+      },
+      {
+         "State": "Utah",
+         "Production in million pounds": "45.0"
+      },
+      {
+         "State": "Wisconsin",
+         "Production in million pounds": "10.9"
+      }
+   ],
+   "gold": "This statistic highlights the tart cherry production in the United States in 2018 , by state . In Michigan , some 201 million pounds of tart cherries were produced in that year .\n"
+}

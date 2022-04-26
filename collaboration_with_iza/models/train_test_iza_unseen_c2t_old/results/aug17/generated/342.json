@@ -1,0 +1,233 @@
+{
+   "title": "Percentage of Hispanic population in the U.S. 2018 , by state",
+   "xAxis": "State",
+   "yAxis": "Percentage of state population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage and Hispanic population Percentage state 100,000 population in the Maryland in 2018 , State . ",
+      "In 2018 , the Puerto_Rico of had the highest Percentage of and Hispanic population with a Percentage of 98.7 state 100,000 population ."
+   ],
+   "trends": [
+      {
+         "14": "23"
+      },
+      {
+         "4": "0",
+         "6": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Puerto Rico",
+         "Percentage of state population": "98.7"
+      },
+      {
+         "State": "New Mexico",
+         "Percentage of state population": "49.1"
+      },
+      {
+         "State": "Texas",
+         "Percentage of state population": "39.6"
+      },
+      {
+         "State": "California",
+         "Percentage of state population": "39.3"
+      },
+      {
+         "State": "Arizona",
+         "Percentage of state population": "31.6"
+      },
+      {
+         "State": "Nevada",
+         "Percentage of state population": "29"
+      },
+      {
+         "State": "Florida",
+         "Percentage of state population": "26.1"
+      },
+      {
+         "State": "Colorado",
+         "Percentage of state population": "21.7"
+      },
+      {
+         "State": "New Jersey",
+         "Percentage of state population": "20.6"
+      },
+      {
+         "State": "New York",
+         "Percentage of state population": "19.2"
+      },
+      {
+         "State": "Illinois",
+         "Percentage of state population": "17.3"
+      },
+      {
+         "State": "Connecticut",
+         "Percentage of state population": "16.5"
+      },
+      {
+         "State": "Rhode Island",
+         "Percentage of state population": "15.9"
+      },
+      {
+         "State": "Utah",
+         "Percentage of state population": "14.2"
+      },
+      {
+         "State": "Oregon",
+         "Percentage of state population": "13.3"
+      },
+      {
+         "State": "Washington",
+         "Percentage of state population": "12.9"
+      },
+      {
+         "State": "Idaho",
+         "Percentage of state population": "12.7"
+      },
+      {
+         "State": "Massachusetts",
+         "Percentage of state population": "12.3"
+      },
+      {
+         "State": "Kansas",
+         "Percentage of state population": "12"
+      },
+      {
+         "State": "District of Columbia",
+         "Percentage of state population": "11.3"
+      },
+      {
+         "State": "Nebraska",
+         "Percentage of state population": "11.1"
+      },
+      {
+         "State": "Oklahoma",
+         "Percentage of state population": "10.9"
+      },
+      {
+         "State": "Hawaii",
+         "Percentage of state population": "10.7"
+      },
+      {
+         "State": "Maryland",
+         "Percentage of state population": "10.4"
+      },
+      {
+         "State": "Wyoming",
+         "Percentage of state population": "10"
+      },
+      {
+         "State": "Georgia",
+         "Percentage of state population": "9.7"
+      },
+      {
+         "State": "North Carolina",
+         "Percentage of state population": "9.6"
+      },
+      {
+         "State": "Virginia",
+         "Percentage of state population": "9.5"
+      },
+      {
+         "State": "Delaware",
+         "Percentage of state population": "9.5"
+      },
+      {
+         "State": "Pennsylvania",
+         "Percentage of state population": "7.6"
+      },
+      {
+         "State": "Arkansas",
+         "Percentage of state population": "7.6"
+      },
+      {
+         "State": "Alaska",
+         "Percentage of state population": "7.2"
+      },
+      {
+         "State": "Indiana",
+         "Percentage of state population": "7.1"
+      },
+      {
+         "State": "Wisconsin",
+         "Percentage of state population": "6.9"
+      },
+      {
+         "State": "Iowa",
+         "Percentage of state population": "6.1"
+      },
+      {
+         "State": "South Carolina",
+         "Percentage of state population": "5.8"
+      },
+      {
+         "State": "Tennessee",
+         "Percentage of state population": "5.5"
+      },
+      {
+         "State": "Minnesota",
+         "Percentage of state population": "5.5"
+      },
+      {
+         "State": "Michigan",
+         "Percentage of state population": "5.2"
+      },
+      {
+         "State": "Louisiana",
+         "Percentage of state population": "5.1"
+      },
+      {
+         "State": "Alabama",
+         "Percentage of state population": "4.3"
+      },
+      {
+         "State": "Missouri",
+         "Percentage of state population": "4.1"
+      },
+      {
+         "State": "Ohio",
+         "Percentage of state population": "3.9"
+      },
+      {
+         "State": "South Dakota",
+         "Percentage of state population": "3.9"
+      },
+      {
+         "State": "Montana",
+         "Percentage of state population": "3.9"
+      },
+      {
+         "State": "New Hampshire",
+         "Percentage of state population": "3.9"
+      },
+      {
+         "State": "Kentucky",
+         "Percentage of state population": "3.6"
+      },
+      {
+         "State": "North Dakota",
+         "Percentage of state population": "3.6"
+      },
+      {
+         "State": "Mississippi",
+         "Percentage of state population": "2.9"
+      },
+      {
+         "State": "Vermont",
+         "Percentage of state population": "2"
+      },
+      {
+         "State": "Maine",
+         "Percentage of state population": "1.7"
+      },
+      {
+         "State": "West Virginia",
+         "Percentage of state population": "1.4"
+      }
+   ],
+   "gold": "The graph shows the percentage of Hispanic population in the United States in 2018 , by state . In 2018 , around 49.1 percent of New Mexico 's population was of Hispanic origin . The distribution of the U.S. population by ethnicity can be accessed here .\n"
+}

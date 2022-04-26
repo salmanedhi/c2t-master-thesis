@@ -1,0 +1,104 @@
+{
+   "title": "Leading crude oil refining companies worldwide by capacity 2014",
+   "xAxis": "Company (country)",
+   "yAxis": "Refining capacity in thousand barrels per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "ExxonMobil_(U.S.) was the top thousand crude drug in Leading 2014 with approximately 5589 thousand capacity supplied . ",
+      "This drug is only available via a prescription in the United Kingdom and is used to lower the cholesterol of individuals who suffer from high cholesterol . ",
+      "Thus , reducing the risk of heart attacks and strokes in the process ."
+   ],
+   "trends": [
+      {
+         "0": "0",
+         "13": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Company (country)": "ExxonMobil (U.S.)",
+         "Refining capacity in thousand barrels per day": "5589"
+      },
+      {
+         "Company (country)": "Royal Dutch Shell (Netherlands)",
+         "Refining capacity in thousand barrels per day": "4109"
+      },
+      {
+         "Company (country)": "Sinopec (China)",
+         "Refining capacity in thousand barrels per day": "3971"
+      },
+      {
+         "Company (country)": "BP PLC (U.K.)",
+         "Refining capacity in thousand barrels per day": "2859"
+      },
+      {
+         "Company (country)": "Saudi Arabian Oil Company (Saudi Arabia)",
+         "Refining capacity in thousand barrels per day": "2852"
+      },
+      {
+         "Company (country)": "Valero Energy Corporation (U.S.)",
+         "Refining capacity in thousand barrels per day": "2777"
+      },
+      {
+         "Company (country)": "Petr\u00f3leos de Venezuela S.A. (Venezuela)",
+         "Refining capacity in thousand barrels per day": "2678"
+      },
+      {
+         "Company (country)": "China National Petroleum Company (China)",
+         "Refining capacity in thousand barrels per day": "2675"
+      },
+      {
+         "Company (country)": "Chevron Corp. (U.S.)",
+         "Refining capacity in thousand barrels per day": "2675"
+      },
+      {
+         "Company (country)": "Phillips 66 (U.S.)",
+         "Refining capacity in thousand barrels per day": "2514"
+      },
+      {
+         "Company (country)": "Total S.A. (France)",
+         "Refining capacity in thousand barrels per day": "2304"
+      },
+      {
+         "Company (country)": "Petr\u00f3leo Brasileiro S.A. (Brazil)",
+         "Refining capacity in thousand barrels per day": "1997"
+      },
+      {
+         "Company (country)": "Marathon Oil Corp. (U.S.)",
+         "Refining capacity in thousand barrels per day": "1714"
+      },
+      {
+         "Company (country)": "Petr\u00f3leos Mexicanos (Mexico)",
+         "Refining capacity in thousand barrels per day": "1703"
+      },
+      {
+         "Company (country)": "National Iranian Oil Company (Iran)",
+         "Refining capacity in thousand barrels per day": "1451"
+      },
+      {
+         "Company (country)": "JX Nippon Oil & Energy Corp. (Japan)",
+         "Refining capacity in thousand barrels per day": "1423"
+      },
+      {
+         "Company (country)": "Rosneft (Russia)",
+         "Refining capacity in thousand barrels per day": "1293"
+      },
+      {
+         "Company (country)": "OAO Lukoil (Russia)",
+         "Refining capacity in thousand barrels per day": "1217"
+      },
+      {
+         "Company (country)": "SK Innovation (Korea)",
+         "Refining capacity in thousand barrels per day": "1115"
+      },
+      {
+         "Company (country)": "Repsol YPF S.A. (Spain)",
+         "Refining capacity in thousand barrels per day": "1105"
+      }
+   ],
+   "gold": "This statistic outlines the refining capacity of the leading 20 crude oil refining companies worldwide in 2014 . The Mexican state-owned petroleum company Petr\u00f3leos Mexicanos , also known as Pemex , had a crude oil refining capacity of 1.7 million barrels per day in 2014 .\n"
+}

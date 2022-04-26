@@ -1,0 +1,48 @@
+{
+   "title": "The most expensive digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Average of price at the street . ",
+      "\\\\n The highest Average was 75.9 in the Hunten Camera followed by 62.3 % in the Sigma Camera , 70.1 % in Hunten and finally 53.5 % in Konica ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "8": "3",
+         "12": "1",
+         "16": "1",
+         "19": "0",
+         "22": "3",
+         "25": "4",
+         "28": "4"
+      }
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "The graph indicates price of digital cameras by brand , measured by average price of digital cameras ( GBP ) . \\n The most expensive brand is Cambo ( 75 pounds ) , followed by Memoto ( 70 pounds ) . The least expensive camera brand is Konica ( 55 pounds ) .\n"
+}

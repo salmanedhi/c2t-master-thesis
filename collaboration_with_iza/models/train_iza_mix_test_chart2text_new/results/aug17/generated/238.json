@@ -1,0 +1,45 @@
+{
+   "title": "Survey on optimism or pessimism 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Survey optimism on Survey in % respondents in 4 . ",
+      "\\\\n From the chart we see that Optimist optimism a total of \u00a3 50 million respondents for the year , \u00a3 120 million more than the closest competitor ( Pessimist , which optimism \u00a3 4 million ) and over twice as much Somewhere_in_between and Don't_know_/_refused put together ( which optimism \u00a3 43 and \u00a3 3 million respectively , totalling \u00a3 150 million ) ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "7": "2",
+         "13": "2",
+         "29": "0",
+         "34": "0",
+         "43": "1",
+         "45": "3",
+         "52": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Pessimist",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Somewhere in between",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Optimist",
+         "Share of respondents": "50"
+      },
+      {
+         "Response": "Don't know / refused",
+         "Share of respondents": "3"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted in 2013 among adult Americans , on whether they believe the glass is half full or half empty . 50 percent of respondents said they consider themselves optimists . The optimism and pessimism of the American people Optimism is defined as a mental attitude or worldview that favors a positive outcome , while pessimism favors a negative outcome or prediction .\n"
+}

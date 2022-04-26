@@ -1,0 +1,80 @@
+{
+   "title": "World nuclear power consumption by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of nuclear power consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the World nuclear power consumption the Share of nuclear they 've had . ",
+      "\\n It shows United_States has had 31.4 nuclear , France has had the World at 1.8 nuclear , China has had 10.9 , Russian_Federation has had 7.6 , South_Korea has had the most nuclear at 31.4 and Japan has had 1.8 nuclear ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "11",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "11",
+         "40": "11"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of nuclear power consumption": "31.4"
+      },
+      {
+         "Country": "France",
+         "Share of nuclear power consumption": "15.3"
+      },
+      {
+         "Country": "China",
+         "Share of nuclear power consumption": "10.9"
+      },
+      {
+         "Country": "Russian Federation",
+         "Share of nuclear power consumption": "7.6"
+      },
+      {
+         "Country": "South Korea",
+         "Share of nuclear power consumption": "4.9"
+      },
+      {
+         "Country": "Canada",
+         "Share of nuclear power consumption": "3.7"
+      },
+      {
+         "Country": "Ukraine",
+         "Share of nuclear power consumption": "3.1"
+      },
+      {
+         "Country": "Germany",
+         "Share of nuclear power consumption": "2.8"
+      },
+      {
+         "Country": "UK",
+         "Share of nuclear power consumption": "2.4"
+      },
+      {
+         "Country": "Sweden",
+         "Share of nuclear power consumption": "2.5"
+      },
+      {
+         "Country": "Spain",
+         "Share of nuclear power consumption": "2.1"
+      },
+      {
+         "Country": "Japan",
+         "Share of nuclear power consumption": "1.8"
+      }
+   ],
+   "gold": "This statistic represents the percentage of world nuclear power consumption in 2018 , by country . That year , the United States accounted for more than one third of the total nuclear power consumption worldwide .\n"
+}

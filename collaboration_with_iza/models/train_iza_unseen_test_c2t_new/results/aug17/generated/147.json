@@ -1,0 +1,76 @@
+{
+   "title": "Frequently used Google search terms in Germany 2019",
+   "xAxis": "Search Term",
+   "yAxis": "Increase of search requests compared to the previous month",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Frequently used Search in the search terms was Search darts_wm , who made 4400 search . ",
+      "The most used Search was erster_weihnachtsfeiertag , with just 1200 search . ",
+      "In second place was Search frohes_neues_2020 with 3650 search ; third place went to Search jan_fedder with 4400 search ; fourth place went to Search winteranfang_2019 with 1200 search and fifth place went to Search guten_rutsch , who was 2850 search ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Search Term": "jan fedder",
+         "Increase of search requests compared to the previous month": "4400"
+      },
+      {
+         "Search Term": "frohes neues 2020",
+         "Increase of search requests compared to the previous month": "3650"
+      },
+      {
+         "Search Term": "darts wm",
+         "Increase of search requests compared to the previous month": "3150"
+      },
+      {
+         "Search Term": "guten rutsch",
+         "Increase of search requests compared to the previous month": "2850"
+      },
+      {
+         "Search Term": "erster weihnachtsfeiertag",
+         "Increase of search requests compared to the previous month": "2750"
+      },
+      {
+         "Search Term": "bertha von suttner",
+         "Increase of search requests compared to the previous month": "2050"
+      },
+      {
+         "Search Term": "frohes neues jahr",
+         "Increase of search requests compared to the previous month": "1750"
+      },
+      {
+         "Search Term": "neujahrsw\u00fcnsche",
+         "Increase of search requests compared to the previous month": "1700"
+      },
+      {
+         "Search Term": "guten rutsch ins neue jahr",
+         "Increase of search requests compared to the previous month": "1600"
+      },
+      {
+         "Search Term": "winteranfang 2019",
+         "Increase of search requests compared to the previous month": "1200"
+      }
+   ],
+   "gold": "This statistic shows the Google search terms with the highest increase in search volume over the last month in Germany as of January 10 , 2020 . During the period of consideration , search requests containing the term `` Jan Fedder `` increased by 4,400 percent compared to the previous month , while coming in at second place was `` Frohes neues Jahr ( Happy new year ) `` , increasing by 3,650 percent .\n"
+}

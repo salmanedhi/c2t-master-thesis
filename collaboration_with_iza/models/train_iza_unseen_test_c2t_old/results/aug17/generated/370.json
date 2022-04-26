@@ -1,0 +1,76 @@
+{
+   "title": "Health/fitness club industry revenue Africa & Middle East 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Industry revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Health/fitness club industry revenue the Industry of revenue they 've had . ",
+      "\\n It shows South_Africa has had 993.73 revenue , Saudi_Arabia has had the Health/fitness at 39.63 revenue , United_Arab_Emirates has had 380.19 , Egypt has had 348.13 , Kuwait has had the most revenue at 993.73 and Jordan has had 39.63 revenue ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "10",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "10",
+         "40": "10"
+      }
+   ],
+   "data": [
+      {
+         "Country": "South Africa",
+         "Industry revenue in million U.S. dollars": "993.73"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Industry revenue in million U.S. dollars": "619.88"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Industry revenue in million U.S. dollars": "380.19"
+      },
+      {
+         "Country": "Egypt",
+         "Industry revenue in million U.S. dollars": "348.13"
+      },
+      {
+         "Country": "Kuwait",
+         "Industry revenue in million U.S. dollars": "239.94"
+      },
+      {
+         "Country": "Lebanon",
+         "Industry revenue in million U.S. dollars": "122.63"
+      },
+      {
+         "Country": "Morocco",
+         "Industry revenue in million U.S. dollars": "83.13"
+      },
+      {
+         "Country": "Bahrain",
+         "Industry revenue in million U.S. dollars": "65.06"
+      },
+      {
+         "Country": "Qatar",
+         "Industry revenue in million U.S. dollars": "65.0"
+      },
+      {
+         "Country": "Oman",
+         "Industry revenue in million U.S. dollars": "60.5"
+      },
+      {
+         "Country": "Jordan",
+         "Industry revenue in million U.S. dollars": "39.63"
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the health & fitness club industry in Africa & Middle East countries in 2017 . The revenue of the fitness & health club industry in Egypt was at around 348 million U.S. dollars in 2017 .\n"
+}

@@ -1,0 +1,92 @@
+{
+   "title": "Mobile phone services used to plan leisure travel in the U.S. as of spring 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Mobile phone Response in the used plan was Response Social_media_websites , who made 69.8 respondents . ",
+      "The most phone Response was Airbnb.com , with just 7.2 respondents . ",
+      "In second place is Response Search_engine_for_images_or_photos with 39.4 respondents ; third place went to Response Search_engine_for_general_web_search with 69.8 respondents ; fourth place went to Response Blogs_articles_or_stories with 7.2 respondents and fifth place went to Response Online_travel_agency_websites , who made 28.6 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "13"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "13",
+         "27": "13",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Search engine for general web search",
+         "Share of respondents": "69.8"
+      },
+      {
+         "Response": "Search engine for images or photos",
+         "Share of respondents": "39.4"
+      },
+      {
+         "Response": "Social media websites",
+         "Share of respondents": "36.5"
+      },
+      {
+         "Response": "Online travel agency websites",
+         "Share of respondents": "28.6"
+      },
+      {
+         "Response": "Airbnb.com",
+         "Share of respondents": "24.7"
+      },
+      {
+         "Response": "Online video (YouTube.com etc)",
+         "Share of respondents": "20.3"
+      },
+      {
+         "Response": "Ask friends on social media",
+         "Share of respondents": "17.1"
+      },
+      {
+         "Response": "Official tourism office website",
+         "Share of respondents": "16.2"
+      },
+      {
+         "Response": "Travel-related podcasts",
+         "Share of respondents": "12.6"
+      },
+      {
+         "Response": "Map websites or mapping apps",
+         "Share of respondents": "11.1"
+      },
+      {
+         "Response": "Email travel newsletters",
+         "Share of respondents": "9.9"
+      },
+      {
+         "Response": "Digital assistant (Siri Google Now etc)",
+         "Share of respondents": "9.3"
+      },
+      {
+         "Response": "User review websites",
+         "Share of respondents": "8.6"
+      },
+      {
+         "Response": "Blogs articles or stories",
+         "Share of respondents": "7.2"
+      }
+   ],
+   "gold": "This statistic shows the services and technology used by people in the U.S. to find inspiration or ideas on where to travel as of Spring 2019 . During the survey , 36.5 percent of respondents said they used social media websites for travel inspiration or ideas .\n"
+}

@@ -1,0 +1,187 @@
+{
+   "title": "Europe : number of people who ski as of 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of skiers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Europe number Country in Europe by Number . ",
+      "The Europe number Country is France with 14 skiers . ",
+      "Next lowest was Germany with 14607 thousands ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "39"
+      },
+      {
+         "3": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of skiers in thousands": "14607"
+      },
+      {
+         "Country": "France",
+         "Number of skiers in thousands": "8574"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of skiers in thousands": "6340"
+      },
+      {
+         "Country": "Poland",
+         "Number of skiers in thousands": "4937"
+      },
+      {
+         "Country": "Italy",
+         "Number of skiers in thousands": "4844"
+      },
+      {
+         "Country": "Russia",
+         "Number of skiers in thousands": "4275"
+      },
+      {
+         "Country": "Austria",
+         "Number of skiers in thousands": "2960"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of skiers in thousands": "2959"
+      },
+      {
+         "Country": "Spain",
+         "Number of skiers in thousands": "2329"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of skiers in thousands": "2236"
+      },
+      {
+         "Country": "Sweden",
+         "Number of skiers in thousands": "1824"
+      },
+      {
+         "Country": "Finland",
+         "Number of skiers in thousands": "1264"
+      },
+      {
+         "Country": "Belgium",
+         "Number of skiers in thousands": "1253"
+      },
+      {
+         "Country": "Norway",
+         "Number of skiers in thousands": "1181"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of skiers in thousands": "1114"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of skiers in thousands": "979"
+      },
+      {
+         "Country": "Turkey",
+         "Number of skiers in thousands": "807"
+      },
+      {
+         "Country": "Denmark",
+         "Number of skiers in thousands": "667"
+      },
+      {
+         "Country": "Romania",
+         "Number of skiers in thousands": "588"
+      },
+      {
+         "Country": "Hungary",
+         "Number of skiers in thousands": "587"
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of skiers in thousands": "349"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of skiers in thousands": "299"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Number of skiers in thousands": "266"
+      },
+      {
+         "Country": "Croatia",
+         "Number of skiers in thousands": "227"
+      },
+      {
+         "Country": "Greece",
+         "Number of skiers in thousands": "215"
+      },
+      {
+         "Country": "Serbia",
+         "Number of skiers in thousands": "211"
+      },
+      {
+         "Country": "Portugal",
+         "Number of skiers in thousands": "206"
+      },
+      {
+         "Country": "Latvia",
+         "Number of skiers in thousands": "194"
+      },
+      {
+         "Country": "Belarus",
+         "Number of skiers in thousands": "190"
+      },
+      {
+         "Country": "Bosnia and Herzegovina",
+         "Number of skiers in thousands": "175"
+      },
+      {
+         "Country": "Macedonia",
+         "Number of skiers in thousands": "156"
+      },
+      {
+         "Country": "Lithuania",
+         "Number of skiers in thousands": "141"
+      },
+      {
+         "Country": "Georgia",
+         "Number of skiers in thousands": "93"
+      },
+      {
+         "Country": "Azerbaijan",
+         "Number of skiers in thousands": "72"
+      },
+      {
+         "Country": "Estonia",
+         "Number of skiers in thousands": "63"
+      },
+      {
+         "Country": "Iceland",
+         "Number of skiers in thousands": "63"
+      },
+      {
+         "Country": "Armenia",
+         "Number of skiers in thousands": "59"
+      },
+      {
+         "Country": "Albania",
+         "Number of skiers in thousands": "29"
+      },
+      {
+         "Country": "Andorra",
+         "Number of skiers in thousands": "15"
+      },
+      {
+         "Country": "Liechtenstein",
+         "Number of skiers in thousands": "14"
+      }
+   ],
+   "gold": "Germany was , just like in 2018 , also in 2019 the European country with the highest number of skiing participants , with approximately 14.6 million Germans skiing . When considering the total population , the share of people who ski in European countries was the highest in Liechtenstein and Austria with 36 percent of population taking part in the sport . The UK : A tradition of snowsport Established in 1903 and with over 28,000 members on the books , The Ski Club is the largest and oldest snowsports membership organisation in the UK .\n"
+}

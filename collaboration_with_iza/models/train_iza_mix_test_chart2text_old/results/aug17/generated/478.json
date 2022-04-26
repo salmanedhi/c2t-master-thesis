@@ -1,0 +1,45 @@
+{
+   "title": "Beauty products : Buying behavior of shoppers in the United Kingdom ( UK ) 2014",
+   "xAxis": "Type Of Behaviors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Percentage respondents of United Kingdom Inc across one working Behaviors i.e Monday to Friday . ",
+      "It shows that on Kingdom the Percentage respondents was at it 's highest at 25 an increase from 25 on Monday through 9 on Tuesday . ",
+      "However , it dropped markedly on Thursday and then Friday and closed the Behaviors on 8 ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "19": "0",
+         "23": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Type Of Behaviors": "Research online and buy in-store",
+         "Percentage of respondents": "25"
+      },
+      {
+         "Type Of Behaviors": "Shop with friends",
+         "Percentage of respondents": "9"
+      },
+      {
+         "Type Of Behaviors": "Seek friends' opinions before heading to the shops",
+         "Percentage of respondents": "6"
+      },
+      {
+         "Type Of Behaviors": "Use Facebook to 'check-in' to a store",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Type Of Behaviors": "Use Instagram Facebook or Twitter to recommend what you've bought",
+         "Percentage of respondents": "3"
+      }
+   ],
+   "gold": "This statistic shows the buying behavior of shoppers in the United Kingdom when purchasing beauty products , according to a survey published March 2014 . Of respondents , 25 percent said they researched products online before buying in store , where as 3 percent of people use instagram , twitter or other forms of social media to give recommendations to the customer . Online sales have seen the highest market sales growth in the beauty and cosmetics industry , with the high street falling behind , with a growth of only 1.2 percent .\n"
+}

@@ -1,0 +1,48 @@
+{
+   "title": "The most successful teams in quiz competition",
+   "xAxis": "Team",
+   "yAxis": "Number of mistakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Number of mistakes made by each Team in the quiz competition . ",
+      "As you can see , Team Fearless made the fewest mistakes , only 1 , while Team Lovely made the most - 9 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "4",
+         "13": "4",
+         "17": "2",
+         "22": "2"
+      }
+   ],
+   "data": [
+      {
+         "Team": "DIY",
+         "Number of mistakes": "4"
+      },
+      {
+         "Team": "Cats",
+         "Number of mistakes": "3"
+      },
+      {
+         "Team": "Lovely",
+         "Number of mistakes": "9"
+      },
+      {
+         "Team": "Smart Kids",
+         "Number of mistakes": "6"
+      },
+      {
+         "Team": "Fearless",
+         "Number of mistakes": "1"
+      },
+      {
+         "Team": "ABC",
+         "Number of mistakes": "5"
+      }
+   ],
+   "gold": "This chart shows the number of mistakes made by 6 teams in a quiz . The most successful team is Fearless with just a single mistake , followed by Cats with 3 , DIY with 4 , ABC with 5 , Smart Kids with 6 , and finally Lovely with 9 .\n"
+}

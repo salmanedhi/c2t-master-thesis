@@ -1,0 +1,81 @@
+{
+   "title": "Average monthly temperature Germany January 2019 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Average temperature in degrees Celsius",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average of temperature conducted by temperature in a Germany January . ",
+      "\\\\n From the chart we see that the Nov'19 Month was the Average monthly Month in the January with 19.8 temperature . ",
+      "The next Month to make the most temperature was the Okt'19 Month with 10.9 temperature closely followed by Jan'19 with 0.6 temperature ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "7"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "12",
+         "20": "12"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan'20",
+         "Average temperature in degrees Celsius": "3.3"
+      },
+      {
+         "Month": "Dez'19",
+         "Average temperature in degrees Celsius": "3.7"
+      },
+      {
+         "Month": "Nov'19",
+         "Average temperature in degrees Celsius": "5.2"
+      },
+      {
+         "Month": "Okt'19",
+         "Average temperature in degrees Celsius": "10.9"
+      },
+      {
+         "Month": "Sep'19",
+         "Average temperature in degrees Celsius": "14.1"
+      },
+      {
+         "Month": "Aug'19",
+         "Average temperature in degrees Celsius": "19.0"
+      },
+      {
+         "Month": "Jul'19",
+         "Average temperature in degrees Celsius": "18.9"
+      },
+      {
+         "Month": "Jun'19",
+         "Average temperature in degrees Celsius": "19.8"
+      },
+      {
+         "Month": "Mai'19",
+         "Average temperature in degrees Celsius": "10.9"
+      },
+      {
+         "Month": "Apr'19",
+         "Average temperature in degrees Celsius": "9.6"
+      },
+      {
+         "Month": "M\u00e4r'19",
+         "Average temperature in degrees Celsius": "6.6"
+      },
+      {
+         "Month": "Feb'19",
+         "Average temperature in degrees Celsius": "3.9"
+      },
+      {
+         "Month": "Jan'19",
+         "Average temperature in degrees Celsius": "0.6"
+      }
+   ],
+   "gold": "This statistic shows the average monthly temperature in Germany from January 2019 to January 2020 . In January 2020 , the average temperature was 3.3 degrees Celsius .\n"
+}

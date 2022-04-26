@@ -1,0 +1,36 @@
+{
+   "title": "Leading bar soap brands ranked by sales value in the United Kingdom ( UK ) 2014",
+   "xAxis": "Soap Bar Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading 3 Soap of bar sold in the United Kingdom ( UK ) brands ranked their total Sales in the year to 2014 . ",
+      "Dove and Imperial_Leather bar Soap brands as the highest selling Soap in the United Kingdom over that period , reaching 26.8 and 11.1 million British pounds in Sales respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "1",
+         "19": "0",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Soap Bar Brand": "Dove",
+         "Sales in million GBP": "26.8"
+      },
+      {
+         "Soap Bar Brand": "Imperial Leather",
+         "Sales in million GBP": "11.1"
+      },
+      {
+         "Soap Bar Brand": "Simple",
+         "Sales in million GBP": "5.8"
+      }
+   ],
+   "gold": "This statistic shows the leading 3 brands of bar soap sold in the United Kingdom ( UK ) ranked by their total sales in the year to December 2014 . The ranking reveals that Dove is the top bar soap brand sold in the United Kingdom , generating 26.8 million pounds in sales that year .\n"
+}

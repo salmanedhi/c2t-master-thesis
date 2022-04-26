@@ -1,0 +1,208 @@
+{
+   "title": "Public views on U.S. favorability , by country 2014",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Public views U.S. in the favorability by , ranking by Share of respondents . ",
+      "Egypt are the Public views and have the most respondents ( around 92 respondents ) , whilst Russia are the most views with around 10 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "12": "45",
+         "17": "4",
+         "24": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Jordan",
+         "Share of respondents": "12"
+      },
+      {
+         "Country": "Pakistan",
+         "Share of respondents": "14"
+      },
+      {
+         "Country": "Egypt",
+         "Share of respondents": "10"
+      },
+      {
+         "Country": "Turkey",
+         "Share of respondents": "19"
+      },
+      {
+         "Country": "Russia",
+         "Share of respondents": "23"
+      },
+      {
+         "Country": "Palestinian territory",
+         "Share of respondents": "30"
+      },
+      {
+         "Country": "Greece",
+         "Share of respondents": "34"
+      },
+      {
+         "Country": "Argentina",
+         "Share of respondents": "36"
+      },
+      {
+         "Country": "Lebanon",
+         "Share of respondents": "41"
+      },
+      {
+         "Country": "Tunisia",
+         "Share of respondents": "42"
+      },
+      {
+         "Country": "China",
+         "Share of respondents": "50"
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": "51"
+      },
+      {
+         "Country": "Malaysia",
+         "Share of respondents": "51"
+      },
+      {
+         "Country": "Czech Republic",
+         "Share of respondents": "54"
+      },
+      {
+         "Country": "India",
+         "Share of respondents": "55"
+      },
+      {
+         "Country": "Mexico",
+         "Share of respondents": "56"
+      },
+      {
+         "Country": "Ukraine",
+         "Share of respondents": "57"
+      },
+      {
+         "Country": "Indonesia",
+         "Share of respondents": "59"
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": "60"
+      },
+      {
+         "Country": "Britain",
+         "Share of respondents": "60"
+      },
+      {
+         "Country": "Uganda",
+         "Share of respondents": "62"
+      },
+      {
+         "Country": "Venezuela",
+         "Share of respondents": "62"
+      },
+      {
+         "Country": "Mexico",
+         "Share of respondents": "63"
+      },
+      {
+         "Country": "Colombia",
+         "Share of respondents": "64"
+      },
+      {
+         "Country": "Brazil",
+         "Share of respondents": "65"
+      },
+      {
+         "Country": "Peru",
+         "Share of respondents": "65"
+      },
+      {
+         "Country": "Japan",
+         "Share of respondents": "66"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of respondents": "66"
+      },
+      {
+         "Country": "South Africa",
+         "Share of respondents": "68"
+      },
+      {
+         "Country": "Nigeria",
+         "Share of respondents": "69"
+      },
+      {
+         "Country": "Nicaragua",
+         "Share of respondents": "71"
+      },
+      {
+         "Country": "Chile",
+         "Share of respondents": "72"
+      },
+      {
+         "Country": "Poland",
+         "Share of respondents": "73"
+      },
+      {
+         "Country": "Thailand",
+         "Share of respondents": "73"
+      },
+      {
+         "Country": "Senegal",
+         "Share of respondents": "74"
+      },
+      {
+         "Country": "France",
+         "Share of respondents": "75"
+      },
+      {
+         "Country": "Tanzania",
+         "Share of respondents": "75"
+      },
+      {
+         "Country": "Bangladesh",
+         "Share of respondents": "76"
+      },
+      {
+         "Country": "Vietnam",
+         "Share of respondents": "76"
+      },
+      {
+         "Country": "Ghana",
+         "Share of respondents": "77"
+      },
+      {
+         "Country": "Italy",
+         "Share of respondents": "78"
+      },
+      {
+         "Country": "El Salvador",
+         "Share of respondents": "80"
+      },
+      {
+         "Country": "Kenya",
+         "Share of respondents": "80"
+      },
+      {
+         "Country": "South Korea",
+         "Share of respondents": "82"
+      },
+      {
+         "Country": "Israel",
+         "Share of respondents": "84"
+      },
+      {
+         "Country": "Philippines",
+         "Share of respondents": "92"
+      }
+   ],
+   "gold": "This statistic shows the share of people from different countries around the world in 2014 , who hold a favorable opinion of the United States . In 2014 , 78 percent of respondents in Italy held a favorable view of the United States .\n"
+}

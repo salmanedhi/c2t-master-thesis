@@ -1,0 +1,69 @@
+{
+   "title": "Most significant natural disasters worldwide by death toll up to 2019",
+   "xAxis": "Natural Disasters",
+   "yAxis": "Death toll",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Death of toll made by Natural in a disasters worldwide . ",
+      "\\\\n From the chart we see that the Cyclone_Nargis_storm_surge(Myanmar_May_2-5_2008) Natural was the Most significant Natural in the worldwide with 220000 toll . ",
+      "The next Natural to make the most toll was the Tropical_cyclone_storm_surge(Bangladesh_April_29-30_1991) Natural with 139000 toll closely followed by the Earthquake(Iran_December_26_2003) Natural with 26200 toll ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "9",
+         "22": "9"
+      }
+   ],
+   "data": [
+      {
+         "Natural Disasters": "Earthquake tsunami(Thailand December 26 2004)",
+         "Death toll": "220000"
+      },
+      {
+         "Natural Disasters": "Earthquake(Haiti January 12 2010)",
+         "Death toll": "159000"
+      },
+      {
+         "Natural Disasters": "Cyclone Nargis storm surge(Myanmar May 2-5 2008)",
+         "Death toll": "140000"
+      },
+      {
+         "Natural Disasters": "Tropical cyclone storm surge(Bangladesh April 29-30 1991)",
+         "Death toll": "139000"
+      },
+      {
+         "Natural Disasters": "Earthquake(Pakistan October 8 2005)",
+         "Death toll": "88000"
+      },
+      {
+         "Natural Disasters": "Earthquake(China May 12 2008)",
+         "Death toll": "84000"
+      },
+      {
+         "Natural Disasters": "Heat wave drought(Central Europe July-August 2003)",
+         "Death toll": "70000"
+      },
+      {
+         "Natural Disasters": "Heat wave(Russia July-September 2010)",
+         "Death toll": "56000"
+      },
+      {
+         "Natural Disasters": "Earthquake(Iran June 20 1990)",
+         "Death toll": "40000"
+      },
+      {
+         "Natural Disasters": "Earthquake(Iran December 26 2003)",
+         "Death toll": "26200"
+      }
+   ],
+   "gold": "The statistic shows the most significant natural disasters by death toll from 1980 to 2019 . In 2010 , the earthquake in Haiti killed 159,000 people . Ten deadliest natural disasters worldwide since 1980 According to data published by M\u00fcnchener R\u00fcckversicherungs-Gesellschaft ( or Munich Re ) , the second-largest global reinsurance group as of 2017 , the tsunami struck in 2004 was the deadliest natural disaster to occur worldwide between the years 1980 and 2019 .\n"
+}

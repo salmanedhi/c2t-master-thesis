@@ -1,0 +1,53 @@
+{
+   "title": "Production of bananas worldwide by region 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic represents the world 's Production in 2018 , broken down by region . ",
+      "In Asia , over 370 thousand metric tons of Production were produced in that year , making the region leading bananas Production supplier ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Production in thousand metric tons": "62648.18"
+      },
+      {
+         "Country": "Africa",
+         "Production in thousand metric tons": "20418.01"
+      },
+      {
+         "Country": "South America",
+         "Production in thousand metric tons": "18177.92"
+      },
+      {
+         "Country": "Central America",
+         "Production in thousand metric tons": "10060.74"
+      },
+      {
+         "Country": "Caribbean",
+         "Production in thousand metric tons": "2194.5"
+      },
+      {
+         "Country": "Oceania",
+         "Production in thousand metric tons": "1822.64"
+      },
+      {
+         "Country": "Europe",
+         "Production in thousand metric tons": "411.28"
+      },
+      {
+         "Country": "Northern America",
+         "Production in thousand metric tons": "4.6"
+      }
+   ],
+   "gold": "This statistic reflects the global banana production by region in 2018 . In Asia , some 62.6 million metric tons of bananas were produced in that year .\n"
+}

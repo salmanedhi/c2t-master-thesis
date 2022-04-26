@@ -1,0 +1,58 @@
+{
+   "title": "Germany : enterprises in the non-financial business economy 2016 , by employment size",
+   "xAxis": "Status",
+   "yAxis": "Number of enterprises",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of enterprises at the Germany from 250_persons_employed_or_more to From_0_to_9_persons_employed . ",
+      "\\\\n In 250_persons_employed_or_more the Germany saw 11762 enterprises , in From_50_to_249_persons_employed there were 2022140 enterprises , From_20_to_49_persons_employed saw at least 123860 enterprises , 11762 enterprises in 250_persons_employed_or_more and 2022140 in From_0_to_9_persons_employed . ",
+      "From_0_to_9_persons_employed had the highest Number of enterprises whilst From_10_to_19_persons_employed had the lowest ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "4"
+      },
+      {
+         "2": "0",
+         "6": "0",
+         "10": "1",
+         "13": "4",
+         "16": "2",
+         "20": "2",
+         "23": "0",
+         "26": "0",
+         "28": "4",
+         "30": "4"
+      },
+      {
+         "0": "4",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Status": "250 persons employed or more",
+         "Number of enterprises": "11762"
+      },
+      {
+         "Status": "From 50 to 249 persons employed",
+         "Number of enterprises": "60505"
+      },
+      {
+         "Status": "From 20 to 49 persons employed",
+         "Number of enterprises": "123860"
+      },
+      {
+         "Status": "From 10 to 19 persons employed",
+         "Number of enterprises": "249416"
+      },
+      {
+         "Status": "From 0 to 9 persons employed",
+         "Number of enterprises": "2022140"
+      }
+   ],
+   "gold": "This statistic shows the total number of enterprises in the non-financial business economy in Germany in 2016 , by size class of employment . In 2016 , there were 11,762 enterprises with 250 employees or more in Germany .\n"
+}

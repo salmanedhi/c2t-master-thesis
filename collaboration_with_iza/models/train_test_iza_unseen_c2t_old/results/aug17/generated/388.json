@@ -1,0 +1,70 @@
+{
+   "title": "Malware types encountered during data compromise investigations 2018",
+   "xAxis": "Type Of Malware",
+   "yAxis": "Share of encounters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2018 , the Type in \u2018 The Remote_administration_tool_(RAT) and the Downloader ' franchise with the highest Share encounters was by far \u2018 The Downloader of the Downloader ' _ , which cost 13 million U.S. encounters to make . ",
+      "\u2018 The Downloader of the Downloader ' was the eighth instalment in the series and proved itself a worthwhile investment after grossing almost 1.24 million U.S. encounters at box offices worldwide . ",
+      "Even more successful was \u2018 Downloader Webshell ' _ , which cost 8 million encounters to produce and generated box office revenue of more than 1.5 million ."
+   ],
+   "trends": [
+      {
+         "9": "1",
+         "12": "0",
+         "25": "0",
+         "28": "0",
+         "34": "0"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      },
+      {
+         "5": "0",
+         "6": "2",
+         "12": "2"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Malware": "Downloader",
+         "Share of encounters": "13"
+      },
+      {
+         "Type Of Malware": "Remote administration tool (RAT)",
+         "Share of encounters": "10"
+      },
+      {
+         "Type Of Malware": "Webshell",
+         "Share of encounters": "8"
+      },
+      {
+         "Type Of Malware": "Memory scraper/dumper",
+         "Share of encounters": "8"
+      },
+      {
+         "Type Of Malware": "Injector",
+         "Share of encounters": "5"
+      },
+      {
+         "Type Of Malware": "Dropper",
+         "Share of encounters": "4"
+      },
+      {
+         "Type Of Malware": "Coin miners",
+         "Share of encounters": "3"
+      },
+      {
+         "Type Of Malware": "Formjacking",
+         "Share of encounters": "2"
+      },
+      {
+         "Type Of Malware": "Ransomware",
+         "Share of encounters": "0.7"
+      }
+   ],
+   "gold": "The ranking presents the most commonly encountered types of malware used in industrial cyber attacks worldwide in 2018 . During the survey period , downloaders were detected in 13 percent of malware attack investigations . A further three percent of detected malware were coin miners .\n"
+}

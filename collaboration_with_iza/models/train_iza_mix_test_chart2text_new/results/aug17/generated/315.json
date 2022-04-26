@@ -1,0 +1,41 @@
+{
+   "title": "Frequency of American families having dinner together at home 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows three Response of families in American , as a percentage of incidence . ",
+      "The most common Response is 4_to_5_nights , identified as causing 53 % , with 6_to_7_nights of second at 35 % . ",
+      "0_to_3_nights is third , causing 21 % of Response ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "10": "2",
+         "14": "2",
+         "16": "2"
+      },
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "0 to 3 nights",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "4 to 5 nights",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "6 to 7 nights",
+         "Share of respondents": "53"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted in 2013 , among adult Americans on the frequency of having dinner at home as a family . In December 2013 , 53 percent of the respondents answered that their family eat dinner together at home on 6 to 7 nights a week .\n"
+}

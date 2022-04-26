@@ -1,0 +1,73 @@
+{
+   "title": "Luxury destinations with the largest growth in travel worldwide 2016",
+   "xAxis": "Country",
+   "yAxis": "Year-over-year travel growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Luxury destinations Country in terms of the Year-over-year of travel with Ecuador having the Luxury \u2013 59 travel down to Iceland the least destinations of the group at 23 travel . ",
+      "In between , we have Kenya 59 , Jamaica 23 , China 35 and Saint_Martin 39 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "9"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "9",
+         "9": "9",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Kenya",
+         "Year-over-year travel growth": "59"
+      },
+      {
+         "Country": "Iceland",
+         "Year-over-year travel growth": "56"
+      },
+      {
+         "Country": "Saint Martin",
+         "Year-over-year travel growth": "39"
+      },
+      {
+         "Country": "China",
+         "Year-over-year travel growth": "35"
+      },
+      {
+         "Country": "Ecuador",
+         "Year-over-year travel growth": "34"
+      },
+      {
+         "Country": "Japan",
+         "Year-over-year travel growth": "32"
+      },
+      {
+         "Country": "South Africa",
+         "Year-over-year travel growth": "28"
+      },
+      {
+         "Country": "Tanzania",
+         "Year-over-year travel growth": "27"
+      },
+      {
+         "Country": "Croatia",
+         "Year-over-year travel growth": "25"
+      },
+      {
+         "Country": "Jamaica",
+         "Year-over-year travel growth": "23"
+      }
+   ],
+   "gold": "This statistic shows the luxury travel destinations with the largest growth in travel worldwide as of August 2016 . Luxury travel to Kenya grew by 59 percent in 2016 compared with the previous year . In 2017 , the Caribbean was the leading international destination for a spring vacation according to U.S. respondents .\n"
+}

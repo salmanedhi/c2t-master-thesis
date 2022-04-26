@@ -1,0 +1,45 @@
+{
+   "title": "Main export partners for Japan 2017",
+   "xAxis": "Country",
+   "yAxis": "Share of total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of Japan partners total in Japan . ",
+      "We can see that both China and South_Korea have a very small amount whilst Thailand , Hong_Kong and United_States have a much higher amount . "
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "7": "2",
+         "14": "4",
+         "16": "3",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of total exports": "19.4"
+      },
+      {
+         "Country": "China",
+         "Share of total exports": "19"
+      },
+      {
+         "Country": "South Korea",
+         "Share of total exports": "7.6"
+      },
+      {
+         "Country": "Hong Kong",
+         "Share of total exports": "5.1"
+      },
+      {
+         "Country": "Thailand",
+         "Share of total exports": "4.2"
+      }
+   ],
+   "gold": "The statistic shows the main export partners for Japan in 2017 . In 2017 , the most important export partner for Japan were the United States , accounting for 19.4 percent of all exports .\n"
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Number of internet users in selected regions in Asia-Pacific 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , around 1000 millions of Americans felt that internet users websites East_Asia report Asia-Pacific users stories in the 2019 . ",
+      "Another 803 millions of internet stated that they believed that internet users websites South_Asia report Asia-Pacific users stories . ",
+      "Just 415 millions of adults said that they did Southeast_Asia believe that Asia-Pacific users stories were being reported internet ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "14": "0"
+      },
+      {
+         "1": "1",
+         "13": "1"
+      },
+      {
+         "1": "2",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Number of internet users in millions": "1000"
+      },
+      {
+         "Region": "South Asia",
+         "Number of internet users in millions": "803"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Number of internet users in millions": "415"
+      },
+      {
+         "Region": "Oceania",
+         "Number of internet users in millions": "29"
+      }
+   ],
+   "gold": "The above statistic shows the number of internet users in the Asia-Pacific regions as of January 2019 . During that time , it was discovered that the internet population in East Asia amounted to one billion internet users .\n"
+}

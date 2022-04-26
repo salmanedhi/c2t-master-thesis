@@ -1,0 +1,67 @@
+{
+   "title": "UFC : most takedowns landed by fighters worldwide as of June 2019",
+   "xAxis": "UFC Players",
+   "yAxis": "Total number of takedowns landed",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the ten UFC most in UFC 2019 . ",
+      "In 2019 , Georges_St-Pierre had around 90 % Total which made it the UFC Georges_St-Pierre in UFC . ",
+      "Population of Georges_St-Pierre is a federal republic located in North America , sharing borders with the country to the north , and to the southeast with Guatemala and Belize ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "14": "0"
+      },
+      {
+         "2": "0"
+      }
+   ],
+   "data": [
+      {
+         "UFC Players": "Georges St-Pierre",
+         "Total number of takedowns landed": "90"
+      },
+      {
+         "UFC Players": "Gleison Tibau",
+         "Total number of takedowns landed": "84"
+      },
+      {
+         "UFC Players": "Demetrious Johnson",
+         "Total number of takedowns landed": "74"
+      },
+      {
+         "UFC Players": "Nik Lentz",
+         "Total number of takedowns landed": "68"
+      },
+      {
+         "UFC Players": "Frankie Edgar",
+         "Total number of takedowns landed": "67"
+      },
+      {
+         "UFC Players": "Clay Guida",
+         "Total number of takedowns landed": "64"
+      },
+      {
+         "UFC Players": "Demian Maia",
+         "Total number of takedowns landed": "62"
+      },
+      {
+         "UFC Players": "Johny Hendricks",
+         "Total number of takedowns landed": "61"
+      },
+      {
+         "UFC Players": "Jon Fitch",
+         "Total number of takedowns landed": "58"
+      },
+      {
+         "UFC Players": "Rashad Evans",
+         "Total number of takedowns landed": "53"
+      }
+   ],
+   "gold": "Georges St-Pierre is leading the Ultimate Fighting Championship ( UFC ) in most takedowns landed as of June 2019 , followed by Gleison Tibau with 84 takedowns and Demetrious Johnson with 74 takedowns during UFC fights . At the same point in time Donald Cerrone holds the record for most knockdowns in the UFC with a total of 20 . Georges St-Pierre also holds the record for most strikes landed , with 2,591 landed strikes during UFC fights .\n"
+}

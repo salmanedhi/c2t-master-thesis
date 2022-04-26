@@ -1,0 +1,70 @@
+{
+   "title": "Asthma prevalence in Great Britain 2015 , by region",
+   "xAxis": "Great Britain Regions",
+   "yAxis": "Number of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2015 , the Mexican center forward North_West was the prevalence Great Britain in the Mexican 2015 by region , with a Number individuals of approximately 778290 million people . ",
+      "The center back South_East and London ranked second , with a individuals of 687892 % ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "27": "0"
+      },
+      {
+         "3": "1",
+         "5": "2",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Great Britain Regions": "North West",
+         "Number of individuals": "778290"
+      },
+      {
+         "Great Britain Regions": "South East",
+         "Number of individuals": "687892"
+      },
+      {
+         "Great Britain Regions": "London",
+         "Number of individuals": "588172"
+      },
+      {
+         "Great Britain Regions": "East of England",
+         "Number of individuals": "564416"
+      },
+      {
+         "Great Britain Regions": "Scotland",
+         "Number of individuals": "554306"
+      },
+      {
+         "Great Britain Regions": "Yorkshire and the Humber",
+         "Number of individuals": "535547"
+      },
+      {
+         "Great Britain Regions": "South West",
+         "Number of individuals": "530775"
+      },
+      {
+         "Great Britain Regions": "West Midlands",
+         "Number of individuals": "440651"
+      },
+      {
+         "Great Britain Regions": "East Midlands",
+         "Number of individuals": "385520"
+      },
+      {
+         "Great Britain Regions": "Wales",
+         "Number of individuals": "314984"
+      },
+      {
+         "Great Britain Regions": "North East",
+         "Number of individuals": "261352"
+      }
+   ],
+   "gold": "This statistic displays the number of individuals with asthma in Great Britain in 2015 . The prevalence of asthma was highest in the North West of England with over 778 thousand individuals having the condition . This was followed by individuals in the South East with approximately 687.9 thousand individuals having asthma .\n"
+}

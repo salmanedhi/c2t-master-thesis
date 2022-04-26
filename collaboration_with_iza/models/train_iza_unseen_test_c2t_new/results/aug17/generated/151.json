@@ -1,0 +1,34 @@
+{
+   "title": "YouTube usage penetration in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the YouTube usage penetration in some european Sex \\\\n Male is the worst with 68 % followed closely by the Female with just over 20 % . ",
+      "\\\\n The best Sex is Female with just 67 % usage penetration . "
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "0",
+         "23": "1"
+      },
+      {
+         "5": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Reach": "68"
+      },
+      {
+         "Sex": "Female",
+         "Reach": "67"
+      }
+   ],
+   "gold": "According to a third quarter 2019 survey , 68 percent of male internet users in the United States used YouTube . The video platform had a usage reach of 67 percent among female U.S. internet users . Overall , 38 percent of U.S. YouTube users accessed the platform several times a day .\n"
+}

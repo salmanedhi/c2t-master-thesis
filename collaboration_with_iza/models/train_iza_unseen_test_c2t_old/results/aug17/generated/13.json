@@ -1,0 +1,325 @@
+{
+   "title": "Euro to Russian Ruble monthly exchange rate 2014 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Exchange rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Euro Russian in . ",
+      "It shows Nov_'19 was the Euro at just 46.38 degrees and Sep_'19 was the warmest at 85.62 % . ",
+      "After Nov_'19 , the next Euro Russian are Jan_'20 at 70.34 % , followed by Jan_'14 at 18 % , Dec_'19 at 69.96 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "67",
+         "11": "4",
+         "16": "47"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "72",
+         "20": "1",
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Exchange rate": "70.34"
+      },
+      {
+         "Month": "Dec '19",
+         "Exchange rate": "69.96"
+      },
+      {
+         "Month": "Nov '19",
+         "Exchange rate": "70.55"
+      },
+      {
+         "Month": "Oct '19",
+         "Exchange rate": "71.36"
+      },
+      {
+         "Month": "Sep '19",
+         "Exchange rate": "70.76"
+      },
+      {
+         "Month": "Aug '19",
+         "Exchange rate": "73.41"
+      },
+      {
+         "Month": "Jul '19",
+         "Exchange rate": "70.8"
+      },
+      {
+         "Month": "Jun '19",
+         "Exchange rate": "71.6"
+      },
+      {
+         "Month": "May '19",
+         "Exchange rate": "72.91"
+      },
+      {
+         "Month": "Apr '19",
+         "Exchange rate": "72.21"
+      },
+      {
+         "Month": "Mar '19",
+         "Exchange rate": "72.86"
+      },
+      {
+         "Month": "Feb '19",
+         "Exchange rate": "75.09"
+      },
+      {
+         "Month": "Jan '19",
+         "Exchange rate": "75.11"
+      },
+      {
+         "Month": "Dec '18",
+         "Exchange rate": "79.72"
+      },
+      {
+         "Month": "Nov '18",
+         "Exchange rate": "76.07"
+      },
+      {
+         "Month": "Oct '18",
+         "Exchange rate": "74.41"
+      },
+      {
+         "Month": "Sep '18",
+         "Exchange rate": "76.14"
+      },
+      {
+         "Month": "Aug '18",
+         "Exchange rate": "79.1"
+      },
+      {
+         "Month": "Jul '18",
+         "Exchange rate": "73.21"
+      },
+      {
+         "Month": "Jun '18",
+         "Exchange rate": "73.16"
+      },
+      {
+         "Month": "May '18",
+         "Exchange rate": "72.58"
+      },
+      {
+         "Month": "Apr '18",
+         "Exchange rate": "75.96"
+      },
+      {
+         "Month": "Mar '18",
+         "Exchange rate": "70.89"
+      },
+      {
+         "Month": "Feb '18",
+         "Exchange rate": "68.75"
+      },
+      {
+         "Month": "Jan '18",
+         "Exchange rate": "70.07"
+      },
+      {
+         "Month": "Dec '17",
+         "Exchange rate": "69.39"
+      },
+      {
+         "Month": "Nov '17",
+         "Exchange rate": "69.19"
+      },
+      {
+         "Month": "Oct '17",
+         "Exchange rate": "67.87"
+      },
+      {
+         "Month": "Sep '17",
+         "Exchange rate": "68.25"
+      },
+      {
+         "Month": "Aug '17",
+         "Exchange rate": "69.12"
+      },
+      {
+         "Month": "Jul '17",
+         "Exchange rate": "70.46"
+      },
+      {
+         "Month": "Jun '17",
+         "Exchange rate": "67.54"
+      },
+      {
+         "Month": "May '17",
+         "Exchange rate": "63.71"
+      },
+      {
+         "Month": "Apr '17",
+         "Exchange rate": "62.11"
+      },
+      {
+         "Month": "Mar '17",
+         "Exchange rate": "60.31"
+      },
+      {
+         "Month": "Feb '17",
+         "Exchange rate": "61.76"
+      },
+      {
+         "Month": "Jan '17",
+         "Exchange rate": "64.43"
+      },
+      {
+         "Month": "Dec '16",
+         "Exchange rate": "65.38"
+      },
+      {
+         "Month": "Nov '16",
+         "Exchange rate": "69.53"
+      },
+      {
+         "Month": "Oct '16",
+         "Exchange rate": "69.01"
+      },
+      {
+         "Month": "Sep '16",
+         "Exchange rate": "72.24"
+      },
+      {
+         "Month": "Aug '16",
+         "Exchange rate": "72.8"
+      },
+      {
+         "Month": "Jul '16",
+         "Exchange rate": "71.24"
+      },
+      {
+         "Month": "Jun '16",
+         "Exchange rate": "73.15"
+      },
+      {
+         "Month": "May '16",
+         "Exchange rate": "74.47"
+      },
+      {
+         "Month": "Apr '16",
+         "Exchange rate": "75.43"
+      },
+      {
+         "Month": "Mar '16",
+         "Exchange rate": "77.94"
+      },
+      {
+         "Month": "Feb '16",
+         "Exchange rate": "85.62"
+      },
+      {
+         "Month": "Jan '16",
+         "Exchange rate": "83.86"
+      },
+      {
+         "Month": "Dec '15",
+         "Exchange rate": "80.67"
+      },
+      {
+         "Month": "Nov '15",
+         "Exchange rate": "69.99"
+      },
+      {
+         "Month": "Oct '15",
+         "Exchange rate": "70.57"
+      },
+      {
+         "Month": "Sep '15",
+         "Exchange rate": "73.24"
+      },
+      {
+         "Month": "Aug '15",
+         "Exchange rate": "74.86"
+      },
+      {
+         "Month": "Jul '15",
+         "Exchange rate": "66.86"
+      },
+      {
+         "Month": "Jun '15",
+         "Exchange rate": "62.36"
+      },
+      {
+         "Month": "May '15",
+         "Exchange rate": "57.46"
+      },
+      {
+         "Month": "Apr '15",
+         "Exchange rate": "57.65"
+      },
+      {
+         "Month": "Mar '15",
+         "Exchange rate": "62.44"
+      },
+      {
+         "Month": "Feb '15",
+         "Exchange rate": "69.2"
+      },
+      {
+         "Month": "Jan '15",
+         "Exchange rate": "79.93"
+      },
+      {
+         "Month": "Dec '14",
+         "Exchange rate": "72.34"
+      },
+      {
+         "Month": "Nov '14",
+         "Exchange rate": "61.35"
+      },
+      {
+         "Month": "Oct '14",
+         "Exchange rate": "53.86"
+      },
+      {
+         "Month": "Sep '14",
+         "Exchange rate": "49.77"
+      },
+      {
+         "Month": "Aug '14",
+         "Exchange rate": "48.74"
+      },
+      {
+         "Month": "Jul '14",
+         "Exchange rate": "47.52"
+      },
+      {
+         "Month": "Jun '14",
+         "Exchange rate": "46.38"
+      },
+      {
+         "Month": "May '14",
+         "Exchange rate": "47.31"
+      },
+      {
+         "Month": "Apr '14",
+         "Exchange rate": "49.46"
+      },
+      {
+         "Month": "Mar '14",
+         "Exchange rate": "48.78"
+      },
+      {
+         "Month": "Feb '14",
+         "Exchange rate": "49.94"
+      },
+      {
+         "Month": "Jan '14",
+         "Exchange rate": "47.75"
+      }
+   ],
+   "gold": "This statistic displays the monthly exchange rate ( as of the end of each month ) of the euro to the Russian ruble ( EUR/RUB ) , according to data from the European Central Bank , from January 2014 to January 2020 . The concrete , or point in time , measure shows the exchange rate as of the last day of each month , which is different to the standardized measure ; calculation of average based on observations throughout the period in question.Monthly change After seeing a height of 85.6 rubles to the euro in February 2016 , the monthly exchange rate has fluctuated . Between December 2018 and January 2020 , the end of month exchange rate between the euro and Russian ruble has seen a downward trend .\n"
+}

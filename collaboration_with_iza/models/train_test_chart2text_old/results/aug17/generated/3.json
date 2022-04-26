@@ -1,0 +1,72 @@
+{
+   "title": "Canadian average domestic heating oil prices 2018 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in Canadian dollars per thousand liters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Price Canadian of average domestic and heating leaders in selected countries in 2010 . ",
+      "per President Sep_'19 earned 1125 . ",
+      "per dollars in 2010 ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "4": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in Canadian dollars per thousand liters": "1160"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in Canadian dollars per thousand liters": "1146"
+      },
+      {
+         "Month": "Sep '19",
+         "Price in Canadian dollars per thousand liters": "1125"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in Canadian dollars per thousand liters": "1118"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in Canadian dollars per thousand liters": "1129"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in Canadian dollars per thousand liters": "1146"
+      },
+      {
+         "Month": "May '19",
+         "Price in Canadian dollars per thousand liters": "1190"
+      },
+      {
+         "Month": "Apr '19",
+         "Price in Canadian dollars per thousand liters": "1168"
+      },
+      {
+         "Month": "Mar '19",
+         "Price in Canadian dollars per thousand liters": "1138"
+      },
+      {
+         "Month": "Feb '19",
+         "Price in Canadian dollars per thousand liters": "1120"
+      },
+      {
+         "Month": "Jan '19",
+         "Price in Canadian dollars per thousand liters": "1111"
+      },
+      {
+         "Month": "Dec '18",
+         "Price in Canadian dollars per thousand liters": "1116"
+      }
+   ],
+   "gold": "The average domestic heating oil price in Canada reached about 1,160 Canadian dollars per 1,000 liters in November 2019 . There are three types of middle distillate fuel oils that can be used for liquid-fuel-burning equipment without any preheating , and three other types that require preheating as they contain residual fuel components . There are both federal and provincial regulations that are applicable to heating oils in Canada , including the Canadian Environmental Protection Act .\n"
+}

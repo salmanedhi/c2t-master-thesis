@@ -1,0 +1,115 @@
+{
+   "title": "Most common female names in Denmark 2020",
+   "xAxis": "Month",
+   "yAxis": "Number of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most common in Denmark . ",
+      "It shows Mette was the Most at just 22960 degrees and Helle was the warmest at 45202 degrees . ",
+      "After Mette , the next Most common are Anne at 45202 degrees , followed by Karen at 18 degrees , Kirsten at 39857 degrees and then Hanne at 37882 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "19",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Anne",
+         "Number of individuals": "45202"
+      },
+      {
+         "Month": "Kirsten",
+         "Number of individuals": "39857"
+      },
+      {
+         "Month": "Mette",
+         "Number of individuals": "38590"
+      },
+      {
+         "Month": "Hanne",
+         "Number of individuals": "37882"
+      },
+      {
+         "Month": "Helle",
+         "Number of individuals": "33770"
+      },
+      {
+         "Month": "Anna",
+         "Number of individuals": "33666"
+      },
+      {
+         "Month": "Susanne",
+         "Number of individuals": "30859"
+      },
+      {
+         "Month": "Lene",
+         "Number of individuals": "30535"
+      },
+      {
+         "Month": "Maria",
+         "Number of individuals": "29527"
+      },
+      {
+         "Month": "Marianne",
+         "Number of individuals": "26694"
+      },
+      {
+         "Month": "Lone",
+         "Number of individuals": "25001"
+      },
+      {
+         "Month": "Camilla",
+         "Number of individuals": "24598"
+      },
+      {
+         "Month": "Pia",
+         "Number of individuals": "24006"
+      },
+      {
+         "Month": "Louise",
+         "Number of individuals": "23815"
+      },
+      {
+         "Month": "Charlotte",
+         "Number of individuals": "23683"
+      },
+      {
+         "Month": "Bente",
+         "Number of individuals": "23191"
+      },
+      {
+         "Month": "Tina",
+         "Number of individuals": "23158"
+      },
+      {
+         "Month": "Gitte",
+         "Number of individuals": "22996"
+      },
+      {
+         "Month": "Inge",
+         "Number of individuals": "22963"
+      },
+      {
+         "Month": "Karen",
+         "Number of individuals": "22960"
+      }
+   ],
+   "gold": "Among the 2.92 million female inhabitants in Denmark in 2019 , the most common name was Anne . As of January 2020 , around 45.2 thousand Danish women bore the name . There are several variations of it such as Anna , which is very popular in Denmark as well and , with a number of approximately 34 thousand , ranked on sixth place .\n"
+}

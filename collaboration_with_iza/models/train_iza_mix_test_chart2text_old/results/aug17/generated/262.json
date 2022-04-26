@@ -1,0 +1,156 @@
+{
+   "title": "UK hospitality small and medium enterprise ( SME ) with growth plans Q1 2011 to Q2 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Percentage of SMEs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the UK hospitality small medium the Percentage of SMEs that occured . ",
+      "The Quarter with the UK Percentage of SMEs is Q4_2018 with only 33 followed by Q2_2019 with 44 , Q4_2011 with 45 , Q3_2018 with 52 , Q4_2018 with 45 and the most popular being Q2_2018 with 53 SMEs ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "2",
+         "12": "28",
+         "15": "0",
+         "17": "0",
+         "19": "30",
+         "21": "30",
+         "23": "3",
+         "25": "3",
+         "27": "2",
+         "29": "2",
+         "35": "4",
+         "37": "23"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 2019",
+         "Percentage of SMEs": "44"
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Percentage of SMEs": "52"
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Percentage of SMEs": "45"
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Percentage of SMEs": "52"
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Percentage of SMEs": "49"
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Percentage of SMEs": "46"
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Percentage of SMEs": "45"
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Percentage of SMEs": "44"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Percentage of SMEs": "47"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Percentage of SMEs": "52"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Percentage of SMEs": "46"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Percentage of SMEs": "45"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Percentage of SMEs": "50"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Percentage of SMEs": "49"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Percentage of SMEs": "51"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Percentage of SMEs": "48"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Percentage of SMEs": "40"
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Percentage of SMEs": "45"
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Percentage of SMEs": "41"
+      },
+      {
+         "Quarter": "Q3 2014",
+         "Percentage of SMEs": "40"
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Percentage of SMEs": "46"
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Percentage of SMEs": "50"
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Percentage of SMEs": "42"
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Percentage of SMEs": "53"
+      },
+      {
+         "Quarter": "Q2 2013",
+         "Percentage of SMEs": "49"
+      },
+      {
+         "Quarter": "Q1 2013",
+         "Percentage of SMEs": "40"
+      },
+      {
+         "Quarter": "Q4 2012",
+         "Percentage of SMEs": "38"
+      },
+      {
+         "Quarter": "Q3 2012",
+         "Percentage of SMEs": "42"
+      },
+      {
+         "Quarter": "Q2 2012",
+         "Percentage of SMEs": "33"
+      },
+      {
+         "Quarter": "Q1 2012",
+         "Percentage of SMEs": "39"
+      },
+      {
+         "Quarter": "Q4 2011",
+         "Percentage of SMEs": "45"
+      }
+   ],
+   "gold": "This statistic shows the share of small and medium enterprises ( SME ) in the hospitality sector with growth plans for the next 12 months in the United Kingdom ( UK ) from fourth quarter 2011 to second quarter 2019 . The peak of the period was in third quarter 2013 , when 53 percent of hospitality sector SMEs stated that they planned to grow in the following 12 months .\n"
+}

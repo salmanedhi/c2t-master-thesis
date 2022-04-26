@@ -1,0 +1,62 @@
+{
+   "title": "Most popular brand pages on Facebook in the United Kingdom ( UK ) March 2019",
+   "xAxis": "Month",
+   "yAxis": "Local fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the ranking of ten wealthiest popular in United Kingdom as of 2019 . ",
+      "At that time , the richest popular in United Kingdom was Amazon_UK , the heiress of the French cosmetics and beauty company L'Oreal , with United Kingdom amounting to approximately 5.78 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "29": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Amazon UK",
+         "Local fans in millions": "5.78"
+      },
+      {
+         "Month": "Coca-Cola",
+         "Local fans in millions": "2.52"
+      },
+      {
+         "Month": "Skittles",
+         "Local fans in millions": "2.42"
+      },
+      {
+         "Month": "Samsung UK",
+         "Local fans in millions": "2.23"
+      },
+      {
+         "Month": "Cadbury Creme Egg",
+         "Local fans in millions": "2.06"
+      },
+      {
+         "Month": "Marks and Spencer",
+         "Local fans in millions": "1.94"
+      },
+      {
+         "Month": "iTunes UK",
+         "Local fans in millions": "1.91"
+      },
+      {
+         "Month": "Red Bull",
+         "Local fans in millions": "1.86"
+      },
+      {
+         "Month": "Tesco",
+         "Local fans in millions": "1.84"
+      },
+      {
+         "Month": "Asda",
+         "Local fans in millions": "1.79"
+      }
+   ],
+   "gold": "Amazon UK was the most popular brand page on Facebook in the United Kingdom ( UK ) as of March 2019 , attracting 5.78 million local fans . This was more than double that of Coca-Cola , the company with the second highest number of fans . Amazon UK : more than just e-commerce Amazon has enjoyed significant growth in the UK market in recent years .\n"
+}

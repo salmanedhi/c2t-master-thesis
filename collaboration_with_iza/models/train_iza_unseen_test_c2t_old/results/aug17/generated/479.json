@@ -1,0 +1,115 @@
+{
+   "title": "Net worth of the richest internet billionaires 2019",
+   "xAxis": "Month",
+   "yAxis": "Net worth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Net worth in Net . ",
+      "It shows Larry_Page_Google was the Net at just 5.8 degrees and Ma_Huateng_Tencent was the warmest at 131.0 degrees . ",
+      "After Larry_Page_Google , the next Net worth are Jeff_Bezos_Amazon at 131.0 degrees , followed by David_Cheriton_Google at 18 degrees , Mark_Zuckerberg_Facebook at 62.3 degrees and then Sergey_Brin_Google at 49.8 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "19",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "19",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jeff Bezos Amazon",
+         "Net worth in billion U.S. dollars": "131.0"
+      },
+      {
+         "Month": "Mark Zuckerberg Facebook",
+         "Net worth in billion U.S. dollars": "62.3"
+      },
+      {
+         "Month": "Larry Page Google",
+         "Net worth in billion U.S. dollars": "50.8"
+      },
+      {
+         "Month": "Sergey Brin Google",
+         "Net worth in billion U.S. dollars": "49.8"
+      },
+      {
+         "Month": "Ma Huateng Tencent",
+         "Net worth in billion U.S. dollars": "38.8"
+      },
+      {
+         "Month": "Jack Ma Alibaba",
+         "Net worth in billion U.S. dollars": "37.3"
+      },
+      {
+         "Month": "William Ding Netease",
+         "Net worth in billion U.S. dollars": "14.7"
+      },
+      {
+         "Month": "Colin Huang Pinduoduo",
+         "Net worth in billion U.S. dollars": "13.5"
+      },
+      {
+         "Month": "Zhang Zhidong Tencent",
+         "Net worth in billion U.S. dollars": "13.3"
+      },
+      {
+         "Month": "Eric Schmidt Google",
+         "Net worth in billion U.S. dollars": "12.9"
+      },
+      {
+         "Month": "Pierre Omidyar eBay",
+         "Net worth in billion U.S. dollars": "11.4"
+      },
+      {
+         "Month": "Dustin Moskovitz Facebook",
+         "Net worth in billion U.S. dollars": "11.1"
+      },
+      {
+         "Month": "Eduardo Saverin Facebook",
+         "Net worth in billion U.S. dollars": "9.7"
+      },
+      {
+         "Month": "Jan Koum WhatsApp",
+         "Net worth in billion U.S. dollars": "9.6"
+      },
+      {
+         "Month": "Robin Li Baidu",
+         "Net worth in billion U.S. dollars": "9.6"
+      },
+      {
+         "Month": "Joseph Tsai Alibaba",
+         "Net worth in billion U.S. dollars": "9.5"
+      },
+      {
+         "Month": "Kim Jung-Ju Nexon",
+         "Net worth in billion U.S. dollars": "6.5"
+      },
+      {
+         "Month": "Richard Liu JD.com",
+         "Net worth in billion U.S. dollars": "6.0"
+      },
+      {
+         "Month": "Andreas von Bechtolsheim Google",
+         "Net worth in billion U.S. dollars": "6.4"
+      },
+      {
+         "Month": "David Cheriton Google",
+         "Net worth in billion U.S. dollars": "5.8"
+      }
+   ],
+   "gold": "The ranking of the richest billionaires who earned their fortune in the internet business is headed by Amazon founder Jeff Bezos , who is sitting in first place with a personal net worth of 131 billion U.S. dollars . Facebook founder Mark Zuckerberg was ranked second with 62.3 billion U.S. dollars . Both Bezos and Zuckerberg are also featured in the top 5 ranking of the richest Americans of 2019 .\n"
+}

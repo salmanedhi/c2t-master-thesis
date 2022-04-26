@@ -1,0 +1,82 @@
+{
+   "title": "Leading hotel companies worldwide as of June 2019 , by number of properties",
+   "xAxis": "Month",
+   "yAxis": "Number of properties",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading hotel the largest number of properties 10,000 in the properties in . ",
+      "There were 9157 Number properties for every 10,000 properties in Wyndham_Hotel_Group , Wisconsin in ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Wyndham Hotel Group",
+         "Number of properties": "9157"
+      },
+      {
+         "Month": "Choice Hotels International",
+         "Number of properties": "7045"
+      },
+      {
+         "Month": "Marriott International",
+         "Number of properties": "7003"
+      },
+      {
+         "Month": "Hilton Worldwide",
+         "Number of properties": "5872"
+      },
+      {
+         "Month": "InterContinental Hotels Group (IHG)",
+         "Number of properties": "5656"
+      },
+      {
+         "Month": "Best Western Hotels & Resorts",
+         "Number of properties": "4008"
+      },
+      {
+         "Month": "G6 Hospitality",
+         "Number of properties": "1391"
+      },
+      {
+         "Month": "Radisson Hotel Group",
+         "Number of properties": "1179"
+      },
+      {
+         "Month": "RLH Corporation",
+         "Number of properties": "1167"
+      },
+      {
+         "Month": "Hyatt Hotels Corp.",
+         "Number of properties": "865"
+      },
+      {
+         "Month": "Aimbridge Hospitality",
+         "Number of properties": "834"
+      },
+      {
+         "Month": "Westmont Hospitality Group",
+         "Number of properties": "692"
+      },
+      {
+         "Month": "Red Roof",
+         "Number of properties": "637"
+      },
+      {
+         "Month": "Extended Stay America",
+         "Number of properties": "627"
+      },
+      {
+         "Month": "Interstate Hotels & Resorts",
+         "Number of properties": "479"
+      }
+   ],
+   "gold": "Global hotel chain , Wyndham Hotel Group , leads the ranking of the top hotel companies by number properties . As of June 2019 , Wyndham accounted for over nine thousand units in its worldwide portfolio , which ranged from economy to upscale accommodation . Its closest competitors were Choice Hotels International and Marriot International , who reported 7,045 and 7,003 properties , respectively .\n"
+}

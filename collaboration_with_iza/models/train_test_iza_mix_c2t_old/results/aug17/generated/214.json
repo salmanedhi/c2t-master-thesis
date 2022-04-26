@@ -1,0 +1,45 @@
+{
+   "title": "Leading home furnishing retailers in the UK 2013 , ranked by most shopped in",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the most common Leading of online adults in the 2013 when encountering home furnishing on retailers UK . ",
+      "During the 2013 survey , 19 % of respondents stated they would B&Q the John_Lewis , whereas 9 % would unfollow or unfriend the Homebase ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "12": "0",
+         "14": "3",
+         "17": "1",
+         "24": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "B&Q",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Homebase",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Wilkinson",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "John Lewis",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Ikea",
+         "Share of respondents": "5"
+      }
+   ],
+   "gold": "This statistic shows the five retail stores shoppers purchased home decor and furnishings from most in the United Kingdom ( UK ) , according to a survey conducted in December 2013 . B & Q ranked highest , with 19 percent of consumers shopping at the retailer for home furnishings . This was followed by Homebase ( 9 percent ) , Wilkinson ( 7 percent ) and John Lewis ( 7 percent ) .\n"
+}

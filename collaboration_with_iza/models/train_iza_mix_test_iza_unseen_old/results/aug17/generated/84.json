@@ -1,0 +1,41 @@
+{
+   "title": "Average Time Spent On Social Media Daily in Maputo by Age Group",
+   "xAxis": "Age Group",
+   "yAxis": "Minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Average Time Spent on Average Time Spent On Social Media Daily in Maputo , by Age Group . ",
+      "The highest being 15 - 24 year olds , who Spent around 175 Minutes a day . ",
+      "This is followed by 25 - 34 at 160 ; 35 - 44 at 125 ; 45 - 54 at 90 ; and 55 - 64 at 75 Minutes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Age Group": "15-24",
+         "Minutes": "181"
+      },
+      {
+         "Age Group": "25-34",
+         "Minutes": "157"
+      },
+      {
+         "Age Group": "35-44",
+         "Minutes": "124"
+      },
+      {
+         "Age Group": "45-54",
+         "Minutes": "99"
+      },
+      {
+         "Age Group": "55-64",
+         "Minutes": "73"
+      }
+   ],
+   "gold": "This bar chart shows the average time spent on social media daily in Maputo by Age Group . \\\\n The chart shows a steady decline of use the older the representation gets . Ages 15 - 24 spend on average 170 minutes a day , 25 - 34 160 minutes , 35 - 44 130 mins , 45 - 54 just under 100 minutes and 55 - 64 Just below 70 minutes daily .\n"
+}

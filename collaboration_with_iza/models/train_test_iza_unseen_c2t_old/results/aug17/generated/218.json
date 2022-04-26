@@ -1,0 +1,65 @@
+{
+   "title": "Most innovative companies in the world in 2019",
+   "xAxis": "Innovative Tech. Companies",
+   "yAxis": "Number of patent grants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , Innovative Tech. International_Business_Machines_Corp Billiton ( one of the largest coal world , among other minerals ) reached a Number value of over 9262 million Canon_Inc grants . ",
+      "This statistic shows the ten innovative world worldwide 2019 on Number patent as of 2019 . ",
+      "The values are 2019 on the 2019 Financial Times Equity list of the innovative Most world ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "26": "0",
+         "28": "2"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Innovative Tech. Companies": "International Business Machines Corp",
+         "Number of patent grants": "9262"
+      },
+      {
+         "Innovative Tech. Companies": "Samsung Electronics Co Ltd",
+         "Number of patent grants": "6469"
+      },
+      {
+         "Innovative Tech. Companies": "Canon Inc",
+         "Number of patent grants": "3548"
+      },
+      {
+         "Innovative Tech. Companies": "Microsoft Technology Licensing LLC",
+         "Number of patent grants": "3081"
+      },
+      {
+         "Innovative Tech. Companies": "Intel Corp",
+         "Number of patent grants": "3020"
+      },
+      {
+         "Innovative Tech. Companies": "LG Electronics Inc",
+         "Number of patent grants": "2805"
+      },
+      {
+         "Innovative Tech. Companies": "Apple Inc",
+         "Number of patent grants": "2490"
+      },
+      {
+         "Innovative Tech. Companies": "Ford Global Technologies LLC",
+         "Number of patent grants": "2468"
+      },
+      {
+         "Innovative Tech. Companies": "Amazon Technologies Inc",
+         "Number of patent grants": "2427"
+      },
+      {
+         "Innovative Tech. Companies": "Huawei Technologies Co Ltd",
+         "Number of patent grants": "2418"
+      }
+   ],
+   "gold": "This graph shows the most innovative companies in the world as measured by the number of patent grants that each company successfully applied for at the United States Patent and Trademark Office as of 2019 . In 2019 , IBM was considered the most innovative company in the world with a total of 9,262 patent grants .\n"
+}

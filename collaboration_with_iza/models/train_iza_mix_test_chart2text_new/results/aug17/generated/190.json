@@ -1,0 +1,106 @@
+{
+   "title": "Pharma company ranking based on R & D for developing countries 2018",
+   "xAxis": "Month",
+   "yAxis": "Indicator score from 1 (lowest) to 5 (highest)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Indicator of score made by Month . ",
+      "\\n Sanofi has the highest Indicator of score sitting at 12.8",
+      "\\n Second to Sanofi is Novartis_AG at 9.2 score ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "GlaxoSmithKline plc",
+         "Indicator score from 1 (lowest) to 5 (highest)": "4.0"
+      },
+      {
+         "Month": "Merck KGaA",
+         "Indicator score from 1 (lowest) to 5 (highest)": "3.69"
+      },
+      {
+         "Month": "Novartis AG",
+         "Indicator score from 1 (lowest) to 5 (highest)": "3.55"
+      },
+      {
+         "Month": "Johnson & Johnson",
+         "Indicator score from 1 (lowest) to 5 (highest)": "3.19"
+      },
+      {
+         "Month": "Sanofi",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.83"
+      },
+      {
+         "Month": "Eisai Co. Ltd.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.8"
+      },
+      {
+         "Month": "Takeda Pharmaceutical Co.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.8"
+      },
+      {
+         "Month": "Daiichi Sankyo Co. Ltd.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.71"
+      },
+      {
+         "Month": "Bayer AG",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.14"
+      },
+      {
+         "Month": "Novo Nordisk A/S",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.09"
+      },
+      {
+         "Month": "AstraZeneca plc",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.05"
+      },
+      {
+         "Month": "Astellas Pharma Inc.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "2.01"
+      },
+      {
+         "Month": "AbbVie Inc.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.98"
+      },
+      {
+         "Month": "Pfizer Inc.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.9"
+      },
+      {
+         "Month": "Roche Holding Ltd",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.84"
+      },
+      {
+         "Month": "Merck & Co. Inc.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.78"
+      },
+      {
+         "Month": "Boehringer-Ingelheim GmbH",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.73"
+      },
+      {
+         "Month": "Bristol-Myers Squibb Co.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.56"
+      },
+      {
+         "Month": "Gilead Sciences Inc.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "1.43"
+      },
+      {
+         "Month": "Eli Lilly & Co.",
+         "Indicator score from 1 (lowest) to 5 (highest)": "0.88"
+      }
+   ],
+   "gold": "This statistic depicts a pharmaceutical company ranking based on R & D for developing countries in 2018 , according to the Access to Medicine Index 2018 . In that year , the leading company concerning research and development for these markets was GlaxoSmithKline with an indicator score of four points . The Access to Medicine Index is an independent initiative that ranks the world 's 20 largest companies according to their efforts to make their products more available , affordable and accessible in developing countries , highlighting policy and practice that either facilitate or hinder access to medicine .\n"
+}

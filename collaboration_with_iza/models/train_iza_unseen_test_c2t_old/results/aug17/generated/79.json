@@ -1,0 +1,73 @@
+{
+   "title": "Most popular global ads shared in October 2016",
+   "xAxis": "Online Advertisements ",
+   "yAxis": "Number of shares in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Most popular global in the ads competirion . ",
+      "\\\\n From the chart we see that the Dior_\u2013_Dior_J\u2019adore_\u2013_The_Absolute_Femininity Online made the Most shares by some margin , with only 104.52 . ",
+      "Nintendo_\u2013_First_Look_at_Nintendo_Switch and Shell_\u2013_Best_Day_Of_My_Life_#makethefuture made a respectable 498.04 and 1017.53 shares , with Google_\u2013_Pixel_Phone_by_Google and Adidas_\u2013_Football_needs_creators_feat._Pogba not far behind , at 104.52 and 345.39 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Online Advertisements ": "Shell \u2013 Best Day Of My Life #makethefuture",
+         "Number of shares in thousands": "1017.53"
+      },
+      {
+         "Online Advertisements ": "Nintendo \u2013 First Look at Nintendo Switch",
+         "Number of shares in thousands": "498.04"
+      },
+      {
+         "Online Advertisements ": "Microsoft \u2013 Introducing Surface Studio",
+         "Number of shares in thousands": "387.03"
+      },
+      {
+         "Online Advertisements ": "Adidas \u2013 Football needs creators feat. Pogba",
+         "Number of shares in thousands": "345.39"
+      },
+      {
+         "Online Advertisements ": "Dior \u2013 Dior J\u2019adore \u2013 The Absolute Femininity",
+         "Number of shares in thousands": "165.55"
+      },
+      {
+         "Online Advertisements ": "Emirates \u2013 Jennifer Aniston",
+         "Number of shares in thousands": "152.19"
+      },
+      {
+         "Online Advertisements ": "Louis Vuitton \u2013 The Louis Vuitton Cruise 2017 Collection with Alicia Vikander",
+         "Number of shares in thousands": "145.4"
+      },
+      {
+         "Online Advertisements ": "LG Mobile \u2013 Everyday Spectacular",
+         "Number of shares in thousands": "125.47"
+      },
+      {
+         "Online Advertisements ": "HP \u2013 HP Sprocket",
+         "Number of shares in thousands": "125.01"
+      },
+      {
+         "Online Advertisements ": "Google \u2013 Pixel Phone by Google",
+         "Number of shares in thousands": "104.52"
+      }
+   ],
+   "gold": "This statistic shows most shared global online ads in October 2016 . The Shell commercial \u2018 Best Day of my Life ' ranked first with over 1 million shares in October 2016 .\n"
+}

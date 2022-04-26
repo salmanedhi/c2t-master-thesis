@@ -1,0 +1,55 @@
+{
+   "title": "Preferred social login ID worldwide 2016",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Preferred social login ID in as of 2016 , based on logins volume . ",
+      "During the survey period , it was found that Facebook accounted for 53.1 % of all login app logins . ",
+      "Local p2p tv app GooglePlus was ranked second with a 44.8 % logins Share ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "12": "0"
+      },
+      {
+         "4": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": "53.1"
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": "44.8"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": "1.01"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": "0.56"
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": "0.29"
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": "0.15"
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": "0.11"
+      }
+   ],
+   "gold": "This statistic gives information on the preferred social login ID used by internet users worldwide . During the second quarter of 2016 , data analysis revealed that 53.1 percent of social logins were through a Facebook account . Approximately one percent of internet users used their Twitter account to login to a website .\n"
+}

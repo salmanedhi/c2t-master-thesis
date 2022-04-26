@@ -1,0 +1,144 @@
+{
+   "title": "MLB all-time runs scored leaders 2019",
+   "xAxis": "Mlb Player",
+   "yAxis": "Number of runs scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Mlb runs of all MLB teams in 2019 . ",
+      "The Honus_Wagner Mlb was runs at 2295 % scored in 2019 . ",
+      "Mlb Number runs \u2013 additional information For the 2018/19 season , all Mlb Player generated combined revenues of almost 8.8 million scored \u2013 regular season ticketing accounted for over 22 % of the total ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "23",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Mlb Player": "Rickey Henderson",
+         "Number of runs scored": "2295"
+      },
+      {
+         "Mlb Player": "Ty Cobb",
+         "Number of runs scored": "2243"
+      },
+      {
+         "Mlb Player": "Barry Bonds",
+         "Number of runs scored": "2227"
+      },
+      {
+         "Mlb Player": "Hank Aaron",
+         "Number of runs scored": "2174"
+      },
+      {
+         "Mlb Player": "Babe Ruth",
+         "Number of runs scored": "2174"
+      },
+      {
+         "Mlb Player": "Pete Rose",
+         "Number of runs scored": "2165"
+      },
+      {
+         "Mlb Player": "Willie Mays",
+         "Number of runs scored": "2062"
+      },
+      {
+         "Mlb Player": "Alex Rodriguez",
+         "Number of runs scored": "2021"
+      },
+      {
+         "Mlb Player": "Cap Anson",
+         "Number of runs scored": "1999"
+      },
+      {
+         "Mlb Player": "Stan Musial",
+         "Number of runs scored": "1949"
+      },
+      {
+         "Mlb Player": "Derek Jeter",
+         "Number of runs scored": "1923"
+      },
+      {
+         "Mlb Player": "Lou Gehrig",
+         "Number of runs scored": "1888"
+      },
+      {
+         "Mlb Player": "Tris Speaker",
+         "Number of runs scored": "1882"
+      },
+      {
+         "Mlb Player": "Mel Ott",
+         "Number of runs scored": "1859"
+      },
+      {
+         "Mlb Player": "Craig Biggio",
+         "Number of runs scored": "1844"
+      },
+      {
+         "Mlb Player": "Frank Robinson",
+         "Number of runs scored": "1829"
+      },
+      {
+         "Mlb Player": "Albert Pujols",
+         "Number of runs scored": "1828"
+      },
+      {
+         "Mlb Player": "Eddie Collins",
+         "Number of runs scored": "1821"
+      },
+      {
+         "Mlb Player": "Carl Yastrzemski",
+         "Number of runs scored": "1816"
+      },
+      {
+         "Mlb Player": "Ted Williams",
+         "Number of runs scored": "1798"
+      },
+      {
+         "Mlb Player": "Paul Molitor",
+         "Number of runs scored": "1782"
+      },
+      {
+         "Mlb Player": "Charlie Gehringer",
+         "Number of runs scored": "1775"
+      },
+      {
+         "Mlb Player": "Jimmie Foxx",
+         "Number of runs scored": "1751"
+      },
+      {
+         "Mlb Player": "Honus Wagner",
+         "Number of runs scored": "1739"
+      },
+      {
+         "Mlb Player": "Jim O'Rourke",
+         "Number of runs scored": "1729"
+      },
+      {
+         "Mlb Player": "Jesse Burkett",
+         "Number of runs scored": "1720"
+      },
+      {
+         "Mlb Player": "Willie Keeler",
+         "Number of runs scored": "1719"
+      },
+      {
+         "Mlb Player": "Billy Hamilton",
+         "Number of runs scored": "1697"
+      },
+      {
+         "Mlb Player": "Bid McPhee",
+         "Number of runs scored": "1684"
+      },
+      {
+         "Mlb Player": "Mickey Mantle",
+         "Number of runs scored": "1676"
+      }
+   ],
+   "gold": "This statistic shows the MLB all-time runs scored leaders as of October 9 , 2019 . Rickey Henderson has scored the most runs in Major League Baseball history with 2,295 runs .\n"
+}

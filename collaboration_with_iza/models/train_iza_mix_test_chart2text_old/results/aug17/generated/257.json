@@ -1,0 +1,61 @@
+{
+   "title": "Instagram usage frequency in the United States 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Share of respondents conducted by frequency in a United States . ",
+      "\\\\n From the chart we see that the Several_times_a_week Response was the Instagram usage Response in the States with 37 respondents . ",
+      "The next Response to make the most respondents was the Weekly Response with 9 respondents closely followed by Don't_know with 0 respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "7",
+         "20": "7"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "Daily",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "Several times a week",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Weekly",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Several times a month",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Monthly",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Less often",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": "0"
+      }
+   ],
+   "gold": "As of the third quarter of 2019 , it was found that 37 percent of Instagram users in the United States accessed the photo sharing app several times a day . A further 22 percent of respondents claimed that they used Instagram on a daily basis .\n"
+}

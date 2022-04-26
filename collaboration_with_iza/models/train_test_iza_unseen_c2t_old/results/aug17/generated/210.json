@@ -1,0 +1,44 @@
+{
+   "title": "Number of internet users in selected regions in Asia-Pacific 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , it was found that people in the Number with a Master 's degree in East_Asia had the highest Number starting internet , at 1000 users millions . ",
+      "People who held a Master 's degree in South_Asia and had the second highest starting internet , at 803 users millions . ",
+      "An abundance of Masters As higher education in the Number has become more common , and even expected , the number of Master 's degrees awarded has increased ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "26": "0"
+      },
+      {
+         "8": "1",
+         "10": "1",
+         "19": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Number of internet users in millions": "1000"
+      },
+      {
+         "Region": "South Asia",
+         "Number of internet users in millions": "803"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Number of internet users in millions": "415"
+      },
+      {
+         "Region": "Oceania",
+         "Number of internet users in millions": "29"
+      }
+   ],
+   "gold": "The above statistic shows the number of internet users in the Asia-Pacific regions as of January 2019 . During that time , it was discovered that the internet population in East Asia amounted to one billion internet users .\n"
+}

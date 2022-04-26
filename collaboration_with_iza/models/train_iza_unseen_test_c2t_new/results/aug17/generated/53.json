@@ -1,0 +1,42 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by education",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Facebook United States is less pronounced in Some_college when compared to the College_+ and High_school_or_less . ",
+      "High_school_or_less shows a United States of 75 % , the College_+ 74 % , and Some_college is at 61 % ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "12": "2",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "5": "1",
+         "9": "2",
+         "10": "2",
+         "14": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "High school or less",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "Some college",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "College +",
+         "Share of respondents": "74"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by educational background . During that period of time , 74 percent of respondents who had attained a college degree used the social networking site .\n"
+}

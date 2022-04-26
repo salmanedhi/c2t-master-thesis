@@ -1,0 +1,118 @@
+{
+   "title": "Alphabet : quarterly revenue 2014 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Revenue of million made by Quarter . ",
+      "\\n Q3_'18 has the highest Revenue of million sitting at 12.8",
+      "\\n Second to Q3_'18 is Q1_'19 at 9.2 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4"
+      },
+      {
+         "3": "4",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in million U.S. dollars": "40499"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in million U.S. dollars": "38944"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in million U.S. dollars": "36339"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in million U.S. dollars": "39276"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in million U.S. dollars": "33740"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in million U.S. dollars": "32657"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in million U.S. dollars": "31146"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in million U.S. dollars": "32323"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in million U.S. dollars": "27772"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in million U.S. dollars": "26010"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in million U.S. dollars": "24750"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in million U.S. dollars": "26064"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in million U.S. dollars": "22451"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in million U.S. dollars": "21500"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in million U.S. dollars": "20257"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in million U.S. dollars": "21329"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in million U.S. dollars": "18675"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in million U.S. dollars": "17727"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in million U.S. dollars": "17258"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in million U.S. dollars": "18103"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in million U.S. dollars": "16523"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in million U.S. dollars": "15955"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in million U.S. dollars": "15420"
+      }
+   ],
+   "gold": "In the third quarter of 2019 , Alphabet 's revenue amounted to 40.5 billion U.S. dollars , up from 38.9 billion U.S. dollars in the preceding quarter . Alphabet 's main revenue source is advertising through Google sites and online products . The company 's Other Bets segment also includes businesses such as Access/Google Fiber , Calico , Nest , Verily , GV , Google Capital , X , and other ventures .\n"
+}

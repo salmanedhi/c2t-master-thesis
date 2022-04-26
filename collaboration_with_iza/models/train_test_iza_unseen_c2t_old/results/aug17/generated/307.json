@@ -1,0 +1,46 @@
+{
+   "title": "Weekly LinkedIn usage of registered users 2016",
+   "xAxis": "Hours",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the LinkedIn Hours of registered in the LinkedIn when purchasing Weekly , according to a survey published 2016 . ",
+      "Of respondents , 53 percentage said they researched products 0-2_hours 5-6_hours LinkedIn in 7-8_hours , while 22 percentage said they shopped 3-4_hours ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "9": "0",
+         "10": "2",
+         "13": "3",
+         "16": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Hours": "0-2 hours",
+         "Percentage of respondents": "53"
+      },
+      {
+         "Hours": "3-4 hours",
+         "Percentage of respondents": "22"
+      },
+      {
+         "Hours": "5-6 hours",
+         "Percentage of respondents": "10"
+      },
+      {
+         "Hours": "7-8 hours",
+         "Percentage of respondents": "5"
+      },
+      {
+         "Hours": "8+ hours",
+         "Percentage of respondents": "10"
+      }
+   ],
+   "gold": "This statistic provides information on average number of weekly hours that LinkedIn users spend on the social networking site . During a March 2016 survey , it was found that 53 percent of LinkedIn users only spend zero to two hours on the site per week .\n"
+}

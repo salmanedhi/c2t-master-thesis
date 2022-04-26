@@ -1,0 +1,40 @@
+{
+   "title": "Money spent on higher education in Asia in 2010",
+   "xAxis": "Continent",
+   "yAxis": "Million Pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Million Pounds of the most popular user-generated Asia Continent . ",
+      "As of 2010 , chat app Asia permitted users create and sell their on Asia chat Continent in the app 's digital marketplace . ",
+      "As of 2010 , the Million Pounds of the North_America Continent were 320 million Pounds ( approximately 215,200 U.S. dollars ) each ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "0",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Continent": "North America",
+         "Million Pounds": "200"
+      },
+      {
+         "Continent": "Europe",
+         "Million Pounds": "100"
+      },
+      {
+         "Continent": "Asia",
+         "Million Pounds": "320"
+      },
+      {
+         "Continent": "Africa",
+         "Million Pounds": "50"
+      }
+   ],
+   "gold": "The chart compares money spent in millions of pounds on different continents During 2010 , Africa spent only \u00a3 50 million , being the least and Asia spent \u00a3 310 million , being the most\n"
+}

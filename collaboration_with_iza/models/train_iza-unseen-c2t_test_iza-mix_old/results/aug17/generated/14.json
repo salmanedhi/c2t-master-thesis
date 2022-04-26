@@ -1,0 +1,35 @@
+{
+   "title": "What causes Obesity",
+   "xAxis": "type",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The table shows that the leading cause of Obesity is Fast_Food ( 60 percentage ) , followed by Genetics ( 30 percentage ) and finally Lack_of_Exercises of exercise ( 10 percentage ) ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "0",
+         "20": "1",
+         "25": "2",
+         "29": "2"
+      }
+   ],
+   "data": [
+      {
+         "type": "Fast Food",
+         "Percentage": "60"
+      },
+      {
+         "type": "Genetic",
+         "Percentage": "30"
+      },
+      {
+         "type": "Lack of Exercises",
+         "Percentage": "10"
+      }
+   ],
+   "gold": "Fast food causes 60 % of obesity , genetic predisposition some 30 % whilst lack of exercise contributes the other 10 %\n"
+}

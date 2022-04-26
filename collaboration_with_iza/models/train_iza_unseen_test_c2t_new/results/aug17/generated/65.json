@@ -1,0 +1,109 @@
+{
+   "title": "Manchester United Facebook fans 2019",
+   "xAxis": "Month",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Manchester United Month in terms of the Facebook of fans with Jul_'12 having the Manchester \u2013 73.79 fans down to Jan_'11 the least United of the group at 0.8 fans . ",
+      "In between , we have Jul_'10 0.8 , Aug_'19 73.34 , Jan_'12 21.5 and Jul_'11 17.2 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "14",
+         "24": "1",
+         "32": "0"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "18",
+         "9": "18",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jul '10",
+         "Facebook fans in millions": "0.8"
+      },
+      {
+         "Month": "Jan '11",
+         "Facebook fans in millions": "8.1"
+      },
+      {
+         "Month": "Jul '11",
+         "Facebook fans in millions": "17.2"
+      },
+      {
+         "Month": "Jan '12",
+         "Facebook fans in millions": "21.5"
+      },
+      {
+         "Month": "Jul '12",
+         "Facebook fans in millions": "26.7"
+      },
+      {
+         "Month": "Jan '13",
+         "Facebook fans in millions": "31.0"
+      },
+      {
+         "Month": "Jul '13",
+         "Facebook fans in millions": "34.2"
+      },
+      {
+         "Month": "Jan '14",
+         "Facebook fans in millions": "40.7"
+      },
+      {
+         "Month": "Jul '14",
+         "Facebook fans in millions": "55.0"
+      },
+      {
+         "Month": "Feb '15",
+         "Facebook fans in millions": "65.0"
+      },
+      {
+         "Month": "Aug '15",
+         "Facebook fans in millions": "65.9"
+      },
+      {
+         "Month": "Feb '16",
+         "Facebook fans in millions": "68.21"
+      },
+      {
+         "Month": "Jul '16",
+         "Facebook fans in millions": "69.99"
+      },
+      {
+         "Month": "Feb '17",
+         "Facebook fans in millions": "72.62"
+      },
+      {
+         "Month": "Jul '17",
+         "Facebook fans in millions": "73.79"
+      },
+      {
+         "Month": "Feb '18",
+         "Facebook fans in millions": "73.78"
+      },
+      {
+         "Month": "Aug '18",
+         "Facebook fans in millions": "73.43"
+      },
+      {
+         "Month": "Feb '19",
+         "Facebook fans in millions": "73.36"
+      },
+      {
+         "Month": "Aug '19",
+         "Facebook fans in millions": "73.34"
+      }
+   ],
+   "gold": "This statistic shows the number of fans on the official Manchester United Facebook page from July 2010 to August 2019 . The page had a total of 73.34 million fans in August 2019 .\n"
+}

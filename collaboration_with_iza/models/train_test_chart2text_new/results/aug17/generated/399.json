@@ -1,0 +1,56 @@
+{
+   "title": "Forecast of office rent growth in the U.S. 2015 to 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Rent growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Rent of growth between rent and Forecast rent from the first Quarter of Q1_2016 ( Q2_2016 Q1_2016 ) to the third Quarter of Q4_2016 ( ) in % . ",
+      "In the second Quarter of Q4_2016 , lab-created rent cost some 0.9 % less than Forecast occurring rent ."
+   ],
+   "trends": [
+      {
+         "17": "3",
+         "19": "2",
+         "20": "3",
+         "27": "0",
+         "29": "0"
+      },
+      {
+         "5": "0",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 2016",
+         "Rent growth": "1"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Rent growth": "0.8"
+      }
+   ],
+   "gold": "This statistic presents a forecast of office rent growth in the United States from second quarter of 2015 to fourth quarter of 2016 . It was expected that office rent would grow by one percent in the fourth quarter of 2016 in the United States . Coworking worldwide \u2013 additional information Coworking is an alternative to the traditional office space , wherein independent workers , such as freelancers and remote workers , share a working environment .\n"
+}

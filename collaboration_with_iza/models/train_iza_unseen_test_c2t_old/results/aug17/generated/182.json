@@ -1,0 +1,43 @@
+{
+   "title": "Gross NPA of private banks India 2016 to 2019",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Value in trillion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Gross NPA private in FY_2019 2016 compared with that in FY_2018 and the FY_2017 . ",
+      "In FY_2019 there was a 1.86 trillion difference in the salaries of men and women . ",
+      "In FY_2018 the difference was 0.94 trillion ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "15": "1",
+         "18": "2"
+      },
+      {
+         "1": "0",
+         "5": "1"
+      },
+      {
+         "1": "1",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY 2019",
+         "Value in trillion Indian rupees": "1.84"
+      },
+      {
+         "Fiscal Year": "FY 2018",
+         "Value in trillion Indian rupees": "1.86"
+      },
+      {
+         "Fiscal Year": "FY 2017",
+         "Value in trillion Indian rupees": "0.94"
+      }
+   ],
+   "gold": "In fiscal year 2019 , the value of non-performing assets of private banks across India amounted to over 1.8 trillion Indian rupees . This was much lesser in fiscal year 2017 , amounting to about 9.3 billion rupees . Non-performing assets have posed a big problem for banks in India and experts point that this crisis had been long in the making .\n"
+}

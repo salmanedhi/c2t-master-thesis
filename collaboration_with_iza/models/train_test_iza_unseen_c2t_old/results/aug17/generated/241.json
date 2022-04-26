@@ -1,0 +1,191 @@
+{
+   "title": "MINI car sales in the United Kingdom ( UK ) 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the monthly amount of cars sold by United Kingdom in the UK ( ) between 2016 and 2019 . ",
+      "Peaks in registration numbers were recorded in and of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . ",
+      "In 2019 , 6123 new United Kingdom cars had been sold ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": "6123"
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": "4651"
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": "3367"
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": "12691"
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": "1819"
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": "2983"
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": "8662"
+      },
+      {
+         "Month": "May 19",
+         "Units sold": "3952"
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": "2502"
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": "12992"
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": "1891"
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": "3251"
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": "7211"
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": "5269"
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": "5116"
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": "10082"
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": "1867"
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": "3351"
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": "8176"
+      },
+      {
+         "Month": "May 18",
+         "Units sold": "5094"
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": "3846"
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": "12352"
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": "1786"
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": "2871"
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": "7127"
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": "6094"
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": "3144"
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": "12282"
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": "1524"
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": "3007"
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": "9015"
+      },
+      {
+         "Month": "May 17",
+         "Units sold": "4972"
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": "3734"
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": "12942"
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": "2045"
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": "2280"
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": "7383"
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": "5093"
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": "4792"
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": "13119"
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": "1608"
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": "3026"
+      }
+   ],
+   "gold": "This statistic shows the monthly amount of cars sold by MINI in the United Kingdom ( UK ) between July 2016 and December 2019 . Peaks in registration numbers were recorded in March and September of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . In September 2019 , around 12,700 new MINI cars had been sold .\n"
+}

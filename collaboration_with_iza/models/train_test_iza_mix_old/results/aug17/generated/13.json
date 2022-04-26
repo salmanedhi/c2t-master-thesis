@@ -1,0 +1,38 @@
+{
+   "title": "What causes Obesity",
+   "xAxis": "type",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows three potential causes of Obesity , and breaks down their relative contribution . ",
+      "Fast_Food emerges as the most important , followed by Genetic factors . ",
+      "Lack_of_Exercises of exercise is comparatively unimportant to these other two factors ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "9": "1"
+      },
+      {
+         "0": "2"
+      }
+   ],
+   "data": [
+      {
+         "type": "Fast Food",
+         "Percentage": "60"
+      },
+      {
+         "type": "Genetic",
+         "Percentage": "30"
+      },
+      {
+         "type": "Lack of Exercises",
+         "Percentage": "10"
+      }
+   ],
+   "gold": "This graph shows what causes obesity or is a factor in someone becoming obese . 60 % Fast food \\\\n 30 % Genetic \\\\n 10 % Lack of Exercises\n"
+}

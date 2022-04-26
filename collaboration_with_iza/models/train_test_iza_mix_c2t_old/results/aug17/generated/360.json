@@ -1,0 +1,56 @@
+{
+   "title": "Surface area of the Nordic countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Surface area in square kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of area Nordic chat app square as of 2017 , sorted by global region . ",
+      "As of that month , 447420 % of the mobile messenger 's Nordic base were located in Sweden and . ",
+      "The Finland accounted for 338420 % of Nordic messenger square ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "17": "0",
+         "19": "0"
+      },
+      {
+         "1": "3",
+         "4": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Surface area in square kilometers": "447420"
+      },
+      {
+         "Country": "Greenland",
+         "Surface area in square kilometers": "410450"
+      },
+      {
+         "Country": "Norway",
+         "Surface area in square kilometers": "385178"
+      },
+      {
+         "Country": "Finland",
+         "Surface area in square kilometers": "338420"
+      },
+      {
+         "Country": "Iceland",
+         "Surface area in square kilometers": "103000"
+      },
+      {
+         "Country": "Denmark",
+         "Surface area in square kilometers": "42922"
+      },
+      {
+         "Country": "Faroe Islands",
+         "Surface area in square kilometers": "1396"
+      }
+   ],
+   "gold": "This statistic shows the surface area of the Nordic countries in 2017 . The largest of all Nordic countries is Sweden , with a surface of roughly 447 thousand square kilometers . Its neighboring country Norway has a size of approximately 385 thousand square kilometers , which includes the arctic islands of Svalbard and Jan Mayen .\n"
+}

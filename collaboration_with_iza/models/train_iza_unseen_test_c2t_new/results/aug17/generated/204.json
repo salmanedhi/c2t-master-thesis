@@ -1,0 +1,45 @@
+{
+   "title": "Netflix content watching worldwide by device 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of time spent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the percentage of Netflix represented in watching worldwide Platform in Netflix . ",
+      "\\\\n From the chart we see that the lowest amount of Netflix content came from Mobile with 24 % , followed by 15 % of Netflix content in PC/laptop . ",
+      "Next we see there were around 56 % of Netflix content in Mobile followed by 70 % in Television ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "2",
+         "22": "1",
+         "28": "1"
+      },
+      {
+         "12": "2",
+         "15": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Television",
+         "Share of time spent": "70"
+      },
+      {
+         "Platform": "PC/laptop",
+         "Share of time spent": "15"
+      },
+      {
+         "Platform": "Mobile",
+         "Share of time spent": "10"
+      },
+      {
+         "Platform": "Tablet",
+         "Share of time spent": "5"
+      }
+   ],
+   "gold": "The figure shows the share of time spent watching Netflix worldwide in 2017 , by device . According to the source , 70 percent of content streamed on Netflix worldwide in 2017 was via a connected TV .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Tourism industry growth expectations according to travel experts 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , some 56 % of Tourism stated that , out of any expectations according , they are Tourism likely to travel Significantly_decline from Tourism producers or brands as opposed to imported expectations . ",
+      "Slightly_decline and No_change were the next two Tourism industry expectations segments , with 11 and 14 % of respondents stating they would likely buy Tourism goods respectively . ",
+      "In the same survey , some 25 % of 2018 said that they always buy Tourism expectations ."
+   ],
+   "trends": [
+      {
+         "4": "3",
+         "23": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "13": "1",
+         "15": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Significantly decline",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Slightly decline",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "No change",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Slightly grow",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Significantly grow",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking travel industry representatives and stakeholders at the London WTM exhibition ( UK ) to what extent do they expect the tourism industry to grow or decline in 2018 . Of respondents , 56 percent believed that the tourism industry will grow slightly in 2018 .\n"
+}

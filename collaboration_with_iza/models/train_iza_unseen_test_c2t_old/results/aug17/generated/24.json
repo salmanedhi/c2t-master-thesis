@@ -1,0 +1,95 @@
+{
+   "title": "Best cars to own based on build quality in Great Britain ( UK ) 2016",
+   "xAxis": "Car model",
+   "yAxis": "Rating out of 5",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Best cars in Great Britain . ",
+      "It shows Lexus_RX_MkIII was the Best at just 94.78 degrees and Lexus_GS_MkIV was the warmest at 97.02 out . ",
+      "After Lexus_RX_MkIII , the next Best cars are Lexus_NX_MkI at 97.02 degrees , followed by Kia_Soul_MkII at 18 degrees , Lexus_RX_MkII at 96.9 degrees and then Audi_Q3_MkI at 96.67 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "14",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "14",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Car model": "Lexus NX MkI",
+         "Rating out of 5": "97.02"
+      },
+      {
+         "Car model": "Lexus RX MkII",
+         "Rating out of 5": "96.9"
+      },
+      {
+         "Car model": "Lexus RX MkIII",
+         "Rating out of 5": "96.76"
+      },
+      {
+         "Car model": "Audi Q3 MkI",
+         "Rating out of 5": "96.67"
+      },
+      {
+         "Car model": "Lexus GS MkIV",
+         "Rating out of 5": "96.59"
+      },
+      {
+         "Car model": "Lexus IS MkIII",
+         "Rating out of 5": "96.44"
+      },
+      {
+         "Car model": "Skoda Superb MkII",
+         "Rating out of 5": "95.9"
+      },
+      {
+         "Car model": "Subaru Forester MkIV",
+         "Rating out of 5": "95.26"
+      },
+      {
+         "Car model": "Lexus CT MkI",
+         "Rating out of 5": "95.01"
+      },
+      {
+         "Car model": "Audi Q5 MkI",
+         "Rating out of 5": "95"
+      },
+      {
+         "Car model": "Skoda Yeti MkI",
+         "Rating out of 5": "95"
+      },
+      {
+         "Car model": "Renault Kadjar MkI",
+         "Rating out of 5": "94.89"
+      },
+      {
+         "Car model": "Volvo V60 MkI",
+         "Rating out of 5": "94.81"
+      },
+      {
+         "Car model": "BMW 4 Series MkI",
+         "Rating out of 5": "94.8"
+      },
+      {
+         "Car model": "Kia Soul MkII",
+         "Rating out of 5": "94.78"
+      }
+   ],
+   "gold": "This statistic shows the leading 15 car models according to the Auto Express Driver Power 2016 survey responses based on car build quality . The survey was carried out by the British automotive magazine online between 2014 and 2015 . Lexus dominated this category securing the top three spots with the NX MkI , RX MkII , and RX MkIII models as well as having three other models in the top 15 .\n"
+}

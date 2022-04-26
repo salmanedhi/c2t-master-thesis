@@ -1,0 +1,42 @@
+{
+   "title": "Tire producers - based on global revenue 2018",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Revenue of Tire producers based Company in the 2018 in . ",
+      "Bridgestone_(Japan) generated 28 billion U.S. dollars in 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Bridgestone (Japan)",
+         "Revenue in billion U.S. dollars": "28"
+      },
+      {
+         "Company": "Michelin (France)",
+         "Revenue in billion U.S. dollars": "26"
+      },
+      {
+         "Company": "Goodyear (U.S.)",
+         "Revenue in billion U.S. dollars": "15"
+      },
+      {
+         "Company": "Continental (Germany)",
+         "Revenue in billion U.S. dollars": "13"
+      },
+      {
+         "Company": "Sumitomo Rubber Industries (Japan)",
+         "Revenue in billion U.S. dollars": "7"
+      }
+   ],
+   "gold": "This statistic shows the world 's largest tire manufacturers in 2018 , based on tire-related revenue . Continental 's revenue from its tire division amounted to around 13 billion U.S. dollars in 2018 . The world 's largest tire makers The ranking of the world 's largest tire manufacturers is dominated by European and Asian manufacturers .\n"
+}

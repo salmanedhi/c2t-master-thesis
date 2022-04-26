@@ -1,0 +1,71 @@
+{
+   "title": "Production volume of spices India 2019 by state",
+   "xAxis": "State",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "According to the latest available data , Gujarat was the State with the highest 2019 by Production in the India , followed by Andhra_Pradesh and Telangana . ",
+      "Although Gujarat has the highest teen by Production , California is the State with the highest number of 2019 pregnancies . ",
+      "In 2019 , there were almost 57,000 2019 pregnancies in California ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "23": "2",
+         "25": "3"
+      },
+      {
+         "1": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "Rajasthan",
+         "Production in thousand metric tons": "942.69"
+      },
+      {
+         "State": "Gujarat",
+         "Production in thousand metric tons": "747.15"
+      },
+      {
+         "State": "Andhra Pradesh",
+         "Production in thousand metric tons": "742.61"
+      },
+      {
+         "State": "Telangana",
+         "Production in thousand metric tons": "651.1"
+      },
+      {
+         "State": "Karnataka",
+         "Production in thousand metric tons": "648.62"
+      },
+      {
+         "State": "West Bengal",
+         "Production in thousand metric tons": "343.97"
+      },
+      {
+         "State": "Orissa",
+         "Production in thousand metric tons": "297.26"
+      },
+      {
+         "State": "Uttar Pradesh",
+         "Production in thousand metric tons": "250.81"
+      },
+      {
+         "State": "Maharashtra",
+         "Production in thousand metric tons": "194.43"
+      },
+      {
+         "State": "Tamil Nadu",
+         "Production in thousand metric tons": "180.45"
+      },
+      {
+         "State": "Kerala",
+         "Production in thousand metric tons": "172.55"
+      }
+   ],
+   "gold": "The production volume of spices amounted to over 940 thousand metric tons in the state of Rajasthan in fiscal year 2019 , making it the largest producer across India . Gujarat followed with Andhra Pradesh ranking third . The country 's total spice production amounted to over 9.1 million metric tons that same year .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Largest Cuban-American population groups in the United States , by county 2010",
+   "xAxis": "County",
+   "yAxis": "Population number",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Largest Cuban-American population in the groups competirion . ",
+      "\\\\n From the chart we see that the Los_Angeles_County_CA County made the Largest number by some margin , with only 17179 . ",
+      "Broward_County_FL and Miami-Dade_County_FL made a respectable 83713 and 856007 number , with Collier_County_FL and Palm_Beach_County_FL not far behind , at 17179 and 43038 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "9"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "9",
+         "14": "3",
+         "20": "9",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "County": "Miami-Dade County FL",
+         "Population number": "856007"
+      },
+      {
+         "County": "Broward County FL",
+         "Population number": "83713"
+      },
+      {
+         "County": "Hillsborough County FL",
+         "Population number": "65451"
+      },
+      {
+         "County": "Palm Beach County FL",
+         "Population number": "43038"
+      },
+      {
+         "County": "Los Angeles County CA",
+         "Population number": "41350"
+      },
+      {
+         "County": "Hudson County NJ",
+         "Population number": "28652"
+      },
+      {
+         "County": "Orange County FL",
+         "Population number": "22528"
+      },
+      {
+         "County": "Clark County NV",
+         "Population number": "20569"
+      },
+      {
+         "County": "Lee County FL",
+         "Population number": "20253"
+      },
+      {
+         "County": "Collier County FL",
+         "Population number": "17179"
+      }
+   ],
+   "gold": "This statistic depicts the largest Cuban-American population groups in different counties across the United States as of 2010 . At this time there were 856,007 people of Cuban origin living in Miami-Dade County in Florida .\n"
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Preferred social login ID worldwide 2016",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Facebook was the most popular social login Platform among Preferred social login users in ID 2016 . ",
+      "53.1 % of internet users in ID reported to have used Facebook on a Preferred basis . ",
+      "The social login Platform had 2.91 million users in and was forecast to have around 3.12 million users 2016 2022 ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "0": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": "53.1"
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": "44.8"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": "1.01"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": "0.56"
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": "0.29"
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": "0.15"
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": "0.11"
+      }
+   ],
+   "gold": "This statistic gives information on the preferred social login ID used by internet users worldwide . During the second quarter of 2016 , data analysis revealed that 53.1 percent of social logins were through a Facebook account . Approximately one percent of internet users used their Twitter account to login to a website .\n"
+}

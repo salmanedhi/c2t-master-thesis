@@ -1,0 +1,43 @@
+{
+   "title": "Bombardier - Revenues by segment 2018",
+   "xAxis": "Segment",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Billion U.S. of the by at the Transportation of a Segment in the Revenues in 2018 , according to whether it is the by 's first , second third , or fourth Segment . ",
+      "It reveals that in 2018 women in the Revenues on Billion were 1.76 years old when they had their first Segment . ",
+      "If they had a second Segment , on Billion it came a little over two years later , when they were 4.99 years old ."
+   ],
+   "trends": [
+      {
+         "11": "0"
+      },
+      {
+         "12": "3"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Segment": "Transportation",
+         "Billion U.S. dollars": "8.91"
+      },
+      {
+         "Segment": "Business Aircraft",
+         "Billion U.S. dollars": "4.99"
+      },
+      {
+         "Segment": "Aerostructures and Engineering Services",
+         "Billion U.S. dollars": "1.95"
+      },
+      {
+         "Segment": "Commercial Aircraft",
+         "Billion U.S. dollars": "1.76"
+      }
+   ],
+   "gold": "This statistic gives a breakdown of Bombardier 's revenue in the fiscal year of 2018 , by segment . The Montreal-headquartered company had revenues of approximately five billion U.S. dollars in its business aircraft segment .\n"
+}

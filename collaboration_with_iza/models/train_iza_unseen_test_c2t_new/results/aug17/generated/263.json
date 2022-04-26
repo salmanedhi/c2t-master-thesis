@@ -1,0 +1,64 @@
+{
+   "title": "Number of Overwatch players worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number Overwatch Month in the worldwide 2018 was Month April_2017 , who made 40 players . ",
+      "The most Overwatch Month was October_2016 , with just 7 players . ",
+      "In second place was Month October_2017 with 35 players ; third place went to Month May_2018 with 40 players ; fourth place went to Month May_2016 with 7 players and fifth place went to Month January_2017 , who was 25 players ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "6",
+         "27": "6",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "May 2018",
+         "Number of players in millions": "40"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "35"
+      },
+      {
+         "Month": "April 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "January 2017",
+         "Number of players in millions": "25"
+      },
+      {
+         "Month": "October 2016",
+         "Number of players in millions": "20"
+      },
+      {
+         "Month": "August 2016",
+         "Number of players in millions": "15"
+      },
+      {
+         "Month": "May 2016",
+         "Number of players in millions": "7"
+      }
+   ],
+   "gold": "How many people play Overwatch ? Overwatch , a team-based first-person shooter video game , launched in May 2016 and already a week later it was reported to have had seven million players . As of May 2018 , Overwatch had 40 million players worldwide . Overwatch 's eSports success While the number of gamers playing Overwatch has increased dramatically , so has the appeal of the game as an eSport .\n"
+}

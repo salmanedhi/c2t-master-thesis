@@ -1,0 +1,216 @@
+{
+   "title": "Google : quarterly revenue as 2008 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "During the fourth Quarter of 2019 , the quarterly revenue amounted to nearly 45812 million U.S. dollars , representing a growth of 20 million compared to the same period in previous year and a Quarter on growth of 27470 million . ",
+      "Digital revenue - additional information In the digital era , when the market grows and changes in an incredibly fast pace , the revenue industry needs to adapt and match the speed of those transformations . ",
+      "Sources predict that the share of digital in total revenue spending will grow from 36.7 million in 2016 to more than 45 million in 2019 ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "40": "9"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Revenue in million U.S. dollars": "45812"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in million U.S. dollars": "40344"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in million U.S. dollars": "38782"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in million U.S. dollars": "36169"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in million U.S. dollars": "38998"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in million U.S. dollars": "33594"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in million U.S. dollars": "32512"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in million U.S. dollars": "30996"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in million U.S. dollars": "32192"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in million U.S. dollars": "27470"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in million U.S. dollars": "25913"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in million U.S. dollars": "24618"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in million U.S. dollars": "25802"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in million U.S. dollars": "22254"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in million U.S. dollars": "21315"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in million U.S. dollars": "20092"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in million U.S. dollars": "21179"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in million U.S. dollars": "18534"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in million U.S. dollars": "17653"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in million U.S. dollars": "17178"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in million U.S. dollars": "17997"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in million U.S. dollars": "16523"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in million U.S. dollars": "15955"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in million U.S. dollars": "15420"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in million U.S. dollars": "15707"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in million U.S. dollars": "13754"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in million U.S. dollars": "13107"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in million U.S. dollars": "12951"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in million U.S. dollars": "12905"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Revenue in million U.S. dollars": "11526"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Revenue in million U.S. dollars": "10964"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Revenue in million U.S. dollars": "10645"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Revenue in million U.S. dollars": "10584"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Revenue in million U.S. dollars": "9720"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Revenue in million U.S. dollars": "9026"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Revenue in million U.S. dollars": "8575"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Revenue in million U.S. dollars": "8440"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Revenue in million U.S. dollars": "7286"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Revenue in million U.S. dollars": "6820"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "Revenue in million U.S. dollars": "6775"
+      },
+      {
+         "Quarter": "Q4 '09",
+         "Revenue in million U.S. dollars": "6674"
+      },
+      {
+         "Quarter": "Q3 '09",
+         "Revenue in million U.S. dollars": "5945"
+      },
+      {
+         "Quarter": "Q2 '09",
+         "Revenue in million U.S. dollars": "5523"
+      },
+      {
+         "Quarter": "Q1 '09",
+         "Revenue in million U.S. dollars": "5509"
+      },
+      {
+         "Quarter": "Q4 '08",
+         "Revenue in million U.S. dollars": "5701"
+      },
+      {
+         "Quarter": "Q3 '08",
+         "Revenue in million U.S. dollars": "5541"
+      },
+      {
+         "Quarter": "Q2 '08",
+         "Revenue in million U.S. dollars": "5637"
+      },
+      {
+         "Quarter": "Q1 '08",
+         "Revenue in million U.S. dollars": "5186"
+      }
+   ],
+   "gold": "In the fourth quarter of 2019 , Google 's revenue amounted to 45.8 billion U.S. dollars , up from 40.34 billion U.S. dollars in the preceding quarter . Google 's main revenue source is advertising through Google sites and its network . In 2019 , Google accounted for the majority of parent company Alphabet 's revenues with 113.26 billion U.S. dollars in Google website ad revenues alone .\n"
+}

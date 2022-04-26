@@ -1,0 +1,60 @@
+{
+   "title": "Frequency of soda purchases among consumers in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Frequency soda Response in the among consumers was Response A_few_times_per_month , who made 32.2 respondents . ",
+      "The most soda Response was Less_frequently_than_once_every_three_months , with just 7.1 respondents . ",
+      "In second place was Response A_few_times_per_week with 25.8 respondents ; third place went to Response Every_day with 10.1 respondents ; fourth place went to Response Not_a_soda_consumer with 15 respondents and fifth place went to Response A_few_times_every_three_months , who was 9.8 respondents ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "2"
+      },
+      {
+         "6": "4",
+         "10": "4"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "5",
+         "27": "5",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Every day",
+         "Share of respondents": "10.1"
+      },
+      {
+         "Response": "A few times per week",
+         "Share of respondents": "25.8"
+      },
+      {
+         "Response": "A few times per month",
+         "Share of respondents": "32.2"
+      },
+      {
+         "Response": "A few times every three months",
+         "Share of respondents": "9.8"
+      },
+      {
+         "Response": "Less frequently than once every three months",
+         "Share of respondents": "7.1"
+      },
+      {
+         "Response": "Not a soda consumer",
+         "Share of respondents": "15"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey in which U.S. consumers were asked how frequently they purchase soda . Some 32.2 percent of respondents stated that they purchase soda a few times per month , while 25.8 percent of respondents reportedly purchase soda a few times per week .\n"
+}

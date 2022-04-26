@@ -1,0 +1,55 @@
+{
+   "title": "The most explored glaciers by the number of expeditions",
+   "xAxis": "Glacier",
+   "yAxis": "Number of expeditions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the most explored Glacier in relation to the Number of expeditions conducted . ",
+      "The Mefonna has had the largest Number of expeditions by far with over 12 while Tasman has had only 2 . ",
+      "Akkem has had a little over 8 while Zvezda has had 6 and Olav has seen a little over 4 expeditions ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "15": "1",
+         "19": "1"
+      },
+      {
+         "0": "2",
+         "8": "3",
+         "11": "3",
+         "13": "5",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Glacier": "Volta",
+         "Number of expeditions": "4"
+      },
+      {
+         "Glacier": "Tasman",
+         "Number of expeditions": "2"
+      },
+      {
+         "Glacier": "Akkem",
+         "Number of expeditions": "9"
+      },
+      {
+         "Glacier": "Zvezda",
+         "Number of expeditions": "6"
+      },
+      {
+         "Glacier": "Mefonna",
+         "Number of expeditions": "13"
+      },
+      {
+         "Glacier": "Olav",
+         "Number of expeditions": "5"
+      }
+   ],
+   "gold": "This graph shows the number of expeditions take up each Glacier . Mefonna being the most climbed at 13 and Tasman being the least popular at just 2 climbs .\n"
+}

@@ -1,0 +1,58 @@
+{
+   "title": "U.S. consumers ' purchase frequency of cosmetic products 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the most popular rules of parents in the U.S. to monitor their frequency 's activities Facial/skin_care_products_(e.g._moisturizers_primers_specialty_cleansers) . ",
+      "As of 2014 , 48 % of responding parents stated that they had rules about Shampoos_and/or_conditioners Facial/skin_care_products_(e.g._moisturizers_primers_specialty_cleansers) their children were allowed to Facial/skin_care_products_(e.g._moisturizers_primers_specialty_cleansers) ."
+   ],
+   "trends": [
+      {
+         "18": "1"
+      },
+      {
+         "4": "1",
+         "15": "0",
+         "16": "1",
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Shampoos and/or conditioners",
+         "Share of respondents": "87"
+      },
+      {
+         "Response": "Facial/skin care products (e.g. moisturizers primers specialty cleansers)",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "Hair styling products",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Sunscreen",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Cosmetics (e.g. bronzer foundation lip gloss)",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Non-sunscreen products with SPF protection (e.g. lotions lip balm)",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Hair color",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "8"
+      }
+   ],
+   "gold": "This statistic presents the results of a survey among U.S. adult consumers . The survey was fielded online by Harris Interactive in June 2014 , asking the respondents which cosmetic products they purchase and regularly use . Some 42 percent of U.S. adults indicated that they purchase and use hair styling products on a regular basis .\n"
+}

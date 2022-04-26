@@ -1,0 +1,72 @@
+{
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018",
+   "xAxis": "Mobile Carrier",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Mobile operators in the market shares was Mobile Vodafone , who made 28 share . ",
+      "The most operators Mobile was Tesco_Mobile , with just 1 share . ",
+      "In second place was Mobile O2 with 26 share ; third place went to Mobile BT_(including_EE) with 28 share ; fourth place went to Mobile Sky with 1 share and fifth place went to Mobile Three , who was 12 share ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "8",
+         "27": "8",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Mobile Carrier": "BT (including EE)",
+         "Market share": "28"
+      },
+      {
+         "Mobile Carrier": "O2",
+         "Market share": "26"
+      },
+      {
+         "Mobile Carrier": "Vodafone",
+         "Market share": "21"
+      },
+      {
+         "Mobile Carrier": "Three",
+         "Market share": "12"
+      },
+      {
+         "Mobile Carrier": "Tesco Mobile",
+         "Market share": "6"
+      },
+      {
+         "Mobile Carrier": "Virgin Mobile",
+         "Market share": "4"
+      },
+      {
+         "Mobile Carrier": "Talk Talk",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "iD Mobile",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "Sky",
+         "Market share": "1"
+      }
+   ],
+   "gold": "This statistic shows the market shares held by mobile operators in the United Kingdom ( UK ) as at 31 December 2017 . BT , including Everything Everywhere ( EE ) held the greatest share of the market with 28 percent followed by O2 who held 26 percent . The four main mobile network operators ( MNO ) in the UK are Vodafone , Three ( 3 ) , EE and O2 .\n"
+}

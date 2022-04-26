@@ -1,0 +1,84 @@
+{
+   "title": "Mobile phone services used to plan leisure travel in the U.S. as of spring 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "During a survey conducted in 2019 , over 69.8 % of respondents in Mobile mentioned criminality as one of the most important travel affecting the South American used . ",
+      "Furthermore , 69.8 % of the people interviewed quoted Official_tourism_office_website as one of the leisure travel in their used , leaving behind Travel-related_podcasts , the Email_travel_newsletters and the economy.Up to 45 % of the people surveyed in Mobile claim that most religious leaders Map_websites_or_mapping_apps involved in acts of Social_media_websites ."
+   ],
+   "trends": [
+      {
+         "8": "0"
+      },
+      {
+         "2": "0",
+         "9": "7",
+         "22": "8",
+         "25": "10",
+         "43": "9",
+         "48": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Search engine for general web search",
+         "Share of respondents": "69.8"
+      },
+      {
+         "Response": "Search engine for images or photos",
+         "Share of respondents": "39.4"
+      },
+      {
+         "Response": "Social media websites",
+         "Share of respondents": "36.5"
+      },
+      {
+         "Response": "Online travel agency websites",
+         "Share of respondents": "28.6"
+      },
+      {
+         "Response": "Airbnb.com",
+         "Share of respondents": "24.7"
+      },
+      {
+         "Response": "Online video (YouTube.com etc)",
+         "Share of respondents": "20.3"
+      },
+      {
+         "Response": "Ask friends on social media",
+         "Share of respondents": "17.1"
+      },
+      {
+         "Response": "Official tourism office website",
+         "Share of respondents": "16.2"
+      },
+      {
+         "Response": "Travel-related podcasts",
+         "Share of respondents": "12.6"
+      },
+      {
+         "Response": "Map websites or mapping apps",
+         "Share of respondents": "11.1"
+      },
+      {
+         "Response": "Email travel newsletters",
+         "Share of respondents": "9.9"
+      },
+      {
+         "Response": "Digital assistant (Siri Google Now etc)",
+         "Share of respondents": "9.3"
+      },
+      {
+         "Response": "User review websites",
+         "Share of respondents": "8.6"
+      },
+      {
+         "Response": "Blogs articles or stories",
+         "Share of respondents": "7.2"
+      }
+   ],
+   "gold": "This statistic shows the services and technology used by people in the U.S. to find inspiration or ideas on where to travel as of Spring 2019 . During the survey , 36.5 percent of respondents said they used social media websites for travel inspiration or ideas .\n"
+}

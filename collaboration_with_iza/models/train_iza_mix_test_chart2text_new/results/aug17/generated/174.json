@@ -1,0 +1,72 @@
+{
+   "title": "COVID-19 deaths worldwide as of March 2 , 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the COVID-19 deaths Country in March by Number . ",
+      "The COVID-19 deaths Country with an average Number of 1 \u00b0 deaths is Italy , followed by China with 2915 \u00b0 , Thailand with 1 , China with 2915 , Iran_(Islamic_Republic_of) with 54 and the most popular being International_conveyance_(Diamond_Princess) with 2915 deaths ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "7",
+         "13": "2",
+         "17": "0",
+         "19": "0",
+         "22": "9",
+         "24": "9",
+         "26": "0",
+         "28": "0",
+         "30": "1",
+         "32": "1",
+         "38": "4",
+         "40": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of deaths": "2915"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of deaths": "54"
+      },
+      {
+         "Country": "Italy",
+         "Number of deaths": "35"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Number of deaths": "22"
+      },
+      {
+         "Country": "International conveyance (Diamond Princess)",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "Japan",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "France",
+         "Number of deaths": "2"
+      },
+      {
+         "Country": "Philippines",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Australia",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Thailand",
+         "Number of deaths": "1"
+      }
+   ],
+   "gold": "As of March 2 , 2020 , the outbreak of the coronavirus disease ( COVID-19 ) had spread to six continents , and approximately 3,000 people had died after contracting the respiratory virus . The majority of the confirmed cases were located in China , where around 2,900 deaths had been reported . WHO raises global risk level Approximately 60 countries worldwide have been affected by the virus .\n"
+}

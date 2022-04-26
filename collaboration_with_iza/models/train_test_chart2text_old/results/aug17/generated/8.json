@@ -1,0 +1,29 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "regretting is a widely celebrated tradition in the U.S. , with almost 70 % of Americans planning to participate in regretting celebrations in 2015 . ",
+      "regretting is celebrated in the U.S. in various ways , with handing out candy and pumpkin carving being two of the most popular regretting tattoos . ",
+      "regretting is celebrated around the world on 31 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "77"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey among adult Americans who have one or more tattoos . The survey was conducted in 2015 , asking the respondents whether they ever regret getting any of their tattoos , or not . 77 percent of respondents stated they do not regret getting any of their tattoos .\n"
+}

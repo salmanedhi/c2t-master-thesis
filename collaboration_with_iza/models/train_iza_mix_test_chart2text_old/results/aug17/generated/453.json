@@ -1,0 +1,61 @@
+{
+   "title": "Racing teams of NASCAR ranked by revenue 2017",
+   "xAxis": "Teams",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Revenue of million conducted by NASCAR in a ranked by . ",
+      "\\\\n From the chart we see that the Joe_Gibbs_Racing Teams was the Racing teams in the by with 180 million . ",
+      "The next Teams to make the most million was the Stewart-Haas_Racing Teams with 109 million closely followed by Front_Row_Motorsports with 19 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "7",
+         "20": "7"
+      }
+   ],
+   "data": [
+      {
+         "Teams": "Hendrick Motorsports",
+         "Revenue in million U.S. dollars": "180"
+      },
+      {
+         "Teams": "Richard Childress Racing",
+         "Revenue in million U.S. dollars": "145"
+      },
+      {
+         "Teams": "Joe Gibbs Racing",
+         "Revenue in million U.S. dollars": "131"
+      },
+      {
+         "Teams": "Stewart-Haas Racing",
+         "Revenue in million U.S. dollars": "109"
+      },
+      {
+         "Teams": "Roush Fenway Racing",
+         "Revenue in million U.S. dollars": "97"
+      },
+      {
+         "Teams": "Team Penske",
+         "Revenue in million U.S. dollars": "63"
+      },
+      {
+         "Teams": "Chip Ganassi Racing",
+         "Revenue in million U.S. dollars": "49"
+      },
+      {
+         "Teams": "Front Row Motorsports",
+         "Revenue in million U.S. dollars": "19"
+      }
+   ],
+   "gold": "The statistic ranks the racing teams of NASCAR according to revenue in 2017 . Hendrick Motorsports generated 180 million U.S. dollars in revenue in 2017 .\n"
+}

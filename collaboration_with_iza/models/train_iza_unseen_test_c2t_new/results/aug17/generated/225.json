@@ -1,0 +1,80 @@
+{
+   "title": "Most googled hotel-related keywords in the United Kingdom ( UK ) in January 2016",
+   "xAxis": "Hotel Related Keyword",
+   "yAxis": "Searches in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Most googled Hotel in the keywords United was Hotel Cheap_hotels , who made 3059.58 thousands . ",
+      "The most googled Hotel was Last_minute_hotels , with just 40.5 thousands . ",
+      "In second place was Hotel Hotels_in_London with 90.5 thousands ; third place went to Hotel Hotels with 201.0 thousands ; fourth place went to Hotel Other_related_keywords with 3059.58 thousands and fifth place went to Hotel London_hotels , who was 74.0 thousands ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "10"
+      },
+      {
+         "6": "4",
+         "10": "6"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Hotel Related Keyword": "Hotels",
+         "Searches in thousands": "201.0"
+      },
+      {
+         "Hotel Related Keyword": "Hotels in London",
+         "Searches in thousands": "90.5"
+      },
+      {
+         "Hotel Related Keyword": "Cheap hotels",
+         "Searches in thousands": "74.0"
+      },
+      {
+         "Hotel Related Keyword": "London hotels",
+         "Searches in thousands": "74.0"
+      },
+      {
+         "Hotel Related Keyword": "Last minute hotels",
+         "Searches in thousands": "74.0"
+      },
+      {
+         "Hotel Related Keyword": "Hotel",
+         "Searches in thousands": "49.5"
+      },
+      {
+         "Hotel Related Keyword": "Amsterdam hotels",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Hotel Related Keyword": "Hotels in Machester",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Hotel Related Keyword": "Hotels in York",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Hotel Related Keyword": "Hoterls in Edinburgh",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Hotel Related Keyword": "Other related keywords",
+         "Searches in thousands": "3059.58"
+      }
+   ],
+   "gold": "This statistic displays the most googled hotel-related keywords on Google UK in January 2016 . Most searched was the term `` hotels `` which was searched 201 thousand times that month . Second most popular was `` hotels in london `` .\n"
+}

@@ -1,0 +1,115 @@
+{
+   "title": "Fastest growing internet populations 2020",
+   "xAxis": "Country",
+   "yAxis": "Year-on-year growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Fastest growing Country in Fastest by Year-on-year . ",
+      "The Fastest Country with an average Year-on-year of 13 \u00b0 growth is Samoa , followed by Rep._of_the_Congo at 126 \u00b0 growth , Libya at 13 \u00b0 growth , then Dem._Rep._of_the_Congo at 122 \u00b0 growth . ",
+      "Kiribati is the warmest Country shown with an average Year-on-year of 126 \u00b0 growth , closely followed by Iraq at 55 \u00b0 growth ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "18",
+         "12": "2",
+         "16": "0",
+         "18": "0",
+         "22": "19",
+         "24": "19",
+         "29": "1",
+         "31": "1"
+      },
+      {
+         "0": "4",
+         "11": "0",
+         "18": "3",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Rep. of the Congo",
+         "Year-on-year growth": "126"
+      },
+      {
+         "Country": "Dem. Rep. of the Congo",
+         "Year-on-year growth": "122"
+      },
+      {
+         "Country": "Samoa",
+         "Year-on-year growth": "86"
+      },
+      {
+         "Country": "Iraq",
+         "Year-on-year growth": "55"
+      },
+      {
+         "Country": "Kiribati",
+         "Year-on-year growth": "39"
+      },
+      {
+         "Country": "Guinea-Bissau",
+         "Year-on-year growth": "26"
+      },
+      {
+         "Country": "India",
+         "Year-on-year growth": "23"
+      },
+      {
+         "Country": "Egypt",
+         "Year-on-year growth": "22"
+      },
+      {
+         "Country": "Burundi",
+         "Year-on-year growth": "21"
+      },
+      {
+         "Country": "Central Africal Rep.",
+         "Year-on-year growth": "20"
+      },
+      {
+         "Country": "Oman",
+         "Year-on-year growth": "18"
+      },
+      {
+         "Country": "Pakistan",
+         "Year-on-year growth": "17"
+      },
+      {
+         "Country": "Indonesia",
+         "Year-on-year growth": "17"
+      },
+      {
+         "Country": "Kenya",
+         "Year-on-year growth": "16"
+      },
+      {
+         "Country": "Zambia",
+         "Year-on-year growth": "16"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Cambodia",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Tajikistan",
+         "Year-on-year growth": "15"
+      },
+      {
+         "Country": "Haiti",
+         "Year-on-year growth": "13"
+      },
+      {
+         "Country": "Libya",
+         "Year-on-year growth": "13"
+      }
+   ],
+   "gold": "This statistic presents the fastest growing online populations based on relative year-on-year user growth as of January 2020 . During the measured period , it was found that online audiences in the Republic of the Congo grew 126 percent in total .\n"
+}

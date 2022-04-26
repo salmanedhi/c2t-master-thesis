@@ -1,0 +1,113 @@
+{
+   "title": "Pharmaceutical sector growth worldwide 2017 - 2030 , by country",
+   "xAxis": "Country",
+   "yAxis": "Growth in percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Pharmaceutical sector Country in terms of the Growth of percentage with Brazil having the Pharmaceutical \u2013 232 percentage down to China the least sector of the group at 117 percentage . ",
+      "In between , we have India 232 , Japan 117 , Saudi_Arabia 171 and Indonesia 196 ."
+   ],
+   "trends": [
+      {
+         "15": "4",
+         "20": "0",
+         "24": "1",
+         "32": "19"
+      },
+      {
+         "5": "0",
+         "6": "0",
+         "8": "19",
+         "9": "19",
+         "11": "3",
+         "12": "3",
+         "14": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Growth in percentage": "232"
+      },
+      {
+         "Country": "China",
+         "Growth in percentage": "230"
+      },
+      {
+         "Country": "Indonesia",
+         "Growth in percentage": "196"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Growth in percentage": "171"
+      },
+      {
+         "Country": "Brazil",
+         "Growth in percentage": "169"
+      },
+      {
+         "Country": "World",
+         "Growth in percentage": "160"
+      },
+      {
+         "Country": "Argentina",
+         "Growth in percentage": "158"
+      },
+      {
+         "Country": "Mexico",
+         "Growth in percentage": "154"
+      },
+      {
+         "Country": "Australia",
+         "Growth in percentage": "149"
+      },
+      {
+         "Country": "Russia",
+         "Growth in percentage": "147"
+      },
+      {
+         "Country": "South Korea",
+         "Growth in percentage": "141"
+      },
+      {
+         "Country": "Poland",
+         "Growth in percentage": "140"
+      },
+      {
+         "Country": "United States",
+         "Growth in percentage": "134"
+      },
+      {
+         "Country": "Canada",
+         "Growth in percentage": "131"
+      },
+      {
+         "Country": "Spain",
+         "Growth in percentage": "129"
+      },
+      {
+         "Country": "France",
+         "Growth in percentage": "129"
+      },
+      {
+         "Country": "United Kingdom",
+         "Growth in percentage": "128"
+      },
+      {
+         "Country": "Germany",
+         "Growth in percentage": "118"
+      },
+      {
+         "Country": "Italy",
+         "Growth in percentage": "118"
+      },
+      {
+         "Country": "Japan",
+         "Growth in percentage": "117"
+      }
+   ],
+   "gold": "This statistic shows the worldwide forecast of pharmaceutical sector growth between 2017 and 2030 , sorted by select country . The forecast predicts that between 2017 and 2030 the pharmaceutical sector worldwide will grow by 160 percent , with the biggest growth forecast given for India with 232 percent .\n"
+}

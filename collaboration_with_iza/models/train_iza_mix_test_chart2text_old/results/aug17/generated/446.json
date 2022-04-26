@@ -1,0 +1,107 @@
+{
+   "title": "Most popular Apple App Store categories 2019",
+   "xAxis": "App Category",
+   "yAxis": "Share of active apps",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Most popular Apple in the Share of active . ",
+      "\\n The Most popular App was Business , with only 1.86 active . ",
+      "Followed App Games , with 22.37 active , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "19"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "App Category": "Games",
+         "Share of active apps": "22.37"
+      },
+      {
+         "App Category": "Business",
+         "Share of active apps": "10.12"
+      },
+      {
+         "App Category": "Education",
+         "Share of active apps": "8.68"
+      },
+      {
+         "App Category": "Lifestyle",
+         "Share of active apps": "8.62"
+      },
+      {
+         "App Category": "Utilities",
+         "Share of active apps": "5.9"
+      },
+      {
+         "App Category": "Entertainment",
+         "Share of active apps": "5.8"
+      },
+      {
+         "App Category": "Travel",
+         "Share of active apps": "3.85"
+      },
+      {
+         "App Category": "Food & Drink",
+         "Share of active apps": "3.4"
+      },
+      {
+         "App Category": "Health & Fitness",
+         "Share of active apps": "3.31"
+      },
+      {
+         "App Category": "Productivity",
+         "Share of active apps": "2.99"
+      },
+      {
+         "App Category": "Book",
+         "Share of active apps": "2.49"
+      },
+      {
+         "App Category": "Finance",
+         "Share of active apps": "2.42"
+      },
+      {
+         "App Category": "Music",
+         "Share of active apps": "2.35"
+      },
+      {
+         "App Category": "Social Networking",
+         "Share of active apps": "2.24"
+      },
+      {
+         "App Category": "Shopping",
+         "Share of active apps": "2.18"
+      },
+      {
+         "App Category": "Sports",
+         "Share of active apps": "2.15"
+      },
+      {
+         "App Category": "Photo & Video",
+         "Share of active apps": "2.05"
+      },
+      {
+         "App Category": "Reference",
+         "Share of active apps": "2.01"
+      },
+      {
+         "App Category": "Medical",
+         "Share of active apps": "1.93"
+      },
+      {
+         "App Category": "News",
+         "Share of active apps": "1.86"
+      }
+   ],
+   "gold": "The statistic shows the most popular categories in the Apple App Store ranked share of active apps . In November 2019 , business apps were the second-most popular category , with a share of 10.12 percent of active all apps being business apps . Apple app store categories \u2013 additional information Apple App Store is a platform in which users can browse and download applications for an Apple device .\n"
+}

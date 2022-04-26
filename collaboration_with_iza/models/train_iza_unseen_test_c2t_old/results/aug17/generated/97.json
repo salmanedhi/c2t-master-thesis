@@ -1,0 +1,83 @@
+{
+   "title": "Oil spills - worldwide",
+   "xAxis": "Oil Spill Event",
+   "yAxis": "Amount of leaked oil (in tons)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Oil spills in Oil . ",
+      "It shows Amoco_Cadiz_(Atlantic_1978_tanker) was the Oil at just 20000 degrees and Sea_Empress_(Atlantic_1996_tanker) was the warmest at 1000000 leaked . ",
+      "After Amoco_Cadiz_(Atlantic_1978_tanker) , the next Oil spills are Itox_Uno_(Gulf_of_Mexico_1979_oil_rig) at 1000000 degrees , followed by Erika_(Atlantic_1999_tanker) at 18 degrees , Gulf_War_(Persian_Gulf_1991_oil_platform) at 1000000 degrees and then Pipeline_(Komi_1994_pipeline)_ at 200000 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "11",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "11",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Oil Spill Event": "Itox Uno (Gulf of Mexico 1979 oil rig)",
+         "Amount of leaked oil (in tons)": "1000000"
+      },
+      {
+         "Oil Spill Event": "Gulf War (Persian Gulf 1991 oil platform)",
+         "Amount of leaked oil (in tons)": "1000000"
+      },
+      {
+         "Oil Spill Event": "Amoco Cadiz (Atlantic 1978 tanker)",
+         "Amount of leaked oil (in tons)": "230000"
+      },
+      {
+         "Oil Spill Event": "Pipeline (Komi 1994 pipeline) ",
+         "Amount of leaked oil (in tons)": "200000"
+      },
+      {
+         "Oil Spill Event": "Sea Empress (Atlantic 1996 tanker)",
+         "Amount of leaked oil (in tons)": "147000"
+      },
+      {
+         "Oil Spill Event": "Torrey Canyon (Atlantic 1967 tanker)",
+         "Amount of leaked oil (in tons)": "120000"
+      },
+      {
+         "Oil Spill Event": "Urquijo (Atlantic 1976 tanker)",
+         "Amount of leaked oil (in tons)": "100000"
+      },
+      {
+         "Oil Spill Event": "Prestige (Atlantic 2002 tanker) ",
+         "Amount of leaked oil (in tons)": "77000"
+      },
+      {
+         "Oil Spill Event": "Aegean Sea (Atlantic 1992 tanker)",
+         "Amount of leaked oil (in tons)": "70000"
+      },
+      {
+         "Oil Spill Event": "Andros Patria (Atlantic 1978 tanker)",
+         "Amount of leaked oil (in tons)": "50000"
+      },
+      {
+         "Oil Spill Event": "Exxon Valdez (Pacific 1989 tanker)",
+         "Amount of leaked oil (in tons)": "45000"
+      },
+      {
+         "Oil Spill Event": "Erika (Atlantic 1999 tanker)",
+         "Amount of leaked oil (in tons)": "20000"
+      }
+   ],
+   "gold": "The statistic depicts the world 's worst oil spills based on the amount of leaked oil from 1967 to 2002 . During the Prestige oil spill in 2002 , 77.000 tons of oil leaked into the Atlantic .\n"
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Unemployment rate in Canada , by industry 2019",
+   "xAxis": "Industry",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Unemployment of rate made by Industry in a by industry . ",
+      "\\\\n From the chart we see that the Business_building_and_other_support_services Industry was the Unemployment rate Industry in the industry with 7.3 rate . ",
+      "The next Industry to make the most rate was the Accommodation_and_food_services Industry with 5.5 rate closely followed by the Health_care_and_social_assistance Industry with 1.5 rate ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "15",
+         "22": "15"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Forestry fishing mining quarrying oil and gas",
+         "Unemployment rate": "7.3"
+      },
+      {
+         "Industry": "Construction",
+         "Unemployment rate": "6.7"
+      },
+      {
+         "Industry": "Business building and other support services",
+         "Unemployment rate": "6.1"
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "Unemployment rate": "5.5"
+      },
+      {
+         "Industry": "Information culture and recreation",
+         "Unemployment rate": "5.4"
+      },
+      {
+         "Industry": "Agriculture",
+         "Unemployment rate": "4.4"
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Unemployment rate": "3.7"
+      },
+      {
+         "Industry": "Educational services",
+         "Unemployment rate": "3.7"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Unemployment rate": "3.6"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Unemployment rate": "3.2"
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "Unemployment rate": "2.8"
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "Unemployment rate": "2.7"
+      },
+      {
+         "Industry": "Public administration",
+         "Unemployment rate": "2"
+      },
+      {
+         "Industry": "Utilities",
+         "Unemployment rate": "1.7"
+      },
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Unemployment rate": "1.6"
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "Unemployment rate": "1.5"
+      }
+   ],
+   "gold": "This statistic shows the rate of unemployment in Canada in 2019 , by industry . In 2019 , the agricultural industry in Canada had an unemployment rate of 4.4 percent . The health care and social assistance industry had the lowest unemployment rate , at 1.5 percent .\n"
+}

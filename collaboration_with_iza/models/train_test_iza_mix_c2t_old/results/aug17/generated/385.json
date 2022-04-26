@@ -1,0 +1,45 @@
+{
+   "title": "U.S. gender pay gap by age group Q4 2019",
+   "xAxis": "Age group",
+   "yAxis": "Earnings ratio in percent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the share of Earnings ratio in the Q4 who were using U.S. as of 2019 , sorted group Age . ",
+      "We Are Flint found that 91.14 percent of internet users who had an Age group of 100,000 by dollars and greater used the social networking platform ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age group": "16 to 24",
+         "Earnings ratio in percent": "91.14"
+      },
+      {
+         "Age group": "25 to 34",
+         "Earnings ratio in percent": "88.88"
+      },
+      {
+         "Age group": "35 to 44",
+         "Earnings ratio in percent": "79.43"
+      },
+      {
+         "Age group": "45 to 54",
+         "Earnings ratio in percent": "77.43"
+      },
+      {
+         "Age group": "55 to 64",
+         "Earnings ratio in percent": "77.61"
+      },
+      {
+         "Age group": "65 and older",
+         "Earnings ratio in percent": "74.8"
+      }
+   ],
+   "gold": "The statistic shows the female to male earnings ratio in the United States in the fourth quarter of 2019 , based on the median income in current U.S. dollars , by age group . In the fourth quarter of 2019 , the earnings ratio of female to male workers aged between 16 to 24 years was at about 91.14 percent .\n"
+}

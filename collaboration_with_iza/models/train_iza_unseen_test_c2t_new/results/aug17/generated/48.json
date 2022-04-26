@@ -1,0 +1,34 @@
+{
+   "title": "Twitter : distribution of global audiences 2020 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Twitter distribution Sex audiences the 2020 by gender . ",
+      "It shows that 62 percentage of Female was distribution and 62 percentage of the Male with at just 38 percentage ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "6": "0",
+         "10": "1",
+         "14": "1",
+         "16": "1",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": "38"
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": "62"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of Twitter users worldwide as of January 2020 , sorted by gender . During the survey period , 38 percent of Twitter audiences were female and 62 percent were male .\n"
+}

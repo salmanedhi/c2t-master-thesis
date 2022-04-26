@@ -1,0 +1,80 @@
+{
+   "title": "Total number of Home Depot stores in Canada by province 2018",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Total number Province in the Depot stores was Province Alberta , who made 182 stores . ",
+      "The most number Province was Quebec , with just 1 stores . ",
+      "In second place was Province Ontario with 88 stores ; third place went to Province Total with 182 stores ; fourth place went to Province Prince_Edward_Island with 1 stores and fifth place went to Province British_Columbia , who was 26 stores ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "10",
+         "27": "10",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Total",
+         "Number of stores": "182"
+      },
+      {
+         "Province": "Ontario",
+         "Number of stores": "88"
+      },
+      {
+         "Province": "Alberta",
+         "Number of stores": "27"
+      },
+      {
+         "Province": "British Columbia",
+         "Number of stores": "26"
+      },
+      {
+         "Province": "Quebec",
+         "Number of stores": "22"
+      },
+      {
+         "Province": "Manitoba",
+         "Number of stores": "6"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of stores": "4"
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of stores": "4"
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of stores": "3"
+      },
+      {
+         "Province": "Newfoundland",
+         "Number of stores": "1"
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of stores": "1"
+      }
+   ],
+   "gold": "There were 182 Home Depot stores across Canada in 2018 . Ontario was home to 88 , the most stores by far . Alberta and British Columbia were ranked in second and third places , with 27 and 26 stores located in each province respectively .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "How do Young People Spend their Evenings",
+   "xAxis": "type",
+   "yAxis": "Percentage of People",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In , there were 20 aggravated People where Spend_Time_With_Family were type . ",
+      "In comparison , there were 10 aggravated People where Going_Out or Watching_TV Going_Out were type . ",
+      "What are Spend_Time_With_Family ? are portable Watching_TV type to shoot bullets ."
+   ],
+   "trends": [
+      {
+         "5": "1",
+         "9": "1"
+      },
+      {
+         "5": "2",
+         "9": "3",
+         "11": "0",
+         "12": "3"
+      },
+      {
+         "2": "1",
+         "4": "1",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "type": "Watching TV",
+         "Percentage of People": "40"
+      },
+      {
+         "type": "Spend Time With Family",
+         "Percentage of People": "20"
+      },
+      {
+         "type": "Reading a Book",
+         "Percentage of People": "10"
+      },
+      {
+         "type": "Going Out",
+         "Percentage of People": "30"
+      }
+   ],
+   "gold": "40 % of young people spend their evenings watching tv , 30 % prefer to go out , 20 % spend time with family and only 10 % choose to spend time reading a book in the evenings\n"
+}

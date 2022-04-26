@@ -1,0 +1,175 @@
+{
+   "title": "Wholesale price of iceberg lettuce in the United Kingdom ( UK ) 2015 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Price in GBP per head",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Wholesale price in United Kingdom . ",
+      "It shows Sep_'19 was the Wholesale at just 0.29 degrees and Jul_'19 was the warmest at 0.79 degrees . ",
+      "After Sep_'19 , the next Wholesale price are Nov_'19 at 0.79 degrees , followed by May_'15 at 18 degrees , Oct_'19 at 0.56 degrees and then Aug_'19 at 0.43 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "32",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "34",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Price in GBP per head": "0.79"
+      },
+      {
+         "Month": "Oct '19",
+         "Price in GBP per head": "0.56"
+      },
+      {
+         "Month": "Sep '19",
+         "Price in GBP per head": "0.53"
+      },
+      {
+         "Month": "Aug '19",
+         "Price in GBP per head": "0.43"
+      },
+      {
+         "Month": "Jul '19",
+         "Price in GBP per head": "0.39"
+      },
+      {
+         "Month": "Jun '19",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "May '19",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Nov '18",
+         "Price in GBP per head": "0.47"
+      },
+      {
+         "Month": "Oct '18",
+         "Price in GBP per head": "0.47"
+      },
+      {
+         "Month": "Sep '18",
+         "Price in GBP per head": "0.75"
+      },
+      {
+         "Month": "Aug '18",
+         "Price in GBP per head": "0.69"
+      },
+      {
+         "Month": "Jul '18",
+         "Price in GBP per head": "0.63"
+      },
+      {
+         "Month": "Jun '18",
+         "Price in GBP per head": "0.41"
+      },
+      {
+         "Month": "May '18",
+         "Price in GBP per head": "0.48"
+      },
+      {
+         "Month": "Feb '18",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Nov '17",
+         "Price in GBP per head": "0.41"
+      },
+      {
+         "Month": "Oct '17",
+         "Price in GBP per head": "0.36"
+      },
+      {
+         "Month": "Sep '17",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "Aug '17",
+         "Price in GBP per head": "0.34"
+      },
+      {
+         "Month": "Jul '17",
+         "Price in GBP per head": "0.36"
+      },
+      {
+         "Month": "Jun '17",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "May '17",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Oct '16",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Sep '16",
+         "Price in GBP per head": "0.38"
+      },
+      {
+         "Month": "Aug '16",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Jul '16",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Jun '16",
+         "Price in GBP per head": "0.37"
+      },
+      {
+         "Month": "May '16",
+         "Price in GBP per head": "0.44"
+      },
+      {
+         "Month": "Nov '15",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "Oct '15",
+         "Price in GBP per head": "0.4"
+      },
+      {
+         "Month": "Sep '15",
+         "Price in GBP per head": "0.45"
+      },
+      {
+         "Month": "Aug '15",
+         "Price in GBP per head": "0.32"
+      },
+      {
+         "Month": "Jul '15",
+         "Price in GBP per head": "0.29"
+      },
+      {
+         "Month": "Jun '15",
+         "Price in GBP per head": "0.35"
+      },
+      {
+         "Month": "May '15",
+         "Price in GBP per head": "0.34"
+      }
+   ],
+   "gold": "This statistic displays the wholesale price of iceberg lettuce in the United Kingdom ( UK ) from 2015 to 2019 . The wholesale price of iceberg lettuce was valued at 0.79 British pounds per head in November 2019 , an increase compared to the price a year earlier .\n"
+}

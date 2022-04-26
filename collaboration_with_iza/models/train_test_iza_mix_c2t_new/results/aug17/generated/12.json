@@ -1,0 +1,82 @@
+{
+   "title": "Important food attributes when selecting healthy meals 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey on the Important food when in Important as of 2016 . ",
+      "The survey found that Local_and_fresh_ingredients was Important 's loved Important when with 4 out of 45 British adults choosing her as their favorite . ",
+      "Low-calorie_options and Nutritional_information_on_menus were second and third Important food at 35 and 41 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "11",
+         "16": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "10": "2",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Local and fresh ingredients",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Low-calorie options",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Nutritional information on menus",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Low-sodium options",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Portion control off\u0090erings",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Antibiotic- and hormone-free ingredients",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Organic products",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "GMO-free ingredients",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Sustainable and/or humane ingredient-supply practices",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Gluten-free off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Plant-based meal off\u0090erings",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Items backed by recognized diet programs",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "13"
+      }
+   ],
+   "gold": "The statistic shows which food attributes are important to U.S. survey respondents when selecting a healthy meal in 2016 . During the survey , 41 percent of respondents cited low-calorie options as important when selecting a healthy meal .\n"
+}

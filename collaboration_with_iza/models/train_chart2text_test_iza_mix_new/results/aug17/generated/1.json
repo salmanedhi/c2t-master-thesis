@@ -1,0 +1,37 @@
+{
+   "title": "Gender pay gap in Germany in 2017",
+   "xAxis": "Country",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the gap of Germany Percentage 2017 region as of the end of the 2014/15 financial year . ",
+      "Germany had a total of 21.0 percentage situated in the Germany and an additional 87 Percentage and Spain spread worldwide . ",
+      "Germany is a British retailer selling clothing , furniture and other household items in a department Percentage format ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "10": "0",
+         "17": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Percentage": "21.0"
+      },
+      {
+         "Country": "Spain",
+         "Percentage": "15.1"
+      },
+      {
+         "Country": "UK",
+         "Percentage": "20.5"
+      }
+   ],
+   "gold": "The chart shows the gender pay gap , expressed in percentage in three different countries . The UK and Germany have similar gender pay gaps at around 20 % whilst Spain is doing a little better at 15 % .\n"
+}

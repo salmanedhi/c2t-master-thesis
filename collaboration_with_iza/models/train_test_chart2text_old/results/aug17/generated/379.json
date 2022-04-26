@@ -1,0 +1,60 @@
+{
+   "title": "Leading retailers of Latin America 2017 , based on sales",
+   "xAxis": "Company (Country of origin)",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Billion U.S. dollars of Latin America based in 2017 , sales Company (Country . ",
+      "In that year , 15.28 billion of the Latin America Companies Billion U.S. were generated sales Cencosud_(Chile) . ",
+      "Latin America Companies is headquartered in Midtown Manhattan , New York City and was founded in 1946 sales Joseph Latin America and his wife Latin America ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "15": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company (Country of origin)": "Cencosud (Chile)",
+         "Billion U.S. dollars": "15.28"
+      },
+      {
+         "Company (Country of origin)": "FEMSA Comercio (Mexico)",
+         "Billion U.S. dollars": "15.28"
+      },
+      {
+         "Company (Country of origin)": "S.A.C.I. Falabella (Chile)",
+         "Billion U.S. dollars": "11.14"
+      },
+      {
+         "Company (Country of origin)": "Organizacion Soriana S.A.B. de C.V. (Mexico)",
+         "Billion U.S. dollars": "8.12"
+      },
+      {
+         "Company (Country of origin)": "El Puerto de Liverpool (Mexico)",
+         "Billion U.S. dollars": "5.74"
+      },
+      {
+         "Company (Country of origin)": "Lojas Americanas (Brazil)",
+         "Billion U.S. dollars": "5.34"
+      },
+      {
+         "Company (Country of origin)": "Grupo Comercial Chedraui (Mexico)",
+         "Billion U.S. dollars": "4.95"
+      },
+      {
+         "Company (Country of origin)": "RaiaDrogasil S.A. (Brazil)",
+         "Billion U.S. dollars": "4.34"
+      },
+      {
+         "Company (Country of origin)": "Magazine Luiza S.A.",
+         "Billion U.S. dollars": "3.74"
+      }
+   ],
+   "gold": "This statistic shows the leading retailers of Latin America in 2017 , based on retail sales . In that year , Cencosud was Latin America 's leading retailer with about 15.28 billion U.S. dollars worth of sales.Retail in Latin AmericaAs in much of Latin America , Brazil 's policymakers have quickly shifted from a focus on excessive inflation towards growth . In the beginning of 2011 , Latin American markets were growing rapidly and experiencing uncomfortably high inflation .\n"
+}

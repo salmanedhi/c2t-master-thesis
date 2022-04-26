@@ -1,0 +1,69 @@
+{
+   "title": "Fatality numbers from heat waves and cold waves in the U.S.from 1900 to 2016",
+   "xAxis": "Type, Year, Location",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of fatalities conducted by from in a heat waves . ",
+      "\\\\n From the chart we see that the Heat_wave_1995_Missouri_Oklahoma_Illinois Type, was the Fatality numbers Type, in the waves with 1260 fatalities . ",
+      "The next Type, to make the most fatalities was the Heat_wave_1999_Illinois_Missouri_Wisconsin Type, with 257 fatalities closely followed by Heat_wave_2012_Washington_DC_Iowa_Virginia_North_Carolina with 107 fatalities ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "18": "9",
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Type, Year, Location": "Heat wave 1980 Kansas City Missouri St Loius",
+         "Number of fatalities": "1260"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1936 Illinois",
+         "Number of fatalities": "1193"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1995 Missouri Oklahoma Illinois",
+         "Number of fatalities": "670"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1999 Illinois Missouri Wisconsin",
+         "Number of fatalities": "257"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1983",
+         "Number of fatalities": "188"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1966 St Louis Missouri",
+         "Number of fatalities": "182"
+      },
+      {
+         "Type, Year, Location": "Heat wave 2006 California",
+         "Number of fatalities": "164"
+      },
+      {
+         "Type, Year, Location": "Cold wave 1963",
+         "Number of fatalities": "150"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1998 Arizona Florida Colorado",
+         "Number of fatalities": "130"
+      },
+      {
+         "Type, Year, Location": "Heat wave 2012 Washington DC Iowa Virginia North Carolina",
+         "Number of fatalities": "107"
+      }
+   ],
+   "gold": "This statistic shows a list of heat waves and cold waves experienced in the United States from 1900 to 2016 , by the number of fatalities that occurred as a result . In the deadliest event on record , around 1,260 people lost their lives as a result of a heat wave in 1980 in Missouri and Tennessee .\n"
+}

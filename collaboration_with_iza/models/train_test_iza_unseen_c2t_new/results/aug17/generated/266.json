@@ -1,0 +1,71 @@
+{
+   "title": "Most googled car hire keywords in the United Kingdom ( UK ) in January 2016",
+   "xAxis": "Keywords",
+   "yAxis": "Searches in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Most googled Other_keywords related to car_hire and booking in the United Kingdom ( UK ) during UK 2016 . ",
+      "The Most popular Other_keywords was `` car_hire with 90.5 thousands Searches that month ."
+   ],
+   "trends": [
+      {
+         "6": "10",
+         "9": "0",
+         "11": "0"
+      },
+      {
+         "3": "10",
+         "6": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Keywords": "car hire",
+         "Searches in thousands": "90.5"
+      },
+      {
+         "Keywords": "car rental",
+         "Searches in thousands": "40.5"
+      },
+      {
+         "Keywords": "rent a car",
+         "Searches in thousands": "33.1"
+      },
+      {
+         "Keywords": "rental cars",
+         "Searches in thousands": "27.1"
+      },
+      {
+         "Keywords": "car hire uk",
+         "Searches in thousands": "27.1"
+      },
+      {
+         "Keywords": "cheap car hire",
+         "Searches in thousands": "18.1"
+      },
+      {
+         "Keywords": "car hire usa",
+         "Searches in thousands": "12.1"
+      },
+      {
+         "Keywords": "car hire spain",
+         "Searches in thousands": "12.1"
+      },
+      {
+         "Keywords": "car hire orlando",
+         "Searches in thousands": "9.9"
+      },
+      {
+         "Keywords": "car hire comparison",
+         "Searches in thousands": "9.9"
+      },
+      {
+         "Keywords": "Other keywords",
+         "Searches in thousands": "933.1"
+      }
+   ],
+   "gold": "This statistic displays the most searched car hire and car rental related keywords on Google UK in January 2016 . Most popular was the term `` car hire `` , which was searched approximately 90.5 thousand times that month .\n"
+}

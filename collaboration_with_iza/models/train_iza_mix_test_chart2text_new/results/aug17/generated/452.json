@@ -1,0 +1,57 @@
+{
+   "title": "Store numbers of leading supermarkets in the United Kingdom ( UK ) 2018",
+   "xAxis": "Supermarket",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number of stores made by Supermarket in a supermarkets United . ",
+      "\\\\n From the chart we see that the Aldi Supermarket was the Store numbers Supermarket in the United with 2653 stores . ",
+      "The next Supermarket to make the most stores was the Lidl Supermarket with 700 stores closely followed by the Waitrose Supermarket with 353 stores ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "6",
+         "22": "6"
+      }
+   ],
+   "data": [
+      {
+         "Supermarket": "Tesco",
+         "Number of stores": "2653"
+      },
+      {
+         "Supermarket": "Sainsbury's",
+         "Number of stores": "1412"
+      },
+      {
+         "Supermarket": "Aldi",
+         "Number of stores": "750"
+      },
+      {
+         "Supermarket": "Lidl",
+         "Number of stores": "700"
+      },
+      {
+         "Supermarket": "Asda",
+         "Number of stores": "646"
+      },
+      {
+         "Supermarket": "Morrisons",
+         "Number of stores": "491"
+      },
+      {
+         "Supermarket": "Waitrose",
+         "Number of stores": "353"
+      }
+   ],
+   "gold": "This statistic shows the number of stores for seven of the leading supermarkets in the United Kingdom ( UK ) as of February 2018 . Tesco had by far the highest number of stores in the United Kingdom , with a total of 2,653 . This was almost double the amount of Sainbury 's who had the second highest number of stores open .\n"
+}

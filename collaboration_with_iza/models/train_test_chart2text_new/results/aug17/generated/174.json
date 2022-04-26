@@ -1,0 +1,64 @@
+{
+   "title": "COVID-19 deaths worldwide as of March 2 , 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the ten Country with the most deaths resulting worldwide March between and 2020 . ",
+      "Total 2915 people were killed due to March in China . ",
+      "Fatalities around the world leading causes of deaths worldwide for humans in were ischaemic heart diseases , with 7.4 million deaths and strokes , with 6.7 million deaths ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of deaths": "2915"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of deaths": "54"
+      },
+      {
+         "Country": "Italy",
+         "Number of deaths": "35"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Number of deaths": "22"
+      },
+      {
+         "Country": "International conveyance (Diamond Princess)",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "Japan",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "France",
+         "Number of deaths": "2"
+      },
+      {
+         "Country": "Philippines",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Australia",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Thailand",
+         "Number of deaths": "1"
+      }
+   ],
+   "gold": "As of March 2 , 2020 , the outbreak of the coronavirus disease ( COVID-19 ) had spread to six continents , and approximately 3,000 people had died after contracting the respiratory virus . The majority of the confirmed cases were located in China , where around 2,900 deaths had been reported . WHO raises global risk level Approximately 60 countries worldwide have been affected by the virus .\n"
+}

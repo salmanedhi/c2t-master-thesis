@@ -1,0 +1,68 @@
+{
+   "title": "Revenue of Vodafone Germany 2008 to 2019",
+   "xAxis": "financial years",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows a ranking of key Vodafone Germany in Vodafone Germany 2019 . ",
+      "In that year , 2018/19 produced some 10.68 billion euros , 2012/13 2016/17 was the Revenue Vodafone financial in the country ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "4",
+         "12": "6",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "financial years": "2018/19",
+         "Revenue in billion euros": "10.31"
+      },
+      {
+         "financial years": "2017/18",
+         "Revenue in billion euros": "10.26"
+      },
+      {
+         "financial years": "2016/17",
+         "Revenue in billion euros": "10.01"
+      },
+      {
+         "financial years": "2015/16",
+         "Revenue in billion euros": "10.63"
+      },
+      {
+         "financial years": "2014/15",
+         "Revenue in billion euros": "10.68"
+      },
+      {
+         "financial years": "2013/14",
+         "Revenue in billion euros": "9.82"
+      },
+      {
+         "financial years": "2012/13",
+         "Revenue in billion euros": "9.64"
+      },
+      {
+         "financial years": "2011/12",
+         "Revenue in billion euros": "9.55"
+      },
+      {
+         "financial years": "2010/11",
+         "Revenue in billion euros": "9.29"
+      },
+      {
+         "financial years": "2009/10",
+         "Revenue in billion euros": "9.04"
+      },
+      {
+         "financial years": "2008/09",
+         "Revenue in billion euros": "9.41"
+      }
+   ],
+   "gold": "This statistic shows the revenue development of Vodafone in Germany from the financial year 2008/09 to 2018/19 . In the financial year 2018/19 , Vodafone Germany generated revenues of roughly 10.31 billion euros .\n"
+}

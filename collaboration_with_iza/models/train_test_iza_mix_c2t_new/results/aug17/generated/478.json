@@ -1,0 +1,49 @@
+{
+   "title": "Beauty products : Buying behavior of shoppers in the United Kingdom ( UK ) 2014",
+   "xAxis": "Type Of Behaviors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the products Type of behavior in the United Kingdom when purchasing Beauty , according to a survey published 2014 . ",
+      "Of respondents , 25 percentage said Seek_friends'_opinions_before_heading_to_the_shops Research_online_and_buy_in-store products Seek_friends'_opinions_before_heading_to_the_shops in Use_Facebook_to_'check-in'_to_a_store , while 9 percentage said Seek_friends'_opinions_before_heading_to_the_shops behavior Shop_with_friends ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "2",
+         "7": "0",
+         "9": "0",
+         "10": "2",
+         "13": "3",
+         "16": "1",
+         "19": "2",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Type Of Behaviors": "Research online and buy in-store",
+         "Percentage of respondents": "25"
+      },
+      {
+         "Type Of Behaviors": "Shop with friends",
+         "Percentage of respondents": "9"
+      },
+      {
+         "Type Of Behaviors": "Seek friends' opinions before heading to the shops",
+         "Percentage of respondents": "6"
+      },
+      {
+         "Type Of Behaviors": "Use Facebook to 'check-in' to a store",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Type Of Behaviors": "Use Instagram Facebook or Twitter to recommend what you've bought",
+         "Percentage of respondents": "3"
+      }
+   ],
+   "gold": "This statistic shows the buying behavior of shoppers in the United Kingdom when purchasing beauty products , according to a survey published March 2014 . Of respondents , 25 percent said they researched products online before buying in store , where as 3 percent of people use instagram , twitter or other forms of social media to give recommendations to the customer . Online sales have seen the highest market sales growth in the beauty and cosmetics industry , with the high street falling behind , with a growth of only 1.2 percent .\n"
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Tourism industry growth expectations according to travel experts 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the most common Tourism of online adults in the travel when encountering industry growth on expectations according . ",
+      "During the 2018 survey , 56 % of respondents stated they would Significantly_decline the Slightly_grow , whereas 11 % would unfollow or unfriend the Slightly_decline ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "3",
+         "12": "0",
+         "14": "3",
+         "17": "1",
+         "24": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Significantly decline",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Slightly decline",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "No change",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Slightly grow",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Significantly grow",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking travel industry representatives and stakeholders at the London WTM exhibition ( UK ) to what extent do they expect the tourism industry to grow or decline in 2018 . Of respondents , 56 percent believed that the tourism industry will grow slightly in 2018 .\n"
+}

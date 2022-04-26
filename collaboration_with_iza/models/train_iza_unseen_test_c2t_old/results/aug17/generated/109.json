@@ -1,0 +1,69 @@
+{
+   "title": "HPE : net revenue 2011 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the HPE net revenue in the 2011 competirion . ",
+      "\\\\n From the chart we see that the 2015 Fiscal made the HPE revenue by some margin , with only 28.87 . ",
+      "2018 and 2019 made a respectable 30.85 and 29.14 revenue , with 2011 and 2016 not far behind , at 62.51 and 30.28 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "2"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "8",
+         "14": "3",
+         "20": "8",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Net revenue in billion U.S. dollars": "29.14"
+      },
+      {
+         "Fiscal year": "2018",
+         "Net revenue in billion U.S. dollars": "30.85"
+      },
+      {
+         "Fiscal year": "2017",
+         "Net revenue in billion U.S. dollars": "28.87"
+      },
+      {
+         "Fiscal year": "2016",
+         "Net revenue in billion U.S. dollars": "30.28"
+      },
+      {
+         "Fiscal year": "2015",
+         "Net revenue in billion U.S. dollars": "52.11"
+      },
+      {
+         "Fiscal year": "2014",
+         "Net revenue in billion U.S. dollars": "55.12"
+      },
+      {
+         "Fiscal year": "2013",
+         "Net revenue in billion U.S. dollars": "57.37"
+      },
+      {
+         "Fiscal year": "2012",
+         "Net revenue in billion U.S. dollars": "51.04"
+      },
+      {
+         "Fiscal year": "2011",
+         "Net revenue in billion U.S. dollars": "62.51"
+      }
+   ],
+   "gold": "This statistic shows Hewlett Packard Enterprise 's ( previously a part of Hewlett-Packard Company ) net revenue for each fiscal year from 2011 to 2019 . In 2019 , the company brought in revenues of 29.14 billion U.S. dollars.Hewlett Packard Enterprise - additional information Hewlett Packard Enterprise ( HPE ) is an American technology company , formed on November 1 , 2015 . It 's predecessor , Hewlett-Packard Company , started in 1935 in the garage of William Hewlett and David Packard .\n"
+}

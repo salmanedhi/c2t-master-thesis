@@ -1,0 +1,68 @@
+{
+   "title": "Most popular brand pages on Facebook in the United Kingdom ( UK ) March 2019",
+   "xAxis": "Month",
+   "yAxis": "Local fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows data on the Most popular brand pages of all time in the Coca-Cola , as of 2019 . ",
+      "According to the source , the Amazon_UK Men 's Amazon_UK , in which Amazon_UK beat 1 - 0 , was popular by over 5.78 millions fans in the Coca-Cola ."
+   ],
+   "trends": [
+      {
+         "15": "1"
+      },
+      {
+         "6": "0",
+         "9": "0",
+         "13": "0",
+         "15": "0",
+         "24": "0",
+         "29": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Amazon UK",
+         "Local fans in millions": "5.78"
+      },
+      {
+         "Month": "Coca-Cola",
+         "Local fans in millions": "2.52"
+      },
+      {
+         "Month": "Skittles",
+         "Local fans in millions": "2.42"
+      },
+      {
+         "Month": "Samsung UK",
+         "Local fans in millions": "2.23"
+      },
+      {
+         "Month": "Cadbury Creme Egg",
+         "Local fans in millions": "2.06"
+      },
+      {
+         "Month": "Marks and Spencer",
+         "Local fans in millions": "1.94"
+      },
+      {
+         "Month": "iTunes UK",
+         "Local fans in millions": "1.91"
+      },
+      {
+         "Month": "Red Bull",
+         "Local fans in millions": "1.86"
+      },
+      {
+         "Month": "Tesco",
+         "Local fans in millions": "1.84"
+      },
+      {
+         "Month": "Asda",
+         "Local fans in millions": "1.79"
+      }
+   ],
+   "gold": "Amazon UK was the most popular brand page on Facebook in the United Kingdom ( UK ) as of March 2019 , attracting 5.78 million local fans . This was more than double that of Coca-Cola , the company with the second highest number of fans . Amazon UK : more than just e-commerce Amazon has enjoyed significant growth in the UK market in recent years .\n"
+}

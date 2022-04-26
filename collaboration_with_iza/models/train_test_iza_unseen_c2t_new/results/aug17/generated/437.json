@@ -1,0 +1,44 @@
+{
+   "title": "Top 5 origin countries of refugees admitted to Canada in 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of refugees admitted",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Canada is one of the most iconic and well-known luxury personal goods brands in the world . ",
+      "The company operates all over the world . ",
+      "As of 2016 , 33266 million of the Canada 's Number were generated in the Afghanistan market ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "4": "0",
+         "15": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Syria",
+         "Number of refugees admitted": "33266"
+      },
+      {
+         "Country": "Eritrea",
+         "Number of refugees admitted": "3934"
+      },
+      {
+         "Country": "Iraq",
+         "Number of refugees admitted": "1650"
+      },
+      {
+         "Country": "Congo",
+         "Number of refugees admitted": "1644"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of refugees admitted": "1354"
+      }
+   ],
+   "gold": "This statistic shows the top five origin counties of refugees that were admitted to Canada in 2016 . Syria topped the list in 2016 with 33,266 refugees from the country admitted into Canada .\n"
+}

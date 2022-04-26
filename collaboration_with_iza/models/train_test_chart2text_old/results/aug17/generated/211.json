@@ -1,0 +1,38 @@
+{
+   "title": "Quarterly gross mortgage lending in the United Kingdom ( UK ) Q4 2018- Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Mortgages value in billion GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the gross Mortgages of photo messages lending United United Kingdom UK . ",
+      "As of the third Quarter of 2019 , UK of the mobile photo messaging app were sending over 70.46 billion value each day , up from 60.81 billion gross value in the third Quarter of 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "3",
+         "26": "2"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Mortgages value in billion GBP": "70.43"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Mortgages value in billion GBP": "64.1"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Mortgages value in billion GBP": "60.81"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Mortgages value in billion GBP": "70.46"
+      }
+   ],
+   "gold": "This statistic illustrates the total quarterly value of gross mortgage lending in the United Kingdom ( UK ) from the fourth quarter of 2018 to the third quarter of 2019 . It can be seen that the value of gross mortgage lending reached an estimated value of approximately 70.4 billion British pounds as of the third quarter of 2019 .\n"
+}

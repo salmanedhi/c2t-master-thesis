@@ -1,0 +1,42 @@
+{
+   "title": "The most expensive digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average of expensive price in cameras and provincial by in The price . ",
+      "62.3 expensive price were classified as Sigma in cameras by in The price ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "This chart shows the most expensive digital cameras by average price . \\n From the chart we see that the prices all hover between 55 and 75 % of the average ( with Konica being the cheapest at 55 % , and Cambo the most expensive , at 75 % ) .\n"
+}

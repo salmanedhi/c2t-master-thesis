@@ -1,0 +1,49 @@
+{
+   "title": "What Students at Lagos State University choose to study",
+   "xAxis": "Course of Study",
+   "yAxis": "Percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The topics chosen by Students at Lagos State University vary within 4 main topics , STEM Literature , Philosophy and Medicine . ",
+      "\\\\n Medicine is the favorite one with more than 30 percentage of Students selecting this . ",
+      "Medicine is followed by Philosophy with around 30 percentage Students selecting this topic ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "1",
+         "17": "2",
+         "19": "3"
+      },
+      {
+         "1": "3",
+         "9": "2"
+      },
+      {
+         "0": "3",
+         "4": "2",
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Course of Study": "STEM",
+         "Percentage": "15"
+      },
+      {
+         "Course of Study": "Literature",
+         "Percentage": "24"
+      },
+      {
+         "Course of Study": "Philosophy",
+         "Percentage": "30"
+      },
+      {
+         "Course of Study": "Medicine",
+         "Percentage": "31"
+      }
+   ],
+   "gold": "What the students at Lagos State University choose to study have been fairly equal with STEM being the lowest at 15 % and medicine being the highest at 31 % with the other course of studies being in between them .\n"
+}

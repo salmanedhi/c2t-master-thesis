@@ -1,0 +1,58 @@
+{
+   "title": "The warmest cities in South America",
+   "xAxis": "City",
+   "yAxis": "Temperature in C",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the warmest cities in South America . ",
+      "Belem is the warmest at 36 degrees , followed by Montevideo at 29 degrees , and Lima at 35 degrees . ",
+      "Next is Cordoba at 23 degrees , followed by Santiago at 20 degrees and finally Bogota at 16 degrees ( approximate ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "4",
+         "5": "4",
+         "10": "3",
+         "12": "3",
+         "16": "1"
+      },
+      {
+         "2": "5",
+         "4": "5",
+         "9": "0",
+         "11": "0",
+         "15": "2",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "City": "Santiago",
+         "Temperature in C": "20"
+      },
+      {
+         "City": "Lima",
+         "Temperature in C": "25"
+      },
+      {
+         "City": "Bogota",
+         "Temperature in C": "16"
+      },
+      {
+         "City": "Montevideo",
+         "Temperature in C": "29"
+      },
+      {
+         "City": "Belem",
+         "Temperature in C": "36"
+      },
+      {
+         "City": "Cordoba",
+         "Temperature in C": "23"
+      }
+   ],
+   "gold": "This chart shows the warmest cities in South America . \\n You can see that Belem is the warmest city at 36 degrees C , followed by Montevideo at 29 degrees C. Bogota is the coolest city at 16 degrees C and Santiago is the second coolest city at 20 degrees C. \\n There is a difference of 20 degrees C between the coolest and the warmest city .\n"
+}

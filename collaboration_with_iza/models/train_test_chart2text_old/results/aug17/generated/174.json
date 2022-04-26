@@ -1,0 +1,69 @@
+{
+   "title": "COVID-19 deaths worldwide as of March 2 , 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2 , there were over 2915 million deaths living in China , a higher amount than any other Country in the world . ",
+      "Egg production As the Country with the highest chicken population , China also is the leading producer of eggs worldwide . ",
+      "In 2017 , some 529 million eggs were produced in China , an amount five times greater than the runner up , the Italy ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "11": "0"
+      },
+      {
+         "11": "0"
+      },
+      {
+         "10": "0",
+         "23": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of deaths": "2915"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of deaths": "54"
+      },
+      {
+         "Country": "Italy",
+         "Number of deaths": "35"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Number of deaths": "22"
+      },
+      {
+         "Country": "International conveyance (Diamond Princess)",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "Japan",
+         "Number of deaths": "6"
+      },
+      {
+         "Country": "France",
+         "Number of deaths": "2"
+      },
+      {
+         "Country": "Philippines",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Australia",
+         "Number of deaths": "1"
+      },
+      {
+         "Country": "Thailand",
+         "Number of deaths": "1"
+      }
+   ],
+   "gold": "As of March 2 , 2020 , the outbreak of the coronavirus disease ( COVID-19 ) had spread to six continents , and approximately 3,000 people had died after contracting the respiratory virus . The majority of the confirmed cases were located in China , where around 2,900 deaths had been reported . WHO raises global risk level Approximately 60 countries worldwide have been affected by the virus .\n"
+}

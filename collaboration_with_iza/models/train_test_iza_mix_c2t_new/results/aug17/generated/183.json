@@ -1,0 +1,69 @@
+{
+   "title": "Most popular online dating apps in the U.S. 2019 , by audience size",
+   "xAxis": "Dating App",
+   "yAxis": "Audience size in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , the ranking of popular Dating App based on Audience size is dominated by music and children 's content . ",
+      "Bumble - Bumble was ranked second with 5.03 millions App size in the preceding 30 days . ",
+      "OkCupid_(main) entertainment App tinder was ranked first with over 7.86 millions size ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "2": "1",
+         "7": "1"
+      },
+      {
+         "0": "4",
+         "3": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Dating App": "tinder",
+         "Audience size in millions": "7.86"
+      },
+      {
+         "Dating App": "Bumble",
+         "Audience size in millions": "5.03"
+      },
+      {
+         "Dating App": "POF (main)",
+         "Audience size in millions": "4.28"
+      },
+      {
+         "Dating App": "Match.com (main)",
+         "Audience size in millions": "1.95"
+      },
+      {
+         "Dating App": "OkCupid (main)",
+         "Audience size in millions": "1.79"
+      },
+      {
+         "Dating App": "Grindr",
+         "Audience size in millions": "1.64"
+      },
+      {
+         "Dating App": "Hinge",
+         "Audience size in millions": "1.21"
+      },
+      {
+         "Dating App": "Zoosk",
+         "Audience size in millions": "0.91"
+      },
+      {
+         "Dating App": "MeetMe",
+         "Audience size in millions": "0.91"
+      },
+      {
+         "Dating App": "Ashley Madison",
+         "Audience size in millions": "0.85"
+      }
+   ],
+   "gold": "As of September 2019 , Tinder reported in an U.S. mobile audience reach of 7.86 million users , making the app the most popular online dating app in the United States . Second-ranked Bumble had 5.03 million U.S. mobile users .\n"
+}

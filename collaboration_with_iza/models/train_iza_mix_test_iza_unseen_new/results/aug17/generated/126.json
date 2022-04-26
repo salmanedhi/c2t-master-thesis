@@ -1,0 +1,52 @@
+{
+   "title": "The most affordable digital cameras by average price",
+   "xAxis": "Camera brand",
+   "yAxis": "Average price in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average price of digital Camera by brand . ",
+      "You can see that Konica has the lowest Average price , averaging at \u00a3 53.5 , Hunten is a little bit higher coming in at \u00a3 58 . ",
+      "Sigma is a little higher again , coming in at \u00a3 62.3 ; Then a bit more of a jump to \u00a3 70.1 for Memoto and the most expensive , \u00a3 75.9 Average for Cambo Camera ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "14": "4",
+         "16": "3"
+      },
+      {
+         "0": "1",
+         "11": "1",
+         "22": "0",
+         "24": "0",
+         "31": "2",
+         "34": "2"
+      }
+   ],
+   "data": [
+      {
+         "Camera brand": "Memoto",
+         "Average price in": "70.1"
+      },
+      {
+         "Camera brand": "Sigma",
+         "Average price in": "62.3"
+      },
+      {
+         "Camera brand": "Cambo",
+         "Average price in": "75.9"
+      },
+      {
+         "Camera brand": "Hunten",
+         "Average price in": "58.6"
+      },
+      {
+         "Camera brand": "Konica",
+         "Average price in": "53.5"
+      }
+   ],
+   "gold": "Konica was the most affordable camera price averaging just over \u00a3 50 whilst the least affordable was the Cambo brand . The second most affordable was Hunten and the second least affordable was Memoto .\n"
+}

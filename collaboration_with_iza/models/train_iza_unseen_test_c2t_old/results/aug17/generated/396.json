@@ -1,0 +1,135 @@
+{
+   "title": "Formula 1 drivers by number of podium finishes up to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of podium finishes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Formula 1 in Formula . ",
+      "It shows Sebastian_Vettel was the Formula at just 35 degrees and Kimi_R\u00e4ikk\u00f6nen was the warmest at 155 degrees . ",
+      "After Sebastian_Vettel , the next Formula 1 are Michael_Schumacher at 155 degrees , followed by Graham_Hill at 18 degrees , Lewis_Hamilton at 151 degrees and then Alain_Prost at 106 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "23",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "24",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Michael Schumacher",
+         "Number of podium finishes": "155"
+      },
+      {
+         "Month": "Lewis Hamilton",
+         "Number of podium finishes": "151"
+      },
+      {
+         "Month": "Sebastian Vettel",
+         "Number of podium finishes": "120"
+      },
+      {
+         "Month": "Alain Prost",
+         "Number of podium finishes": "106"
+      },
+      {
+         "Month": "Kimi R\u00e4ikk\u00f6nen",
+         "Number of podium finishes": "103"
+      },
+      {
+         "Month": "Fernando Alonso",
+         "Number of podium finishes": "97"
+      },
+      {
+         "Month": "Ayrton Senna",
+         "Number of podium finishes": "80"
+      },
+      {
+         "Month": "Rubens Barrichello",
+         "Number of podium finishes": "68"
+      },
+      {
+         "Month": "David Coulthard",
+         "Number of podium finishes": "62"
+      },
+      {
+         "Month": "Nelson Piquet",
+         "Number of podium finishes": "60"
+      },
+      {
+         "Month": "Nigel Mansell",
+         "Number of podium finishes": "59"
+      },
+      {
+         "Month": "Nico Rosberg",
+         "Number of podium finishes": "57"
+      },
+      {
+         "Month": "Niki Lauda",
+         "Number of podium finishes": "54"
+      },
+      {
+         "Month": "Mika H\u00e4kkinen",
+         "Number of podium finishes": "51"
+      },
+      {
+         "Month": "Jenson Button",
+         "Number of podium finishes": "50"
+      },
+      {
+         "Month": "Gerhard Berger",
+         "Number of podium finishes": "48"
+      },
+      {
+         "Month": "Valtteri Bottas",
+         "Number of podium finishes": "45"
+      },
+      {
+         "Month": "Carlos Reutemann",
+         "Number of podium finishes": "45"
+      },
+      {
+         "Month": "Jackie Stewart",
+         "Number of podium finishes": "43"
+      },
+      {
+         "Month": "Damon Hill",
+         "Number of podium finishes": "42"
+      },
+      {
+         "Month": "Mark Webber",
+         "Number of podium finishes": "42"
+      },
+      {
+         "Month": "Felipe Massa",
+         "Number of podium finishes": "41"
+      },
+      {
+         "Month": "Riccardo Patrese",
+         "Number of podium finishes": "37"
+      },
+      {
+         "Month": "Emerson Fittipaldi",
+         "Number of podium finishes": "35"
+      },
+      {
+         "Month": "Graham Hill",
+         "Number of podium finishes": "35"
+      }
+   ],
+   "gold": "The graph shows the top 50 Formula 1 drivers with the most podium finishes from 1950 to 2019 . Michael Schumacher had 155 podium finishes throughout his career .\n"
+}

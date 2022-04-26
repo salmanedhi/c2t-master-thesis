@@ -1,0 +1,127 @@
+{
+   "title": "British soccer teams with multiple FA Cup titles 2019",
+   "xAxis": "Club Name",
+   "yAxis": "Number of titles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the British soccer in British . ",
+      "It shows Chelsea_FC was the British at just 2 degrees and Aston_Villa was the warmest at 13 degrees . ",
+      "After Chelsea_FC , the next British soccer are Arsenal_FC at 13 degrees , followed by Sunderland_AFC at 18 degrees , Manchester_United at 12 degrees and then Tottenham_Hotspur at 8 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "17",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "22",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Club Name": "Arsenal FC",
+         "Number of titles": "13"
+      },
+      {
+         "Club Name": "Manchester United",
+         "Number of titles": "12"
+      },
+      {
+         "Club Name": "Chelsea FC",
+         "Number of titles": "8"
+      },
+      {
+         "Club Name": "Tottenham Hotspur",
+         "Number of titles": "8"
+      },
+      {
+         "Club Name": "Aston Villa",
+         "Number of titles": "7"
+      },
+      {
+         "Club Name": "Liverpool FC",
+         "Number of titles": "7"
+      },
+      {
+         "Club Name": "Blackburn Rovers",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Newcastle United",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Manchester City",
+         "Number of titles": "6"
+      },
+      {
+         "Club Name": "Everton FC",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "The Wanderers",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "West Bromwich Albion",
+         "Number of titles": "5"
+      },
+      {
+         "Club Name": "Bolton Wanderers",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Sheffield United",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Wolverhampton Wanderers",
+         "Number of titles": "4"
+      },
+      {
+         "Club Name": "Sheffield Wednesday",
+         "Number of titles": "3"
+      },
+      {
+         "Club Name": "West Ham United",
+         "Number of titles": "3"
+      },
+      {
+         "Club Name": "Bury FC",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Nottingham Forest",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Old Etonians",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Portsmouth FC",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Preston North End",
+         "Number of titles": "2"
+      },
+      {
+         "Club Name": "Sunderland AFC",
+         "Number of titles": "2"
+      }
+   ],
+   "gold": "Arsenal FC currently leads the way with 13 FA Cup titles to the club 's name , the most recent win having come in 2017 . Hot on Arsenal 's heels is Manchester United , whose 2016 victory marked their 12th victory in the oldest club competition in the world . A cup for the underdogs ? There is often talk about the `` Magic of the FA Cup `` and how the competition brings up surprising results , with lower league teams beating higher placed ones .\n"
+}

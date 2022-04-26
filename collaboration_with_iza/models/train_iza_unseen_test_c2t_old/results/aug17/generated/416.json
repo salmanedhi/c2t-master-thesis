@@ -1,0 +1,32 @@
+{
+   "title": "2016 U.S. election : Twitter followers of candidates in September 2016",
+   "xAxis": "Twitter account in brackets",
+   "yAxis": "Number of Twitter followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the 2016 U.S. election , expressed in millions three different countries . ",
+      "The Hillary_Clinton_(@HillaryClinton) and Donald_Trump_(@realDonaldTrump) have similar 2016 U.S. gaps at around 20 millions whilst Hillary_Clinton_(@HillaryClinton) is doing a little better at 9.3 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "3": "0",
+         "14": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Twitter account in brackets": "Donald Trump (@realDonaldTrump)",
+         "Number of Twitter followers in millions": "11.9"
+      },
+      {
+         "Twitter account in brackets": "Hillary Clinton (@HillaryClinton)",
+         "Number of Twitter followers in millions": "9.3"
+      }
+   ],
+   "gold": "This statistic shows the number of Twitter followers of the 2016 U.S. presidential candidates , as of September , 2016 . As of September , 2016 , Donald Trump had approximately 11.9 million Twitter followers .\n"
+}

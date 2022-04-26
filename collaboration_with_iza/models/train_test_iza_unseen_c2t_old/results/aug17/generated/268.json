@@ -1,0 +1,82 @@
+{
+   "title": "Value added to U.S. GDP , by industry 2018",
+   "xAxis": "Industry",
+   "yAxis": "Value added in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the value added to the Gross Domestic Product ( added ) of the U.S. of America as a billion of added in 2018 , industry . ",
+      "In 2018 , the Mining Industry added 321.1 billion of value to U.S. GDP added ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "12",
+         "7": "12"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Value added in billion U.S. dollars": "4239.3"
+      },
+      {
+         "Industry": "Professional and business services",
+         "Value added in billion U.S. dollars": "2576.2"
+      },
+      {
+         "Industry": "Government",
+         "Value added in billion U.S. dollars": "2504.7"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Value added in billion U.S. dollars": "2334.6"
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Value added in billion U.S. dollars": "1780.3"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Value added in billion U.S. dollars": "1234.0"
+      },
+      {
+         "Industry": "Retail trade",
+         "Value added in billion U.S. dollars": "1132.5"
+      },
+      {
+         "Industry": "Information",
+         "Value added in billion U.S. dollars": "1125.9"
+      },
+      {
+         "Industry": "Construction",
+         "Value added in billion U.S. dollars": "840.0"
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Value added in billion U.S. dollars": "839.1"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Value added in billion U.S. dollars": "648.0"
+      },
+      {
+         "Industry": "Other services except government",
+         "Value added in billion U.S. dollars": "434.7"
+      },
+      {
+         "Industry": "Mining",
+         "Value added in billion U.S. dollars": "321.1"
+      },
+      {
+         "Industry": "Utilities",
+         "Value added in billion U.S. dollars": "319.4"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Value added in billion U.S. dollars": "164.2"
+      }
+   ],
+   "gold": "In 2018 , the finance , real estate , insurance , rental , and leasing industry added the most value to the GDP to the United States in 2018 . In that year , this industry added 4.23 trillion U.S. dollars to the national GDP . Gross Domestic Product Gross domestic product is a measure of how much a country produces in a certain amount of time .\n"
+}

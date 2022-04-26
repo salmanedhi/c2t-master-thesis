@@ -1,0 +1,42 @@
+{
+   "title": "Tourism industry growth expectations according to travel experts 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic provides information on the Share of Tourism industry an active Tourism or travel in the experts as of 2018 , sorted 2018 . ",
+      "According to the source , 56 % of Slightly_decline who subscribe to online video or music subscriptions had a Tourism or travel as of 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "3",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Significantly decline",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Slightly decline",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "No change",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Slightly grow",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Significantly grow",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking travel industry representatives and stakeholders at the London WTM exhibition ( UK ) to what extent do they expect the tourism industry to grow or decline in 2018 . Of respondents , 56 percent believed that the tourism industry will grow slightly in 2018 .\n"
+}

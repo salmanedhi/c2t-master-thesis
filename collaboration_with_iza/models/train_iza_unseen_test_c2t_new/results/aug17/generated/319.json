@@ -1,0 +1,113 @@
+{
+   "title": "Most popular social media apps in the U.S. 2019 , by session length",
+   "xAxis": "Platform",
+   "yAxis": "Average session duration in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average of session made by Platform in a media apps . ",
+      "\\\\n From the chart we see that the Reddit Platform was the Most popular Platform in the apps with 10.85 session . ",
+      "The next Platform to make the most session was the Facebook_(main) Platform with 4.82 session closely followed by the Google+ Platform with 0.48 session ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "19": "0"
+      },
+      {
+         "10": "3",
+         "13": "3",
+         "19": "20",
+         "22": "20"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "TikTok",
+         "Average session duration in minutes": "10.85"
+      },
+      {
+         "Platform": "Pinterest",
+         "Average session duration in minutes": "5.06"
+      },
+      {
+         "Platform": "Reddit",
+         "Average session duration in minutes": "4.96"
+      },
+      {
+         "Platform": "Facebook (main)",
+         "Average session duration in minutes": "4.82"
+      },
+      {
+         "Platform": "Skype (main)",
+         "Average session duration in minutes": "4.76"
+      },
+      {
+         "Platform": "Tumblr",
+         "Average session duration in minutes": "4.04"
+      },
+      {
+         "Platform": "Twitter (main)",
+         "Average session duration in minutes": "3.53"
+      },
+      {
+         "Platform": "Instagram (main)",
+         "Average session duration in minutes": "2.95"
+      },
+      {
+         "Platform": "Telegram",
+         "Average session duration in minutes": "2.45"
+      },
+      {
+         "Platform": "Google Hangouts (main)",
+         "Average session duration in minutes": "2.4"
+      },
+      {
+         "Platform": "Kik",
+         "Average session duration in minutes": "2.24"
+      },
+      {
+         "Platform": "Discord - Chat for Games",
+         "Average session duration in minutes": "2.17"
+      },
+      {
+         "Platform": "TikTok (main)",
+         "Average session duration in minutes": "2.11"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Average session duration in minutes": "2.04"
+      },
+      {
+         "Platform": "Snapchat",
+         "Average session duration in minutes": "1.63"
+      },
+      {
+         "Platform": "Facebook Messenger",
+         "Average session duration in minutes": "1.48"
+      },
+      {
+         "Platform": "Messenger by Google",
+         "Average session duration in minutes": "1.28"
+      },
+      {
+         "Platform": "WeChat",
+         "Average session duration in minutes": "1.28"
+      },
+      {
+         "Platform": "LINE",
+         "Average session duration in minutes": "1.18"
+      },
+      {
+         "Platform": "GroupMe",
+         "Average session duration in minutes": "1.06"
+      },
+      {
+         "Platform": "Google+",
+         "Average session duration in minutes": "0.48"
+      }
+   ],
+   "gold": "This statistic gives information on the most popular social networking apps in the United States as of September 2019 , ranked by average session length . During the measured period , mobile Instagram users spent an average of 2.95 minutes on the social networking platform per session .\n"
+}

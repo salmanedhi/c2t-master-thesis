@@ -1,0 +1,105 @@
+{
+   "title": "Total area of Italy 2017 , by region",
+   "xAxis": "Month",
+   "yAxis": "Area in square kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2017 , the Italian region which registered the highest Total area in the country was Sicily . ",
+      "In the year considered , the Area square of kilometers born in this area reached 25832 infants . ",
+      "Overall over the last years , the birth area in Italy has constantly decreased ."
+   ],
+   "trends": [
+      {
+         "16": "0"
+      },
+      {
+         "17": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sicily",
+         "Area in square kilometers": "25832"
+      },
+      {
+         "Month": "Piedmont",
+         "Area in square kilometers": "25387"
+      },
+      {
+         "Month": "Sardinia",
+         "Area in square kilometers": "24100"
+      },
+      {
+         "Month": "Lombardy",
+         "Area in square kilometers": "23864"
+      },
+      {
+         "Month": "Tuscany",
+         "Area in square kilometers": "22987"
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Area in square kilometers": "22453"
+      },
+      {
+         "Month": "Apulia",
+         "Area in square kilometers": "19541"
+      },
+      {
+         "Month": "Veneto",
+         "Area in square kilometers": "18345"
+      },
+      {
+         "Month": "Lazio",
+         "Area in square kilometers": "17232"
+      },
+      {
+         "Month": "Calabria",
+         "Area in square kilometers": "15222"
+      },
+      {
+         "Month": "Campania",
+         "Area in square kilometers": "13671"
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Area in square kilometers": "13606"
+      },
+      {
+         "Month": "Abruzzo",
+         "Area in square kilometers": "10832"
+      },
+      {
+         "Month": "Basilicata",
+         "Area in square kilometers": "10073"
+      },
+      {
+         "Month": "Marche",
+         "Area in square kilometers": "9401"
+      },
+      {
+         "Month": "Umbria",
+         "Area in square kilometers": "8464"
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Area in square kilometers": "7924"
+      },
+      {
+         "Month": "Liguria",
+         "Area in square kilometers": "5416"
+      },
+      {
+         "Month": "Molise",
+         "Area in square kilometers": "4461"
+      },
+      {
+         "Month": "Aosta Valley",
+         "Area in square kilometers": "3261"
+      }
+   ],
+   "gold": "In 2017 , the largest among the 20 administrative regions of Italy was Sicily , which at same time was also the biggest island in the country . On the other hand , the smallest region of Belpaese was Aosta Valley , located in the north on the border with Switzerland and France . The island of volcanoes The symbol of Sicily , Mount Etna , is one of the most active volcanos on the planet .\n"
+}

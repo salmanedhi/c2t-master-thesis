@@ -1,0 +1,107 @@
+{
+   "title": "Most valuable sport team brands worldwide 2019",
+   "xAxis": "Sports Teams Worldwide",
+   "yAxis": "Brand value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Most valuable sport in the Brand of value . ",
+      "\\n The Most valuable Sports was New_York_Yankees , with only 2.9 value . ",
+      "Followed team Dallas_Cowboys , with 5.0 value , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "18"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sports Teams Worldwide": "Dallas Cowboys",
+         "Brand value in billion U.S. dollars": "5.0"
+      },
+      {
+         "Sports Teams Worldwide": "New York Yankees",
+         "Brand value in billion U.S. dollars": "4.6"
+      },
+      {
+         "Sports Teams Worldwide": "Real Madrid",
+         "Brand value in billion U.S. dollars": "4.25"
+      },
+      {
+         "Sports Teams Worldwide": "FC Barcelona",
+         "Brand value in billion U.S. dollars": "4.02"
+      },
+      {
+         "Sports Teams Worldwide": "New York Knicks",
+         "Brand value in billion U.S. dollars": "4.0"
+      },
+      {
+         "Sports Teams Worldwide": "Manchester United",
+         "Brand value in billion U.S. dollars": "3.81"
+      },
+      {
+         "Sports Teams Worldwide": "New England Patriots",
+         "Brand value in billion U.S. dollars": "3.8"
+      },
+      {
+         "Sports Teams Worldwide": "Los Angeles Lakers",
+         "Brand value in billion U.S. dollars": "3.7"
+      },
+      {
+         "Sports Teams Worldwide": "Golden State Warriors",
+         "Brand value in billion U.S. dollars": "3.5"
+      },
+      {
+         "Sports Teams Worldwide": "New York Giants",
+         "Brand value in billion U.S. dollars": "3.3"
+      },
+      {
+         "Sports Teams Worldwide": "Los Angeles Dodgers",
+         "Brand value in billion U.S. dollars": "3.3"
+      },
+      {
+         "Sports Teams Worldwide": "Boston Red Sox",
+         "Brand value in billion U.S. dollars": "3.2"
+      },
+      {
+         "Sports Teams Worldwide": "Los Angeles Rams",
+         "Brand value in billion U.S. dollars": "3.2"
+      },
+      {
+         "Sports Teams Worldwide": "Washington Redskins",
+         "Brand value in billion U.S. dollars": "3.1"
+      },
+      {
+         "Sports Teams Worldwide": "Chicago Cubs",
+         "Brand value in billion U.S. dollars": "3.1"
+      },
+      {
+         "Sports Teams Worldwide": "San Francisco 49ers",
+         "Brand value in billion U.S. dollars": "3.05"
+      },
+      {
+         "Sports Teams Worldwide": "Bayern Munich",
+         "Brand value in billion U.S. dollars": "3.02"
+      },
+      {
+         "Sports Teams Worldwide": "San Francisco Giants",
+         "Brand value in billion U.S. dollars": "3.0"
+      },
+      {
+         "Sports Teams Worldwide": "Chicago Bulls",
+         "Brand value in billion U.S. dollars": "2.9"
+      },
+      {
+         "Sports Teams Worldwide": "Chicago Bears",
+         "Brand value in billion U.S. dollars": "2.9"
+      }
+   ],
+   "gold": "The statistic shows a ranking of sports teams worldwide in 2019 according to brand value that was calculated by Forbes . The Dallas Cowboys are the most valuable sports team , with a value of five billion U.S. dollars .\n"
+}

@@ -1,0 +1,165 @@
+{
+   "title": "Average ticket price in the NFL by team 2019",
+   "xAxis": "Team",
+   "yAxis": "Ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Average ticket price in the NFL competirion . ",
+      "\\\\n From the chart we see that the Philadelphia_Eagles Team made the Average price by some margin , with only 71.08 . ",
+      "New_England_Patriots and Los_Angeles_Chargers made a respectable 127.04 and 165.77 price , with Buffalo_Bills and Green_Bay_Packers not far behind , at 71.08 and 122.68 respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4",
+         "20": "32"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "6": "1",
+         "8": "0",
+         "12": "32",
+         "14": "3",
+         "20": "32",
+         "22": "3"
+      }
+   ],
+   "data": [
+      {
+         "Team": "Los Angeles Chargers",
+         "Ticket price in U.S. dollars": "165.77"
+      },
+      {
+         "Team": "New England Patriots",
+         "Ticket price in U.S. dollars": "127.04"
+      },
+      {
+         "Team": "Chicago Bears",
+         "Ticket price in U.S. dollars": "124.51"
+      },
+      {
+         "Team": "Green Bay Packers",
+         "Ticket price in U.S. dollars": "122.68"
+      },
+      {
+         "Team": "Philadelphia Eagles",
+         "Ticket price in U.S. dollars": "119.59"
+      },
+      {
+         "Team": "Los Angeles Rams",
+         "Ticket price in U.S. dollars": "118.09"
+      },
+      {
+         "Team": "San Francisco 49ers",
+         "Ticket price in U.S. dollars": "116.98"
+      },
+      {
+         "Team": "New York Giants",
+         "Ticket price in U.S. dollars": "115.31"
+      },
+      {
+         "Team": "Houston Texans",
+         "Ticket price in U.S. dollars": "115.24"
+      },
+      {
+         "Team": "Seattle Seahawks",
+         "Ticket price in U.S. dollars": "111.79"
+      },
+      {
+         "Team": "Dallas Cowboys",
+         "Ticket price in U.S. dollars": "110.27"
+      },
+      {
+         "Team": "Denver Broncos",
+         "Ticket price in U.S. dollars": "105.14"
+      },
+      {
+         "Team": "Pittsburgh Steelers",
+         "Ticket price in U.S. dollars": "104.6"
+      },
+      {
+         "Team": "Atlanta Falcons",
+         "Ticket price in U.S. dollars": "104.08"
+      },
+      {
+         "Team": "Minnesota Vikings",
+         "Ticket price in U.S. dollars": "103.98"
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Ticket price in U.S. dollars": "103.59"
+      },
+      {
+         "Team": "Washington Redskins",
+         "Ticket price in U.S. dollars": "103.39"
+      },
+      {
+         "Team": "NFL Average",
+         "Ticket price in U.S. dollars": "102.35"
+      },
+      {
+         "Team": "Carolina Panthers",
+         "Ticket price in U.S. dollars": "99.77"
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Ticket price in U.S. dollars": "97.72"
+      },
+      {
+         "Team": "New York Jets",
+         "Ticket price in U.S. dollars": "94.16"
+      },
+      {
+         "Team": "Indianapolis Colts",
+         "Ticket price in U.S. dollars": "93.62"
+      },
+      {
+         "Team": "Detroit Lions",
+         "Ticket price in U.S. dollars": "92.88"
+      },
+      {
+         "Team": "Oakland Raiders",
+         "Ticket price in U.S. dollars": "87.78"
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Ticket price in U.S. dollars": "86.33"
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Ticket price in U.S. dollars": "84.83"
+      },
+      {
+         "Team": "Miami Dolphins",
+         "Ticket price in U.S. dollars": "84.51"
+      },
+      {
+         "Team": "Kansas City Chiefs",
+         "Ticket price in U.S. dollars": "83.4"
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Ticket price in U.S. dollars": "82.59"
+      },
+      {
+         "Team": "Jacksonville Jaguars",
+         "Ticket price in U.S. dollars": "81.54"
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Ticket price in U.S. dollars": "77.41"
+      },
+      {
+         "Team": "Cleveland Browns",
+         "Ticket price in U.S. dollars": "73.91"
+      },
+      {
+         "Team": "Buffalo Bills",
+         "Ticket price in U.S. dollars": "71.08"
+      }
+   ],
+   "gold": "As one of the most popular sports leagues in the world , the NFL attracts huge television audiences and thousands of fans flocks to the stadiums every week to see their favorite teams in action . However , fans of the Los Angeles Chargers had to fork out a league-high average of almost 166 U.S. dollars to see their team play live at the Dignity Health Sports Park . In contrast , the Cleveland Browns charged a comparatively low 71.08 U.S. dollars for an average home game .\n"
+}

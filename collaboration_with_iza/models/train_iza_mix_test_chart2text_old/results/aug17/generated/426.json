@@ -1,0 +1,35 @@
+{
+   "title": "YouTube : distribution of U.S. users 2015 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the distribution of U.S. in . ",
+      "\\\\n The biggest Sex , shown to be responsible for 51 percentage of cases , is genes . ",
+      "Female of Female accounts for 35 percentage of U.S. and Male is the Sex in nearly 25 percentage of cases ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Percentage of users": "51"
+      },
+      {
+         "Sex": "Female",
+         "Percentage of users": "49"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of YouTube users in the United States as of Fall 2015 , sorted by gender . During the survey period , 51 percent of YouTube users were male and 49 percent of users were female .\n"
+}

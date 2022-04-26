@@ -1,0 +1,1 @@
+this folder contains all the data with the initial string similarity work done. This contains a date issue which was later fixed in the other folders

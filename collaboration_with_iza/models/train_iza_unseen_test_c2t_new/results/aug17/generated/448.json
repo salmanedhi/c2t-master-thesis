@@ -1,0 +1,76 @@
+{
+   "title": "Highest grossing Hollywood movies India 2019",
+   "xAxis": "Movie Names",
+   "yAxis": "Box office gross in billion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Highest grossing Movie in the movies India was Movie The_Jungle_Book , who made 3.73 office . ",
+      "The most grossing Movie was Fast_&_Furious_7 , with just 0.82 office . ",
+      "In second place was Movie Avengers:_Infinity_War with 2.27 office ; third place went to Movie Avengers:_Endgame with 3.73 office ; fourth place went to Movie Jurassic_World:_Fallen_Kingdom with 0.82 office and fifth place went to Movie The_Lion_King , who was 1.58 office ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "14": "0"
+      },
+      {
+         "6": "4",
+         "10": "9"
+      },
+      {
+         "5": "1",
+         "7": "1",
+         "15": "0",
+         "17": "0",
+         "25": "9",
+         "27": "9",
+         "35": "3",
+         "39": "3"
+      }
+   ],
+   "data": [
+      {
+         "Movie Names": "Avengers: Endgame",
+         "Box office gross in billion Indian rupees": "3.73"
+      },
+      {
+         "Movie Names": "Avengers: Infinity War",
+         "Box office gross in billion Indian rupees": "2.27"
+      },
+      {
+         "Movie Names": "The Jungle Book",
+         "Box office gross in billion Indian rupees": "1.88"
+      },
+      {
+         "Movie Names": "The Lion King",
+         "Box office gross in billion Indian rupees": "1.58"
+      },
+      {
+         "Movie Names": "Fast & Furious 7",
+         "Box office gross in billion Indian rupees": "1.08"
+      },
+      {
+         "Movie Names": "Jurassic World",
+         "Box office gross in billion Indian rupees": "1.01"
+      },
+      {
+         "Movie Names": "Fast and Furious 8",
+         "Box office gross in billion Indian rupees": "0.86"
+      },
+      {
+         "Movie Names": "Spider-Man: Far From Home",
+         "Box office gross in billion Indian rupees": "0.86"
+      },
+      {
+         "Movie Names": "Captain Marvel",
+         "Box office gross in billion Indian rupees": "0.84"
+      },
+      {
+         "Movie Names": "Jurassic World: Fallen Kingdom",
+         "Box office gross in billion Indian rupees": "0.82"
+      }
+   ],
+   "gold": "Avengers : Endgame was all-time highest grossing Hollywood movie in India as of September 2019 . The top ten movies include genres that are loaded with action or are animated , similar to the trend in domestic movies . A dramatic consistency With an industry estimated to be valued at nearly 229 billion rupees by 2023 , it comes as no surprise that India 's film industry produced the largest number of movies .\n"
+}

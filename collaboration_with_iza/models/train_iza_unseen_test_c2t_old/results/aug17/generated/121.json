@@ -1,0 +1,68 @@
+{
+   "title": "Inflation rate of the main industrialized and emerging countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Inflation rate main industrialized the Inflation of rate they 've had . ",
+      "\\n It shows Russia has had 4.68 rate , Brazil has had the Inflation at 0.99 rate , India has had 3.44 , China has had 2.31 , USA has had the most rate at 4.68 and Japan has had 0.99 rate ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "8",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "8",
+         "40": "8"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Russia",
+         "Inflation rate compared to previous year": "4.68"
+      },
+      {
+         "Country": "Brazil",
+         "Inflation rate compared to previous year": "3.79"
+      },
+      {
+         "Country": "India",
+         "Inflation rate compared to previous year": "3.44"
+      },
+      {
+         "Country": "China",
+         "Inflation rate compared to previous year": "2.31"
+      },
+      {
+         "Country": "USA",
+         "Inflation rate compared to previous year": "1.82"
+      },
+      {
+         "Country": "United Kingdom",
+         "Inflation rate compared to previous year": "1.81"
+      },
+      {
+         "Country": "Germany",
+         "Inflation rate compared to previous year": "1.49"
+      },
+      {
+         "Country": "France",
+         "Inflation rate compared to previous year": "1.17"
+      },
+      {
+         "Country": "Japan",
+         "Inflation rate compared to previous year": "0.99"
+      }
+   ],
+   "gold": "This statistic shows the inflation rate of the main industrialized and emerging countries in 2019 . In 2019 , the inflation rate in China was estimated to amount to approximately 2.31 percent compared to the previous year .\n"
+}

@@ -1,0 +1,91 @@
+{
+   "title": "Number of internet users in the Middle East 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Number internet in Middle East . ",
+      "It shows Iraq was the Number at just 1.57 degrees and Jordan was the warmest at 62.7 degrees . ",
+      "After Iraq , the next Number internet are Iran at 62.7 degrees , followed by Bahrain at 18 degrees , Saudi_Arabia at 30.26 degrees and then United_Arab_Emirates at 9.39 degrees ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "2",
+         "8": "13",
+         "11": "4",
+         "16": "0"
+      },
+      {
+         "1": "2",
+         "8": "0",
+         "10": "0",
+         "15": "13",
+         "20": "1",
+         "22": "1",
+         "26": "3",
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Iran",
+         "Number of internet users in millions": "62.7"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Number of internet users in millions": "30.26"
+      },
+      {
+         "Country": "Iraq",
+         "Number of internet users in millions": "19.95"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Number of internet users in millions": "9.39"
+      },
+      {
+         "Country": "Jordan",
+         "Number of internet users in millions": "8.7"
+      },
+      {
+         "Country": "Yemen",
+         "Number of internet users in millions": "7.9"
+      },
+      {
+         "Country": "Israel",
+         "Number of internet users in millions": "7.0"
+      },
+      {
+         "Country": "Syria",
+         "Number of internet users in millions": "6.34"
+      },
+      {
+         "Country": "Lebanon",
+         "Number of internet users in millions": "5.55"
+      },
+      {
+         "Country": "Kuwait",
+         "Number of internet users in millions": "4.16"
+      },
+      {
+         "Country": "Oman",
+         "Number of internet users in millions": "4.01"
+      },
+      {
+         "Country": "Palestine (West Bank and Gaza)",
+         "Number of internet users in millions": "3.38"
+      },
+      {
+         "Country": "Qatar",
+         "Number of internet users in millions": "2.63"
+      },
+      {
+         "Country": "Bahrain",
+         "Number of internet users in millions": "1.57"
+      }
+   ],
+   "gold": "This statistic presents the number of internet users in selected Middle Eastern countries as of April 2019 . As of that month , Iran had 62.7 million internet users , followed by Saudi Arabia with 30.26 million internet users .\n"
+}

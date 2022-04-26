@@ -1,0 +1,64 @@
+{
+   "title": "Home birth rate : leading U.S. states 2018",
+   "xAxis": "State",
+   "yAxis": "Percentage of all births that were home births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The U.S. State with the highest Percentage of states 2018 in was Montana with 2.4 percentage births of chicken . ",
+      "The birth is also the second leading producer of eggs worldwide . ",
+      "Egg industry The global production volume of eggs reached 80 percentage metric tons in , up from 55.1 percentage metric tons in ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "State": "Montana",
+         "Percentage of all births that were home births": "2.4"
+      },
+      {
+         "State": "Wisconsin",
+         "Percentage of all births that were home births": "2.3"
+      },
+      {
+         "State": "Utah",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Idaho",
+         "Percentage of all births that were home births": "2.2"
+      },
+      {
+         "State": "Washington",
+         "Percentage of all births that were home births": "2.1"
+      },
+      {
+         "State": "Vermont",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Oregon",
+         "Percentage of all births that were home births": "2"
+      },
+      {
+         "State": "Alaska",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Maine",
+         "Percentage of all births that were home births": "1.9"
+      },
+      {
+         "State": "Pennsylvania",
+         "Percentage of all births that were home births": "1.9"
+      }
+   ],
+   "gold": "The states in the U.S. with the highest home birth rate in 2018 included Montana , Wisconsin and Utah . Montana had the highest home birth rate with 2.4 percent of all births occurring at home while 2.3 percent of all births in Wisconsin occurred at home . Home births Home births are selected by women in the U.S. for a variety of reasons that may include , a preference for less medical intervention , a location preference , cost , and a cultural or religious preference .\n"
+}

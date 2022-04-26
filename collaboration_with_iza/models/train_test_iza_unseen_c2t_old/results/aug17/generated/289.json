@@ -1,0 +1,71 @@
+{
+   "title": "IT functions outsourced worldwide 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the most popular 2017 methods for everyday worldwide according to internet users 2017 as of 2017 . ",
+      "When asked to think about they 2017 methods for their ten most recent worldwide , it was found that 32 % were made via Service_desk_/_help_desk . ",
+      "Software_application_development still accounted for the single largest Share of everyday worldwide with 64 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "4",
+         "24": "4"
+      },
+      {
+         "0": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Software application development",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Software application maintenance",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Data centers",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "IT infrastructure",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Service desk / help desk",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Networks",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Systems integration",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "HR BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT department",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "KPO",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "The statistic reveals the IT functions most commonly outsourced by IT leaders worldwide , as of 2017 . In 2017 , software application development was outsourced by 64 percent of respondents .\n"
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Average prices of Gleevec - selected countries 2013",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The United_States industry accounted for a 6214 % Price of U.S. Gleevec dollars in 2013 , which amounted to about 2,136 metric tons . ",
+      "United_States was therefore the largest Gleevec demanding industry Gleevec . ",
+      "Golds uses Gleevec is a transition metal that has bright yellow coloring ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {
+         "0": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Price in U.S. dollars": "6214"
+      },
+      {
+         "Country": "Switzerland",
+         "Price in U.S. dollars": "3633"
+      },
+      {
+         "Country": "Spain",
+         "Price in U.S. dollars": "3348"
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars": "3321"
+      },
+      {
+         "Country": "England",
+         "Price in U.S. dollars": "2697"
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars": "1141"
+      },
+      {
+         "Country": "New Zealand",
+         "Price in U.S. dollars": "989"
+      }
+   ],
+   "gold": "This statistic displays the average prices of Gleevec in 2013 in selected countries . In that year , the price of Gleevec averaged 3,321 U.S. dollars in the Netherlands . Gleevec is a prescription drug used to treat some types of cancers , including some types of leukemia .\n"
+}

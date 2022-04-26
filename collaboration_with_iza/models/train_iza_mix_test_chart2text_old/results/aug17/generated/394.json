@@ -1,0 +1,67 @@
+{
+   "title": "Average annual CEO compensation worldwide in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Compensation in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Average annual CEO in the Compensation of million . ",
+      "\\n The Average annual Country was Switzerland , with only 4.62 million . ",
+      "Followed compensation United_States , with 14.25 million , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "9"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Compensation in million U.S. dollars": "14.25"
+      },
+      {
+         "Country": "Switzerland",
+         "Compensation in million U.S. dollars": "8.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Compensation in million U.S. dollars": "8.24"
+      },
+      {
+         "Country": "United Kingdom",
+         "Compensation in million U.S. dollars": "7.95"
+      },
+      {
+         "Country": "Canada",
+         "Compensation in million U.S. dollars": "6.49"
+      },
+      {
+         "Country": "Germany",
+         "Compensation in million U.S. dollars": "6.17"
+      },
+      {
+         "Country": "Australia",
+         "Compensation in million U.S. dollars": "4.96"
+      },
+      {
+         "Country": "Spain",
+         "Compensation in million U.S. dollars": "4.89"
+      },
+      {
+         "Country": "Hong Kong",
+         "Compensation in million U.S. dollars": "4.88"
+      },
+      {
+         "Country": "Singapore",
+         "Compensation in million U.S. dollars": "4.62"
+      }
+   ],
+   "gold": "This statistic shows the average annual compensation of CEOs around the world in 2017 by country . In 2017 , the average annual income of CEOs in the United States was 14.25 million U.S. dollars which is about 5 million U.S. dollars more than the average annual income of CEOs in Switzerland .\n"
+}

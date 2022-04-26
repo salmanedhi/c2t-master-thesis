@@ -1,0 +1,92 @@
+{
+   "title": "Average player salary in the sports industry by league 2018/19",
+   "xAxis": "Sports League",
+   "yAxis": "Average player salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows Average professional Sports player salary by J-League in 2018/19 . ",
+      "Average salary paid to NBA player amounted to 7.77 million U.S. dollars for the 2018/19 season ."
+   ],
+   "trends": [
+      {
+         "9": "13"
+      },
+      {
+         "4": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sports League": "NBA",
+         "Average player salary in million U.S. dollars": "7.77"
+      },
+      {
+         "Sports League": "IPL",
+         "Average player salary in million U.S. dollars": "5.06"
+      },
+      {
+         "Sports League": "MLB",
+         "Average player salary in million U.S. dollars": "4.51"
+      },
+      {
+         "Sports League": "EPL",
+         "Average player salary in million U.S. dollars": "3.94"
+      },
+      {
+         "Sports League": "NFL",
+         "Average player salary in million U.S. dollars": "2.91"
+      },
+      {
+         "Sports League": "La Liga",
+         "Average player salary in million U.S. dollars": "2.9"
+      },
+      {
+         "Sports League": "NHL",
+         "Average player salary in million U.S. dollars": "2.78"
+      },
+      {
+         "Sports League": "Serie A",
+         "Average player salary in million U.S. dollars": "2.0"
+      },
+      {
+         "Sports League": "Bundesliga",
+         "Average player salary in million U.S. dollars": "1.84"
+      },
+      {
+         "Sports League": "Ligue 1",
+         "Average player salary in million U.S. dollars": "1.3"
+      },
+      {
+         "Sports League": "CSL",
+         "Average player salary in million U.S. dollars": "1.05"
+      },
+      {
+         "Sports League": "NPB",
+         "Average player salary in million U.S. dollars": "0.88"
+      },
+      {
+         "Sports League": "MLS",
+         "Average player salary in million U.S. dollars": "0.38"
+      },
+      {
+         "Sports League": "J-League",
+         "Average player salary in million U.S. dollars": "0.32"
+      },
+      {
+         "Sports League": "AFL",
+         "Average player salary in million U.S. dollars": "0.26"
+      },
+      {
+         "Sports League": "SPFL",
+         "Average player salary in million U.S. dollars": "0.23"
+      },
+      {
+         "Sports League": "CFL",
+         "Average player salary in million U.S. dollars": "0.09"
+      }
+   ],
+   "gold": "With each player taking home a handsome 7.77 million U.S. dollars every year , the NBA is the professional sports league with the highest player wages worldwide . In second place is the Indian Premier League , an annual cricket competition contested each year between eight franchises representing eight different Indian cities . Big money in the NBA Although the wages that players in the NBA take home are astronomical , the average annual salaries vary greatly from team to team .\n"
+}

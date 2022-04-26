@@ -1,0 +1,72 @@
+{
+   "title": "Renewable energy capacity - country ranking 2018",
+   "xAxis": "Country",
+   "yAxis": "Capacity in gigawatts",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This chart shows the Renewable energy capacity country the Capacity of gigawatts they 've had . ",
+      "\\n It shows China has had 695.87 gigawatts , U.S. has had the Renewable at 50.5 gigawatts , Brazil has had 135.67 , Germany has had 120.01 , India has had the most gigawatts at 695.87 and France has had 50.5 gigawatts ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0",
+         "9": "1",
+         "15": "9",
+         "18": "2",
+         "21": "2",
+         "23": "3",
+         "26": "3",
+         "28": "4",
+         "35": "0",
+         "37": "9",
+         "40": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Capacity in gigawatts": "695.87"
+      },
+      {
+         "Country": "U.S.",
+         "Capacity in gigawatts": "245.25"
+      },
+      {
+         "Country": "Brazil",
+         "Capacity in gigawatts": "135.67"
+      },
+      {
+         "Country": "Germany",
+         "Capacity in gigawatts": "120.01"
+      },
+      {
+         "Country": "India",
+         "Capacity in gigawatts": "117.92"
+      },
+      {
+         "Country": "Canada",
+         "Capacity in gigawatts": "99.04"
+      },
+      {
+         "Country": "Japan",
+         "Capacity in gigawatts": "90.15"
+      },
+      {
+         "Country": "Italy",
+         "Capacity in gigawatts": "53.29"
+      },
+      {
+         "Country": "Russia",
+         "Capacity in gigawatts": "52.22"
+      },
+      {
+         "Country": "France",
+         "Capacity in gigawatts": "50.5"
+      }
+   ],
+   "gold": "The leading countries for installed renewable energy in 2018 were China , the U.S. , and Brazil . China was leading in renewable energy installations with a capacity of around 696 gigawatts . The U.S. , in second place , had a capacity of around 245 gigawatts .\n"
+}

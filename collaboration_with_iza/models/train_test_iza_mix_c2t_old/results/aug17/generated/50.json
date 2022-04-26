@@ -1,0 +1,61 @@
+{
+   "title": "Marathons ranked by number of finishers worldwide 2016",
+   "xAxis": "Cities",
+   "yAxis": "Number of finishers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the top ten Cities number finishers the worldwide 2016 Number in the by between 2016 and . ",
+      "In 2005 , Hurricane Katrina resulted in approximately 51388 million finishers Number ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Cities": "New York City U.S.",
+         "Number of finishers": "51388"
+      },
+      {
+         "Cities": "Paris FRA",
+         "Number of finishers": "41708"
+      },
+      {
+         "Cities": "Chicago U.S.",
+         "Number of finishers": "40608"
+      },
+      {
+         "Cities": "London GBR",
+         "Number of finishers": "39072"
+      },
+      {
+         "Cities": "Tokyo JPN",
+         "Number of finishers": "36150"
+      },
+      {
+         "Cities": "Berlin GER",
+         "Number of finishers": "36054"
+      },
+      {
+         "Cities": "Osaka JPN",
+         "Number of finishers": "29431"
+      },
+      {
+         "Cities": "Boston MA",
+         "Number of finishers": "26606"
+      },
+      {
+         "Cities": "Yokohama JPN",
+         "Number of finishers": "22594"
+      },
+      {
+         "Cities": "Los Angeles U.S.",
+         "Number of finishers": "20617"
+      }
+   ],
+   "gold": "The statistic shows a ranking of marathons worldwide by the total number of finishers in 2016 . In 2016 , the New York Marathon had a total of 51,388 finishers .\n"
+}

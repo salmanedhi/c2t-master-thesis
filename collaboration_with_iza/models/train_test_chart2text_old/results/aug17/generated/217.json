@@ -1,0 +1,65 @@
+{
+   "title": "Biggest equipment rental companies worldwide - by revenue 2015",
+   "xAxis": "Equipment rental companies",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the rental for player salaries ( companies worldwide ) of Biggest from the Nikken_Corp_(Japan) Equipment to the United_Rentals_(U.S) Equipment . ",
+      "In the United_Rentals_(U.S) Equipment , the rental for the companies worldwide of Biggest amounted to 5090 million euros ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "20": "0"
+      },
+      {
+         "2": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Equipment rental companies": "United Rentals (U.S)",
+         "Revenue in million euros": "5090"
+      },
+      {
+         "Equipment rental companies": "Ashtead Group (UK)",
+         "Revenue in million euros": "3226"
+      },
+      {
+         "Equipment rental companies": "Aggreko (UK)",
+         "Revenue in million euros": "2116"
+      },
+      {
+         "Equipment rental companies": "Aktio Corp (Japan)",
+         "Revenue in million euros": "1500"
+      },
+      {
+         "Equipment rental companies": "Algeco Scotsman (U.S.)",
+         "Revenue in million euros": "1416"
+      },
+      {
+         "Equipment rental companies": "Hertz Equipment Rental Corp (U.S.)",
+         "Revenue in million euros": "1312"
+      },
+      {
+         "Equipment rental companies": "Kanamoto (Japan)",
+         "Revenue in million euros": "1012"
+      },
+      {
+         "Equipment rental companies": "Loxam (France)",
+         "Revenue in million euros": "838"
+      },
+      {
+         "Equipment rental companies": "Nishio Rent All Co (Japan)",
+         "Revenue in million euros": "834"
+      },
+      {
+         "Equipment rental companies": "Nikken Corp (Japan)",
+         "Revenue in million euros": "756"
+      }
+   ],
+   "gold": "The statistic shows the largest equipment rental companies worldwide in 2015 , based on revenue . With rental revenue of about 1.3 billion euros , New Jersey-based Hertz Equipment Rental Corporation was ranked sixth that year .\n"
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Luxury destinations with the largest growth in travel worldwide 2016",
+   "xAxis": "Country",
+   "yAxis": "Year-over-year travel growth",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The chart shows the Luxury destinations largest in the Year-over-year of travel . ",
+      "\\n The Luxury destinations Country was Iceland , with only 23 travel . ",
+      "Followed growth Kenya , with 59 travel , slightly higher than the other ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "9"
+      },
+      {
+         "2": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Kenya",
+         "Year-over-year travel growth": "59"
+      },
+      {
+         "Country": "Iceland",
+         "Year-over-year travel growth": "56"
+      },
+      {
+         "Country": "Saint Martin",
+         "Year-over-year travel growth": "39"
+      },
+      {
+         "Country": "China",
+         "Year-over-year travel growth": "35"
+      },
+      {
+         "Country": "Ecuador",
+         "Year-over-year travel growth": "34"
+      },
+      {
+         "Country": "Japan",
+         "Year-over-year travel growth": "32"
+      },
+      {
+         "Country": "South Africa",
+         "Year-over-year travel growth": "28"
+      },
+      {
+         "Country": "Tanzania",
+         "Year-over-year travel growth": "27"
+      },
+      {
+         "Country": "Croatia",
+         "Year-over-year travel growth": "25"
+      },
+      {
+         "Country": "Jamaica",
+         "Year-over-year travel growth": "23"
+      }
+   ],
+   "gold": "This statistic shows the luxury travel destinations with the largest growth in travel worldwide as of August 2016 . Luxury travel to Kenya grew by 59 percent in 2016 compared with the previous year . In 2017 , the Caribbean was the leading international destination for a spring vacation according to U.S. respondents .\n"
+}
